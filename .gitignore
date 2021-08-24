@@ -1,0 +1,11 @@
+cd/*.bin
+cd/orig/*
+cd/working/*
+
+*.xdelta3
+
+*.log
+
+error.txt
+format/*
+ins/*
