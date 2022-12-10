@@ -1,0 +1,487 @@
+system_area {
+  file "Ancient-Roman-Disc-1.sys"
+}
+
+volume {
+  system_id []
+  volume_id [SLPS_01108]
+  volume_set_id []
+  publisher_id []
+  preparer_id []
+  application_id []
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 0000-00-00 00:00:00.00 0
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file SLPS_011.08
+  file DISK1.DAT
+  dir DATA0001 {
+    file LMAP0001.TMS
+    file LMAP0002.TMS
+    file LMAP0003.TMS
+    file LMAP0004.TMS
+    file LMAP0005.TMS
+    file LMAP0006.TMS
+    file LMAP0007.TMS
+    file LMAP0008.TMS
+    file LMAP0009.TMS
+    file LMAP0010.TMS
+    file LMAP0011.TMS
+    file LMAP0012.TMS
+    file LMAP0013.TMS
+    file LMAP0014.TMS
+    file LMAP0015.TMS
+    file LMAP0016.TMS
+    file LMAP0017.TMS
+    file LMAP0018.TMS
+    file LMAP0019.TMS
+    file LMAP0020.TMS
+    file LMAP0021.TMS
+  }
+  dir C01 {
+    file C028.DAT
+    file C029.DAT
+    file C030.DAT
+    file C031.DAT
+    file C032.DAT
+    file C033.DAT
+    file C034.DAT
+    file C035.DAT
+    file C036.DAT
+    file C037.DAT
+    file C038.DAT
+    file C039.DAT
+    file C040.DAT
+    file C041.DAT
+    file C042.DAT
+    file C043.DAT
+    file C044.DAT
+    file C045.DAT
+    file C046.DAT
+    file C047.DAT
+    file C048.DAT
+    file C049.DAT
+    file C050.DAT
+    file C051.DAT
+    file C052.DAT
+    file C053.DAT
+    file C054.DAT
+    file C055.DAT
+  }
+  dir C02 {
+    file C056.DAT
+    file C057.DAT
+    file C058.DAT
+    file C059.DAT
+    file C060.DAT
+    file C061.DAT
+    file C062.DAT
+    file C063.DAT
+    file C064.DAT
+    file C065.DAT
+    file C066.DAT
+    file C067.DAT
+    file C068.DAT
+    file C069.DAT
+    file C070.DAT
+    file C071.DAT
+    file C072.DAT
+    file C073.DAT
+    file C074.DAT
+    file C075.DAT
+    file C076.DAT
+    file C077.DAT
+    file C078.DAT
+    file C079.DAT
+    file C080.DAT
+    file C081.DAT
+    file C082.DAT
+    file C083.DAT
+  }
+  dir C03 {
+    file C084.DAT
+    file C085.DAT
+    file C086.DAT
+    file C087.DAT
+    file C088.DAT
+    file C089.DAT
+    file C090.DAT
+    file C091.DAT
+    file C092.DAT
+    file C093.DAT
+    file C094.DAT
+    file C095.DAT
+    file C096.DAT
+    file C097.DAT
+    file C098.DAT
+    file C099.DAT
+    file C100.DAT
+    file C101.DAT
+    file C102.DAT
+    file C103.DAT
+    file C104.DAT
+    file C105.DAT
+    file C106.DAT
+    file C107.DAT
+    file C108.DAT
+    file C109.DAT
+    file C110.DAT
+    file C111.DAT
+  }
+  dir C04 {
+    file C112.DAT
+    file C113.DAT
+    file C114.DAT
+    file C115.DAT
+    file C116.DAT
+    file C117.DAT
+    file C118.DAT
+    file C119.DAT
+    file C120.DAT
+    file C121.DAT
+    file C122.DAT
+    file C123.DAT
+    file C124.DAT
+    file C125.DAT
+    file C126.DAT
+    file C127.DAT
+    file C128.DAT
+    file C129.DAT
+    file C130.DAT
+    file C131.DAT
+    file C132.DAT
+    file C133.DAT
+    file C134.DAT
+    file C135.DAT
+  }
+  dir C05 {
+    file FACETIM.DAT
+    file FIN.TIM
+    file OVER.TIM
+    file ROGO.TIM
+    file TITLE.TIM
+  }
+  dir DATA0000 {
+    file BARK.MDL
+    file BAROA.MDL
+    file BASE.FBS
+    file FARA.MDL
+    file KAI.MDL
+    file MCROAD.MDL
+    file MINA.MDL
+    file MISIRIA.MDL
+    file SALINA.MDL
+    file STAFF0.TMS
+    file STAFF1.TMS
+    file STAFF2.TMS
+    file STAFF3.TMS
+    file STAFF4.TMS
+    file STAFF5.TMS
+    file STAFFMSK.TMS
+  }
+  dir C00 {
+    file C000.DAT
+    file C001.DAT
+    file C002.DAT
+    file C003.DAT
+    file C004.DAT
+    file C005.DAT
+    file C006.DAT
+    file C007.DAT
+    file C008.DAT
+    file C009.DAT
+    file C010.DAT
+    file C011.DAT
+    file C012.DAT
+    file C013.DAT
+    file C014.DAT
+    file C015.DAT
+    file C016.DAT
+    file C017.DAT
+    file C018.DAT
+    file C019.DAT
+    file C020.DAT
+    file C021.DAT
+    file C022.DAT
+    file C023.DAT
+    file C024.DAT
+    file C025.DAT
+    file C026.DAT
+    file C027.DAT
+  }
+  dir DATA0002 {
+    file EFCT0000.MDL
+    file EFCT0001.MDL
+  }
+  dir DATA0003 {
+    file BG00.MDL
+    file BG00.TMS
+    file BG01.MDL
+    file BG01.TMS
+    file BG02.MDL
+    file BG02.TMS
+    file BG03.MDL
+    file BG03.TMS
+    file BG04.MDL
+    file BG04.TMS
+    file BG05.MDL
+    file BG05.TMS
+    file BG06.MDL
+    file BG06.TMS
+    file BG07.MDL
+    file BG07.TMS
+    file BG08.MDL
+    file BG08.TMS
+    file BG09.MDL
+    file BG09.TMS
+    file BG10.MDL
+    file BG10.TMS
+    file BG11.MDL
+    file BG11.TMS
+  }
+  dir DATA0004 {
+    file SYSTEM00.DAT
+    file SYSTEM10.DAT
+    file SYSTEM11.DAT
+    file SYSTEM12.DAT
+  }
+  dir DATA0005 {
+    file MAGIC00.MDL
+    file MAGIC01.MDL
+    file MAGIC02.MDL
+    file MAGIC03.MDL
+    file MAGIC04.MDL
+    file MAGIC05.MDL
+    file MAGIC06.MDL
+    file MAGIC07.MDL
+    file MAGIC08.MDL
+    file MAGIC09.MDL
+    file MAGIC10.MDL
+    file MAGIC11.MDL
+    file MAGIC12.MDL
+    file MAGIC13.MDL
+    file MAGIC14.MDL
+    file MAGIC15.MDL
+    file MAGIC16.MDL
+    file MAGIC17.MDL
+    file MAGIC18.MDL
+    file MAGIC19.MDL
+    file MAGIC20.MDL
+    file MAGIC21.MDL
+    file MAGIC22.MDL
+    file MAGIC23.MDL
+    file MAGIC24.MDL
+    file MAGIC25.MDL
+    file MAGIC26.MDL
+    file MAGIC27.MDL
+  }
+  dir DATA0006 {
+    file MAGIC001.MDL
+    file MAGIC002.MDL
+    file MAGIC003.MDL
+    file MAGIC004.MDL
+    file MAGIC005.MDL
+    file MAGIC006.MDL
+    file MAGIC007.MDL
+    file MAGIC008.MDL
+    file MAGIC009.MDL
+    file MAGIC28.MDL
+    file MAGIC29.MDL
+    file MAGIC30.MDL
+    file MAGIC31.MDL
+    file MAGIC32.MDL
+    file MAGIC33.MDL
+    file MAGIC34.MDL
+    file MAGIC35.MDL
+    file MAGIC36.MDL
+    file MAGIC37.MDL
+    file MAGIC38.MDL
+    file MAGIC39.MDL
+    file MAGIC40.MDL
+  }
+  dir DATA0007 {
+    file ENEMY00.MDL
+    file ENEMY01.MDL
+    file ENEMY02.MDL
+    file ENEMY03.MDL
+    file ENEMY04.MDL
+    file ENEMY05.MDL
+    file ENEMY06.MDL
+    file ENEMY07.MDL
+    file ENEMY08.MDL
+    file ENEMY09.MDL
+    file ENEMY10.MDL
+    file ENEMY11.MDL
+    file ENEMY12.MDL
+    file ENEMY13.MDL
+    file ENEMY14.MDL
+    file ENEMY15.MDL
+    file ENEMY16.MDL
+    file ENEMY17.MDL
+    file ENEMY18.MDL
+    file ENEMY19.MDL
+    file ENEMY20.MDL
+    file ENEMY21.MDL
+    file ENEMY22.MDL
+    file ENEMY23.MDL
+    file ENEMY24.MDL
+    file ENEMY25.MDL
+    file ENEMY26.MDL
+    file ENEMY27.MDL
+  }
+  dir DATA0008 {
+    file ENEMY28.MDL
+    file ENEMY29.MDL
+    file ENEMY30.MDL
+    file ENEMY31.MDL
+    file ENEMY32.MDL
+    file ENEMY33.MDL
+    file ENEMY34.MDL
+    file ENEMY35.MDL
+    file ENEMY36.MDL
+    file ENEMY37.MDL
+    file ENEMY38.MDL
+    file ENEMY39.MDL
+    file ENEMY40.MDL
+    file ENEMY41.MDL
+    file ENEMY42.MDL
+    file ENEMY43.MDL
+    file ENEMY44.MDL
+    file ENEMY45.MDL
+    file ENEMY46.MDL
+    file ENEMY47.MDL
+    file ENEMY48.MDL
+    file ENEMY49.MDL
+    file ENEMY50.MDL
+    file ENEMY51.MDL
+    file ENEMY52.MDL
+    file ENEMY53.MDL
+    file ENEMY54.MDL
+    file ENEMY55.MDL
+  }
+  dir DATA0009 {
+    file ENEMY56.MDL
+    file ENEMY57.MDL
+    file ENEMY58.MDL
+    file ENEMY59.MDL
+    file ENEMY60.MDL
+    file ENEMY61.MDL
+    file ENEMY62.MDL
+    file ENEMY63.MDL
+    file ENEMY64.MDL
+    file ENEMY65.MDL
+    file ENEMY66.MDL
+    file ENEMY67.MDL
+    file ENEMY68.MDL
+    file ENEMY69.MDL
+    file ENEMY70.MDL
+    file ENEMY71.MDL
+    file ENEMY72.MDL
+  }
+  dir M0 {
+    file M000.SEQ
+    file M001.SEQ
+    file M002.SEQ
+    file M003.SEQ
+    file M004.SEQ
+    file M005.SEQ
+    file M006.SEQ
+    file M007.SEQ
+    file M008.SEQ
+    file M009.SEQ
+    file M010.SEQ
+    file M011.SEQ
+    file M012.SEQ
+    file M013.SEQ
+    file M014.SEQ
+    file M015.SEQ
+    file M016.SEQ
+    file M017.SEQ
+    file M018.SEQ
+    file M019.SEQ
+  }
+  dir M1 {
+    file M020.SEQ
+    file M021.SEQ
+    file M022.SEQ
+    file M023.SEQ
+    file M024.SEQ
+    file M025.SEQ
+    file M026.SEQ
+    file M027.SEQ
+    file M028.SEQ
+    file M029.SEQ
+    file M030.SEQ
+    file M031.SEQ
+    file M032.SEQ
+    file SND0.VB
+    file SND0.VH
+    file SND1.VB
+    file SND1.VH
+    file SND2.VB
+    file SND2.VH
+  }
+  dir S00 {
+    file S000.DAT
+    file S001.DAT
+    file S002.DAT
+    file S003.DAT
+    file S004.DAT
+    file S005.DAT
+    file S006.DAT
+    file S007.DAT
+    file S008.DAT
+    file S009.DAT
+    file S010.DAT
+    file S011.DAT
+    file S012.DAT
+    file S013.DAT
+    file S014.DAT
+    file S015.DAT
+    file S016.DAT
+    file S017.DAT
+    file S018.DAT
+    file S019.DAT
+    file S020.DAT
+    file S021.DAT
+    file S022.DAT
+    file S023.DAT
+    file S024.DAT
+    file S025.DAT
+  }
+  dir XAEFF {
+    xafile BTLEFF.XA
+    xafile BTLKOE.XA
+    xafile MGCEFF.XA
+    xafile NOREFF.XA
+    xafile SHOP.XA
+  }
+  dir ZA0 {
+    xafile AGUA.STR
+    xafile ELFPIXY1.STR
+    xafile HEKIGA.STR
+    xafile HONE.STR
+    xafile MEETPIXY.STR
+    xafile OLDD.STR
+    xafile PENDANT.STR
+    xafile PIXYKAI0.STR
+    xafile PROG.STR
+    xafile SLFAR.STR
+  }
+  dir ZA1 {
+    xafile DOUKUTU.STR
+    xafile MADOU.STR
+    xafile SENSHI.STR
+    xafile SIP.STR
+    xafile WATER.STR
+    xafile INTRO.STR
+  }
+  file PSX_DMY.DAT
+}
