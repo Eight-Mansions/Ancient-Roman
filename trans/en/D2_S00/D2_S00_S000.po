@@ -1,0 +1,1313 @@
+﻿#: 00000209
+msgid ""
+"カイ：ワァ！"
+msgstr "Kai: Wahh!"
+
+#: 0000022D
+msgid ""
+"ジョナサン：ヒャ！"
+msgstr "Jonathan: Hya!"
+
+#: 0000025F
+msgid ""
+"あいたたた・・・"
+msgstr "Ouch, that hurt..."
+
+#: 0000028F
+msgid ""
+"カイ：何だ、じっちゃん、どうしたの？"
+msgstr "Kai: What happened, old man?"
+
+#: 000002DB
+msgid ""
+"ジョナサン：どうしたのはこっちのセリフじゃよ。"
+msgstr "Jonathan: That's what I wanted to ask!"
+
+#: 0000030D
+msgid ""
+"集合の号令が出たんじゃよ。"
+msgstr "They ordered us to gather."
+
+#: 0000032B
+msgid ""
+"出てこないんでおこしにきたら"
+msgstr "I came to wake you up since you didn't show,"
+
+#: 0000034B
+msgid ""
+"お前、うなされているじゃないか。"
+msgstr "but you were having a nightmare, weren't you?"
+
+#: 0000038B
+msgid ""
+"カイ：うなされていた？　ぼくが？"
+msgstr "Kai: A nightmare? Me?"
+
+#: 000003D5
+msgid ""
+"ジョナサン：そうじゃ。"
+msgstr "Jonathan: Yes."
+
+#: 000003F2
+msgid ""
+"苦しそうに、かあさん・・・かあさん、とな。"
+msgstr "You were in such pain, shouting \"mom... mom...\""
+
+#: 00000450
+msgid ""
+"カイ：まさか・・・"
+msgstr "Kai: That can't be..."
+
+#: 00000466
+msgid ""
+"だってぼくは母親の顔さえ知らないんだよ。"
+msgstr "I mean, I don't even know what my mom looked like."
+
+#: 000004B4
+msgid ""
+"ジョナサン：不びんじゃのう。こんな時代に生まれたばかりに・・・"
+msgstr "Jonathan: How sad that you had to be born in a time like this..."
+
+#: 0000051D
+msgid ""
+"カイ：やめてくれないか！いまさら、へんな同情するのは。"
+msgstr "Kai: Just stop, okay! I don't want your sympathy."
+
+#: 00000589
+msgid ""
+"カイ：あ・・・ご、ごめん。つい・・・"
+msgstr "Kai: Ah... sorry, I didn't mean to..."
+
+#: 000005CA
+msgid ""
+"ジョナサン：・・・いやいや。お前に親の話は禁物じゃった。"
+msgstr ""
+"Jonathan: No, no, I'm sorry. I know you don't want to hear about your "
+"parents..."
+
+#: 0000061F
+msgid ""
+"ジョナサン：そ、そうじゃ。集合の号令がかかっとるんじゃよ。"
+msgstr "Jonathan: O-oh right. They're calling us outside."
+
+#: 0000065D
+msgid ""
+"お前をよびにきたんじゃった。"
+msgstr "I came here to get you."
+
+#: 0000067D
+msgid ""
+"さぁ、行くぞ。"
+msgstr "Let's get going, okay?"
+
+#: 000006B3
+msgid ""
+"カイ：うん、ありがとう。"
+msgstr "Kai: Okay, thanks."
+
+#: 000006CF
+msgid ""
+"でも今ごろ、何の用だろう？"
+msgstr "But what's even the point?"
+
+#: 0000079A
+msgid ""
+"ジョナサン：あ、・・・いや・・・"
+msgstr "Jonathan: Ah... Well..."
+
+#: 000007BE
+msgid ""
+"まぁ、じじぃをそんなにせかすな。"
+msgstr "Anyway, it'll take me a second to get moving again."
+
+#: 000007E2
+msgid ""
+"すぐに行くから、先に行ってなさい。"
+msgstr "I'll be right with you, so go on ahead."
+
+#: 0000082F
+msgid ""
+"カイ：あぁ、じゃあ先に行っているからね。"
+msgstr "Kai: Sure, I'll go on ahead then."
+
+#: 000008A3
+msgid ""
+"ジョナサン：・・・かわいそうに。母親の顔も知らんとはな。"
+msgstr "Jonathan: ...how pitiful. He doesn't even know his mother's face."
+
+#: 000008DF
+msgid ""
+"おまけに得体の知れん化け物に、"
+msgstr "And to be forced to dig a hole over and over<$00>"
+
+#: 00000901
+msgid ""
+"毎日毎日、穴をほらされて・・・"
+msgstr "by some unknown monsters..."
+
+#: 00000923
+msgid ""
+"わしらはいったい、どうなってしまうのかのぅ？"
+msgstr "Just what is going to become of us?"
+
+#: 00000A85
+msgid ""
+"カイは盗み聞きしたことを仲間たちに話した"
+msgstr "Kai told what he overheard to everyone else."
+
+#: 00000AE3
+msgid ""
+"カイ：・・・・というわけなんだ。"
+msgstr "Kai: ...and that's that."
+
+#: 00000B31
+msgid ""
+"青年：どうすんだよ。死ぬのヤだよぉ。"
+msgstr "Young Man: What are we going to do? I don't want to die!!"
+
+#: 00000B72
+msgid ""
+"男：こんなところで殺されるなんて、おれの人生、何だったんだ！"
+msgstr "Man: I can't die here, then my life will have been pointless!"
+
+#: 00000BCB
+msgid ""
+"ジョナサン：みんな、しばらくわしの話を聞いてくれんか。"
+msgstr "Jonathan: Everyone, please listen to me!"
+
+#: 00000C13
+msgid ""
+"じつはわしは、昔ハインローグ城の召し使いじゃった。"
+msgstr "I used to be a servant at the Heinrouge Castle."
+
+#: 00000C49
+msgid ""
+"わしはそこでいろいろな人間を見てきた。"
+msgstr "I saw many people from different walks of life there."
+
+#: 00000C73
+msgid ""
+"みんなから「英雄」とよばれ、したわれた人にも会ったことがある。"
+msgstr "I even saw people called \"heroes\" who were idolized by everyone."
+
+#: 00000CB5
+msgid ""
+"そういう人物はみな、人とはちがう「気」のような物をもっておる。"
+msgstr "Those people held a special \"spirit\" power."
+
+#: 00000CF7
+msgid ""
+"そう、まるで不可能を可能にするような強い「気」じゃ。"
+msgstr "Using this \"spirit,\" they could make the impossible become possible."
+
+#: 00000D36
+msgid ""
+"一同：・・・・・"
+msgstr "Everyone: ..."
+
+#: 00000D51
+msgid ""
+"ジョナサン：カイよ、わしはお前から"
+msgstr "Jonathan: Kai, I can feel that"
+
+#: 00000D77
+msgid ""
+"それと同じ「気」を感じるんじゃが。"
+msgstr "same \"spirit\" power coming from you as well."
+
+#: 00000DC9
+msgid ""
+"カイ：え！ ぼ、ぼく！？"
+msgstr "Kai: W-what? Me!?"
+
+#: 00000E04
+msgid ""
+"青年：じいさんよぉ、ぼけたんじゃねぇか？"
+msgstr "Young man: Are you going senile, old man?"
+
+#: 00000E44
+msgid ""
+"ジョナサン：だまらっしゃい！！"
+msgstr "Jonathan: Shut up!!"
+
+#: 00000EAF
+msgid ""
+"ジョナサン：カイよ。せめてお前だけでもここをぬけ出すんじゃ。"
+msgstr ""
+"Jonathan: Kai. I need you to escape from here, even if you have to leave us "
+"behind."
+
+#: 00000EEF
+msgid ""
+"おまえはきっとこれから、この国にとってかかせない人物になるはずじゃ。"
+msgstr ""
+"You're going to be very important for this country's future, I'm sure of it."
+
+#: 00000F50
+msgid ""
+"カイ：じっちゃん・・・"
+msgstr "Kai: Old man..."
+
+#: 00000F6A
+msgid ""
+"ぼく１人逃げるなんてそんなことできるわけないだろ？"
+msgstr "Do you really think I could leave you all behind and run?"
+
+#: 00000FB9
+msgid ""
+"ジョナサン：おい先短いじじいのたのみじゃ。聞いてはくれんか。"
+msgstr ""
+"Jonathan: It's a request from a man not long for this world. Please consider "
+"it."
+
+#: 00001012
+msgid ""
+"カイ：出来るわけないよ！そんなこと・・・。"
+msgstr "Kai: No! I could never do something so horrible..."
+
+#: 00001040
+msgid ""
+"ジョナサン：カイ・・・。"
+msgstr "Jonathan: Kai..."
+
+#: 0000106A
+msgid ""
+"カイ：どうしてもと言うんならみんなでいっしょに逃げるんだ！！"
+msgstr "Kai: I don't care what you say, we're all escaping here together!"
+
+#: 000010B5
+msgid ""
+"ジョナサン：何！？"
+msgstr "Jonathan: WHAT!?"
+
+#: 000010ED
+msgid ""
+"ばかもん！！"
+msgstr "DON'T BE RIDICULOUS!!"
+
+#: 000010FD
+msgid ""
+"みんなで逃げれば化け物どもに気づかれてしまうわ！！"
+msgstr "We'll be caught if we all try to run away!"
+
+#: 00001155
+msgid ""
+"カイ：だから、みんなであいつらを倒すんだ！"
+msgstr "Kai: That's why we'll beat them up instead!"
+
+#: 000011A8
+msgid ""
+"みんなだっていつまでも"
+msgstr "Do you guys really want to"
+
+#: 000011C2
+msgid ""
+"こんなところにいたくはないだろ！？"
+msgstr "just stay here for the rest of your lives!?"
+
+#: 000011FF
+msgid ""
+"今から力を合わせてここから脱出するんだ！！"
+msgstr "We can escape here if we all work together!"
+
+#: 00001244
+msgid ""
+"いくら化け物といったって"
+msgstr "No matter how many monsters there are,"
+
+#: 00001260
+msgid ""
+"ぼくらの手におえないほど強くはないはずさ！！"
+msgstr "we can beat them if we all band together!"
+
+#: 000012B2
+msgid ""
+"大男：おもしろそうじゃねぇか！"
+msgstr "Big man: I like the sound of that plan!"
+
+#: 000012DF
+msgid ""
+"おれもやるぜ！！"
+msgstr "Count me in!!"
+
+#: 0000130C
+msgid ""
+"カイ：みんな武器になるものを集めるんだ！！"
+msgstr "Kai: Everyone, gather anything you can use as a weapon!"
+
+#: 000013B6
+msgid ""
+"ジョナサン：カイよ。"
+msgstr "Jonathan: Kai."
+
+#: 000013CE
+msgid ""
+"もしわしらが脱出に失ぱいしたらお前だけでも逃げろ。"
+msgstr "If we fail, run away on your own."
+
+#: 00001404
+msgid ""
+"わしのさいごのたのみじゃ。"
+msgstr "It's my final wish."
+
+#: 00001439
+msgid ""
+"カイ：・・・・・"
+msgstr "Kai: ..."
+
+#: 0000144D
+msgid ""
+"だいじょうぶだよ、きっと。"
+msgstr "We'll make it out okay, I'm sure of it."
+
+#: 000014F4
+msgid ""
+"大男：おい、カイとかいったな。"
+msgstr "Big Man: Yo, your name's Kai, right?"
+
+#: 00001516
+msgid ""
+"お前の武器をもってきてやったぜ。"
+msgstr "I brought a weapon for you."
+
+#: 0000153A
+msgid ""
+"これをしっかり装備しろよ。でないと役に立たないぞ。"
+msgstr "Make sure to equip it, otherwise what's the point?"
+
+#: 000015B1
+msgid ""
+"ナイフを手に入れた。"
+msgstr "You got a Knife."
+
+#: 000015C9
+msgid ""
+"ごみばこのふたを手に入れた。"
+msgstr "You got a Trash Can Lid."
+
+#: 00001620
+msgid ""
+"カイ：あ、ありがとう。君のなまえは？"
+msgstr "Kai: T-thanks. What's your name?"
+
+#: 0000164B
+msgid ""
+"大男：おれはバーク。バーク＝シュワルツだ。"
+msgstr "Big man: The name's Burke. Burke Schwartz."
+
+#: 000016B9
+msgid ""
+"娘：わ、私も仲間に・・・入れてください。"
+msgstr "Girl: I-I want... to help too..."
+
+#: 000016F3
+msgid ""
+"カイ：え？"
+msgstr "Kai: Huh?"
+
+#: 0000172A
+msgid ""
+"娘：わ、私もいっしょに・・・"
+msgstr "Girl: I want to..."
+
+#: 0000174A
+msgid ""
+"戦います！！"
+msgstr "fight with you!!"
+
+#: 00001792
+msgid ""
+"バーク：おいおい、おじょうちゃん。"
+msgstr "Burke: Now hold on there little missy."
+
+#: 000017CE
+msgid ""
+"ジョナサン：ミシリア！！いきなり何を言い出すんじゃ！！"
+msgstr ""
+
+#: 00001808
+msgid ""
+"お前なんぞがいっしょに行っても足手まといになるだけじゃ！！"
+msgstr ""
+
+#: 0000185F
+msgid ""
+"ミシリア：だって・・・私もう、決めちゃったもん・・・"
+msgstr ""
+
+#: 000018A5
+msgid ""
+"ジョナサン：いかん！いかん！いかん！いかん！いかん！いかん！"
+msgstr ""
+
+#: 000018E5
+msgid ""
+"だめじゃぞ！！＿わしゃぜったいに許さんぞ！！！"
+msgstr ""
+
+#: 00001930
+msgid ""
+"ミシリア：おじいちゃんはだまってて！！"
+msgstr ""
+
+#: 0000197A
+msgid ""
+"ミシリア：カイさん、わたしもいっしょに戦わせて！！"
+msgstr ""
+
+#: 000019C7
+msgid ""
+"カイ：バーク・・・"
+msgstr ""
+
+#: 000019E8
+msgid ""
+"バーク：カイよぉ。このおじょうさん、言ってもムダみたいだぜ。"
+msgstr ""
+
+#: 00001A4A
+msgid ""
+"カイ：わかったよ。君もいっしょに・・・。"
+msgstr ""
+
+#: 00001A76
+msgid ""
+"でも、ムリしちゃだめだよ。"
+msgstr ""
+
+#: 00001ABB
+msgid ""
+"ミシリア：は、はい！"
+msgstr ""
+
+#: 00001AEC
+msgid ""
+"ジョナサン：すまんのぉ、カイよ。"
+msgstr ""
+
+#: 00001B10
+msgid ""
+"カイ：だいじょうぶだよ・・・たぶん"
+msgstr ""
+
+#: 00001B4F
+msgid ""
+"ミシリア：おじいちゃん、待っててね。それじゃ行きましょ、カイさん。"
+msgstr ""
+
+#: 00001B95
+msgid ""
+"カイ：カイでいいよ、ミシリア。"
+msgstr ""
+
+#: 00001BB7
+msgid ""
+"ミシリア：あ、そうだ。これ。"
+msgstr ""
+
+#: 00001C17
+msgid ""
+"カイは服とクスリを手に入れた。"
+msgstr ""
+
+#: 00001C39
+msgid ""
+"ヘカルを憶えた。"
+msgstr ""
+
+#: 00001C4D
+msgid ""
+"ミシリア：ヘカの実は、使うと体力が回復するわ。"
+msgstr ""
+
+#: 00001C7F
+msgid ""
+"マカの実は、魔力が回復するの。"
+msgstr ""
+
+#: 00001CA1
+msgid ""
+"で、ヘカルの呪文をとなえると、魔力は減るけど、体力が回復するの。"
+msgstr ""
+
+#: 00001D17
+msgid ""
+"バーク：それじゃ、行くぜ！！"
+msgstr ""
+
+#: 00001E43
+msgid ""
+"おや？今まで気がつかなかったけど、このタルは動かした形跡があるみたいだぞ。"
+msgstr ""
+
+#: 00001FBF
+msgid ""
+"ゆかに穴が開いている！"
+msgstr ""
+
+#: 00001FE7
+msgid ""
+"こ、これは！？"
+msgstr ""
+
+#: 00001FF9
+msgid ""
+"これがどこかに続いているっていうぬけ穴か！？"
+msgstr ""
+
+#: 00002029
+msgid ""
+"・・・よしっ！入ってみよう！"
+msgstr ""
+
+#: 000020B0
+msgid ""
+"おや？今まで気がつかなかったけど、このタルは動かした形跡があるぞ。"
+msgstr ""
+
+#: 0000222D
+msgid ""
+"ゆかに穴が開いている！"
+msgstr ""
+
+#: 00002255
+msgid ""
+"こ、これは！？"
+msgstr ""
+
+#: 00002267
+msgid ""
+"これがどこかに続いているっていうぬけ穴か！？"
+msgstr ""
+
+#: 00002297
+msgid ""
+"・・・よしっ！入ってみよう！"
+msgstr ""
+
+#: 00002302
+msgid ""
+"ナイフを手に入れた。"
+msgstr ""
+
+#: 00002347
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 00044992
+msgid ""
+"ヘカの実を手に入れた。"
+msgstr ""
+
+#: 000449D9
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 00044A26
+msgid ""
+"娘：カイさん・・・でしたよね？"
+msgstr ""
+
+#: 00044A64
+msgid ""
+"カイさんはご存知ですか？"
+msgstr ""
+
+#: 00044A80
+msgid ""
+"ある宿舎の中から、どこかへ続いているっていうぬけ穴のお話。"
+msgstr ""
+
+#: 00044ABE
+msgid ""
+"その穴が本当にあって、外に通じていれば・・・"
+msgstr ""
+
+#: 00044AEE
+msgid ""
+"こんな所から抜け出せるのに・・・"
+msgstr ""
+
+#: 00044B35
+msgid ""
+"娘：いったいどこにあるのかしら。そのぬけ穴・・・"
+msgstr ""
+
+#: 00089128
+msgid ""
+"ヘカの実を手に入れた。"
+msgstr ""
+
+#: 0008916F
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 000CD973
+msgid ""
+msgstr ""
+
+#: 000CDD19
+msgid ""
+"ここは村人の食堂だ"
+msgstr "This is the village dining hall."
+
+#: 000CDD59
+msgid ""
+"ここは兵士たちの食堂だ"
+msgstr "This is the knight's dining hall."
+
+#: 000CDD8C
+msgid ""
+"ここは管理塔だ"
+msgstr "This is the watch tower."
+
+#: 000CDE22
+msgid ""
+"カギがかかっている。"
+msgstr "It's locked."
+
+#: 000CDE72
+msgid ""
+"カギがかかっている？"
+msgstr ""
+
+#: 000CDE98
+msgid ""
+"マクロード：こういうのは立て付けが悪いだけですよ。"
+msgstr ""
+
+#: 000CDEDC
+msgid ""
+"ガン！"
+msgstr ""
+
+#: 000CDEF4
+msgid ""
+"マクロード：ほら、開きました。"
+msgstr ""
+
+#: 000CDF36
+msgid ""
+"カギがかかっている。"
+msgstr ""
+
+#: 000CDF6D
+msgid ""
+"男：おい、聞いたか？"
+msgstr ""
+
+#: 000CDF85
+msgid ""
+"きのう、鉱山の中で、あやしく光る玉が見つかったんだってよ。"
+msgstr ""
+
+#: 000CDFC3
+msgid ""
+"黒々と光る、ぶきみな玉だって話だゼ？"
+msgstr ""
+
+#: 000CE009
+msgid ""
+"男：どうしたってんだろうねぇ・・・"
+msgstr ""
+
+#: 000CE02F
+msgid ""
+"あの管理長がおれたちに休めとは、どういう風のふきまわしだ？"
+msgstr ""
+
+#: 000CE0B1
+msgid ""
+"男：やってやる！やってやる！やってやる！"
+msgstr ""
+
+#: 000CE0DD
+msgid ""
+"うわああああああああああ！"
+msgstr ""
+
+#: 000CE11F
+msgid ""
+"青年：うぅぅ・・・・なんだよ、今ごろ・・・"
+msgstr ""
+
+#: 000CE14D
+msgid ""
+"おかげで気分が悪くてしょうがないよ。"
+msgstr ""
+
+#: 000CE193
+msgid ""
+"青年：うれしいねえ、あしたはゆっくりと昼寝することにきめたぜ。"
+msgstr ""
+
+#: 000CE1D5
+msgid ""
+"なっ、おまえもそうするんだろ？"
+msgstr ""
+
+#: 000CE23B
+msgid ""
+"青年：俺は絶対、こんな所から出てやるんだ！"
+msgstr ""
+
+#: 000CE28D
+msgid ""
+"男：みんなを集めていったい何をするつもりなんじゃ？"
+msgstr ""
+
+#: 000CE2C3
+msgid ""
+"まっ、まさか・・・みんなまとめて殺されるんじゃあ・・・。"
+msgstr ""
+
+#: 000CE31D
+msgid ""
+"男：ありがたや、ありがたや・・・。"
+msgstr ""
+
+#: 000CE343
+msgid ""
+"あの管理長も、意外といいところあるでねえの。"
+msgstr ""
+
+#: 000CE3B7
+msgid ""
+"ジョナサン：ここはわしらに任せて、管理長を倒すのじゃ！"
+msgstr ""
+
+#: 000CE3FF
+msgid ""
+"ミシリア：でも・・・"
+msgstr ""
+
+#: 000CE425
+msgid ""
+"ジョナサン：なに、この黄色い服を着ておると、まける気がせんわい！"
+msgstr ""
+
+#: 000CE469
+msgid ""
+"ほあちゃあああああああ！"
+msgstr ""
+
+#: 000CE493
+msgid ""
+"カイ：・・・本当に大丈夫かな・・・"
+msgstr ""
+
+#: 000CE4DD
+msgid ""
+"娘：この北にヘルゲストっていう森があるそうよ。"
+msgstr ""
+
+#: 000CE50F
+msgid ""
+"なんでも、とても危険な森だっていう話よ・・・。"
+msgstr ""
+
+#: 000CE55F
+msgid ""
+"娘：ゆっくりと休めるのはうれしいけど・・・"
+msgstr ""
+
+#: 000CE58D
+msgid ""
+"アイツがあんなこと言うなんて、正直いって、気味が悪いわ。"
+msgstr ""
+
+#: 000CE602
+msgid ""
+"魔物：人間ごときが逆らいやがって！"
+msgstr ""
+
+#: 000CE628
+msgid ""
+"みなごろしにしてやる！"
+msgstr ""
+
+#: 000CE65A
+msgid ""
+"魔物：やれるものならやってみろ！"
+msgstr ""
+
+#: 000CE696
+msgid ""
+"魔物：ええい！しぶといじじいだ！"
+msgstr ""
+
+#: 000CE702
+msgid ""
+"管理長：いいか！おまえら、よくきけ！！"
+msgstr ""
+
+#: 000CE79A
+msgid ""
+"あしたの仕事は無しだ！！"
+msgstr ""
+
+#: 000CE7B6
+msgid ""
+"指示があるまで、小屋の中でおとなしくしていろ！"
+msgstr ""
+
+#: 000CE7E8
+msgid ""
+"わかったな！！"
+msgstr ""
+
+#: 0011213B
+msgid ""
+"食どうの女：あんた、おなかがすいてるの？"
+msgstr "Dining hall girl: Are you hungry?"
+
+#: 00112167
+msgid ""
+"でも、この食どうによぶんな食料なんかありゃしないわよ。"
+msgstr "We don't have much spare food sadly."
+
+#: 001121A1
+msgid ""
+"宿舎で寝てるのが一番よ。"
+msgstr "The best thing is to just sleep and try not to think about it."
+
+#: 001121DA
+msgid ""
+"食どうの女：これであいつらをがつーんとやっちゃって。"
+msgstr "Dining hall girl: Well, this'll be my way of sticking it to them."
+
+#: 00112220
+msgid ""
+"おたまを手に入れた。"
+msgstr "You got an Egg."
+
+#: 00112262
+msgid ""
+"食どうの女：そうそうこれはやつらのものなんだけど"
+msgstr "Dining hall girl: This is theirs, but"
+
+#: 00112296
+msgid ""
+"これを食べてげんきつけて！！"
+msgstr "eat this and feel better, okay?"
+
+#: 001122C4
+msgid ""
+"タフまんを手にいれた。"
+msgstr "You got a Tough Man."
+
+#: 001122FE
+msgid ""
+"食どうの女：がつーんとやっちゃって！！"
+msgstr "Dining Hall Girl: Go stick it to them!!"
+
+#: 00156974
+msgid ""
+"大男：むしゃむしゃむしゃ・・・"
+msgstr "Big Man: *nom nom nom*..."
+
+#: 00156996
+msgid ""
+"！"
+msgstr "!"
+
+#: 001569EB
+msgid ""
+"あ、お、お前は・・・"
+msgstr "Y-y-you didn't see..."
+
+#: 00156A03
+msgid ""
+"いいかっ！今、見たことを誰にも言うなよ！"
+msgstr "You didn't see anything! Don't tell anyone, okay!?"
+
+#: 00156A72
+msgid ""
+"男のやくそくだぞ！"
+msgstr "It's a promise between men!"
+
+#: 00156AA8
+msgid ""
+"大男：ここはあいつらの食堂だからな。"
+msgstr "Big Man: This is their cafeteria after all."
+
+#: 00156AD0
+msgid ""
+"本当は、ここの物を食っちゃいけないんだが、"
+msgstr "We're not allowed to eat here,"
+
+#: 00156AFE
+msgid ""
+"２人のひみつだぞ！"
+msgstr "but it'll be our little secret!"
+
+#: 00156B46
+msgid ""
+"ヘカの実を手に入れた。"
+msgstr ""
+
+#: 00156B8D
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 0019B145
+msgid ""
+"ジョナサン：あたたたっ。"
+msgstr "Jonathan: Owowowow..."
+
+#: 0019B161
+msgid ""
+"少しはがんばろうかと思ったが、腰を痛めてしもうた。"
+msgstr ""
+"I thought I'd push myself a little bit, but my back started hurting right "
+"away."
+
+#: 0019B197
+msgid ""
+"年寄りの冷や水じゃわい。"
+msgstr "It's hard to admit I'm getting old..."
+
+#: 0019B1D7
+msgid ""
+"マカの実を手に入れた。"
+msgstr ""
+
+#: 0019B21E
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 001DF92E
+msgid ""
+"大きな鉄のオノを見つけた。"
+msgstr ""
+
+#: 001DF95A
+msgid ""
+"だが、ひどくサビていて使い物にはならなかった。"
+msgstr ""
+
+#: 001DF9CA
+msgid ""
+"オノはサビがひどくて使えそうにない。"
+msgstr ""
+
+#: 001DFA2D
+msgid ""
+"が、えの部分は使えそうだ。"
+msgstr ""
+
+#: 001DFA4B
+msgid ""
+"バトンとして使えそうだ。バトンを手に入れた。"
+msgstr ""
+
+#: 001DFAB0
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 001DFAEC
+msgid ""
+"もう使えるところは何もない。"
+msgstr ""
+
+#: 001DFB59
+msgid ""
+"ナイフを手に入れた。"
+msgstr ""
+
+#: 001DFB9E
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 001DFBCF
+msgid ""
+"使えそうな物は見あたらない。"
+msgstr ""
+
+#: 00224142
+msgid ""
+"レザーハットを手に入れた。"
+msgstr ""
+
+#: 0022418D
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 002241DA
+msgid ""
+"ナイフを手に入れた。"
+msgstr ""
+
+#: 0022421F
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 00224266
+msgid ""
+"使えそうな物は見あたらない。"
+msgstr ""
+
+#: 002242FA
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 0022432B
+msgid ""
+"使えそうな物は見あたらない"
+msgstr ""
+
+#: 002AD16F
+msgid ""
+"カギがかかっている"
+msgstr ""
+
+#: 002AD1A9
+msgid ""
+"ヘカの実を手に入れた。"
+msgstr ""
+
+#: 002AD1F0
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 002AD24A
+msgid ""
+"５ガメを手に入れた。"
+msgstr ""
+
+#: 002F194B
+msgid ""
+"カイ：ん？ここはどこだ？"
+msgstr ""
+
+#: 002F1975
+msgid ""
+"たなの向こうから管理長の話が聞こえてきた"
+msgstr ""
+
+#: 002F19AF
+msgid ""
+"管理長：・・・きのう、鉱山で発見されたあの玉・・・"
+msgstr ""
+
+#: 002F19E5
+msgid ""
+"おそらく、「暗黒の気のカタマリ」ではないかと。"
+msgstr ""
+
+#: 002F1A17
+msgid ""
+"あの玉に宿る力を集めれば、この国が魔王様のものになる日が"
+msgstr ""
+
+#: 002F1A53
+msgid ""
+"また一歩ちかづくというもの。"
+msgstr ""
+
+#: 002F1A73
+msgid ""
+"これで、魔王様のロミアス様に対する信頼も、あの女以上に・・・"
+msgstr ""
+
+#: 002F1AB3
+msgid ""
+"ロミアス：よけいなことは考えるな。"
+msgstr ""
+
+#: 002F1AD9
+msgid ""
+"私にこびているヒマがあるのなら、早くその玉をほり出すことだ。"
+msgstr ""
+
+#: 002F1B19
+msgid ""
+"管理長：この村の連中はどうしましょう？"
+msgstr ""
+
+#: 002F1B43
+msgid ""
+"ロミアス：・・・まかせる。"
+msgstr ""
+
+#: 002F1B61
+msgid ""
+"管理長：まあ、もう用のない連中ですからね。みなごろしにしましょう。"
+msgstr ""
+
+#: 002F1BA7
+msgid ""
+"ロミアス：好きにしろ・・・今の貴様の仕事は、穴をほらせることだ。"
+msgstr ""
+
+#: 002F1BEB
+msgid ""
+"その結果だけは出せ。それ以上は望まん。"
+msgstr ""
+
+#: 002F1C15
+msgid ""
+"管理長：ハッ！では、さっそくじゅんびにとりかかります！！"
+msgstr ""
+
+#: 002F1C91
+msgid ""
+"・・・けっ！お高くとまりやがって・・・"
+msgstr ""
+
+#: 002F1CD4
+msgid ""
+"カイ：なっ、何てことだ！早くみんなに知らせないと・・・"
+msgstr ""
+
+#: 002F1DF9
+msgid ""
+"管理長：くっ・・・。お前たち、生きてここを出られるとおもうなよ。"
+msgstr ""
+
+#: 002F1E6E
+msgid ""
+"バーク：へへっ、それはこっちのセリフだぜ！！"
+msgstr ""
+
+#: 002F1ECF
+msgid ""
+"カイ：今すぐ仲間といっしょにここから立ち去るんだ。"
+msgstr ""
+
+#: 002F1F05
+msgid ""
+"そうすれば見逃してやる。"
+msgstr ""
+
+#: 002F1F41
+msgid ""
+"管理長：ふざけるんじゃねぇ！！立ち去るのはお前らを殺してからだ！！"
+msgstr ""
+
+#: 002F1FC9
+msgid ""
+"カイ：仕方ない。行くぞ！！"
+msgstr ""
+
+#: 002F2066
+msgid ""
+"管理長：くっ、くそ・・・お前ら・・・"
+msgstr ""
+
+#: 002F20B4
+msgid ""
+"バーク：ごりん終、だな。"
+msgstr ""
+
+#: 002F20D0
+msgid ""
+"ミシリア：・・・おじいちゃん、だいじょうぶかな・・・。"
+msgstr ""
+
+#: 002F2129
+msgid ""
+"カイ：急いでもどろう！みんなが心ぱいだ！！"
+msgstr ""
+
+#: 00336121
+msgid ""
+"ミシリア：・・・・・"
+msgstr "Michelia: ..."
+
+#: 00336158
+msgid ""
+"バーク：さぁ・・・てと、これからどうするんだ、カイ？"
+msgstr "Burke: Well then, what do we do now, Kai?"
+
+#: 003361C0
+msgid ""
+"カイ：とりあえずメルーの町へ向かってみよう。"
+msgstr "Kai: Well, let's try going to Mell for now."
+
+#: 0033620A
+msgid ""
+"バーク：おっし！　おれも行くぜ。文句はねぇよな。"
+msgstr "Burke: Alright! I'm coming along, whether you want me to or not."
+
+#: 0033623E
+msgid ""
+"だいいち、メルーの町がどこにあるか知らないだろう。"
+msgstr "Though we don't even know where Mell is, do we?"
+
+#: 00336274
+msgid ""
+"案内役がいるんじゃねぇか？"
+msgstr "We should probably try finding a guide."
+
+#: 003362BA
+msgid ""
+"カイ：・・・・・・・"
+msgstr "Kai: ..."
+
+#: 003362D2
+msgid ""
+"カイ：ミシリア・・・君はどうする？"
+msgstr "Kai: Michelia... What about you?"
+
+#: 00336306
+msgid ""
+"ミシリア：・・・・・・・・・・"
+msgstr ""
+
+#: 00336328
+msgid ""
+"ミシリア：・・・・・・・・・・"
+msgstr ""
+
+#: 0033634A
+msgid ""
+"カイ：行こうよ、ミシリア。ぼくらといっしょに。"
+msgstr "Kai: Come with us, Michelia. We'll do this together."
+
+#: 0033639B
+msgid ""
+"ミシリア：・・・・・・・・・・"
+msgstr "Michelia: ..."
+
+#: 003363E2
+msgid ""
+"ミシリア：・・・・・うん・・・・"
+msgstr "Michelia: ...okay..."
+
+#: 00336439
+msgid ""
+"ミシリア：さよなら・・・おじいちゃん・・・"
+msgstr "Michelia: Goodbye... John..."
+
+#: 0037A9AF
+msgid ""
+"カイ：はやくみんなに知らせないと・・・"
+msgstr "Kai: I need to let everyone know right away...!"
+
+#: 0037AA2B
+msgid ""
+"マカの実を手に入れた。"
+msgstr ""
+
+#: 0037AA72
+msgid ""
+"これ以上もてない。"
+msgstr ""
+
+#: 0037AAD1
+msgid ""
+"からっぽだった。"
+msgstr ""
+

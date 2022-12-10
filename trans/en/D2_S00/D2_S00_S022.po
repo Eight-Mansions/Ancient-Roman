@@ -1,0 +1,485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-02 01:48+0000\n"
+"PO-Revision-Date: 2022-06-02 01:48+0000\n"
+"Last-Translator: Snowy Aria <dontremember@dontremember.com>\n"
+"Language-Team: English <http://romhackingis.moe/projects/ancient-roman/"
+"d2_s00_s022/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8.1\n"
+
+#: 00044994
+msgid ""
+"神官：道中、くれぐれもご無事で・・・"
+msgstr ""
+
+#: 000449D9
+msgid ""
+"神官：よくいらっしゃいました。精霊の神に導かれし者達よ。"
+msgstr ""
+
+#: 00044A23
+msgid ""
+"カイ：あなたは・・・？"
+msgstr ""
+
+#: 00044A4B
+msgid ""
+"神官：精霊の神に仕え、ここを守るもの。"
+msgstr ""
+
+#: 00044A75
+msgid ""
+"神のお告げにより、あなた方をおむかえするように待っておりました。"
+msgstr ""
+
+#: 00044AC7
+msgid ""
+"ミシリア：それじゃ、私達がここに来た理由も・・・？"
+msgstr ""
+
+#: 00044B0B
+msgid ""
+"神官：もちろん、存じております。"
+msgstr ""
+
+#: 00044B3D
+msgid ""
+"バロア：じゃあ、話が早い。さっさと終わらせちまおう。"
+msgstr ""
+
+#: 00044B83
+msgid ""
+"神官：この奥に特別な部屋が用意してあります。"
+msgstr ""
+
+#: 00044BB3
+msgid ""
+"そこで神の試練を受けて下さい。全てはそれからです。"
+msgstr ""
+
+#: 00044C0D
+msgid ""
+"神官：見事、試練をこえられたようですね。"
+msgstr ""
+
+#: 00044C47
+msgid ""
+"ミーナ：はい。"
+msgstr ""
+
+#: 00044C67
+msgid ""
+"神官：それは良かった。"
+msgstr ""
+
+#: 00044C81
+msgid ""
+"・・・それでは、あなた方に伝えなくてはならないことがあります。"
+msgstr ""
+
+#: 00044CD1
+msgid ""
+"カイ：・・・？"
+msgstr ""
+
+#: 00044CF1
+msgid ""
+"神官：今、世界をおびやかしている者の正体。"
+msgstr ""
+
+#: 00044D1F
+msgid ""
+"異形の病気をまき散らし、魔物をひきいてしんりゃくを行う者。"
+msgstr ""
+
+#: 00044D5D
+msgid ""
+"その者の名を、ギゼフィルと言う。"
+msgstr ""
+
+#: 00044D8F
+msgid ""
+"カイ：ギゼフィル？それが僕らのてきなのですか？"
+msgstr ""
+
+#: 00044DCF
+msgid ""
+"神官：全ての魔物のちょうてんにくんりんし、"
+msgstr ""
+
+#: 00044DFD
+msgid ""
+"この世のあらゆる物をうばいつくす。"
+msgstr ""
+
+#: 00044E23
+msgid ""
+"恐ろしき闇の支配者です。"
+msgstr ""
+
+#: 00044E4D
+msgid ""
+"カイ：・・・ギゼフィルを倒せば、全て解決するんだね。"
+msgstr ""
+
+#: 00044E93
+msgid ""
+"バーク：よし、それなら早く神様の力を集めようぜ。"
+msgstr ""
+
+#: 00044EC7
+msgid ""
+"集めて、倒して、スカッとしようぜ。"
+msgstr ""
+
+#: 00044EFB
+msgid ""
+"カイ：そうだね。よし、がんばろう！"
+msgstr ""
+
+#: 0008912F
+msgid ""
+"ミーナ：待って下さい。このまま帰るわけにはいきません。"
+msgstr ""
+
+#: 00089186
+msgid ""
+"神官：お気をつけて。"
+msgstr ""
+
+#: 000CDA07
+msgid ""
+"力を求める者、その自らのふさわしきを示せ。"
+msgstr ""
+
+#: 000CDA76
+msgid ""
+"カイ：く・・・体が動かない。"
+msgstr ""
+
+#: 000CDAA4
+msgid ""
+"バロア：あーあ、みっともねえよな。大の男が指一本動かせないんだぜ。"
+msgstr ""
+
+#: 000CDAF8
+msgid ""
+"ミシリア：今はミーナさんだけが動けるみたいですね。"
+msgstr ""
+
+#: 000CDB2E
+msgid ""
+"サリナ：とにかく頼むよ。神様、マジらしいからさ。"
+msgstr ""
+
+#: 000CDB62
+msgid ""
+"バーク：心配ねえよ。ミーナは俺の次に強いからよ。"
+msgstr ""
+
+#: 000CDBA4
+msgid ""
+"ミーナ：もう２度と、みなさんにめいわくはかけられませんから・・・"
+msgstr ""
+
+#: 000CDBE8
+msgid ""
+"かならず、勝ってきます。"
+msgstr ""
+
+#: 000CDC57
+msgid ""
+"ミーナは精霊の力を手に入れた。"
+msgstr ""
+
+#: 000CDC92
+msgid ""
+"バーク：よっしゃ！やったぜ！"
+msgstr ""
+
+#: 000CDCCB
+msgid ""
+"サリナ：まるで、自分のことのように喜ぶよな、アンタ。"
+msgstr ""
+
+#: 000CDD1C
+msgid ""
+"バーク：いいじゃんか、うれしいんだから。"
+msgstr ""
+
+#: 000CDD61
+msgid ""
+"ミーナ：ありがとうございます。無事、なんとか・・・"
+msgstr ""
+
+#: 000CDDB0
+msgid ""
+"カイ：力は感じるかい？"
+msgstr ""
+
+#: 000CDDE3
+msgid ""
+"ミーナ：想像以上ですね。おどろきました。"
+msgstr ""
+
+#: 000CDE28
+msgid ""
+"バーク：感想それだけ？"
+msgstr ""
+
+#: 000CDE5B
+msgid ""
+"ミーナ：はい。"
+msgstr ""
+
+#: 000CDE7B
+msgid ""
+"バーク：あ、そ・・・・・・"
+msgstr ""
+
+#: 0019B186
+msgid ""
+"ゴッドアーマーを手に入れた。"
+msgstr ""
+
+#: 0019B1C6
+msgid ""
+"何も見つからない。"
+msgstr ""
+
+#: 001DF94A
+msgid ""
+"カイ：お前がロミアスか？"
+msgstr ""
+
+#: 001DF974
+msgid ""
+"ロミアス：・・・・・・そうだ。"
+msgstr ""
+
+#: 001DF996
+msgid ""
+"すでに、お前達の目的は分かっている。"
+msgstr ""
+
+#: 001DF9BE
+msgid ""
+"さあ、私を見事倒し、我が主ギゼフィルの下へむかうがいい。"
+msgstr ""
+
+#: 001DF9FA
+msgid ""
+"人間の最後の抵抗を、見せてみるがいい。さもなくば、"
+msgstr ""
+
+#: 001DFA30
+msgid ""
+"お前達が死ぬだけのことだ。"
+msgstr ""
+
+#: 001DFA78
+msgid ""
+"カイ：・・・・・・行くぞ！"
+msgstr ""
+
+#: 001DFAE2
+msgid ""
+"装置をかいじょした。"
+msgstr ""
+
+#: 001DFB08
+msgid ""
+"カイ：これでよし。"
+msgstr ""
+
+#: 00268986
+msgid ""
+"アルトリコーダーを手に入れた。"
+msgstr ""
+
+#: 002689D5
+msgid ""
+"これ以上もてない。"
+msgstr "There's nothing else here."
+
+#: 00268A06
+msgid ""
+"何も見つからない。"
+msgstr ""
+
+#: 002F198B
+msgid ""
+"ルーシア：こんな所に来ちゃってさ、何を考えてんのかしら。"
+msgstr ""
+
+#: 002F19C7
+msgid ""
+"アタシだって、アンタ達に付き合っていられるほどヒマじゃないの。"
+msgstr ""
+
+#: 002F1A09
+msgid ""
+"つまんないことで、働かせないでよ。"
+msgstr ""
+
+#: 002F1A48
+msgid ""
+"カイ：・・・・・・それなら、"
+msgstr ""
+
+#: 002F1A68
+msgid ""
+"僕達のすることを、黙って見ていてくれれば、戦わないですむ。"
+msgstr ""
+
+#: 002F1AA6
+msgid ""
+"それじゃダメかな？"
+msgstr ""
+
+#: 002F1AD5
+msgid ""
+"ルーシア：あー、ハイハイ。ムリだと分かってて、言ってるんでしょ。"
+msgstr ""
+
+#: 002F1B19
+msgid ""
+"・・・ったく、面倒くさい人達。"
+msgstr ""
+
+#: 002F1B3B
+msgid ""
+"そうね、また、あの子に手伝ってもらいましょうか。"
+msgstr ""
+
+#: 002F1B7A
+msgid ""
+"おいで、ボウヤ。"
+msgstr ""
+
+#: 002F1BDF
+msgid ""
+"カーナ：・・・・・・"
+msgstr ""
+
+#: 002F1C05
+msgid ""
+"バーク：バカな！死んだはずだろ？！"
+msgstr ""
+
+#: 002F1C39
+msgid ""
+"ミーナ：カーナ！"
+msgstr ""
+
+#: 002F1CC8
+msgid ""
+"バーク：バカやろう！あそこにいるのはタダのぬけがらだ！"
+msgstr ""
+
+#: 002F1D1B
+msgid ""
+"ミーナ：でも！・・・でも・・・"
+msgstr ""
+
+#: 002F1D56
+msgid ""
+"ルーシア：あら？知らなかったの？"
+msgstr ""
+
+#: 002F1D7A
+msgid ""
+"このボウヤったらアタシにメロメロなのよ。"
+msgstr ""
+
+#: 002F1DB1
+msgid ""
+"死んでからも、アタシのためにガンバってくれるんですって。"
+msgstr ""
+
+#: 002F1DED
+msgid ""
+"じゃ、さっさとゴミを始末して、２人の時間を楽しみましょう・・・"
+msgstr ""
+
+#: 002F1E48
+msgid ""
+"ミーナ：・・・・・・っ！"
+msgstr ""
+
+#: 002F1E72
+msgid ""
+"バーク：てめえっ！絶対ゆるさねえ！"
+msgstr ""
+
+#: 002F1F01
+msgid ""
+"ミーナ：・・・・・・"
+msgstr ""
+
+#: 002F1F27
+msgid ""
+"バーク：・・・・・・"
+msgstr ""
+
+#: 002F1F4D
+msgid ""
+"装置をかいじょした。"
+msgstr ""
+
+#: 002F1F73
+msgid ""
+"カイ：・・・これでよし。"
+msgstr ""
+
+#: 002F1FC9
+msgid ""
+"・・・・・・行くよ。"
+msgstr ""
+
+#: 00336162
+msgid ""
+"バロア：とにかく、ここを壊せばいいんだろ。"
+msgstr ""
+
+#: 00336190
+msgid ""
+"俺にまかせとけって。"
+msgstr ""
+
+#: 003361B6
+msgid ""
+"魔物：ぬ、何だ貴様等は・・・。そうか、このせきを壊すつもりだな？"
+msgstr ""
+
+#: 003361FA
+msgid ""
+"このせきを壊せば、たくさんの人間が死ぬぞ。それでもいいのか！？"
+msgstr ""
+
+#: 0033625E
+msgid ""
+"バロア：へへっ、だまってな、化け物。"
+msgstr ""
+
+#: 00336294
+msgid ""
+"魔物：なんだと！？"
+msgstr ""
+
+#: 0037A916
+msgid ""
+"バロア：やっと、水もひいたようだな。"
+msgstr ""
+
+#: 0037A94C
+msgid ""
+"カイ：よし、行くぞ。"
+msgstr ""

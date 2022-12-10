@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-05 20:12-0400\n"
+"PO-Revision-Date: 2022-09-10 01:12+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d1_s00_s021/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00089136
+msgid ""
+"どこからともなくこえがひびいた。"
+msgstr ""
+
+#: 0008915A
+msgid ""
+"なんじに魔法をさずけよう。"
+msgstr ""
+
+#: 00089186
+msgid ""
+"ソードダンスを憶えた。"
+msgstr ""
+
+#: 000891D6
+msgid ""
+"＿＿もうなにもない。"
+msgstr ""
+
+#: 000CD951
+msgid ""
+"カイ：あれ？どうして進めないんだ？"
+msgstr ""
+
+#: 000CD985
+msgid ""
+"ミーナ：これは封印の呪文がほどこしてあります。"
+msgstr ""
+
+#: 000CD9B7
+msgid ""
+"これを無理矢理はいじょするのはおそらく無理でしょう。"
+msgstr ""
+
+#: 000CD9EF
+msgid ""
+"封印を解く装置がどこかにあるはずです。それを探しましょう。"
+msgstr ""
+
+#: 000CDA50
+msgid ""
+"ミーナ：封印を解く装置がどこかにあるはずです。"
+msgstr ""
+
+#: 000CDA82
+msgid ""
+"それを探しましょう。"
+msgstr ""
+
+#: 00156936
+msgid ""
+"どこからともなくこえがひびいた。"
+msgstr ""
+
+#: 0015695A
+msgid ""
+"なんじに魔法をさずけよう。"
+msgstr ""
+
+#: 00156986
+msgid ""
+"センイト・ローを憶えた。"
+msgstr ""
+
+#: 001569C2
+msgid ""
+"＿＿もうなにもない＿＿"
+msgstr ""
+
+#: 00224154
+msgid ""
+"「女神の指輪」を手に入れた。"
+msgstr ""
+
+#: 00224194
+msgid ""
+"中身は空だった。"
+msgstr ""
+
+#: 002241C1
+msgid ""
+"「ブレスレット」を手に入れた。"
+msgstr ""
+
+#: 00224203
+msgid ""
+"中身は空だった。"
+msgstr ""
+
+#: 0026892E
+msgid ""
+"バロア：こんなところ何もねえぜ。"
+msgstr ""
+
+#: 00268952
+msgid ""
+"なあ、何しに来たんだ？"
+msgstr ""
+
+#: 0026899C
+msgid ""
+"サリナ：・・・なーんにもないね。"
+msgstr ""
+
+#: 002689C0
+msgid ""
+"ピカの浅瀬って、本当にここかい？"
+msgstr ""
+
+#: 002689F2
+msgid ""
+"バロア：確か・・・女神が足りないんだよ。"
+msgstr ""
+
+#: 00268A1E
+msgid ""
+"古文書だかにそう書いてあったはずだ。"
+msgstr ""
+
+#: 00268A54
+msgid ""
+"カイ：女神・・・って、ことは、先に女神の力が必要なのかな？"
+msgstr ""
+
+#: 00268AA0
+msgid ""
+"バロア：多分、そうなんじゃないか。"
+msgstr ""
+
+#: 00268AD9
+msgid ""
+"バロア：こんなところ何もねえぜ。"
+msgstr ""
+
+#: 00268AFD
+msgid ""
+"なあ、何しに来たんだ？"
+msgstr ""
+
+#: 00268B4A
+msgid ""
+"バーク：何でえ、何にも無いじゃないか。"
+msgstr ""
+
+#: 00268B74
+msgid ""
+"こんなトコに何かあるのか？"
+msgstr ""
+
+#: 00268BA0
+msgid ""
+"バロア：俺様だって知らねーよ！"
+msgstr ""
+
+#: 00268BC2
+msgid ""
+"何かあるんなら、とっくの昔に見つけているぜ。"
+msgstr ""
+
+#: 00268C00
+msgid ""
+"カイ：本当に、こんな所に海王の力が眠っているんだろうか・・・"
+msgstr ""
+
+#: 002AD0F9
+msgid ""
+"ミシリア：わ、わたし・・・今・・・"
+msgstr ""
+
+#: 002AD12D
+msgid ""
+"カイ：ミシリア、今のはすごかったね。"
+msgstr ""
+
+#: 002AD163
+msgid ""
+"バロア：長いこと海にいたが、さすがにこんなことは初めてだな。"
+msgstr ""
+
+#: 002AD1B1
+msgid ""
+"サリナ：ギアスの杖で出てきたってことは、あれが海王神殿の入り口だろ。"
+msgstr ""
+
+#: 002AD1F9
+msgid ""
+"さっそく入ってみようぜ。"
+msgstr ""
+
+#: 002AD223
+msgid ""
+"カイ：よし、入ってみよう。"
+msgstr ""
+
+#: 002F1986
+msgid ""
+"海王の盾を手に入れた。"
+msgstr ""
+
+#: 002F19CD
+msgid ""
+"これ以上もてない。"
+msgstr "You can't carry anymore."
+
+#: 002F19FE
+msgid ""
+"何も入っていない。"
+msgstr ""
+
+#: 0037AA61
+msgid ""
+"我が眠りをさまたげる者。あるいは・・・"
+msgstr ""
+
+#: 0037AA8B
+msgid ""
+"我が力を求める者、神のいかりを受け止めよ。"
+msgstr ""
+
+#: 0037AAFF
+msgid ""
+"バーク：はっはっは！ずいぶん偉そうなことを言うじゃないか！"
+msgstr ""
+
+#: 0037AB4B
+msgid ""
+"・・・あれ？"
+msgstr ""
+
+#: 0037AB69
+msgid ""
+"カイ：く・・・体が動かない・・・"
+msgstr ""
+
+#: 0037AB9B
+msgid ""
+"ミシリア：・・・・・・"
+msgstr "Michelia: ..."
+
+#: 0037ABC3
+msgid ""
+"バロア：くそっ・・・体が動かねえとは・・・カッコ悪いぜ。"
+msgstr ""
+
+#: 0037AC18
+msgid ""
+"バーク：へっへっへ、俺はなんともないぜ。きたえ方が違うからな。"
+msgstr ""
+
+#: 0037AC68
+msgid ""
+"サリナ：アンタが鈍いだけだっつーの！"
+msgstr ""
+
+#: 0037AC90
+msgid ""
+"たたかえるんなら、さっさとそいつをやっちまってくれ！"
+msgstr ""
+
+#: 0037ACD6
+msgid ""
+"ミーナ：みなさん、冗談を言っている場合じゃ・・・"
+msgstr ""
+
+#: 0037AD31
+msgid ""
+"バーク：そうだな。じゃ、やっちまうか！"
+msgstr ""
+
+#: 0037ADF5
+msgid ""
+"バーク：よっしゃ！見たか！このバーク様の実力を！"
+msgstr ""
+
+#: 0037AE37
+msgid ""
+"サリナ：ごめーん。横向いてたから、見えてなかった。"
+msgstr ""
+
+#: 0037AE86
+msgid ""
+"バロア：あー、見た見た。"
+msgstr ""
+
+#: 0037AEB0
+msgid ""
+"ミーナ：じっさいに実力そのものは目に見えるモノではないので、"
+msgstr ""
+
+#: 0037AEFE
+msgid ""
+"それを見たか、と言われましても・・・"
+msgstr ""
+
+#: 0037AF42
+msgid ""
+"バーク：お前らなあ・・・そりゃないだろ。"
+msgstr ""
+
+#: 0037AF8A
+msgid ""
+"カイ：そんなことないよ。すごかったよ。"
+msgstr ""
+
+#: 0037AFCD
+msgid ""
+"ミシリア：ステキだったよ。すっごく。"
+msgstr ""
+
+#: 0037B01C
+msgid ""
+"バーク：そ、そっか？いやー、ま、当然の結果だからなー"
+msgstr ""
+
+#: 0037B070
+msgid ""
+"ミーナ：ずいぶん単純ですね。"
+msgstr ""
+
+#: 0037B0AC
+msgid ""
+"バーク：・・・とほほ。結局それかい。"
+msgstr ""
+
+#: 0037B0E2
+msgid ""
+"バークは山神の力を手に入れた。"
+msgstr ""
+
+#: 003BF127
+msgid ""
+"バロア：着いたぜ。ここがその島だ。"
+msgstr ""
+
+#: 003BF15B
+msgid ""
+"サリナ：ひとつ聞いてもいいかい？"
+msgstr ""
+
+#: 003BF18D
+msgid ""
+"バロア：うつくしいレディーの頼みならなんなりと。"
+msgstr ""
+
+#: 003BF1CF
+msgid ""
+"サリナ：この島に武器があるって知ってて、"
+msgstr ""
+
+#: 003BF1FB
+msgid ""
+"なんで持っていかないんだい？"
+msgstr ""
+
+#: 003BF229
+msgid ""
+"バロア：答えは簡単さ。魔物が出るからさ。"
+msgstr ""
+
+#: 003BF263
+msgid ""
+"サリナ：そんなこったと思ったよ・・・"
+msgstr ""

@@ -1,0 +1,1747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-07 17:12-0400\n"
+"PO-Revision-Date: 2022-09-12 03:12+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d1_s00_s002/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 0000034D
+msgid ""
+"兵士：この近くで怪しい生き物をとらえたんだが、"
+msgstr "Soldier: We managed to catch a strange creature,"
+
+#: 0000037F
+msgid ""
+"どう処分しようかマクロード隊長に聞いてみないと・・・"
+msgstr "but we need McLeod's orders before we can dispose of it..."
+
+#: 000003B7
+msgid ""
+"とりあえず、ろうやにほうりこんであるから問題無いだろう。"
+msgstr "We threw it in a cell, so at least it's taken care of for now."
+
+#: 00000420
+msgid ""
+"兵士：これは、マクロード隊長怪しい生き物をとらえております。"
+msgstr "Soldier: Captain McLeod, we've captured a bizarre creature."
+
+#: 00000460
+msgid ""
+"隊長のご判断をあおぎたいと思い、向こうのオリに入れてあります。"
+msgstr "We wanted to wait for orders, so we left it in that cage over there."
+
+#: 000004B8
+msgid ""
+"マクロード：ごくろう。わかった。私の指示を待て。"
+msgstr "McLeod: Good work. Wait for further orders."
+
+#: 000004FA
+msgid ""
+"兵士：わかりました。"
+msgstr ""
+
+#: 00000535
+msgid ""
+"兵士：ごめいれいどおり魔物はオリに入れてあります。"
+msgstr "Soldier: We imprisoned the monster as instructed."
+
+#: 00000590
+msgid ""
+"兵士：マクロード隊長、早く帰って来ないかな。"
+msgstr "Soldier: I hope Captain McLeod comes back soon."
+
+#: 000005D3
+msgid ""
+"兵士：マクロード隊長、お気をつけて。"
+msgstr "Soldier: Captain McLeod, be careful."
+
+#: 0000061E
+msgid ""
+"兵士：ルーンマルナの復興作業中です。"
+msgstr "Soldier: We're in the process of rebuilding Rune Malna."
+
+#: 00000646
+msgid ""
+"完全に復興するのはもうしばらく先になるでしょう。"
+msgstr "It'll probably be a while longer until we're finished."
+
+#: 00000695
+msgid ""
+"兵士：これはマクロード隊長。復興作業は順調に進んでおります。"
+msgstr ""
+
+#: 000006E3
+msgid ""
+"マクロード：わかった。私のことは気にせず作業をすすめてくれ。"
+msgstr "McLeod: Understood. Don't mind me; continue your work."
+
+#: 00000731
+msgid ""
+"兵士：わかりました。"
+msgstr "Solider: Yes, sir."
+
+#: 0000076E
+msgid ""
+"兵士：ルーンマルナの復興は、もうしばらく先になるでしょう。"
+msgstr ""
+"Soldier: Rune Malna's reconstruction will probably still take us awhile."
+
+#: 000007BF
+msgid ""
+"兵士：これはマクロード隊長。復興作業は順調に進んでおります。"
+msgstr ""
+"Soldier: Captain McLeod! Reconstruction efforts are proceeding smoothly."
+
+#: 00000822
+msgid ""
+"兵士：ルーンの関が毎日のように怪物におそわれている。"
+msgstr "Soldier: Monsters keep attacking the Rune Gate almost daily."
+
+#: 0000085A
+msgid ""
+"私もマクロード隊長とともに前線に出て戦いたいものだ。"
+msgstr ""
+"I hope I get the chance to join Captain McLeod on the frontlines as well."
+
+#: 000008AD
+msgid ""
+"兵士：こ、これはマクロード隊長、私も前線に出たいであります。"
+msgstr "Soldier: C-Captain McLeod, I wish to join the front lines, sir!"
+
+#: 000008FB
+msgid ""
+"マクロード：だめだ。ここの守りはお前がいてこそ、なのだ。"
+msgstr "McLeod: Denied. Defending this town is your critical task."
+
+#: 00000937
+msgid ""
+"ここを守り切ることこそが、お前の前線だと思え。"
+msgstr ""
+"I'm counting on you to protect this place as if it were your own front line."
+
+#: 00000977
+msgid ""
+"兵士：わかりました。マクロード隊長。"
+msgstr "Soldier: Understood, Captain McLeod!"
+
+#: 000009C4
+msgid ""
+"兵士：私もマクロード隊長とともに前線に出で戦いたいものだ。"
+msgstr ""
+"Soldier: I hope I get the chance to join Captain McLeod on the frontlines as "
+"well."
+
+#: 00000A15
+msgid ""
+"兵士：マクロード隊長、自分はがんばるであります。"
+msgstr "Soldier: Good luck to you, Captain."
+
+#: 00000A62
+msgid ""
+"兵士：ルーンマルナの復興作業はもう少しで完成です。"
+msgstr "Soldier: We're nearly finished reconstructing Rune Malna."
+
+#: 00000A98
+msgid ""
+"作業の途中報告をするために、マクロード隊長が今度王城へ向かわれます。"
+msgstr "McLeod has left for the palace to report on progress."
+
+#: 00000AFB
+msgid ""
+"兵士：作業が終わり次第、住人を募集することになるでしょう。"
+msgstr ""
+"Soldier: Once complete, we'll begin a campaign to encourage new residents."
+
+#: 00000B55
+msgid ""
+"兵士：隊長のごめいれいどおり、彼は我々が保護しております。"
+msgstr "Soldier: As the Captain ordered, we're protecting this man."
+
+#: 00000B93
+msgid ""
+"姿形は違えども彼も我々と同じ人間なのですね。"
+msgstr "His appearance may be strange, but he's human just like us."
+
+#: 00000BD6
+msgid ""
+"兵士：この前変な怪物を捕まえたんだけど逃げられてしまった。"
+msgstr "Soldier: The strange monster we caught earlier managed to escape."
+
+#: 00000C2D
+msgid ""
+"兵士：最近、この周りで怪物の姿を見かけない。"
+msgstr "Soldier: It's been a while since we've seen any more monsters."
+
+#: 00000C5D
+msgid ""
+"いったい何があったのだろう。"
+msgstr "I wonder what happened."
+
+#: 00000C98
+msgid ""
+"兵士：いいことなんだろうけれど、何か物足りないなぁ。"
+msgstr "Soldier: It's good, but it feels like something's missing."
+
+#: 00000D15
+msgid ""
+"ブー＝レイ：ボクハ、キミヲシンジルヨ。"
+msgstr ""
+
+#: 00000D3F
+msgid ""
+"デモ、ジカンガ、タリナイカモシレナイ・・・"
+msgstr ""
+
+#: 00000D9F
+msgid ""
+"ブー＝レイ：ボクハ、キミヲシンジルヨ。"
+msgstr "Boo Rei: I BELIEVE IN YOU."
+
+#: 00000DC9
+msgid ""
+"デモ、ジカンガ、タリナイカモシレナイ・・・"
+msgstr "BUT, I MIGHT NOT LAST MUCH LONGER..."
+
+#: 00000E0A
+msgid ""
+"カイ：なんだろう、ここは？なんだか気になるな。"
+msgstr "Kai: What's this? Something seems strange about it."
+
+#: 00044943
+msgid ""
+msgstr ""
+
+#: 00044B76
+msgid ""
+"カイ：カギがかかってるみたいだ・・・"
+msgstr ""
+
+#: 00044BFB
+msgid ""
+"ミシリア：あら？"
+msgstr "Michelia: Oh, what's that?"
+
+#: 00044C0F
+msgid ""
+"今、泉の中でなにか光らなかった？"
+msgstr "Do you see something shiny in the fountain?"
+
+#: 00044C41
+msgid ""
+"カイ：あっ、指輪だ。"
+msgstr "Kai: Ah, it's a ring!"
+
+#: 00044C67
+msgid ""
+"ミシリア：誰かが落としたのかしら・・・"
+msgstr "Michelia: I wonder who dropped it?"
+
+#: 00044C9F
+msgid ""
+"プラチナリングを手に入れた。"
+msgstr "You got a Platinum Ring!"
+
+#: 00044CEA
+msgid ""
+"娘：ルーンマルナの町が何者かにおそわれたんですって！"
+msgstr "Girl: I heard Rune Malna was attacked by something!"
+
+#: 00044D22
+msgid ""
+"でもこの町は大丈夫。"
+msgstr "But, we're safe here."
+
+#: 00044D3A
+msgid ""
+"ハインローグ守備隊、第１連隊のマクロード隊長がしっかり守ってくださるもの。"
+msgstr "Captain McLeod of the Heinrogue Garrison Regiment #1 protects us all."
+
+#: 00044D88
+msgid ""
+"マクロード隊長？"
+msgstr "Captain McLeod?"
+
+#: 00044D9C
+msgid ""
+"そうね、この時間ならむこうの兵舎にいるわ。"
+msgstr "Yup! He works out of that barracks over there."
+
+#: 00044DE5
+msgid ""
+"娘：魔導師？さぁそんな人ここにいたかしら？"
+msgstr "Girl: Magician? Was there someone like that here?"
+
+#: 00044E13
+msgid ""
+"そんな人いなくてもマクロード隊長がしっかり守ってくださるわ。"
+msgstr "Even without someone like that, Captain McLeod will keep us safe."
+
+#: 00044E66
+msgid ""
+"娘：マクロード隊長、ああなんてりりしいおかた・・・・"
+msgstr "Girl: Ahh Captain McLeod, take me away on your shining steed..."
+
+#: 00044E9E
+msgid ""
+"ね、あなたもそう思うでしょう。"
+msgstr "I, uh, said that out loud, didn't I?"
+
+#: 00044EE3
+msgid ""
+"子供：あのね、僕大きくなったらマクロード隊長のように"
+msgstr "Child: When I grow up, I wanna be a cool knight"
+
+#: 00044F1B
+msgid ""
+"かっこいい戦士になるんだ。"
+msgstr "like Captain McLeod!"
+
+#: 00044F54
+msgid ""
+"子供：魔導師って魔法の使える人のこと？前はこの村にもいたんだよ。"
+msgstr ""
+"Child: A magician? Like, someone with spells and stuff? There was someone "
+"like that."
+
+#: 00044F98
+msgid ""
+"でも、今はどこかに行っちゃった。"
+msgstr "But, I'm not sure where they went."
+
+#: 00044FBC
+msgid ""
+"でも、いなくてもいいよ。この町にはマクロード隊長がいるからね。"
+msgstr "But that's fine! We've got Captain McLeod here!"
+
+#: 00045011
+msgid ""
+"子供：なにか面白いことないかなぁ。"
+msgstr "Child: I wish something cool would happen..."
+
+#: 00045063
+msgid ""
+"男：おい、近くの町が何者かにおそわれたらしいぞ！"
+msgstr "Man: Sounds like the nearby town was attacked!"
+
+#: 00045097
+msgid ""
+"それで、はいきょになっちまったって話だぜ。"
+msgstr "Apparently only ruined buildings remain now."
+
+#: 000450D8
+msgid ""
+"魔導師？ああ、いたような。いないような。"
+msgstr "A magician? Hmm, there might have been, might not have been..."
+
+#: 00045104
+msgid ""
+"悪いな、思い出せないよ。"
+msgstr "Sorry, I can't quite remember..."
+
+#: 00045133
+msgid ""
+"男：兵士達がルーンマルナの方に向かうらしいぜ。"
+msgstr "Man: Sounds like the soldiers are going to investigate Rune Malna."
+
+#: 00045165
+msgid ""
+"マクロード隊長も向かうのかな？"
+msgstr "Is Captain McLeod going to leave as well?"
+
+#: 00045187
+msgid ""
+"かれまで向かってしまうと、だれがこの町を守ってくれるんだ？"
+msgstr "If he's going, then whose gonna protect US?"
+
+#: 000451D8
+msgid ""
+"男：おおぜいの兵士たちがこの村に派遣されるらしいぜ。"
+msgstr "Man: Sounds like they're deploying lots of soldiers here."
+
+#: 00045210
+msgid ""
+"なにかあったのかな・・・"
+msgstr "I wonder if something happened..."
+
+#: 00045245
+msgid ""
+"女：ここはレイクマウントの町だよ。"
+msgstr "Woman: This is Lake Mount."
+
+#: 0004526B
+msgid ""
+"見かけない顔だね？旅の人かい？"
+msgstr "I haven't seen you around before. Travellers?"
+
+#: 000452A8
+msgid ""
+"女：ルーンマルナの町がどうなったか知らないかい？"
+msgstr "Woman: Have you heard anything about Rune Malna?"
+
+#: 000452DC
+msgid ""
+"わたしの知り合いがいるのだけど、れんらくがつかなくって・・・"
+msgstr "I've got a friend there, but I haven't been able to contact them..."
+
+#: 00089240
+msgid ""
+"カイ：カギがかかってるみたいだ・・・"
+msgstr ""
+
+#: 0008928D
+msgid ""
+"カイ：カギがかかってるみたいだ・・・"
+msgstr "Kai: Looks like it's locked..."
+
+#: 0008930C
+msgid ""
+"男：向こうに見える大きいたて物は、兵舎だよ。"
+msgstr ""
+
+#: 0008933C
+msgid ""
+"なにやら騒がしいみたいだけど・・・"
+msgstr "Things are getting pretty lively over there..."
+
+#: 00089375
+msgid ""
+"男：えっ、ルーンマルナの町がおそわれたって？！"
+msgstr "Man: What!? Rune Malna was attacked!?"
+
+#: 000893A7
+msgid ""
+"いったい何があったっていうんだ・・・"
+msgstr "What the hell happened...?"
+
+#: 000893DD
+msgid ""
+"バーク：なんだ、今ごろそんな事を言ってるのか。"
+msgstr "Burke: The hell you think happened?"
+
+#: 0008941D
+msgid ""
+"カイ：（バークっ！）"
+msgstr "Kai: (BURKE!)"
+
+#: 00089448
+msgid ""
+"男：向こうに見える大きいたて物は、兵舎だよ。"
+msgstr "Man: That large building over there is the barracks."
+
+#: 0008949A
+msgid ""
+"男：確か、この町にマールって魔導師がいたな。"
+msgstr "Man: There was a magician here named Marl, yes."
+
+#: 000894CA
+msgid ""
+"腰の具合が悪くて、サナトリの村に行くとか言っていたような・・・"
+msgstr ""
+"I think he said his hip pain was getting worse, so he left for Sanitas "
+"Village..."
+
+#: 0008951F
+msgid ""
+"男：この町も兵士が多くなって、どうもいやな感じだな。"
+msgstr ""
+"Man: More and more soldiers are coming to the village. It's making me "
+"worried..."
+
+#: 00089557
+msgid ""
+"世の中が、ぶっそうなのはちょっとな・・・"
+msgstr "I'm kind of scared to learn what's out there..."
+
+#: 00089596
+msgid ""
+"男：温泉にいきたいなあ・・・"
+msgstr "Man: I want to go to the hot springs..."
+
+#: 000895B6
+msgid ""
+"・・・・・・"
+msgstr "..."
+
+#: 000895C6
+msgid ""
+"ハッ。"
+msgstr "Haa~..."
+
+#: 000895D0
+msgid ""
+"いかんいかん。思わず、ぼーっとしてしまった。"
+msgstr "No, no! I started spacing out again."
+
+#: 0008960F
+msgid ""
+"兵士：ここはハインローグ守備隊第１連隊の兵舎である。"
+msgstr "Soldier: This is the barracks of Heinrogue Garrison Regiment #1."
+
+#: 000CD915
+msgid ""
+"じじい：魔法いりませんか？"
+msgstr "Old Man: Could I interest you in some magic?"
+
+#: 000CD933
+msgid ""
+"リトルラヴァの魔法でてきをみりょうすれば戦いも楽になるぞ。"
+msgstr ""
+"You can make your battles easier by charming your foes with Little Lover."
+
+#: 000CD9BF
+msgid ""
+"じじい：そういえば、この町にはノクターンの魔法を使えたものがおったな。"
+msgstr ""
+"Old Man: Oh yes, there's someone in this town to whom I've taught Nocturne."
+
+#: 000CDA09
+msgid ""
+"だれじゃったかのー？"
+msgstr "Care to find them?"
+
+#: 000CDA21
+msgid ""
+"ノクターンはてきを眠らせる事ができるんじゃ。"
+msgstr "You can put your foes to sleep with Nocturne."
+
+#: 001121EC
+msgid ""
+"隊長：誰だ？ここはハインローグ守備隊、第１連隊の詰め所だ。"
+msgstr ""
+"Captain: Who are you? This is the Heinrogue Garrison Regiment #1 Station."
+
+#: 0011222A
+msgid ""
+"用のないかたは立ち入らないでもらおう。"
+msgstr "If you have no business here, then please leave."
+
+#: 00112281
+msgid ""
+"カイ：いそがしい時にすみません。"
+msgstr "Kai: I'm sorry to bother you at such a busy time."
+
+#: 001122A5
+msgid ""
+"この町に魔導師と呼ばれる方がいると聞いて来たのですが・・・"
+msgstr ""
+"We wished to ask you if you knew of a magician who might be in this town."
+
+#: 001122FA
+msgid ""
+"隊長：魔導師？ひょっとしてあの方のことかな？"
+msgstr "Captain: Magician? Hmm, I might have an idea..."
+
+#: 00112343
+msgid ""
+"カイ：知ってるんですか？"
+msgstr "Kai: Please tell us anything you can."
+
+#: 00112378
+msgid ""
+"隊長：くわしいことは知りませんが、その方なら、"
+msgstr "Captain: I'm not positive, but if it's the right person,"
+
+#: 001123AA
+msgid ""
+"つい先日、サナトリの村にいかれたご様子。一足ちがいでしたな。"
+msgstr "then I believe they left for Sanitas Village a few days ago."
+
+#: 00112403
+msgid ""
+"カイ：そうですか・・・"
+msgstr "Kai: I see..."
+
+#: 0011242B
+msgid ""
+"ミシリア：あ、あの、隊長さん・・・"
+msgstr "Michelia: U-um, Mr. Captain..."
+
+#: 00112467
+msgid ""
+"さきほどハインローグ守備隊、第１連隊と言われましたよね？"
+msgstr "You said you were the Heinrogue Garrison Regiment #1, correct?"
+
+#: 001124AE
+msgid ""
+"このロケットに見覚えはありませんか？"
+msgstr "Then, do you recognize this pendant...?"
+
+#: 0011250E
+msgid ""
+"隊長：こ、これは・・・"
+msgstr "Captain: T-this is...!?"
+
+#: 00112528
+msgid ""
+"これは、ミシェル＝ロアのロケット・・・"
+msgstr "This is Michel Roa's locket..."
+
+#: 00112576
+msgid ""
+"隊長：君たち、これをどこで？"
+msgstr "Captain: Where did you guys find this?"
+
+#: 001125A4
+msgid ""
+"ミシリア：ルーンの関です。"
+msgstr "Michelia: At the Rune Gate, sir."
+
+#: 001125D0
+msgid ""
+"隊長：ルーンの関！？"
+msgstr "Captain: The Rune Gate!?"
+
+#: 001125E8
+msgid ""
+"君達はあそこへ行ってきたと？"
+msgstr "You guys went over there?"
+
+#: 00112621
+msgid ""
+"カイ：うん。それから、ルーンマルナの町も・・・"
+msgstr "Kai: Yeah. Then, we passed through Rune Malna as well..."
+
+#: 0011266A
+msgid ""
+"隊長：そうですか・・・関と町の様子はどうでした？"
+msgstr "Captain: I see... What did you see there?"
+
+#: 001126B7
+msgid ""
+"カイ：関と町もはいきょになってて・・・"
+msgstr "Kai: Both the gate and town were no more..."
+
+#: 001126E1
+msgid ""
+"だれも・・・いなかった。"
+msgstr "No one was left... Only quiet rubble remained..."
+
+#: 001126FD
+msgid ""
+"何があったのかまではよくわからないけど・・・"
+msgstr "I don't know what happened..."
+
+#: 00112746
+msgid ""
+"隊長：そうか・・・"
+msgstr "Captain: I see..."
+
+#: 0011276A
+msgid ""
+"・・・・・・レイク！"
+msgstr "...Lake!"
+
+#: 00112790
+msgid ""
+"レイク：はっ。"
+msgstr "Lake: Sir."
+
+#: 001127B9
+msgid ""
+"隊長：今の話は聞いたな？"
+msgstr "Captain: You heard that just now, correct?"
+
+#: 001127D5
+msgid ""
+"急ぎ新ハインローグ城に向かい、このことを知らせてくるのだ！"
+msgstr "Head to the castle on the double and report everything!"
+
+#: 0011282F
+msgid ""
+"レイク：はっ！！"
+msgstr "Lake: Yes, sir!"
+
+#: 0011289F
+msgid ""
+"隊長：話はもどりますが・・・"
+msgstr "Captain: Now, returning to the topic at hand..."
+
+#: 001128BF
+msgid ""
+"そのロケットのもちぬしの家族が「メルーの町」に住んでいます。"
+msgstr "The family of the one who owned that pendant lives in Mell."
+
+#: 001128FF
+msgid ""
+"ここからサナトリの村を通り、東に行った所にある町です。"
+msgstr "You can reach it by going east from Sanitas Village."
+
+#: 00112947
+msgid ""
+"隊長：確か、宿屋だったはずです・・・すみませんが"
+msgstr "Captain: I believe they run an inn if I remember right."
+
+#: 0011297B
+msgid ""
+"その家族にロケットをとどけてやってもらえないでしょうか？"
+msgstr ""
+"I hate to push this on you, but could you please deliver the locket to them?"
+
+#: 001129D0
+msgid ""
+"カイ：わかりました。"
+msgstr "Kai: Of course."
+
+#: 001129E8
+msgid ""
+"僕達もちょうどメルーの町に用があったところですから。"
+msgstr "We planned on going to Mell soon anyway."
+
+#: 00112A39
+msgid ""
+"カイ：いいよね？"
+msgstr "Kai: Sound good to everyone?"
+
+#: 00112A66
+msgid ""
+"ミシリア：うん。"
+msgstr "Michelia: Yup!"
+
+#: 00112A93
+msgid ""
+"バーク：ま、かまわんさ。どうせ行かなきゃならんところだしな。"
+msgstr "Burke: Eh, I don't mind. Like you said, we'll be in the neighborhood."
+
+#: 00112AEC
+msgid ""
+"隊長：ありがとう。"
+msgstr "Captain: Thank you."
+
+#: 00112B02
+msgid ""
+"本来は私が行かねばならないのですが、これからルーンマルナと"
+msgstr "Normally, I'd make a point to go myself, but"
+
+#: 00112B40
+msgid ""
+"ルーンの関を調べる必要がありまして。"
+msgstr "Rune Malna and Rune Gate need my urgent attention."
+
+#: 00112B81
+msgid ""
+"ミシリア：あの・・・このロケットの持ち主の方って・・・"
+msgstr "Michelia: Um... About the locket owner..."
+
+#: 00112BD4
+msgid ""
+"隊長：ミシェル＝ロア。古いゆうじんです。"
+msgstr "Captain: Michel Roa. An old friend of mine."
+
+#: 00112C19
+msgid ""
+"ミシリア：・・・・・・"
+msgstr "Michelia: ..."
+
+#: 00112C4C
+msgid ""
+"カイ：それじゃ、行ってきます。色々ありがとう。"
+msgstr "Kai: Alright, let's get going then. Thank you for everything."
+
+#: 00112C97
+msgid ""
+"隊長：いや、こちらこそ。"
+msgstr "Captain: No, it was my pleasure."
+
+#: 00112D5B
+msgid ""
+"隊長：よろしくたのみます。"
+msgstr "Captain: And thank you as well."
+
+#: 00112D88
+msgid ""
+"兵士：なにがあったのかって？"
+msgstr "Soldier: You're asking what happened?"
+
+#: 00112DA8
+msgid ""
+"知らないよ。これから調べに行くんだから。"
+msgstr "I don't have a clue. We're off to go find out now though."
+
+#: 00156915
+msgid ""
+"店主：いらっしゃいませ。"
+msgstr ""
+
+#: 0019B115
+msgid ""
+"こんな世の中じゃ自分の身は自分で守る。"
+msgstr "In this harsh world of ours, only you can truly protect yourself."
+
+#: 0019B13F
+msgid ""
+"これが生き残る道だぜ。"
+msgstr "I sell the tools of life here!"
+
+#: 001DF915
+msgid ""
+"主人：たいしたものは置いてないけれど、見ていってくれよ。"
+msgstr "Owner: I don't got much, but take a look around."
+
+#: 0022415D
+msgid ""
+"店主：いらっしゃいませ。"
+msgstr "Shop Keep: Welcome!"
+
+#: 002241DF
+msgid ""
+"男：・・・・・これをどうやってわたしておこうか・・・"
+msgstr "Man: ...how am I going to get this to her...?"
+
+#: 00224217
+msgid ""
+"彼女の家のげんかん先においておくか？"
+msgstr "Do I leave it in front of her door?"
+
+#: 0022423F
+msgid ""
+"・・・それじゃ、みつけられないよなぁ。どうしよう・・・"
+msgstr ""
+"...she's probably already checked there and would miss it. What to do..."
+
+#: 00224296
+msgid ""
+"男：旅のかた、どうか私の頼みを聞いてくださいませんか？"
+msgstr "Man: Wait you, travelers, please, listen to my request!!"
+
+#: 002242DE
+msgid ""
+"バーク：なんでぇいきなり！？"
+msgstr "Burke: Woah, damn, where'd you come from!?"
+
+#: 0022430C
+msgid ""
+"男：バーにいる女性にこの指輪をわたしてほしいのです。"
+msgstr "Man: I wish for you to hand this ring to a woman named Baa."
+
+#: 00224352
+msgid ""
+"バーク：かぁー、男だったら告白ぐらい自分でしやがれ。"
+msgstr ""
+"Burke: Come on man. A real man doesn't make others confess love for him. "
+"Jeez."
+
+#: 00224398
+msgid ""
+"ミシリア：まって、バークさん。なにか理由がありそうだわ。"
+msgstr "Michelia: Wait a minute, Burke. He might have a reason."
+
+#: 002243D4
+msgid ""
+"話してもらえますか？"
+msgstr "Could we at least hear him out?"
+
+#: 002243FA
+msgid ""
+"男：私、バーにいる女性とこんどけっこんするのですが・・・"
+msgstr "Man: I'm supposed to marry Baa soon, but..."
+
+#: 00224436
+msgid ""
+"彼女はどうやら私のわたした指輪をなくしてしまったようなのです。"
+msgstr "It sounds like she lost the ring that I gave her."
+
+#: 00224478
+msgid ""
+"彼女はそれをたいへん気にしているようなので・・・"
+msgstr "She's really taking it hard on herself for it and won't talk to me..."
+
+#: 002244AC
+msgid ""
+"私も彼女に気づかれぬよう探したのですが、見つからなくて・・・"
+msgstr "I've tried looking for it too without telling her, but no luck..."
+
+#: 002244FA
+msgid ""
+"バーク：じゃ、何かい？おまえさんはそのために"
+msgstr "Burke: So, what then?"
+
+#: 0022452A
+msgid ""
+"わざわざおんなじ物をかったのか？"
+msgstr "You bought the same ring again?"
+
+#: 0022455C
+msgid ""
+"男：はい。お願いします。"
+msgstr "Man: Yes. Please, I'm begging you."
+
+#: 00224578
+msgid ""
+"どうかこの指輪を落ちていたことにして、彼女にわたしてもらえませんか？"
+msgstr "Pretend like you found it, then give it to her, okay?"
+
+#: 002245CE
+msgid ""
+"ミシリア：カイ、ひきうけてあげてもいいよね？"
+msgstr "Michelia: Kai, could we help him out?"
+
+#: 0022460C
+msgid ""
+"カイ：わかりました。彼女にわたしておきますね。"
+msgstr "Kai: Alright. We'll deliver it to her."
+
+#: 0022464C
+msgid ""
+"男：すみません。よろしくお願いいたします。"
+msgstr ""
+
+#: 00224688
+msgid ""
+"プラチナリングをあずかった。"
+msgstr "You received a Platinum Ring."
+
+#: 002246D2
+msgid ""
+"男：すみません。よろしくお願いいたします。"
+msgstr "Man: Thank you very much!"
+
+#: 0022471D
+msgid ""
+"男：ありがとうございました。"
+msgstr ""
+
+#: 0022473D
+msgid ""
+"これはささやかですがお礼の気持ちです。"
+msgstr "This isn't much, but please accept my gratitude."
+
+#: 00224775
+msgid ""
+"きずぐすりを手に入れた。"
+msgstr "You got some Salve!"
+
+#: 002247B1
+msgid ""
+"男：ありがとうございました。"
+msgstr "Man: This really means a lot to me!"
+
+#: 00268948
+msgid ""
+"マスター：いらっしゃいませ。"
+msgstr "Master: Welcome!"
+
+#: 0026899E
+msgid ""
+"何かなやみをかかえているようですね。"
+msgstr "You seem troubled, something on you mind?"
+
+#: 002689F8
+msgid ""
+"女：あぁ、どうしてこんなことに・・・"
+msgstr "Woman: Ahh, what do I do..."
+
+#: 00268A20
+msgid ""
+"せっかくもらった指輪をなくしてしまうなんて・・・"
+msgstr "How could I lose the precious ring he gave me..."
+
+#: 00268A54
+msgid ""
+"何と言って謝ればいいのかしら・・・"
+msgstr "How could I possibly apologize for this...?"
+
+#: 00268A91
+msgid ""
+"マスター、おかわりもらえるかしら？"
+msgstr ""
+
+#: 00268AF2
+msgid ""
+"女：ごめんなさい。一人にしてほしいの。"
+msgstr "Woman: Sorry, I don't want to talk right now."
+
+#: 00268B30
+msgid ""
+"マスター、おかわりもらえるかしら？"
+msgstr "Master, could I have another?"
+
+#: 00268B89
+msgid ""
+"女：ごめんなさい。一人で飲みたい気分なの・・・"
+msgstr "Woman: I'm sorry, I just want to drink alone..."
+
+#: 00268BC9
+msgid ""
+"カイ：あの・・・・"
+msgstr "Kai: Excuse me..."
+
+#: 00268BED
+msgid ""
+"女：なにっ（ギロリ）"
+msgstr "Woman: What...? *glares*"
+
+#: 00268C13
+msgid ""
+"カイ：こ、これ、あなたのものじゃありませんか？"
+msgstr "Kai: I-is this yours, by chance?"
+
+#: 00268C53
+msgid ""
+"女：これ！！ど、どこにあったの！！"
+msgstr "Woman: WHAT!? W-where'd you find it!?"
+
+#: 00268C87
+msgid ""
+"カイ：そ、それは・・・"
+msgstr "Kai: We, uh..."
+
+#: 00268CAF
+msgid ""
+"ミシリア：おもての泉の中におちていました。"
+msgstr "Michelia: It was at the bottom of the fountain."
+
+#: 00268CDD
+msgid ""
+"あなたのものでしたらお返ししようと思いまして。"
+msgstr "We thought it might be yours, so we came to ask."
+
+#: 00268D1D
+msgid ""
+"女：ありがとう。ほんとうにありがとう。"
+msgstr "Woman: Thank you! Thank you so much!!"
+
+#: 00268D47
+msgid ""
+"そ、そうだ、何かおれいしなくちゃ・・・"
+msgstr "P-please wait, I should give you something..."
+
+#: 00268D71
+msgid ""
+"私にできることはこれくらいだけど・・・魔法のうたをおしえてあげる。"
+msgstr "I can teach you a magic spell, but that's about it..."
+
+#: 00268DC5
+msgid ""
+"プラチナリングをわたした。"
+msgstr "You gave her the Platinum Ring."
+
+#: 00268DF6
+msgid ""
+"ノクターンを憶えた。"
+msgstr "You learned Nocturne!"
+
+#: 00268E21
+msgid ""
+"女：ほんとうにありがとう。"
+msgstr "Woman: You've really saved me!"
+
+#: 00268E3F
+msgid ""
+"あとでおめかしして彼にあいにいかなくちゃ。"
+msgstr "I gotta clean myself up now and go see him."
+
+#: 00268E88
+msgid ""
+"女：あのときはほんとうにありがとう。"
+msgstr "Woman: Thank you for finding my ring earlier."
+
+#: 002AD115
+msgid ""
+"ここはレイクマウントで一番のホテルだよ。"
+msgstr "This is Lake Mount's #1 hotel."
+
+#: 002AD141
+msgid ""
+"もちろん泊まっていくよね？"
+msgstr "You'll be staying, of course, right?"
+
+#: 002AD15F
+msgid ""
+"お代はお一人様、１００ガメとなっております。"
+msgstr "The price is 100 gahme per person."
+
+#: 002AD19D
+msgid ""
+"○ボタン＿泊る＿×ボタン＿やめる"
+msgstr "○: Stay the night ×: Leave"
+
+#: 002AD1D7
+msgid ""
+"ありがとうございました。またのおこしをおまちしております。"
+msgstr "Thank you for stopping by. We'll be looking forward to your next visit."
+
+#: 002AD231
+msgid ""
+"おはようございます。"
+msgstr "Good morning."
+
+#: 002AD249
+msgid ""
+"ゆうべはよくおやすみになれましたか？"
+msgstr "Did you sleep okay last night?"
+
+#: 002AD29B
+msgid ""
+"申しわけありませんが、お金が不足しておりまして・・・"
+msgstr "I'm sorry, but you don't seem to have enough money..."
+
+#: 002AD2D3
+msgid ""
+"またのおこしをおまちしております。"
+msgstr "Please come again!"
+
+#: 002F1B67
+msgid ""
+"女：ここはサナトリの村。"
+msgstr "Woman: This is Sanitas Village."
+
+#: 002F1B83
+msgid ""
+"腰痛に良く効く温泉がありますよ。"
+msgstr "The hot spring here is famous for helping back pain."
+
+#: 002F1BB5
+msgid ""
+"バーク：そういや、最近、腰の具合が・・・"
+msgstr "Burke: Speaking of, my back's been really sore lately..."
+
+#: 002F1BEF
+msgid ""
+"カイ：ええ？！"
+msgstr "Kai: Wait, really!?"
+
+#: 002F1C0F
+msgid ""
+"バーク：ハハ・・・冗談だよ。冗談。"
+msgstr "Burke: Hahaha... I'm just messing with you guys."
+
+#: 002F1C61
+msgid ""
+"女：温泉には行かれました？"
+msgstr ""
+
+#: 002F1C7F
+msgid ""
+"すっごく腰痛に効くんですよ。"
+msgstr "It's really good for sore backs."
+
+#: 002F1CBA
+msgid ""
+"女：温泉には行かれました？"
+msgstr "Woman: Did you try out the hot spring?"
+
+#: 002F1CD8
+msgid ""
+"すっごく腰痛に・・・"
+msgstr "Really good for backs..."
+
+#: 002F1CFE
+msgid ""
+"バーク：やたら腰痛にこだわるな。"
+msgstr "Burke: She said it twice."
+
+#: 002F1D22
+msgid ""
+"もしかして・・・"
+msgstr "Could it be...?"
+
+#: 002F1D44
+msgid ""
+"女：え？"
+msgstr "Woman: Eh?"
+
+#: 002F1D50
+msgid ""
+"い、いやですわ！"
+msgstr "N-no!"
+
+#: 002F1D64
+msgid ""
+"そんな、おほ、"
+msgstr "No no, haha."
+
+#: 002F1D76
+msgid ""
+"おほほほほほほほほほほほほほほほほほほほほほほほほほほほほほほほほほ"
+msgstr "Hahahahahahahahahahhaahahhaa!"
+
+#: 002F1DDF
+msgid ""
+"女：魔導師を探してるんですって？"
+msgstr "Woman: You said you were looking for a magician?"
+
+#: 002F1E03
+msgid ""
+"うーん、そういえば"
+msgstr "Hmm, now that you mention it,"
+
+#: 002F1E19
+msgid ""
+"こないだ、ケガをして運びこまれて来たおじいさんがいたけど"
+msgstr "There was an injured old man carried here earlier."
+
+#: 002F1E55
+msgid ""
+"いかにも！って感じだったような気が・・・"
+msgstr "\"That's him!\" just flashed in my head for some reason..."
+
+#: 002F1EAD
+msgid ""
+"女：剣士さんかぁ・・・"
+msgstr "Woman: A female knight..."
+
+#: 002F1EC7
+msgid ""
+"そういえば、あの人も今ごろ旅の空の下かしら。"
+msgstr "That reminds me, I wonder how his journey is going right now..."
+
+#: 002F1F12
+msgid ""
+"女：私のカレが、強くなりたいって旅に出たんです。"
+msgstr "Woman: My boyfriend is traveling to get stronger."
+
+#: 002F1F46
+msgid ""
+"風のうわさでは、新ハインローグ城で仕官するとかしないとか。"
+msgstr ""
+"Word is that he might be at the New Heinrogue Castle looking to find a job."
+
+#: 002F1F84
+msgid ""
+"もし、仕官したら、私をむかえにきてくれないかな・・・"
+msgstr "If he does, I wonder if he'd come and bring me with him..."
+
+#: 002F1FBC
+msgid ""
+"なんてねっ。"
+msgstr "Just kidding~"
+
+#: 002F2031
+msgid ""
+"ミシリア：だめよ。薬をもらいにいかなくちゃ。"
+msgstr "Michelia: Uh-uh. We haven't given him the medicine yet!"
+
+#: 002F2074
+msgid ""
+"ミシリア：さあ、療養所に行きましょう。"
+msgstr "Michelia: Let's hurry back to the clinic."
+
+#: 002F20B1
+msgid ""
+"ミシリア：待ってよ、カイ。"
+msgstr "Michelia: Wait a moment, Kai."
+
+#: 002F20CF
+msgid ""
+"明日には魔導師のマールさんに会うのよ。"
+msgstr "We're going to meet Marl at the clinic tomorrow, remember?"
+
+#: 002F20F9
+msgid ""
+"今、村を出るわけにはいかないでしょ。"
+msgstr "We can't just leave now."
+
+#: 002F2134
+msgid ""
+"バーク：おいおい、待てよ。"
+msgstr "Burke: Hey hey, hold your horses."
+
+#: 002F2152
+msgid ""
+"今日中に、あの療養所に行かないと魔導師に会えないぞ。"
+msgstr "We can't meet that magician if we don't drop by the clinic."
+
+#: 00336327
+msgid ""
+"老人：そういえば、療養所に運ばれたじいさんがいたが、"
+msgstr "Elderly Man: Oh yeah, an older man was carried to the clinic,"
+
+#: 0033635F
+msgid ""
+"持ち物を全部うばわれたらしいのう。"
+msgstr "but all of his money was stolen."
+
+#: 00336385
+msgid ""
+"これから、どうするつもりなんじゃろ？"
+msgstr "I wonder what he's going to do?"
+
+#: 003363C0
+msgid ""
+"老人：最近は何やら、"
+msgstr "Elderly Man: It seems a dangerous disease"
+
+#: 003363D8
+msgid ""
+"怪物になる病とかが流行っているらしいのう。"
+msgstr "that turns people into monsters has been spreading."
+
+#: 00336406
+msgid ""
+"くわばら、くわばら。"
+msgstr ""
+
+#: 00336452
+msgid ""
+"老人：いたいけな老人のあり金をうばうやつがいるとは"
+msgstr "Elderly Man: It's a terrible world we live in where someone"
+
+#: 00336488
+msgid ""
+"ろくでもない話じゃのう。"
+msgstr "would rob an old man of his money on the road."
+
+#: 003364BF
+msgid ""
+"老人：わしも気をつけんとな。"
+msgstr "Old Man: I'll have to be careful myself."
+
+#: 003364DF
+msgid ""
+"くわばら、くわばら。"
+msgstr "Heaven forbid it reaches us here."
+
+#: 00336518
+msgid ""
+"女：すぐそこにあるのが療養所。"
+msgstr "Woman: The clinic is just up ahead."
+
+#: 0033653A
+msgid ""
+"ようするに病院ね。"
+msgstr "Think of it as a more comfortable hospital."
+
+#: 00336550
+msgid ""
+"その向こうにあるのが、温泉。"
+msgstr "Further along is the hot spring."
+
+#: 00336570
+msgid ""
+"あったまるわよー。"
+msgstr "It's really warm and refreshing~"
+
+#: 00336599
+msgid ""
+"女：最近の流行病は温泉でも治らないんだって。"
+msgstr "Woman: I've heard the latest epidemic can't be cured by the hot spring."
+
+#: 003365C9
+msgid ""
+"怖いねー。"
+msgstr "How scary..."
+
+#: 0033660B
+msgid ""
+"女：ケガしたら療養所に行く。"
+msgstr "Woman: If you're injured, then head over to the clinic."
+
+#: 0033662B
+msgid ""
+"そしてゆっくり休むのよ！"
+msgstr "You can take a nice, long rest there!"
+
+#: 00336662
+msgid ""
+"女：温泉でぬくぬくするのもいいわねー。"
+msgstr ""
+"Woman: The hot spring's a great way to let the travel fatigue float away~"
+
+#: 0033668C
+msgid ""
+"お肌もすべすべ。"
+msgstr "And it leaves your skin feeling nice and smooth!"
+
+#: 003366C1
+msgid ""
+"女：この間、変なおじいさんが運びこまれてきたのよ。"
+msgstr "Woman: An odd old man was carried here recently."
+
+#: 003366F7
+msgid ""
+"もー、体中血まみれで・・・"
+msgstr "He was covered in blood..."
+
+#: 00336715
+msgid ""
+"ぶるぶるぶる・・・"
+msgstr "*shudders*..."
+
+#: 00336739
+msgid ""
+"ミシリア：もしかしたら、その人が魔導師じゃ・・・"
+msgstr "Michelia: Do you think that could be the magician...?"
+
+#: 0033677B
+msgid ""
+"カイ：うん、確かめてみよう。"
+msgstr "Kai: I think so too. We should take a look."
+
+#: 003367AE
+msgid ""
+"女：他の村では、変な病気が流行ってるそうじゃない。"
+msgstr "Woman: I've heard an epidemic is ravaging other villages."
+
+#: 003367E4
+msgid ""
+"患者が、姿を消しちゃうんですって。"
+msgstr "They say their bodies even disappear afterwards."
+
+#: 0033680A
+msgid ""
+"どういうことかしら？"
+msgstr "What could it mean?"
+
+#: 00336856
+msgid ""
+"女：うちのダンナったら"
+msgstr "Woman: My husband, ugh."
+
+#: 00336870
+msgid ""
+"腰が痛いだのなんだのって。"
+msgstr "He kept complaining that his back hurts."
+
+#: 0033688E
+msgid ""
+"うるさいのよ。"
+msgstr "It's got really annoying."
+
+#: 003368BB
+msgid ""
+"女：でも、ここは空気もキレイで、景色もばっちり。"
+msgstr "Woman: But, the air is clean here and the scenery's just lovely."
+
+#: 003368EF
+msgid ""
+"私も温泉を楽しみたくなってきちゃった。"
+msgstr "Now I'm starting to get excited about the hot spring!"
+
+#: 003369A7
+msgid ""
+"カイ：・・・どうしよう、温泉に入っていっちゃった。"
+msgstr "Kai: What now, she went into the hot spring..."
+
+#: 003369EB
+msgid ""
+"バーク：と、いうことは・・・ニヤリ。"
+msgstr "Burke: What now, indeed. *smirk*"
+
+#: 00336A13
+msgid ""
+"そりゃあ、男たるもの、やることは一つだな。"
+msgstr "As a man, there's only one thing to do here."
+
+#: 00336A41
+msgid ""
+"よし、のぞけ。"
+msgstr "Alright, go peek at her."
+
+#: 00336A61
+msgid ""
+"カイ：バ、バババ、バーク！"
+msgstr "Kai: B-B-B-B-BURKE!"
+
+#: 00336A8D
+msgid ""
+"バーク：いいから行って来い！"
+msgstr "Burke: Come on, go for it!"
+
+#: 00336B6E
+msgid ""
+"カイ：うわっ！"
+msgstr "Kai: WOAH!"
+
+#: 00336BC3
+msgid ""
+"ミシリア：きゃあああああああああああああああ！"
+msgstr "Michelia: AHHHHHHHHHH!!!!!"
+
+#: 00336BF5
+msgid ""
+"カイ？！"
+msgstr "KAI!?"
+
+#: 00336C0F
+msgid ""
+"カイ：ご、ごめん！これはバークがっっ！"
+msgstr "Kai: S-Sorry! Burke just--"
+
+#: 00336C47
+msgid ""
+"ミシリア：ばかばかばかばかばかばかばかエッチ！"
+msgstr "Michelia: STUPID STUPID STUPID IDIOT FACE PERVERT!"
+
+#: 00336C79
+msgid ""
+"もう！知らない！"
+msgstr "Don't talk to me ever again!!"
+
+#: 00336C9B
+msgid ""
+"かぽーんっ。"
+msgstr "*SMACK*"
+
+#: 00336CAB
+msgid ""
+"ばたっ。"
+msgstr "*THUD*"
+
+#: 00336CDB
+msgid ""
+"ミシリア：あら・・・・・・？"
+msgstr "Michelia: Huh...?"
+
+#: 00336CFB
+msgid ""
+"・・・・・・カイ？！"
+msgstr "...Kai!?"
+
+#: 00336D13
+msgid ""
+"カイ：・・・・・・"
+msgstr "Kai: ..."
+
+#: 0037A999
+msgid ""
+"船主：ここはラーセント湖と言ってね。"
+msgstr ""
+
+#: 0037A9C1
+msgid ""
+"真ん中のちっちゃい島に、聖獣のほこらってやつがあるんだ。"
+msgstr ""
+
+#: 0037A9FD
+msgid ""
+"で、ここだけの話だけど、聖獣のほこらには、すごい武器があるらしいよ。"
+msgstr ""
+"Now, this is just between us, but I've heard there's an amazing weapon there."
+
+#: 0037AA45
+msgid ""
+"・・・気になるって顔してるな。２０００ガメで向こうにわたしてやろうか？"
+msgstr "...if that interest's ya, 2,000 gahme will get you there."
+
+#: 0037AA8F
+msgid ""
+"その気になったら、さん橋に行ってくれ。"
+msgstr "Just meet me at the wharf and say the word."
+
+#: 0037AAD4
+msgid ""
+"船主：聖獣のほこらに行きたかったら、"
+msgstr "Ship Captain: If you wanna go to the Sacred Beast shrine,"
+
+#: 0037AAFC
+msgid ""
+"２０００ガメを持って、さん橋に行ってくれ。"
+msgstr "bring 2,000 gahme and meet me at the wharf."
+
+#: 0037AB2A
+msgid ""
+"そうしたら、わたしてやるよ。"
+msgstr "I'll get you over there, no problem."
+
+#: 0037AB67
+msgid ""
+"船主：残念ながら、舟は出せないよ。"
+msgstr "Ship Captain: Sorry, but she ain't sailing right now."
+
+#: 0037AB8D
+msgid ""
+"舟底がくさっちまってて、直すのに時間がかかっちまうんだ。"
+msgstr "The bilge is in bad shape and will take some time to repair."
+
+#: 0037ABE4
+msgid ""
+"船主：ここはラーセント湖と言ってね。"
+msgstr "Ship Captain: This here's Lacent Lake."
+
+#: 0037AC0C
+msgid ""
+"真ん中のちっちゃい島に、聖獣のほこらってやつがあるんだ。"
+msgstr "Right in the center's a small island with a shrine to the Sacred Beast."
+
+#: 0037AC48
+msgid ""
+"あんまり行く人はいないけどね。"
+msgstr "Not that there's many customers anyway."
+
+#: 0037ACBA
+msgid ""
+"船主：２０００ガメはらってくれるのか？"
+msgstr "Ship Captain: Here to pay me 2,000 gahme?"
+
+#: 0037ACF2
+msgid ""
+"○ボタン＿はらう＿×ボタン＿やめる"
+msgstr "○: Pay ×: Leave"
+
+#: 0037AD43
+msgid ""
+"２０００ガメはらった。"
+msgstr "You paid 2,000 gahme."
+
+#: 0037AD6B
+msgid ""
+"船主：よし、ちょっと待ってろ。"
+msgstr "Ship Captain: Alright, let's get sailing!"
+
+#: 0037ADA4
+msgid ""
+"船主：ほら、見えてきただろう。あれが聖獣のほこらだ。"
+msgstr ""
+"Ship Captain: Look, you can see it coming into view. That there's the Sacred "
+"Beast shrine."
+
+#: 0037ADF9
+msgid ""
+"船主：冗談じゃねえ！足りないじゃないか！"
+msgstr "Ship Captain: Yer kidding me, right!? This ain't 2,000 gahme!"
+
+#: 0037AE54
+msgid ""
+"船主：なんでえ、ひやかしか。"
+msgstr "Ship Captain: If yer just window shopping, then scram!"
+
+#: 0037AFB4
+msgid ""
+"バーク：なんだ？今のやつ、あぶねーな・・・っ！"
+msgstr "Burke: What the? Hey, that was dangerous!!"
+
+#: 0037AFF4
+msgid ""
+"ミーナ：今の・・・・・・"
+msgstr "Minna: That was..."
+
+#: 0037B032
+msgid ""
+"バーク：今のやつを知っているのか？"
+msgstr "Burke: What, you know that guy?"
+
+#: 0037B074
+msgid ""
+"ミーナ：え？"
+msgstr "Minna: Eh?"
+
+#: 0037B0A0
+msgid ""
+"・・・・・・い、いいえ。"
+msgstr "...n-no?"
+
+#: 0037B0D8
+msgid ""
+"バーク：なんか変だな・・・？"
+msgstr "Burke: You're acting kinda fishy...?"
+
+#: 0037B0F8
+msgid ""
+"ま、いいけどよ。"
+msgstr "Eh, oh well."
+
+#: 003BF1E0
+msgid ""
+"男：やっぱり悪いやつは、その報いをうけるんだよ！"
+msgstr "Man: Villains always get the retribution they deserve!"
+
+#: 003BF214
+msgid ""
+"何でも、身も心も怪物になってしまうそうじゃないか！"
+msgstr "Minds and body alike all become monsters!"
+
+#: 003BF24A
+msgid ""
+"世の中、どうなっちまうんだ？"
+msgstr "Really, just what's happening in this world?"
+
+#: 003BF296
+msgid ""
+"男：この前、村の外で変なじいさんを見つけたんだ。"
+msgstr "Man: I found a strange old man outside of town earlier."
+
+#: 003BF2CA
+msgid ""
+"ひどくやられててさ、死んでるかと思ったよ。"
+msgstr "He was nearly beaten to death and covered in blood."
+
+#: 003BF2F8
+msgid ""
+"しかも、人間にやられたって言うじゃないか。"
+msgstr "Not only that, but he said it wasn't a human's doing!"
+
+#: 003BF326
+msgid ""
+"ひどい話もあったもんだ。"
+msgstr "How horrible..."
+
+#: 003BF35D
+msgid ""
+"男：こんな世の中じゃ、誰も信用できないよ。"
+msgstr "Man: No one can be trusted in this world."
+
+#: 003BF38B
+msgid ""
+"なあ、あんたはどう思う？"
+msgstr "How about you, what do you think?"
+
+#: 003BF3C8
+msgid ""
+"男：この先の森の奥にはな、なんと"
+msgstr "Man: Deep in the forest,"
+
+#: 003BF3EC
+msgid ""
+"成長する宝箱があるんだよ。"
+msgstr "there's apparently a treasure chest that grows!"
+
+#: 003BF40A
+msgid ""
+"中身がな、変わるんだよ。"
+msgstr "The contents apparently change over time."
+
+#: 003BF426
+msgid ""
+"ま、確かめられるのは、一回だから実際には分からんがな。"
+msgstr "Well, it's hard to verify since you can only open it once."
+
+#: 003BF473
+msgid ""
+"男：薬屋なら、左がわのたてものだよ。"
+msgstr ""
+"Man: If you're looking for the pharmacist, it's the building on the left."
+
+#: 003BF49B
+msgid ""
+"うではいいんだが、ちょっと酒ぐせが悪くてな。"
+msgstr "He's good at his job, but has a bit of an alcohol problem."
+
+#: 003BF4CB
+msgid ""
+"昔はそうでもなかったんだが・・・"
+msgstr "He wasn't like that in the past..."
+
+#: 003BF523
+msgid ""
+"男：ここは療養の村だとか言われてるんだが、"
+msgstr "Man: This village is known as the healing village,"
+
+#: 003BF551
+msgid ""
+"この先の森にまで、魔物が出るようになっちまって・・・"
+msgstr "but monsters are starting to show up in the surrounding forest..."
+
+#: 003BF589
+msgid ""
+"こんだけ魔物がうろついてちゃ、誰も来なくなっちまうんじゃねえの？"
+msgstr ""
+"No one's gonna come here if they have to risk monster attacks, you know?"
+
+#: 003BF5E8
+msgid ""
+"男：療養にやってきて、"
+msgstr "Man: People are getting injured trying"
+
+#: 003BF602
+msgid ""
+"何かにおそわれてケガしたんじゃ、シャレにならねぇ。"
+msgstr "to reach the clinic, it's ridiculous!"

@@ -1,0 +1,1544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-05 20:12-0400\n"
+"PO-Revision-Date: 2022-12-06 22:13+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d1_s00_s005/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00044923
+msgid ""
+"フロント：いらっしゃいませ。お泊まりでしょうか？"
+msgstr "Front Desk: Welcome. Staying the night?"
+
+#: 00044970
+msgid ""
+"カイ：ここのおかみさんにお会いしたいのですが。"
+msgstr "Kai: We'd like to meet with the proprietress, if that's okay."
+
+#: 000449B0
+msgid ""
+"フロント：おかみさんにですか？わかりました。少々お待ちください。"
+msgstr "Front Desk: Sure, please wait a moment."
+
+#: 00044AE6
+msgid ""
+"おかみ：いらっしゃいませ。私にいったい何のご用ですか。"
+msgstr "Proprietress: Welcome. What can I do for you guys?"
+
+#: 00044B53
+msgid ""
+"カイ：あの、実はわたしたい物があって来たんですけど・・・"
+msgstr "Kai: Um, we have something we'd like to give you..."
+
+#: 00044BA8
+msgid ""
+"おかみ：私にわたしたい物とは何でしょう？"
+msgstr "Proprietress: Something for me?"
+
+#: 00044C50
+msgid ""
+"ミシリア：あの・・・これ・・・"
+msgstr "Michelia: Um... here..."
+
+#: 00044CE6
+msgid ""
+"おかみ：これは・・・あの人の・・・"
+msgstr "Proprietress: This is... his..."
+
+#: 00044D17
+msgid ""
+"ミシェルの・・・"
+msgstr "Michel's..."
+
+#: 00044D4F
+msgid ""
+"バーク：ま、まあ、何て言うか・・・"
+msgstr "Burke: Yeah, um, you see... I mean..."
+
+#: 00044D99
+msgid ""
+"ミシリア：・・・・・・"
+msgstr "Michelia: ..."
+
+#: 00044DC1
+msgid ""
+"カイ：・・・・・・"
+msgstr ""
+
+#: 00044E17
+msgid ""
+"おかみ：そう・・・"
+msgstr "Proprietress: I see..."
+
+#: 00044E5F
+msgid ""
+"ミシリア：あ、あの・・・"
+msgstr "Michelia: U-um...!"
+
+#: 00044EA2
+msgid ""
+"おかみ：いいんですよ、何も言わなくて・・・"
+msgstr "Proprietress: It's okay, you don't have to say anything..."
+
+#: 00044EDB
+msgid ""
+"いつか、こんな日がくるって事はわかってた・・・"
+msgstr "I knew this day would come..."
+
+#: 00044F18
+msgid ""
+"だから・・・"
+msgstr "I knew..."
+
+#: 00044F41
+msgid ""
+"カイ：・・・・・・"
+msgstr ""
+
+#: 00044F81
+msgid ""
+"おかみ：あ、ごめんなさいね。せっかく来てくれたんだから"
+msgstr "Proprietress: Ah, please don't worry about me."
+
+#: 00044FC6
+msgid ""
+"泊まっていって下さいな。"
+msgstr "Please stay here as thanks for delivering this."
+
+#: 00045009
+msgid ""
+"カイ：じゃあ、今日はこの宿に泊めてもらおう。"
+msgstr "Kai: We'll take you up on that then."
+
+#: 00045047
+msgid ""
+"おかみ：ぜひ、そうして下さい。"
+msgstr "Proprietress: Please do."
+
+#: 0004508D
+msgid ""
+"バーク：ありがとよ。"
+msgstr "Burke: Thanks."
+
+#: 000450BE
+msgid ""
+"おかみ：いえいえ、お礼を言うのはこちらの方ですよ。"
+msgstr "Proprietress: No no, it's the least I could do."
+
+#: 00045105
+msgid ""
+"・・・朝・・・"
+msgstr ""
+
+#: 00045185
+msgid ""
+"フロント：おはようございます。"
+msgstr "Front Desk: Good morning."
+
+#: 000451DD
+msgid ""
+"バーク：いまからどうするんだ？"
+msgstr "Burke: Now what?"
+
+#: 0004520D
+msgid ""
+"カイ：この町の長老に会いに行こうと思っている。"
+msgstr "Kai: I figured we could try meeting with the village Elder."
+
+#: 0004523F
+msgid ""
+"ミシリアの親戚についてなにか教えてもらえるかもしれない。"
+msgstr "Maybe they'd have an idea about Michelia's family."
+
+#: 00045297
+msgid ""
+"フロント：いらっしゃいませ。"
+msgstr ""
+
+#: 000452C5
+msgid ""
+"バーク：今日もよろしくたのむぜ。"
+msgstr ""
+
+#: 000452FA
+msgid ""
+"・・・朝・・・"
+msgstr ""
+
+#: 0004531A
+msgid ""
+"フロント：お客様。"
+msgstr "Front Desk: Excuse me."
+
+#: 00045330
+msgid ""
+"げんかんの方にお会いしたいという方が来ております。"
+msgstr "There's a person who would like to meet with you in the lobby."
+
+#: 00045374
+msgid ""
+"カイ：僕に？"
+msgstr "Kai: Me?"
+
+#: 00045392
+msgid ""
+"フロント：はい。"
+msgstr "Front Desk: Yes."
+
+#: 00045468
+msgid ""
+"カイ：ミシリア！"
+msgstr "Kai: Michelia!"
+
+#: 0004548A
+msgid ""
+"おば：１日、主人と話し合ったんだけどね。"
+msgstr "Older Woman: We watched over her for a night, as promised."
+
+#: 000454C1
+msgid ""
+"やっぱり、私たちにはこの娘をやしなっていくことはできないよ。"
+msgstr "Unfortunately, we really don't have the money to feed another mouth."
+
+#: 0004550C
+msgid ""
+"夫婦２人で食べていくことがせいいっぱいさ。"
+msgstr "We can barely get by with the two of us."
+
+#: 00045553
+msgid ""
+"カイ：・・・・・・"
+msgstr ""
+
+#: 00045594
+msgid ""
+"おば：それに、この娘もあんた達といっしょに旅をしたがっていてね。"
+msgstr "Older Woman: That, and this girl wishes to travel with you anyway."
+
+#: 000455E3
+msgid ""
+"悪く思わないでくれよ。"
+msgstr "Please don't think badly of us."
+
+#: 00045624
+msgid ""
+"カイ：・・・わかったよ。"
+msgstr "Kai: ...I understand."
+
+#: 000456B6
+msgid ""
+"これからは今までいじょうに危険な旅になる。"
+msgstr "Our journey will only get more dangerous from here."
+
+#: 000456E4
+msgid ""
+"それでも・・・いっしょに来るかい？"
+msgstr "Even so... you'll come with us?"
+
+#: 0004575E
+msgid ""
+"ミシリア：うん！"
+msgstr "Michelia: Of course!"
+
+#: 00045804
+msgid ""
+"バーク：話もまとまったみたいだし出発するか。"
+msgstr "Burke: Now that that's settled, shall we hit the road?"
+
+#: 00045889
+msgid ""
+"ミシリア：ところで、どこに行くの？"
+msgstr "Michelia: Speaking of, where are we going next?"
+
+#: 000458D3
+msgid ""
+"バーク：え？・・・いや、あの、えーっと・・・"
+msgstr "Burke: Huh? I'm, uh... What was it again... Having a brain fart..."
+
+#: 00045952
+msgid ""
+"カイ：サナトリの村の魔導師に言われたけど、"
+msgstr ""
+
+#: 0004598B
+msgid ""
+"一度新ハインローグ城に行ってみようと思うんだ。"
+msgstr ""
+
+#: 000459ED
+msgid ""
+"バーク：そ、そうだったな。よ、よーし、出発だ！"
+msgstr ""
+"Burke: O-oh right, right! I was listening, honest, I just forgot. Let's go!"
+
+#: 00045A77
+msgid ""
+"フロント：いらっしゃいませ。"
+msgstr ""
+
+#: 00045AA5
+msgid ""
+"バーク：今日もよろしくたのむぜ。"
+msgstr "Burke: We're back for another night."
+
+#: 00045ADA
+msgid ""
+"・・・朝・・・"
+msgstr "...Morning..."
+
+#: 00045B27
+msgid ""
+"ミシリア：ところで、これからどこに行くの？"
+msgstr "Michelia: Speaking of, where are we heading next?"
+
+#: 00045B63
+msgid ""
+"カイ：サナトリの村の魔導師に言われたけど、"
+msgstr "Kai: The magician in Sanitas Village said"
+
+#: 00045B91
+msgid ""
+"一度新ハインローグ城に行ってみようと思うんだ。"
+msgstr "that we should try the New Heinrogue Castle."
+
+#: 00045BD1
+msgid ""
+"バーク：よっしゃー出発だ！"
+msgstr "Burke: Alright, let's go!"
+
+#: 00045C76
+msgid ""
+"フロント：いらっしゃいませ。"
+msgstr "Front Desk: Welcome."
+
+#: 00045C96
+msgid ""
+"お一人様１０ガメになります。"
+msgstr "The room comes out to 10 Gahme a person."
+
+#: 00045CC4
+msgid ""
+"○ボタン＿泊る＿×ボタン＿やめる"
+msgstr ""
+
+#: 00045CFE
+msgid ""
+"またのおこしをおまちしております。"
+msgstr ""
+
+#: 00045D40
+msgid ""
+"おはようございます。"
+msgstr "Good morning."
+
+#: 00045D58
+msgid ""
+"ゆうべはよくおやすみになれましたか？"
+msgstr "Did you sleep okay last night?"
+
+#: 00045DAA
+msgid ""
+"申しわけありませんが、お金が不足しておりまして・・・"
+msgstr ""
+
+#: 00045DE2
+msgid ""
+"またのおこしをおまちしております。"
+msgstr ""
+
+#: 0008910D
+msgid ""
+"店員：いらっしゃいませ"
+msgstr ""
+
+#: 000CD90D
+msgid ""
+"店員：いらっしゃいませ"
+msgstr ""
+
+#: 0011210D
+msgid ""
+"店員：いらっしゃいませ"
+msgstr ""
+
+#: 0015690D
+msgid ""
+"店員：いらっしゃいませ"
+msgstr "Shopkeep: Welcome."
+
+#: 001675B7
+msgid ""
+msgstr ""
+
+#: 0019B33C
+msgid ""
+"管理者：それは王国所有の船です。"
+msgstr "Warden: That's the royal family's ship."
+
+#: 0019B360
+msgid ""
+"近寄らないでください。"
+msgstr "Please stay away."
+
+#: 0019B38D
+msgid ""
+"管理者：船乗りがいないと船は出せません。"
+msgstr "Warden: We can't leave till you get on board."
+
+#: 0019B3FB
+msgid ""
+"ＤＩＳＣ＿２に入れかえるためにデータをセーブしますか。"
+msgstr "You must save before switching to Disc 2. Save now?"
+
+#: 0019B443
+msgid ""
+"○ボタン＿はい＿×ボタン＿いいえ"
+msgstr "○ Yes × No"
+
+#: 0019B47A
+msgid ""
+"ここでセーブを行わないとＤＩＳＣ＿２へ入ることができません。"
+msgstr "If you don't save here, you can't load Disc 2."
+
+#: 0019B529
+msgid ""
+"カイ：せっかくだから船にのって封印の島に行ってみよう。"
+msgstr "Kai: We might as well get on the ship and head for the Sealed Island."
+
+#: 0019B59B
+msgid ""
+"カイ：まだ、この町から出るわけにはいかないな。"
+msgstr "Kai: We can't leave the city just yet."
+
+#: 0019B609
+msgid ""
+"カイ：もしかして、この船の船乗りかい？"
+msgstr "Kai: Are you a passenger on this ship?"
+
+#: 0019B64C
+msgid ""
+"男：いいえ、私はこの船の管理を任された者です。"
+msgstr "Man: No, I'm the person in charge here."
+
+#: 0019B689
+msgid ""
+"もしかしてカイ様でしょうか？"
+msgstr "Are you Sir Kai by any chance?"
+
+#: 0019B6C2
+msgid ""
+"カイ：ああ、そうだけど。"
+msgstr "Kai: Ah yes, that's me."
+
+#: 0019B6F7
+msgid ""
+"管理者：そうですか、お待ちしておりました。"
+msgstr "Warden: I see, we've been waiting for your arrival, sir."
+
+#: 0019B725
+msgid ""
+"申しわけありません。事前に船乗りのぼしゅうは行ないましたが"
+msgstr "I'm terribly sorry, but despite trying to recruit more sailors,"
+
+#: 0019B763
+msgid ""
+"ぜんぜん集められませんで・・・すみません。"
+msgstr "we haven't had any bites... Sorry."
+
+#: 0019B7AA
+msgid ""
+"カイ：あなたの責任じゃないよ。船乗りは自分たちで集めるから平気だよ。"
+msgstr "Kai: It's not your fault. We'll help you find some."
+
+#: 0019B82E
+msgid ""
+"管理者：さっきから、そこの男がなにかしているんですが・・・"
+msgstr "Warden: That guy over there's been up to something..."
+
+#: 0019B896
+msgid ""
+"管理者：今のままじゃ、船は動かせません。"
+msgstr "Warden: We can't set sail like this."
+
+#: 0019B8DA
+msgid ""
+"管理者：どうぞ、お気をつけて。カイ様。"
+msgstr "Warden: After you, Sir Kai. Do be careful."
+
+#: 0019B920
+msgid ""
+"娘：もう夜だわ。そろそろ帰らないと・・・"
+msgstr "Woman: It's getting dark. I gotta head back soon..."
+
+#: 0019B969
+msgid ""
+"娘：ここは、港町ノーザラスよ。"
+msgstr "Girl: This is the port city of Nohzarath."
+
+#: 0019B9A6
+msgid ""
+"娘：でも最近、船なんか出ていないわ。"
+msgstr "Girl: But lately, boats haven't been able to sail."
+
+#: 0019B9CE
+msgid ""
+"港の名前がなくわね。"
+msgstr "It's not much of a port without that, is it?"
+
+#: 0019B9FD
+msgid ""
+"男：海には出たいんですが・・・魔物が・・・"
+msgstr "Man: I wanna go to see... But those damn monsters..."
+
+#: 0019BA2B
+msgid ""
+"ああ、船の上が恋しい・・・"
+msgstr "Ahh, how I long for the romance of the sea..."
+
+#: 0019BA86
+msgid ""
+"船乗り：よう。"
+msgstr "Sailor: Yo."
+
+#: 0019BAB1
+msgid ""
+"バーク：おう。"
+msgstr "Burke: Sup."
+
+#: 0019BACE
+msgid ""
+"どうしたんだ、出航の準備なんかして？"
+msgstr "So you gonna get the ship ready or what?"
+
+#: 0019BB0F
+msgid ""
+"カイ：これが答えなのかい？"
+msgstr "Kai: Is this the answer."
+
+#: 0019BB4F
+msgid ""
+"船乗り：そういうことだ。メイワクだったか？"
+msgstr "Sailor: That's right. Give you a hard time?"
+
+#: 0019BB96
+msgid ""
+"カイ：とんでもない、すごくうれしいよ。えーっと・・・"
+msgstr "Kai: Not at all, I had fun, um... What was your name?"
+
+#: 0019BBE7
+msgid ""
+"船乗り：おっと、そういやまだなまえを言ってなかったっけ。"
+msgstr "Sailor: Oh right, guess I never told ya."
+
+#: 0019BC23
+msgid ""
+"俺のなまえはバロア。見ての通りの船乗りだ。"
+msgstr "The name's Baroa. As you can see, I sail the seven seas."
+
+#: 0019BC6A
+msgid ""
+"カイ：僕は、カイ＝オルフェアス。"
+msgstr "Kai: My name's Kai Orpheus."
+
+#: 0019BCA7
+msgid ""
+"バーク：俺はバークだ。"
+msgstr "Burke: I'm Burke."
+
+#: 0019BCCF
+msgid ""
+"サリナ：あたしはサリナ。よろしくな。"
+msgstr "Sarina: I'm Sarina, good to meet you."
+
+#: 0019BD05
+msgid ""
+"ミシリア：ミシリアです。"
+msgstr "Michelia: I'm Michelia."
+
+#: 0019BD2F
+msgid ""
+"ミーナ：ミーナといいます。"
+msgstr "Minna: My name is Minna. Pleasure."
+
+#: 0019BD66
+msgid ""
+"バロア：よし、それじゃあ船に乗る前にこれだけは守ってくれ。"
+msgstr ""
+"Baroa: Alright, before we get on that boat, I've got just one thing to say."
+
+#: 0019BDBD
+msgid ""
+"バーク：なんだ？"
+msgstr "Burke: And what's that?"
+
+#: 0019BDEA
+msgid ""
+"バロア：船の上では俺のめいれいは守る。いいな？"
+msgstr "Baroa: When we're at sea, my word's law. Any problems with that?"
+
+#: 0019BE35
+msgid ""
+"カイ：うん、わかったよ。"
+msgstr "Kai: Okay, works for me."
+
+#: 0019BE6A
+msgid ""
+"バロア：よし、じゃあ町でじゅんびしてから出発だ！"
+msgstr "Baroa: It's settled then! Let's stock up then hit the waves!"
+
+#: 0019BEB7
+msgid ""
+"バーク：おう！"
+msgstr "Burke: Alright!"
+
+#: 0019BFF5
+msgid ""
+"ミシリア：なんだか、暗くなってきたわ。"
+msgstr ""
+
+#: 0019C02D
+msgid ""
+"バーク：酒場に行ってみようぜ。夜には船乗りがいるらしいからな。"
+msgstr ""
+
+#: 001DFB24
+msgid ""
+"バーク：夜だぜ。話を聞きに酒場へ行こうぜ。"
+msgstr "Burke: It's night, so let's hear the word at the bar."
+
+#: 001DFB60
+msgid ""
+"ミーナ：自分が飲みたいだけじゃないのか？"
+msgstr "Minna: You just want to drink, don't you?"
+
+#: 001DFB9A
+msgid ""
+"バーク：なんか言ったか？"
+msgstr "Burke: You say something?"
+
+#: 001DFBC4
+msgid ""
+"ミーナ：空耳じゃないかしら？"
+msgstr "Minna: You're just hearing things."
+
+#: 001DFC5D
+msgid ""
+"女：早く家に帰ってごはんのしたくをしないと。"
+msgstr "Woman: I need to hurry home and prepare dinner."
+
+#: 001DFCB4
+msgid ""
+"女：船乗りをあつめているの？そうね、連中なら夜酒場に行けばたくさんいるわよ。"
+msgstr ""
+"Woman: Are you gathering sailors? You can find a lot at the bar at night."
+
+#: 001DFD22
+msgid ""
+"女：夜酒場に行けばたくさんいるわよ。"
+msgstr "Woman: A lot of them gather at the bar at night."
+
+#: 001DFD60
+msgid ""
+"女：あら、バロアさん。"
+msgstr "Woman: Oh, Baroa."
+
+#: 001DFD7A
+msgid ""
+"バロアさんなら安心して船をまかせられるわ。"
+msgstr "You'll be safe in his hands."
+
+#: 001DFDA8
+msgid ""
+"船乗りとしてはいい人だからね▽"
+msgstr "He's one of the best sailors we've got."
+
+#: 001DFDE6
+msgid ""
+"男：さて、酒場にでも行くとするか。"
+msgstr "Man: Hmm, should I go get a drink..."
+
+#: 001DFE33
+msgid ""
+"男：最近、海には怪物が出るようになったんだ。"
+msgstr "Man: Monsters have been appearing at sea lately."
+
+#: 001DFE63
+msgid ""
+"俺達船乗りは、誰も海に出たがらねぇよ。"
+msgstr "We may be sailors, but we're out of a job."
+
+#: 001DFE8D
+msgid ""
+"えっ！？俺をやといたい？悪いがほかをあたってくれ。"
+msgstr "Huh!? You wanna hire me? Sorry, but ask someone else."
+
+#: 001DFEC3
+msgid ""
+"俺もいのちがおしいんでね。"
+msgstr "I'm not risking my neck against those monsters."
+
+#: 001DFEFF
+msgid ""
+"男：悪いがほかをあたってくれ。"
+msgstr "Man: Sorry, but ask someone else."
+
+#: 001DFF37
+msgid ""
+"男：バロアか、相変わらずむぼうな奴だな・・・"
+msgstr "Man: Baroa, that guy's reckless as always..."
+
+#: 001DFF83
+msgid ""
+"男：もう夜か、酒場にでも行ってくるか。"
+msgstr "Man: It's night already? Guess it's time for a drink."
+
+#: 001DFFC0
+msgid ""
+"男：ああ、ぶっそうな世の中になっちまったもんだ。"
+msgstr "Man: Ahh, our world's really gone to shit, hasn't it..."
+
+#: 001E000E
+msgid ""
+"ニワトリ：ここっ。"
+msgstr "Chicken: Kokoo."
+
+#: 001E012B
+msgid ""
+"ミシリア：なんだか、暗くなってきたわ。"
+msgstr ""
+
+#: 001E0163
+msgid ""
+"バーク：酒場に行ってみようぜ。夜には船乗りがいるらしいからな。"
+msgstr ""
+
+#: 00224211
+msgid ""
+"カイ：カギがかかってるみたいだ・・・"
+msgstr "Kai: Looks like it's locked..."
+
+#: 00224271
+msgid ""
+"おやじ：へへっ。なんかかってくれよ。"
+msgstr "Creep: Hehe~ Buy something, will ya?"
+
+#: 002242E1
+msgid ""
+"おやじ：・・・あんた達にうりたいものが・・・"
+msgstr "Creep: ...if you guys are selling anything yourselves..."
+
+#: 00224311
+msgid ""
+"いやいい、また今度きてくれよ・・・"
+msgstr "...actually, maybe another time..."
+
+#: 0022434A
+msgid ""
+"おやじ：へへっ。俺のとっておきのやつをうってやるよ。"
+msgstr "Creep: Hehe~. I'm selling some fine stuff today."
+
+#: 002243DE
+msgid ""
+"おやじ：気にいってくれたかい？"
+msgstr "Creep: Anything catch your eye?"
+
+#: 0022440F
+msgid ""
+"おやじ：へい、らっしゃい！"
+msgstr "Creep: Ayy, welcome!"
+
+#: 00224490
+msgid ""
+"娘：いらっしゃいませ。うちの防具はさび止め加工してありますから"
+msgstr "Girl: Welcome. Our armor is designed to prevent rust,"
+
+#: 002244D2
+msgid ""
+"海の上できてもぜんぜん平気ですよ▽"
+msgstr "so you can wear it at sea, no problem."
+
+#: 00268A37
+msgid ""
+"お姉さん：ごめんなさい。今日はもう店じまいなの。"
+msgstr "Young Lady: I'm sorry, but we're closed for the day."
+
+#: 00268A6B
+msgid ""
+"また明日、いらしてね。"
+msgstr "Please come by again tomorrow!"
+
+#: 00268A98
+msgid ""
+"お姉さん：はい、いらっしゃい。"
+msgstr "Young Lady: Welcome in!"
+
+#: 00268ABA
+msgid ""
+"薬はいかが？体力回復は早め早めにね▽"
+msgstr "How about some medicine? It really gets your health back in a jiffy!"
+
+#: 00268B35
+msgid ""
+"老人：・・・・・・・・・・・・・・"
+msgstr ""
+
+#: 00268B5B
+msgid ""
+"店じまいだ。"
+msgstr "...shop's closed."
+
+#: 00268B7E
+msgid ""
+"老人：・・・・・・・・・・・・・・"
+msgstr "Old Man: ..."
+
+#: 00268BA4
+msgid ""
+"なにか買うのか？アクアがうちのおすすめ魔法だ。"
+msgstr "Want to buy something? I recommend the Aqua spell."
+
+#: 00268BD6
+msgid ""
+"てき全体を攻撃できるぜ。"
+msgstr "It'll hit all the enemies on the field."
+
+#: 00268C41
+msgid ""
+"男：もう夜か、家に帰るとするか。"
+msgstr "Man: It's getting late, I should get home already."
+
+#: 00268C82
+msgid ""
+"男：今、海にはモンスターが出るらしいってな。"
+msgstr "Man: They're saying the seas are full of monsters."
+
+#: 00268CB2
+msgid ""
+"船乗りたちは、みんなこわがっちまってるぜ。"
+msgstr "It's making all the sailors are too scared to sail."
+
+#: 00268CE0
+msgid ""
+"だらしのない連中だぜ。"
+msgstr "What a whiney bunch, come on..."
+
+#: 00268CFA
+msgid ""
+"えっ？俺を船乗りとして、やといたいって？"
+msgstr "Huh? You want me to be your sailor?"
+
+#: 00268D26
+msgid ""
+"・・・・・・・・・・・"
+msgstr "..."
+
+#: 00268D40
+msgid ""
+"あいたたたたっ。持病のしゃくが・・・残念だけど今度にしてくれないか。"
+msgstr ""
+"O-oh no, argh my chronic illness, it's back... Sorry, maybe another time."
+
+#: 00268DA6
+msgid ""
+"男：この危ない海の中、船を出すなんて正気のさたじゃないぜ。"
+msgstr "Man: You'd have to be a madman to set sail in seas like these."
+
+#: 00268EE0
+msgid ""
+"ミシリア：なんだか、暗くなってきたわ。"
+msgstr "Michelia: It's gotten dark before I even realized it."
+
+#: 00268F18
+msgid ""
+"バーク：酒場に行ってみようぜ。夜には船乗りがいるらしいからな。"
+msgstr "Burke: Let's check out the bar. We might find some sailors."
+
+#: 002AD1D8
+msgid ""
+"カイ：・・・・今日はもうよそう・・・"
+msgstr "Kai: ...it's getting late..."
+
+#: 002AD234
+msgid ""
+"バーテン：・・・お客さんにはお酒は売れないけど"
+msgstr "Bartender: ...I can't sell alcohol to you,"
+
+#: 002AD266
+msgid ""
+"おつまみなら売ってあげるよ。"
+msgstr "but I can serve you food if you'd like."
+
+#: 002AD2D9
+msgid ""
+"船乗り：ん、なんか用か？"
+msgstr "Sailor: Hmm? What'ya want?"
+
+#: 002AD303
+msgid ""
+"カイ：僕たち、これから船を出さなければならないんだ。"
+msgstr ""
+
+#: 002AD33B
+msgid ""
+"で、船乗りを探してるんだけど・・・"
+msgstr ""
+
+#: 002AD36F
+msgid ""
+"船乗り：悪いが、ほかをあたってくれ。"
+msgstr "Sailor: Sorry, but leave me alone."
+
+#: 002AD397
+msgid ""
+"魔物が出る海になんて、出る気にはなれないぜ。"
+msgstr "I'm not willing to tussle with monsters for my salary."
+
+#: 002AD3E2
+msgid ""
+"船乗り：何度きても、答えはかわらんぜ。"
+msgstr "Sailor: The answer's the same, no matter how much you ask."
+
+#: 002AD429
+msgid ""
+"船乗り：いやだ。俺は乗らねぇぞ。"
+msgstr "Sailor: No way. I'm not going out there."
+
+#: 002AD45B
+msgid ""
+"バーク：まだ何も言ってないぞ。"
+msgstr ""
+
+#: 002AD48B
+msgid ""
+"船乗り：向こうでの話しが丸聞こえだったぜ。"
+msgstr ""
+
+#: 002AD4C7
+msgid ""
+"カイ：・・・・・・"
+msgstr ""
+
+#: 002AD4F8
+msgid ""
+"船乗り：何度来ても、答えはかわらんぜ。"
+msgstr "Sailor: The answer's the same, no matter how much you ask."
+
+#: 002AD545
+msgid ""
+"船乗り：なんだ？"
+msgstr "Sailor: What?"
+
+#: 002AD567
+msgid ""
+"カイ：僕たち、これから船を出さなければならないんだ。"
+msgstr "Kai: Our group has somewhere they have to sail to."
+
+#: 002AD59F
+msgid ""
+"で、船乗りを探してるんだけど・・・"
+msgstr "So, we're searching for sailors..."
+
+#: 002AD5D3
+msgid ""
+"船乗り：悪いが、いのちがおしいんでな。"
+msgstr "Sailor: Sorry, but I value my life."
+
+#: 002AD60B
+msgid ""
+"バーク：腰ぬけめ。"
+msgstr "Burke: Coward."
+
+#: 002AD62F
+msgid ""
+"カイ：バークっ！"
+msgstr "Kai: Burke!"
+
+#: 002AD651
+msgid ""
+"船乗り：かまわんさ、その通りなんだからな。"
+msgstr "Sailor: Heh, he can say what he wants, he's not wrong."
+
+#: 002AD67F
+msgid ""
+"おっと、そうだ。テーブルにいる男に聞いてみな。"
+msgstr "Oh, right. Ask that guy sitting at that table."
+
+#: 002AD6B1
+msgid ""
+"やつは、船乗りの腕はおれたちの間じゃ一番だ。"
+msgstr "He's the best sailor out of all of us."
+
+#: 002AD6EF
+msgid ""
+"カイ：うん、ありがとう。"
+msgstr "Kai: Okay, thanks."
+
+#: 002AD726
+msgid ""
+"船乗り：すまないが、俺はエンリョさせてもらうぜ。"
+msgstr ""
+
+#: 002AD777
+msgid ""
+"船乗り：すまないが、俺はエンリョさせてもらうぜ。"
+msgstr ""
+
+#: 002AD7B9
+msgid ""
+"バーク：まだ何も言ってないぞ。"
+msgstr "Burke: We haven't even said anything yet."
+
+#: 002AD7E9
+msgid ""
+"船乗り：向こうでの話しが丸聞こえだったぜ。"
+msgstr "Sailor: I could hear you from over there."
+
+#: 002AD825
+msgid ""
+"カイ：・・・・・・"
+msgstr "Kai: ..."
+
+#: 002AD856
+msgid ""
+"船乗り：すまないが、俺はエンリョさせてもらうぜ。"
+msgstr "Sailor: Sorry, but I'm not interested."
+
+#: 002AD8A3
+msgid ""
+"船乗り：・・・なにか用か？"
+msgstr "Sailor: ...out with it."
+
+#: 002AD8CF
+msgid ""
+"ミシリア：ガラ悪そう・・・"
+msgstr "Michelia: Oh he's scary..."
+
+#: 002AD906
+msgid ""
+"船乗り：ん？なんだ？"
+msgstr "Sailor: Huh? What was that?"
+
+#: 002AD937
+msgid ""
+"ミシリア：え？い、いえ、なにも・・・"
+msgstr "Michelia: Eh? N-no, nothing..."
+
+#: 002AD96D
+msgid ""
+"船乗り：はっきり物が言えないやつは、早死にするぞ。"
+msgstr ""
+"Sailor: Those who can't say what they want only have a quick death awaiting "
+"them."
+
+#: 002AD9BC
+msgid ""
+"カイ：実は・・・"
+msgstr "Kai: Well..."
+
+#: 002AD9FA
+msgid ""
+"船乗り：あーいいっていいって。"
+msgstr "Sailor: Don't bother, I know what's going on."
+
+#: 002ADA1C
+msgid ""
+"話は知ってるって、いま、町はその話で持ち切りだからな。"
+msgstr "You guys are the hot topic of the town, word's going around."
+
+#: 002ADA56
+msgid ""
+"王国おかかえの船乗りって話だろ？"
+msgstr "You're asking about sailors for the royal ship, right?"
+
+#: 002ADA93
+msgid ""
+"カイ：うん。ぜひ僕たちの仲間になってほしいんだ。"
+msgstr "Kai: Yes. We'd like you to join us."
+
+#: 002ADAE0
+msgid ""
+"船乗り：仲間？"
+msgstr "Sailor: Join you?"
+
+#: 002ADB0B
+msgid ""
+"カイ：うん。"
+msgstr "Kai: Yes."
+
+#: 002ADB34
+msgid ""
+"船乗り：ふーん、そうだな・・・"
+msgstr "Sailor: Hmm, I see..."
+
+#: 002ADB61
+msgid ""
+"王国おかかえってのは気にくわねぇが・・・"
+msgstr "I'm not too keen in being employed by royals,"
+
+#: 002ADB8D
+msgid ""
+"仲間ってのは、気に入ったぜ。"
+msgstr "But I'd be okay joining your little party."
+
+#: 002ADBC6
+msgid ""
+"カイ：じゃあ・・・"
+msgstr "Kai: Then..."
+
+#: 002ADBF5
+msgid ""
+"船乗り：おっと、それとこれとは話が別だ。"
+msgstr "Sailor: Hang on, it's not that simple."
+
+#: 002ADC21
+msgid ""
+"そうだな・・・返事は明日だ。"
+msgstr "Let's see, I'll give you an answer tomorrow."
+
+#: 002ADC4F
+msgid ""
+"サリナ：あんたもはっきりしないやつだね。"
+msgstr "Sarina: So much for saying what you want."
+
+#: 002ADCAA
+msgid ""
+"船乗り：フッ、また気の強いおじょうさんだな。"
+msgstr "Sailor: Ha! What a sassy lady."
+
+#: 002ADCE8
+msgid ""
+"サリナ：気が強くて悪かったね。"
+msgstr "Sarina: Not my fault I have confidence."
+
+#: 002ADD23
+msgid ""
+"船乗り：しかし、気の強い女性というのはみりょくてきだ。"
+msgstr "Sailor: I never said a woman with confidence was without charm."
+
+#: 002ADD6B
+msgid ""
+"サリナ：な、なに言ってんだよ・・・"
+msgstr "Sarina: W-what do you mean by that...?"
+
+#: 002ADD9F
+msgid ""
+"バーク：お、ナンパなヤロウだな、お前。"
+msgstr "Burke: Ahh, you're a scummy playboy, aren't ya?"
+
+#: 002ADDD7
+msgid ""
+"船乗り：俺は本当のことを言っただけだぜ？"
+msgstr "Sailor: Hey man, I'm just saying the truth."
+
+#: 002ADE03
+msgid ""
+"ま、とにかく返事は明日だ。いいか？"
+msgstr "Anyway, tomorrow okay with you?"
+
+#: 002ADE37
+msgid ""
+"カイ：うん、かまわないよ。"
+msgstr "Kai: Yeah, no problem."
+
+#: 002ADE63
+msgid ""
+"船乗り：そうだ、お前達。今日はそこの宿屋に泊っていくといい。"
+msgstr "Sailor: For now, you guys should get a rest at the inn."
+
+#: 002ADEA3
+msgid ""
+"こいつを見せれば、やすく泊めてもらえるはずだぜ。"
+msgstr "If you show them these, they'll give you a bargin."
+
+#: 002ADEE5
+msgid ""
+"船乗りのコインを手に入れた。"
+msgstr "You got a Sailor's Coin."
+
+#: 002ADF13
+msgid ""
+"カイ：ありがとう。"
+msgstr "Kai: Thank you."
+
+#: 002ADF29
+msgid ""
+"それじゃ、いい返事を期待してるよ。"
+msgstr "I'll be looking forward to the good new."
+
+#: 002ADF91
+msgid ""
+"船乗り：返事は、明日だ。"
+msgstr "Sailor: You'll get your answer tomorrow."
+
+#: 002AE0B8
+msgid ""
+"バーク：なーなーカイ、無事に船乗りも見つかったし"
+msgstr "Burke: Hey hey, Kai. We found our sailor,"
+
+#: 002AE0EC
+msgid ""
+"今日はぱぁーとやらねえか？"
+msgstr "so how about to cut back and relax for the day?"
+
+#: 002AE135
+msgid ""
+"カイ：うん、でもまだはっきりと決まったわけじゃないから・・・"
+msgstr "Kai: But we're not sure he'll say yes yet..."
+
+#: 002AE199
+msgid ""
+"バーク：いいじゃねか、たまにはぱぁーと"
+msgstr "Burke: Come on, good enough, let's have some fun!"
+
+#: 002AE1E7
+msgid ""
+"カイ：う、うん。"
+msgstr ""
+
+#: 002AE209
+msgid ""
+"バーク：よーし、きまりな。"
+msgstr "Burke: Alright, then it's decided!"
+
+#: 002AE23E
+msgid ""
+"サリナ：いいね、カイ。今夜は一緒にさわごうよ。"
+msgstr "Sarina: Alright, Kai! Let's go have some fun together~"
+
+#: 002AE2B6
+msgid ""
+"カイ：う、うん。"
+msgstr "Kai: S-sure..."
+
+#: 002AE2F1
+msgid ""
+"ふみっ"
+msgstr "*stomp*"
+
+#: 002AE314
+msgid ""
+"カイ：いたたたたたたたたた"
+msgstr "Kai: OWWWWWWWW"
+
+#: 002AE349
+msgid ""
+"カイ：な、なにするんだよ、ミシリア。"
+msgstr "Kai: W-what was that for, Michelia!?"
+
+#: 002AE3A2
+msgid ""
+"ミシリア：あら、ごめんなさい。お酒のにおいで少し酔ったみたい。"
+msgstr ""
+"Michelia: Oh, please forgive me. I must be a little tipsy from all the "
+"alcohol fumes."
+
+#: 002AE412
+msgid ""
+"サリナ：はっはははははは！！ミシリア、あんた、一緒にどうだい？"
+msgstr "Sarina: Haaahahahahaha!! Michelia, how about you join us?"
+
+#: 002AE46D
+msgid ""
+"ミシリア：・・・・・・・・・・・・・・・"
+msgstr "Michelia: ..."
+
+#: 002AE4C7
+msgid ""
+"バーク：へへっ！今日は飲むぞ！！"
+msgstr "Burke: Hehe!! Let's get some drinks!!"
+
+#: 002AE4EB
+msgid ""
+"ねーちゃん、きついのばんばん持ってきてくれ！！"
+msgstr "Hey lady, bring me your strongest!!"
+
+#: 002AE703
+msgid ""
+"ミーナ：どうきつかったでしょう？"
+msgstr "Minna: How strong is it?"
+
+#: 002AE738
+msgid ""
+"バーク：・・・・・・・・はいっ、きつかったっす。"
+msgstr "Burke: ...yeah, it's pretty strong."
+
+#: 002AE7CD
+msgid ""
+"ミーナ：サリナ、あなたもきついの・・・・いく？"
+msgstr "Minna: Sarina, do you also like it strong?"
+
+#: 002AE823
+msgid ""
+"サリナ：あ、あたいはえんりょしとくよ。"
+msgstr "Sarina: I-I think I'll pass..."
+
+#: 002F1903
+msgid ""
+"カイ：宿屋か・・・"
+msgstr ""
+
+#: 002F1919
+msgid ""
+"泊まるのは船を見てからにしよう。"
+msgstr "Let's stay after we check out the ship."
+
+#: 002F1950
+msgid ""
+"カイ：宿屋か・・・"
+msgstr "Kai: An inn..."
+
+#: 002F1966
+msgid ""
+"今は船乗りをあつめるほうが先だな。"
+msgstr "We need to find some sailors before we rest."
+
+#: 002F199F
+msgid ""
+"主人：泊まっていくかい？"
+msgstr "Owner: Welcome, staying the night?"
+
+#: 002F19BB
+msgid ""
+"１人１００ガメだよ。"
+msgstr ""
+
+#: 002F19E1
+msgid ""
+"カイ：お店の人にこれを見せるように言われてきたんだけど・・・"
+msgstr "Kai: We were told to show this to you..."
+
+#: 002F1A2F
+msgid ""
+"主人：こいつは・・・君たちはあの人の知り合いなのか？"
+msgstr "Owner: This thing... You guys are friends of that guy?"
+
+#: 002F1A67
+msgid ""
+"よし、わかった。今日はとくべつだ。だだで泊めてやるよ。"
+msgstr "Alright, I got it. Today's on the house."
+
+#: 002F1AAF
+msgid ""
+"カイ：え・・・"
+msgstr "Kai: R-really...?"
+
+#: 002F1ACF
+msgid ""
+"主人：人の好意は素直にうけるもんだぜ。若いの。"
+msgstr ""
+"Owner: Young people should accept the generosity of their elders without "
+"fretting."
+
+#: 002F1B0F
+msgid ""
+"カイ：そ、それじゃあ、お言葉に甘えて・・・"
+msgstr "Kai: W-well then, if you insist..."
+
+#: 002F1B59
+msgid ""
+"＿＿＿＿翌朝＿＿＿＿"
+msgstr "___The next day___"
+
+#: 002F1BC8
+msgid ""
+"主人：おはよう。"
+msgstr ""
+
+#: 002F1BDC
+msgid ""
+"ゆうべはよくねむれたかい？"
+msgstr ""
+
+#: 002F1C0D
+msgid ""
+"ミシリア：やくそくは今日よ。"
+msgstr "Michelia: Today's the day."
+
+#: 002F1C2D
+msgid ""
+"返事を聞きにいった方がいいんじゃないかしら。"
+msgstr "Shall we go ask him for his answer?"
+
+#: 002F1CAF
+msgid ""
+"主人：お泊まりかい？"
+msgstr "Owner: Staying the night?"
+
+#: 002F1CC7
+msgid ""
+"１人１００ガメだよ。"
+msgstr "It's 100 Gahme per person."
+
+#: 002F1CDF
+msgid ""
+"おっと、バロアさんじゃないですか。"
+msgstr "Oh, Baroa, how's it going?"
+
+#: 002F1D05
+msgid ""
+"バロアさんの知り合いじゃお金はそんなにもらえないな。"
+msgstr "If you're friends of Baroa, then I'll give you a good discount."
+
+#: 002F1D3D
+msgid ""
+"１人２０ガメにしとくよ。"
+msgstr "How's 20 Gahme a person?"
+
+#: 002F1D67
+msgid ""
+"○ボタン＿泊る＿×ボタン＿やめる"
+msgstr "○: Stay the night ×: Leave"
+
+#: 002F1DA1
+msgid ""
+"主人：バロアさん、またのおこしを。"
+msgstr "Owner: Baroa, please come again!"
+
+#: 002F1DE0
+msgid ""
+"＿＿＿＿朝＿＿＿＿"
+msgstr "___Morning___"
+
+#: 002F1E07
+msgid ""
+"主人：おはよう。"
+msgstr "Owner: Good morning."
+
+#: 002F1E1B
+msgid ""
+"ゆうべはよくねむれたかい？"
+msgstr "Sleep well last night?"
+
+#: 002F1E63
+msgid ""
+"申しわけありませんが、お金が不足しておりまして・・・"
+msgstr "I'm sorry, but you don't seem to have enough money..."
+
+#: 002F1E9B
+msgid ""
+"またのおこしをおまちしております。"
+msgstr "Please come again!"
+
+#: 0033613C
+msgid ""
+"おやじ：うちの盾とかぶとは天下一品だよ。"
+msgstr "Old Man: Our shields and helmets are the best under the heavens."
+
+#: 00336168
+msgid ""
+"買わないとそんするぜ。"
+msgstr "You'll regret not buying them."
+
+#: 003BF204
+msgid ""
+"女兵士：カイ王子様ですね？"
+msgstr "Female Knight: You are Prince Kai, correct?"
+
+#: 003BF25A
+msgid ""
+"カイ：う、うん、そうだけど・・・"
+msgstr "Kai: Y-yeah, that's me..."
+
+#: 003BF28C
+msgid ""
+"女兵士：先ほど、大臣様より使いの者がまいられまして"
+msgstr "Female Knight: I've come here on orders of the Minister."
+
+#: 003BF2C2
+msgid ""
+"わたくしめが王子様のごえいの任を"
+msgstr "I'm to assume the role of your"
+
+#: 003BF2E6
+msgid ""
+"めいぜられております。"
+msgstr "personal guard, my prince."
+
+#: 003BF31F
+msgid ""
+"カイ：ごえいだなんていいよ、そんなの・・・"
+msgstr "Kai: I don't need something like a personal guard..."
+
+#: 003BF369
+msgid ""
+"女兵士：いえ、ぜひ、このわたくしめを同行させてくださいませ。"
+msgstr "Female Knight: No, please, I insist. Let me serve you."
+
+#: 003BF3C5
+msgid ""
+"ファラ：（しつこい人。カイもびしっといえばいいのに。）"
+msgstr "Fara: (She's persistent. Kai, just tell her to scram.)"
+
+#: 003BF40D
+msgid ""
+"ミシリア：（カイ、断って・・・)"
+msgstr "Michelia: (Kai, turn her down...)"
+
+#: 003BF43E
+msgid ""
+"女兵士：大臣様からぜひにと頼まれておりますゆえ。"
+msgstr "Female Knight: It's the Minister's insistence that I join you."
+
+#: 003BF48B
+msgid ""
+"カイ：大臣には僕から言っておくから"
+msgstr "Kai: I'll talk with the Minister myself,"
+
+#: 003BF4B1
+msgid ""
+"君はいつもの仕事をしっかりたのむよ。"
+msgstr "but you shall perform your usual duties as you always have."
+
+#: 003BF4FD
+msgid ""
+"女兵士：はっ！！わかりました。王子様。"
+msgstr "Female Knight: Yes, sir! Understood, my prince."
+
+#: 003BF540
+msgid ""
+"ファラ：かっこいいー、カイ、王子様みたい。"
+msgstr "Fara: How cool, Kai! You almost sounded like a prince!"
+
+#: 003BF5AE
+msgid ""
+"バーク：みたい、じゃなくて王子様なんだよ、カイは。"
+msgstr "Burke: It's not 'like,' dude IS a prince."
+
+#: 003BF5FE
+msgid ""
+"ファラ：そうだった。わたし、忘れてたよ、エヘヘ。"
+msgstr "Fara: Right right, I forgot. Hehe~"
+
+#: 003BF68C
+msgid ""
+"カイ：そうだった。"
+msgstr "Kai: Oh right."
+
+#: 003BF6A2
+msgid ""
+"僕も忘れていたよ。"
+msgstr "I forgot as well."
+
+#: 003BF70C
+msgid ""
+"＿＿わはははははははははっ！！＿＿"
+msgstr "___HAHAHAHAHAHAHAHAHAHAHA!!!___"
+
+#: 003BF75B
+msgid ""
+"ミシリア：・・・・・・・・・"
+msgstr "Michelia: ..."
+
+#: 003BF854
+msgid ""
+"女兵士：お気をつけて王子様。"
+msgstr "Female Knight: Please be careful, my prince."
