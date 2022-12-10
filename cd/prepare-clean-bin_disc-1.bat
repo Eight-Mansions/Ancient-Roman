@@ -1,6 +1,6 @@
 @echo off
-set filename=Ancient-Roman-Disc-2
-set working_name=Ancient-Roman-Disc-2
+set filename=Ancient-Roman-Disc-1
+set working_name=Ancient-Roman-Disc-1
 pushd %~dp0
 
 echo Attempting to prepare the original game files.
@@ -16,11 +16,11 @@ if errorlevel 1 (
     goto :NOISO
 )
 
-mkdir orig
+mkdir %working_name%_original
 mkdir %working_name%
 
 echo Normalizing bin name...
-ren "%~1" "%filename%_original.bin"
+copy "%~1" "%filename%_original.bin"
 echo:
 
 echo Writing out a new cue file...
@@ -43,15 +43,8 @@ echo:
 
 echo Backing up files as the original files...
 :: /e - Copies all subdirectories, even if empty. /h - Include hidden and system files. /q - Copy silently
-xcopy /e /h /q %working_name% orig
+xcopy /e /h /q %working_name% %working_name%_original
 echo:
-
-:: The tool doesn't like it when you specify a name for the catalog, so it defaults
-:: to the output directory name. Rename it.
-:: echo Fixing catalog image name...
-:: ren orig.cat %working_name%.cat
-:: ren orig.sys %working_name%.sys
-:: echo:
 
 echo Success~!
 goto :EXIT

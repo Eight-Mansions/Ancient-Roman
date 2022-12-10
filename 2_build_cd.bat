@@ -1,14 +1,26 @@
-del cd\Ancient-Roman-Disc-1_working.bin
-del /s /q cd\Ancient-Roman-Disc-1\*
-xcopy /s cd\Ancient-Roman-Disc-1_original\* cd\Ancient-Roman-Disc-1
+@echo off
+:: Parameters are passed via "2a_build_disc_1.bat" or "2b_build_disc_2.bat"
+set name=%1
+set disc=%2
 
-del /s /q cd\Ancient-Roman-Disc-1\S00\*
-copy ins\D1_S00\*.DAT cd\Ancient-Roman-Disc-1\S00\
+echo Building disc %disc%
+echo ###############
+echo:
 
-::Build files
+echo Clearing out the old files and creating a clean workspace...
+del cd\%name%_working.bin 1>nul
+del /s /q cd\%name%\* 1>nul
+xcopy /s cd\%name%_original\* cd\%name% 1>nul
+echo:
+
+::del /s /q cd\%name%\S00\*
+echo Copying over translated scripts...
+copy ins\D1_S00\*.DAT cd\%name%\S00\ 1>nul
+echo:
+
 echo Building final bin file...
 pushd cd
-..\tools\psximager\psxbuild.exe "Ancient-Roman-Disc-1.cat" "Ancient-Roman-Disc-1_working.bin">> build.log
+..\tools\psximager\psxbuild.exe "%name%.cat" "%name%_working.bin">> build.log
 popd
 echo:
 
