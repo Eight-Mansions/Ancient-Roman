@@ -8,14 +8,14 @@ echo ###############
 echo:
 
 echo Clearing out the old files and creating a clean workspace...
-del cd\%name%_working.bin 1>nul
-del /s /q cd\%name%\* 1>nul
-xcopy /s cd\%name%_original\* cd\%name% 1>nul
+:: del cd\%name%_working.bin 1>nul
+:: del /s /q cd\%name%\* 1>nul
+:: xcopy /s cd\%name%_original\* cd\%name% 1>nul
 echo:
 
 ::del /s /q cd\%name%\S00\*
-echo Copying over translated scripts...
-copy ins\D1_S00\*.DAT cd\%name%\S00\ 1>nul
+:: echo Copying over translated scripts...
+:: copy ins\D1_S00\*.DAT cd\%name%\S00\ 1>nul
 echo:
 
 echo Building final bin file...
