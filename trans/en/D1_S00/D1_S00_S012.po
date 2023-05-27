@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-11-27 05:13+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s012/en/>\n"
 "Language: en\n"
@@ -25,192 +25,197 @@ msgstr ""
 #: 000CDC06
 msgid ""
 "男：あの時はどうもありがとう。おかげで助かりました。"
-msgstr ""
+msgstr "Man: Thank you for saving me earlier."
 
 #: 000CDC41
 msgid ""
 "男：しかし、あの人はいったいどうしたんでしょうか？"
-msgstr ""
+msgstr "Man: But, what the heck happened to that guy?"
 
 #: 000CDC7A
 msgid ""
 "あれが最近はやりの「狂犬病」なんでしょうかね？"
-msgstr ""
+msgstr "Was he suffering from the supposed rabies going around?"
 
 #: 000CDD06
 msgid ""
 "女：でも、ほんとに「狂犬病」なのかしら？"
-msgstr ""
+msgstr "Woman: Was it really rabies?"
 
 #: 000CDD32
 msgid ""
 "病気になった人はお城に連れていかれるし・・・"
-msgstr ""
+msgstr "Why would anyone bring an infected person to the castle?"
 
 #: 000CDD62
 msgid ""
 "それに病気にかかった人の姿が、変わってしまったといううわさもあるわ"
 msgstr ""
+"I heard a rumor that those infected by the disease no longer look human."
 
 #: 000CDDB6
 msgid ""
 "男：ほんとかい！？ぶるる、こわいこわい。"
-msgstr ""
+msgstr "Man: Really? Dang, that's scary."
 
 #: 000CDE4E
 msgid ""
 "男：俺も病気にかかったらどうしよう・・・"
-msgstr ""
+msgstr "Man: I really don't want to get infected."
 
 #: 000CDE8D
 msgid ""
 "男：最近城下ではへんな病気がはやっているんだ。"
-msgstr ""
+msgstr "Man: There's been a strange illness in the castle city lately."
 
 #: 000CDED8
 msgid ""
 "女：私の姉さんがこの間からどこかにいってしまったの。"
-msgstr ""
+msgstr "Woman: I haven't been able to find my sister for a while now."
 
 #: 000CDF13
 msgid ""
 "女：どこにいったか誰か知らないかしら？"
-msgstr ""
+msgstr "Woman: Has anyone seen her?"
 
 #: 000CDF58
 msgid ""
 "女：うわさでは男の人についていったらしいのだけど・・・"
-msgstr ""
+msgstr "Woman: I heard a rumor that she was with some man."
 
 #: 000CDFBE
 msgid ""
 "王国からのお知らせ"
-msgstr ""
+msgstr "- Notice from the Kingdom -"
 
 #: 000CDFD7
 msgid ""
 "城下町にて「狂犬病」がはやっています。この病気にかかると、精神がさくらんし、"
 msgstr ""
+"Rabies is spreading around the castle city. There's a chance the infected "
+"will"
 
 #: 000CE02A
 msgid ""
 "他人におそいかかる可能性があります。"
-msgstr ""
+msgstr "lose their sense of self and attack others."
 
 #: 000CE052
 msgid ""
 "この病状がみられた患者を見かけた場合は、"
 msgstr ""
+"If you see anyone showing signs of infection, report them to the guards "
+"immediately."
 
 #: 000CE081
 msgid ""
 "すぐに王国兵にご連絡下さい。くわしくは下記をごらんください。"
-msgstr ""
+msgstr "Thank you for your cooperation."
 
 #: 000CE0D9
 msgid ""
 "カイ：なんだろう、これは・・・・"
-msgstr ""
+msgstr "Kai: What is this?"
 
 #: 000CE12E
 msgid ""
 "王国からのお知らせが書かれている。"
-msgstr ""
+msgstr "A notice from the kingdom?"
 
 #: 000CE21D
 msgid ""
 "バーク:おい、ありゃなんだ！？"
-msgstr ""
+msgstr "Burke: Hey, what's going on over there?"
 
 #: 000CE2DD
 msgid ""
 "男：た、たすけてくれー！！"
-msgstr ""
+msgstr "Man: H-help me!"
 
 #: 000CE349
 msgid ""
 "ミシリア：どうしたんですか？"
-msgstr ""
+msgstr "Michelia: What's the matter?"
 
 #: 000CE382
 msgid ""
 "男：あ、あの人が・・いきなりあばれだして・・・"
-msgstr ""
+msgstr "Man: T-that person... suddenly went berserk!"
 
 #: 000CE3C2
 msgid ""
 "カイ：えっ！！"
-msgstr ""
+msgstr "Kai: Gasp!"
 
 #: 000CE3F5
 msgid ""
 "バーク：カイ、まさか、「怪物に・・"
-msgstr ""
+msgstr "Burke: Kai, could it be the People Be--"
 
 #: 000CE44C
 msgid ""
 "ファラ：わーわー！！"
-msgstr ""
+msgstr "Fara: LALALALALA!!!"
 
 #: 000CE492
 msgid ""
 "バーク：な、なんだよ。おどかすなよ。"
-msgstr ""
+msgstr "Burke: W-what the--? Don't scare me like that!"
 
 #: 000CE4C8
 msgid ""
 "ファラ：（それはしゃべっちゃいけないのぉ！！）"
-msgstr ""
+msgstr "Fara: (We can't talk about that!)"
 
 #: 000CE50F
 msgid ""
 "バーク：（おっと、そうだったな、ちびすけ。すまねぇ）"
-msgstr ""
+msgstr "Burke: (Oh, right, right. Sorry. Short stop.)"
 
 #: 000CE555
 msgid ""
 "カイ：バーク、あの人を取り押さえよう。"
-msgstr ""
+msgstr "Kai: Burke, help me hold him down."
 
 #: 000CE5AE
 msgid ""
 "バーク：よっしゃぁ！いくぜ！カイ！！"
-msgstr ""
+msgstr "Burke: Heck yeah! Let's go, Kai!"
 
 #: 000CE743
 msgid ""
 "兵士：では、彼は我々が城まで連行いたします。"
-msgstr ""
+msgstr "Soldier: All right, we shall escort him to the castle."
 
 #: 000CE78C
 msgid ""
 "カイ：うん、おねがいするよ。"
-msgstr ""
+msgstr "Kai: Yes, please do."
 
 #: 000CE7BA
 msgid ""
 "兵士：では。"
-msgstr ""
+msgstr "Soldier: If you'll excuse us."
 
 #: 000CE895
 msgid ""
 "カイ：・・・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 000CE8BD
 msgid ""
 "バーク：まずいな。大臣がいってた通りだぜ。"
-msgstr ""
+msgstr "Burke: This ain't good. It's as the Minister said."
 
 #: 000CE904
 msgid ""
 "ミシリア：このお城まで、病気が広まっているのね・・・"
-msgstr ""
+msgstr "Michelia: The disease has reached us even here."
 
 #: 000CE955
 msgid ""
 "カイ：急いでマウタスの町に行こう。"
-msgstr ""
+msgstr "Kai: Let's hurry to Mahtas."
 
 #: 00112316
 msgid ""
@@ -220,57 +225,58 @@ msgstr ""
 #: 00112358
 msgid ""
 "門番：カイ様、ご自由にお通り下さい。"
-msgstr "Gatekeeper: Prince Kai, please come and go as you wish."
+msgstr "Gatekeeper: Prince Kai, you may come and go as you wish."
 
 #: 0011239A
 msgid ""
 "老人：せっかく王子様が見つかって町に活気がもどってきたというに。"
 msgstr ""
+"Old Man: The city finally gained its luster back after finding the prince,"
 
 #: 001123DE
 msgid ""
 "今度は町の人が狂犬病におびえはじめました。"
-msgstr ""
+msgstr "then all that vanished due to the rabies panic."
 
 #: 0011240C
 msgid ""
 "なげかわしいことですじゃ。"
-msgstr ""
+msgstr "How woeful..."
 
 #: 00112439
 msgid ""
 "老女：うちの人が病気になってしまって・・・"
-msgstr ""
+msgstr "Old Woman: My husband's fallen ill."
 
 #: 00112467
 msgid ""
 "王城につれて行かれたのですが、どうしても面会させて"
-msgstr ""
+msgstr "I brought him to the castle, but"
 
 #: 0011249D
 msgid ""
 "もらえないんです。どうしてでしょう？"
-msgstr ""
+msgstr "they won't let me see him. Why?"
 
 #: 001124D4
 msgid ""
 "ニワトリ：ここっ"
-msgstr ""
+msgstr "Chicken: Cuckoo!"
 
 #: 001124F7
 msgid ""
 "ニワトリ：こけっこ"
-msgstr ""
+msgstr "Chicken: Cuckoo-coo!"
 
 #: 00156910
 msgid ""
 "おばさん：お泊りかい。"
-msgstr ""
+msgstr "Woman: Staying the night?"
 
 #: 0015692A
 msgid ""
 "お一人様につき５０ガメいただくよ。"
-msgstr ""
+msgstr "The price is 50 gahme per person."
 
 #: 0015695E
 msgid ""
@@ -280,7 +286,7 @@ msgstr "○: Stay the night ×: Leave"
 #: 00156998
 msgid ""
 "残念だね、また今度泊まっておくれ。"
-msgstr ""
+msgstr "That's too bad. Please come again."
 
 #: 001569DA
 msgid ""
@@ -295,172 +301,179 @@ msgstr "Sleep well?"
 #: 00156A2E
 msgid ""
 "悪いんだけどお金が足りないようだね。"
-msgstr ""
+msgstr "I'm sorry, but you don't seem to have enough money."
 
 #: 00156A56
 msgid ""
 "またきておくれよ。"
-msgstr ""
+msgstr "Please come again."
 
 #: 0019B593
 msgid ""
 "聖者：調子はいかがですか？かぜなどひかぬように、夜はちゃんと "
-msgstr ""
+msgstr "Sage: How are you feeling? Make sure to sleep"
 
 #: 0019B5D4
 msgid ""
 "暖かくして寝るのですよ。"
-msgstr ""
+msgstr "nice and warm at night to avoid getting sick."
 
 #: 0019B619
 msgid ""
 "大臣：くれぐれもご無理をなさらぬように。"
-msgstr ""
+msgstr "Minister: Please don't push yourself too hard."
 
 #: 0019B672
 msgid ""
 "大臣：たみをだますようで悪いのですが、「怪物になってしまう病気」"
 msgstr ""
+"Minister: I hate to lie to the people, but we issued a proclamation that "
+"there's"
 
 #: 0019B6B9
 msgid ""
 "のことは「狂犬病」のたぐいだとふれを出しております。"
 msgstr ""
+"a rabies outbreak, rather than explaining the \"People Becoming Monsters "
+"Disease.\""
 
 #: 0019B6F1
 msgid ""
 "カイ様もくれぐれもあまりお口にださぬようお願いいたします。"
-msgstr ""
+msgstr "We ask that you keep things quiet as well, Lord Kai."
 
 #: 0019B742
 msgid ""
 "大臣：では、くれぐれもご無理をなさらず。"
-msgstr ""
+msgstr "Minister: Well then, take care."
 
 #: 0019B791
 msgid ""
 "大臣：カイ様の旅が一日もはやく無事に終わるよう"
-msgstr ""
+msgstr "Minister: I pray your journey ends as soon as possible."
 
 #: 0019B7C3
 msgid ""
 "祈っておりますぞ。"
-msgstr ""
+msgstr "Please stay safe."
 
 #: 0019B7F4
 msgid ""
 "大臣：ぜひこのじいめが生きている間にお世つぎを。"
-msgstr ""
+msgstr "Minister: I would like to see you take power while I'm still alive."
 
 #: 0019B837
 msgid ""
 "＿＿新ハインローグ城＿王の間＿ "
-msgstr ""
+msgstr "___ New Heinrogue Castle ___ Royal Chambers ___"
 
 #: 0019B88C
 msgid ""
 "大臣：カイ様、ご無事で何よりです。"
-msgstr ""
+msgstr "Minister: Lord Kai, I'm glad to see you've returned safely."
 
 #: 0019B8CB
 msgid ""
 "バーク：へへっ、そう心配すんなよ。なんたってこの俺様がついてんだからよ。"
 msgstr ""
+"Burke: Hehe, there was never any worry with the mighty Burke at his side!"
 
 #: 0019B93F
 msgid ""
 "ファラ：だから心配なんじゃないの？"
-msgstr ""
+msgstr "Fara: That's why they were worried."
 
 #: 0019B9A5
 msgid ""
 "バーク：何だとぉ！？"
-msgstr ""
+msgstr "Burke: What'd you say?"
 
 #: 0019B9FD
 msgid ""
 "ミシリア：やめてよ、ふたりとも・・・"
-msgstr ""
+msgstr "Michelia: Stop it, you two..."
 
 #: 0019BA8A
 msgid ""
 "バーク：すまねぇ。"
-msgstr ""
+msgstr "Burke: Sorry."
 
 #: 0019BABC
 msgid ""
 "ファラ：わたし悪くないもーん。"
-msgstr ""
+msgstr "Fara: I didn't do anything wrong!"
 
 #: 0019BAFA
 msgid ""
 "聖者：楽しそうですな。"
-msgstr ""
+msgstr "Sage: Quite the lively group you've got."
 
 #: 0019BBC0
 msgid ""
 "カイ：それで、なにかあったのかな？"
-msgstr ""
+msgstr "Kai: We heard something's happened. What's going on?"
 
 #: 0019BBFF
 msgid ""
 "大臣：はい、カイ様、異常な事態が起きつつあるのです。"
-msgstr ""
+msgstr "Minister: Yes, Lord Kai. We have a bit of a situation on our hands."
 
 #: 0019BC5E
 msgid ""
 "カイ：異常な事態？"
-msgstr ""
+msgstr "Kai: A situation?"
 
 #: 0019BC8D
 msgid ""
 "カイ：ま、まさか・・・・"
-msgstr ""
+msgstr "Kai: W-wait, you don't mean..."
 
 #: 0019BCC8
 msgid ""
 "大臣：そうです。「怪物になってしまう病気」が最近急増しているのです。"
 msgstr ""
+"Minister: It's as you fear. The \"People Becoming Monsters Disease\" is "
+"spreading ever faster."
 
 #: 0019BD10
 msgid ""
 "たみには「狂犬病」のたぐいであるといってあるのですが、"
-msgstr ""
+msgstr "We've played it off as a rabies outbreak, but it's"
 
 #: 0019BD4A
 msgid ""
 "たみは不安をつのらせております。"
-msgstr ""
+msgstr "spreading fear and tension all the same."
 
 #: 0019BD7C
 msgid ""
 "ミシリア：そんな・・・・"
-msgstr ""
+msgstr "Michelia: Oh no..."
 
 #: 0019BDB4
 msgid ""
 "聖者：くわしいことは「マウタスの町」に住む魔導師から話しを聞いてください。"
-msgstr ""
+msgstr "Sage: Please head to Mahtas and talk to the mage there to learn more."
 
 #: 0019BE05
 msgid ""
 "この手紙を見せてください。きっと力をかしてくれるでしょう。"
-msgstr ""
+msgstr "Show them this letter. They should lend their aid to you."
 
 #: 0019BE46
 msgid ""
 "魔導師の名は「レイヨン」といいます。町で聞けばわかるでしょう。"
-msgstr ""
+msgstr "The mage's name is Leon. Ask the townsfolk for more information."
 
 #: 0019BEF8
 msgid ""
 "カイ：わかったよ。マウタスの町だね？"
-msgstr ""
+msgstr "Kai: Understood. The town of Mahtas it is!"
 
 #: 0019BF89
 msgid ""
 "カイ：じゃあ、みんな行こう。"
-msgstr ""
+msgstr "Kai: Okay. Let's go, everyone."
 
 #: 0019C089
 msgid ""
@@ -470,52 +483,52 @@ msgstr ""
 #: 0019C0BD
 msgid ""
 "バロスメイアの町の様子はどうでございました？"
-msgstr ""
+msgstr "How was Barrows May?"
 
 #: 0019C114
 msgid ""
 "カイ：あそこはもうだいじょうぶだよ。"
-msgstr ""
+msgstr "Kai: Everything is safe there now."
 
 #: 0019C13C
 msgid ""
 "以前のように魔物たちが集まってくることはないはず。"
-msgstr ""
+msgstr "Monsters should be staying away from there from now on."
 
 #: 0019C18B
 msgid ""
 "大臣：さようでございますか。"
-msgstr ""
+msgstr "Minister: That's great news."
 
 #: 0019C1C4
 msgid ""
 "聖者：マクロード隊長はどうでございました？"
-msgstr ""
+msgstr "Sage: How was Captain McLeod?"
 
 #: 0019C219
 msgid ""
 "カイ：彼にはずいぶん助けてもらった。"
-msgstr ""
+msgstr "Kai: He helped us greatly."
 
 #: 0019C241
 msgid ""
 "今はまたルーンの関にもどったけれど。"
-msgstr ""
+msgstr "He's returned to the Rune Gate."
 
 #: 0019C28D
 msgid ""
 "大臣：ん、また新しいお仲間ですかな？"
-msgstr ""
+msgstr "Minister: Oh? I see you have a new party member."
 
 #: 0019C2CE
 msgid ""
 "カイ：うん、サリナっていうんだ。"
-msgstr ""
+msgstr "Kai: Oh yes, this is Sarina."
 
 #: 0019C316
 msgid ""
 "大臣：サリナ・・・？"
-msgstr ""
+msgstr "Minister: Sarina...?"
 
 #: 0019C357
 msgid ""
@@ -525,7 +538,7 @@ msgstr "Sage: ..."
 #: 0019C386
 msgid ""
 "カイ：うん、バロスメイアの町で知り合ったんだ。"
-msgstr ""
+msgstr "Kai: Yeah, we met her at Barrows May."
 
 #: 0019C3D1
 msgid ""
@@ -535,77 +548,77 @@ msgstr ""
 #: 0019C41A
 msgid ""
 "カイ：・・・サリナ？"
-msgstr ""
+msgstr "Kai: ...Sarina?"
 
 #: 0019C44B
 msgid ""
 "サリナ：あいにく、貴族関係の人間はきらいでね。"
-msgstr ""
+msgstr "Sarina: Unfortunately, I can't stand nobility."
 
 #: 0019C496
 msgid ""
 "カイ：そ、そう・・・"
-msgstr ""
+msgstr "Kai: I-I see."
 
 #: 0019C4DF
 msgid ""
 "バーク：でも、あれだろ？"
-msgstr ""
+msgstr "Burke: That doesn't make any sense, does it?"
 
 #: 0019C529
 msgid ""
 "サリナ：どれだよ？"
-msgstr ""
+msgstr "Sarina: What makes you say that?"
 
 #: 0019C563
 msgid ""
 "バーク：サリナの親父さんは、ハインローグの兵士長だったんだろ？"
-msgstr ""
+msgstr "Burke: Wasn't your dad the knight commander of Heinrogue or something?"
 
 #: 0019C5C9
 msgid ""
 "サリナ：べつに、貴族だったわけじゃないよ。"
-msgstr ""
+msgstr "Sarina: That doesn't mean we were nobility."
 
 #: 0019C610
 msgid ""
 "聖者：兵士長・・・"
-msgstr ""
+msgstr "Sage: Knight commander..."
 
 #: 0019C63F
 msgid ""
 "カイ：サリナ。話してもいいかな？"
-msgstr ""
+msgstr "Kai: Sarina, mind if I explain?"
 
 #: 0019C67C
 msgid ""
 "サリナ：・・・かまわないよ。"
-msgstr ""
+msgstr "Sarina: ...go ahead."
 
 #: 0019C70C
 msgid ""
 "カイ：実は、旧ハインローグ城に行ってきたんだ。"
-msgstr ""
+msgstr "Kai: We went to Old Heinrogue Castle."
 
 #: 0019C76D
 msgid ""
 "大臣：旧ハインローグ城ですと？！"
-msgstr ""
+msgstr "Minister: Old Heinrogue Castle?"
 
 #: 0019C7C4
 msgid ""
 "カイ：城には魔物が住み着いていたんだけど・・・"
-msgstr ""
+msgstr "Kai: Monsters had taken up residence there..."
 
 #: 0019C7F6
 msgid ""
 "その中に・・・その・・・"
-msgstr ""
+msgstr "And inside... we..."
 
 #: 0019C812
 msgid ""
 "サリナの父親の兵士長がいたんだ。"
-msgstr ""
+msgstr "...found Sarina's father, the knight commander."
 
 #: 0019C84F
 msgid ""
@@ -615,17 +628,17 @@ msgstr ""
 #: 0019C87E
 msgid ""
 "カイ：その兵士長は魔物に乗りうつられていたんだ。"
-msgstr ""
+msgstr "Kai: He had been possessed by a monster."
 
 #: 0019C8B2
 msgid ""
 "僕たちは兵士長と戦って・・・勝った。"
-msgstr ""
+msgstr "We fought him... and won."
 
 #: 0019C8E5
 msgid ""
 "けど・・・兵士長は死んでしまったんだ・・・"
-msgstr ""
+msgstr "He perished in the fight."
 
 #: 0019C93A
 msgid ""
@@ -635,17 +648,17 @@ msgstr ""
 #: 0019C950
 msgid ""
 "ま、まさか・・・"
-msgstr ""
+msgstr "H-his name..."
 
 #: 0019C964
 msgid ""
 "その兵士長は「ブロア＝ジェナトス」という名前では？！"
-msgstr ""
+msgstr "The knight commander... Was that Blore Jenatos?!"
 
 #: 0019C9B5
 msgid ""
 "カイ：えっ？！"
-msgstr ""
+msgstr "Kai: What?!"
 
 #: 0019C9D5
 msgid ""
@@ -655,47 +668,47 @@ msgstr ""
 #: 0019C9F8
 msgid ""
 "・・・ああ、そうだよ。"
-msgstr ""
+msgstr "...I see."
 
 #: 0019CA36
 msgid ""
 "大臣：お、おお、なんと・・・"
-msgstr ""
+msgstr "Minister: H-how could this be?"
 
 #: 0019CA56
 msgid ""
 "では、おぬしは「サリナ＝ジェナトス」か？！"
-msgstr ""
+msgstr "Does that mean you're Sarina Jenatos?!"
 
 #: 0019CAA6
 msgid ""
 "バーク：なにぃ？おっさん、サリナのこと知ってるのか？"
-msgstr ""
+msgstr "Burke: Huh? You know Sarina, old man?"
 
 #: 0019CB03
 msgid ""
 "ミシリア：サリナさん、お城に住んでいたって話してたじゃない。"
-msgstr ""
+msgstr "Michelia: Sarina did mention living at the castle before."
 
 #: 0019CB5A
 msgid ""
 "大臣：おお・・・サリナよ・・・久しぶりだな・・・"
-msgstr ""
+msgstr "Minister: Ooh, Sarina... It's been so long!"
 
 #: 0019CB8E
 msgid ""
 "わしだ、大臣の「セルブ＝マクレン」だ・・・覚えておるか？"
-msgstr ""
+msgstr "I'm Minister Selbu McCullen. Do you remember me?"
 
 #: 0019CBEF
 msgid ""
 "サリナ：ちゃ、ちゃんと覚えてるってば。"
-msgstr ""
+msgstr "Sarina: Tsk! Yeah, yeah, I remember you."
 
 #: 0019CC32
 msgid ""
 "大臣：サリナ・・・うつくしくなって・・・"
-msgstr ""
+msgstr "Minister: Sarina. You've become so beautiful...!"
 
 #: 0019CC77
 msgid ""
@@ -705,102 +718,103 @@ msgstr ""
 #: 0019CCA8
 msgid ""
 "大臣：ブロアには気の毒なことをした。"
-msgstr ""
+msgstr "Minister: I'm sorry for what happened to your father, Sir Blore."
 
 #: 0019CCD0
 msgid ""
 "まさか、魔物にあやつられていたとはな・・・"
-msgstr ""
+msgstr "To think, he'd be taken over by a monster..."
 
 #: 0019CD0C
 msgid ""
 "サリナ：・・・・・・"
-msgstr ""
+msgstr "Sarina: ..."
 
 #: 0019CD32
 msgid ""
 "大臣：そうとは知らず、あの時まわりの者たちは"
-msgstr ""
+msgstr "Minister: To think, everyone doubted and blamed him"
 
 #: 0019CD62
 msgid ""
 "おぬしの父の事をせめたてたな・・・すまなかった・・・"
-msgstr ""
+msgstr "without knowing the truth! I'm truly sorry."
 
 #: 0019CDCF
 msgid ""
 "サリナ：いいよ、もう。すくなくとも父が自分の意志で"
-msgstr ""
+msgstr "Sarina: Don't sweat it. It's enough knowing that"
 
 #: 0019CE05
 msgid ""
 "国をうら切ったわけじゃないって、わかったから・・・"
-msgstr ""
+msgstr "he didn't betray the kingdom of his own free will."
 
 #: 0019CE54
 msgid ""
 "大臣：そうか・・・"
-msgstr "Minister: I see..."
+msgstr "Minister: Indeed."
 
 #: 0019CE83
 msgid ""
 "カイ：それと・・・"
-msgstr ""
+msgstr "Kai: Also..."
 
 #: 0019CEB0
 msgid ""
 "カイ：母さんのなきがらが・・・"
-msgstr ""
+msgstr "Kai: I found my mother's body."
 
 #: 0019CEEB
 msgid ""
 "大臣：・・・マリナ様が・・・"
-msgstr ""
+msgstr "Minister: Lady Marina..."
 
 #: 0019CF19
 msgid ""
 "・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・"
-msgstr ""
+msgstr "........."
 
 #: 0019CF72
 msgid ""
 "バーク：あーやめやめ。こんな暗い雰囲気は。"
-msgstr ""
+msgstr "Burke: Ugh, stop with all the depressing moping."
 
 #: 0019CFA0
 msgid ""
 "大臣さんよ。なんかいい話はないのかい！！"
-msgstr ""
+msgstr "Come on, Minister! You've got something good for us, don't you?"
 
 #: 0019CFF0
 msgid ""
 "大臣：そ、そうですな。"
-msgstr ""
+msgstr "Minister: Y-yes, of course."
 
 #: 0019D00A
 msgid ""
 "カイ様、長らくお待たせしましたが、船ができましたぞ。"
 msgstr ""
+"Lord Kai, we apologize for the long wait, but the ship is ready for you."
 
 #: 0019D05B
 msgid ""
 "バーク：おっしゃあ！！やっと出来たか！"
-msgstr ""
+msgstr "Burke: Heck yeah! Finally!"
 
 #: 0019D085
 msgid ""
 "ちっくしょう、待たせやがって！"
-msgstr ""
+msgstr "Boy, did you keep us waiting!"
 
 #: 0019D0C9
 msgid ""
 "大臣：す、すまなかったな。"
-msgstr ""
+msgstr "Minister: F-forgive me."
 
 #: 0019D10B
 msgid ""
 "バーク：で、何のために船が必要なんだっけ？"
-msgstr ""
+msgstr "Burke: So, why'd we need a boat again?"
 
 #: 0019D195
 msgid ""
@@ -815,322 +829,326 @@ msgstr "Kai: ..."
 #: 0019D1E8
 msgid ""
 "バーク：はっはっはっ！わりぃわりぃ。"
-msgstr ""
+msgstr "Burke: Hahaha! Sorry, sorry."
 
 #: 0019D210
 msgid ""
 "あんまり長く待たせるもんだから忘れちまった。"
-msgstr ""
+msgstr "We waited so long, I straight-up forgot."
 
 #: 0019D267
 msgid ""
 "ミーナ：・・・バカ。"
-msgstr ""
+msgstr "Minna: ...how absurd."
 
 #: 0019D298
 msgid ""
 "バーク：ん？何か言ったか？"
-msgstr ""
+msgstr "Burke: Huh? You say something?"
 
 #: 0019D2CF
 msgid ""
 "ミーナ：いや、べつに。"
-msgstr ""
+msgstr "Minna: Nope, nothing at all!"
 
 #: 0019D302
 msgid ""
 "大臣：「封印の島」の洞くつに、昔から伝わる"
-msgstr ""
+msgstr "Minister: There's a legend of powerful equipment"
 
 #: 0019D330
 msgid ""
 "強力な武具がある。その「封印の島」に行くための"
-msgstr ""
+msgstr "being stored at the Sealed Island."
 
 #: 0019D362
 msgid ""
 "船を作っていたのだ。"
-msgstr ""
+msgstr "The boat is for you to reach that island."
 
 #: 0019D39E
 msgid ""
 "バーク：おおぅ、そうそう、そうだった。"
-msgstr ""
+msgstr "Burke: Ooh, riiight. It's all coming back."
 
 #: 0019D429
 msgid ""
 "大臣：船はノーザラスの町にありますが・・・"
-msgstr ""
+msgstr "Minister: The boat's in Nautilus, but..."
 
 #: 0019D462
 msgid ""
 "実は、かんじんの船乗りがいないのです。"
-msgstr ""
+msgstr "Unfortunately, we don't have anyone to captain it."
 
 #: 0019D4A5
 msgid ""
 "バーク：なんでぇ、それじゃあ動かねぇじゃねえか。"
-msgstr ""
+msgstr "Burke: Huh? So what if we can't find a captain?"
 
 #: 0019D50A
 msgid ""
 "カイ：それくらいは僕たちで探そうよ、バーク。"
-msgstr ""
+msgstr "Kai: Burke, we can do that much ourselves."
 
 #: 0019D569
 msgid ""
 "大臣：そうしていただけると助かります。"
-msgstr ""
+msgstr "Minister: We'd greatly appreciate it if you did."
 
 #: 0019D5AC
 msgid ""
 "バーク：しゃぁねえな・・・"
-msgstr ""
+msgstr "Burke: It's fine. Not like we got a choice here."
 
 #: 0019D5F8
 msgid ""
 "大臣：ノーザラスは昔から貿易がさかんな町です。"
-msgstr ""
+msgstr "Minister: Nautilus has always been a merchant city."
 
 #: 0019D62A
 msgid ""
 "きっと、いい船乗りが見つかりましょう。"
-msgstr ""
+msgstr "I'm sure you can find some skilled sailors there."
 
 #: 0019D66D
 msgid ""
 "カイ：うん、わかった。"
-msgstr ""
+msgstr "Kai: Got it."
 
 #: 0019D6A0
 msgid ""
 "聖者：では、今夜はここでゆっくり休んで行かれませ。"
-msgstr ""
+msgstr "Sage: You may rest here for the night before heading out."
 
 #: 0019D70C
 msgid ""
 "ノーザラスはマウタスの北にあります。"
-msgstr ""
+msgstr "You can reach Nautilus by heading north of Mahtas."
 
 #: 0019D734
 msgid ""
 "聞かれる前に答えておきましょう。"
-msgstr ""
+msgstr "I figured I'd answer before you asked."
 
 #: 0019D771
 msgid ""
 "カイ：うん。ありがとう。"
-msgstr ""
+msgstr "Kai: Haha, thanks."
 
 #: 0019D78D
 msgid ""
 "それじゃ、休ませてもらうよ。"
-msgstr ""
+msgstr "Okay, let's wind down here then."
 
 #: 0019D7EB
 msgid ""
 "大臣：おお、カイ様。よくご無事でもどられました。"
-msgstr ""
+msgstr "Minister: Oh, Lord Kai! I'm glad to see you safe."
 
 #: 0019D81F
 msgid ""
 "様子はどうでございました？"
-msgstr ""
+msgstr "How was it?"
 
 #: 0019D867
 msgid ""
 "カイ：残念だけど・・・"
-msgstr ""
+msgstr "Kai: Unfortunately..."
 
 #: 0019D881
 msgid ""
 "魔導師とエルフ達にも会ってきたけど、何も分からなかった。"
-msgstr ""
+msgstr "We met with the magician and the elves, but none of them knew anything."
 
 #: 0019D8D6
 msgid ""
 "大臣：エルフ・・・とは、そんな所にまで？！"
-msgstr ""
+msgstr "Minister: Wait... You met the ELVES?!"
 
 #: 0019D920
 msgid ""
 "聖者：しかも、お連れしていますね。大したものです。"
-msgstr ""
+msgstr "Sage: And you even brought one back with you? Impressive!"
 
 #: 0019D9AA
 msgid ""
 "ミーナ：ミーナ＝エルノロアです。"
-msgstr ""
+msgstr "Minna: My name is Minna Elnoroa."
 
 #: 0019D9CE
 msgid ""
 "小さな者の代わりとして、力をかしております。"
-msgstr ""
+msgstr "I'm standing in for the small one on this journey."
 
 #: 0019DA0C
 msgid ""
 "大臣：そういえば、その姿が見えませんな・・・"
-msgstr ""
+msgstr "Minister: Now that you mention it, where is she?"
 
 #: 0019DA55
 msgid ""
 "聖者：・・・いや、くわしくは聞かない方が良いご様子ですね。"
-msgstr ""
+msgstr "Sage: ...forgive me, but now's not the time to explain."
 
 #: 0019DA93
 msgid ""
 "そうそう、マウタスの町の魔導師は元気にしていましたか？"
-msgstr ""
+msgstr "Oh, right. How was the mage in Mahtas?"
 
 #: 0019DAE9
 msgid ""
 "カイ：元気だったけど・・・"
-msgstr ""
+msgstr "Kai: He was lively, to say the least."
 
 #: 0019DB07
 msgid ""
 "あまり、町の人には好かれてないみたいだった。"
-msgstr ""
+msgstr "No one in town seems to like him."
 
 #: 0019DB53
 msgid ""
 "聖者：あの人も相変わらずですね・・・"
-msgstr ""
+msgstr "Sage: Yeah. That sounds like him, all right."
 
 #: 0019DB97
 msgid ""
 "大臣：聖者よ。そろそろ本題に・・・"
-msgstr ""
+msgstr "Minister: Sage, let's not forget our main topic."
 
 #: 0019DBE4
 msgid ""
 "聖者：そうですね。カイ殿、あなたもずいぶんと強くなられた。"
-msgstr ""
+msgstr "Sage: Right, right. Lord Kai, you've become very strong."
 
 #: 0019DC22
 msgid ""
 "これからの旅を考えても、もっと強力な装備をするべきです。"
 msgstr ""
+"We feel you should have better equipment to protect you in the coming trails."
 
 #: 0019DC77
 msgid ""
 "カイ：うん・・・"
-msgstr ""
+msgstr "Kai: Yeah."
 
 #: 0019DC99
 msgid ""
 "聖者：王国に代々伝わる強力な武具が、封印の島にあります。"
-msgstr ""
+msgstr "Sage: Our legends pass down a tale of equipment on the Sealed Island."
 
 #: 0019DCD5
 msgid ""
 "その魔力ゆえに封印していましたが、状況も状況ですし・・・"
 msgstr ""
+"They equipment is protected by powerful magic, but I believe you will need "
+"them."
 
 #: 0019DD2D
 msgid ""
 "カイ：その封印の島はどこに・・・？"
-msgstr ""
+msgstr "Kai: Where can we find this Sealed Island?"
 
 #: 0019DD6C
 msgid ""
 "聖者：ノーザラスの町から船でいけます。"
-msgstr ""
+msgstr "Sage: You can take a ship from Nautilus."
 
 #: 0019DDA1
 msgid ""
 "ただし、今はその船がありません。"
-msgstr ""
+msgstr "Unfortunately, there are no boats ready at this time."
 
 #: 0019DDC5
 msgid ""
 "海にも魔物が現れたために、港の船が全てしずめられました。"
-msgstr ""
+msgstr "All the boats in the pier sank due to monsters appearing at sea."
 
 #: 0019DE1A
 msgid ""
 "カイ：それじゃ、封印の島へは行けないじゃないか。"
-msgstr ""
+msgstr "Kai: Is there no way to the island then?"
 
 #: 0019DE72
 msgid ""
 "聖者：現在、急いで作らせていますが、まだ少し手間取りそうです。"
-msgstr ""
+msgstr "Sage: We're hurrying to make a new vessel, but it'll take some time."
 
 #: 0019DEB4
 msgid ""
 "それと、少々言いにくいのですが、また一つ事件が・・・"
-msgstr ""
+msgstr "In the meantime, I hate to ask, but there's something else..."
 
 #: 0019DF10
 msgid ""
 "カイ：何でも言ってよ。"
-msgstr ""
+msgstr "Kai: It's okay. Ask away."
 
 #: 0019DF38
 msgid ""
 "聖者：カイ殿が旅をされている間に、"
-msgstr ""
+msgstr "Sage: Lord Kai, while you were traveling,"
 
 #: 0019DF5E
 msgid ""
 "また町が魔物に占領されてしまったのです。"
-msgstr ""
+msgstr "another city fell to an invasion of monsters."
 
 #: 0019DFA6
 msgid ""
 "カイ：ルーンマルナの町のように、てことかい？"
-msgstr ""
+msgstr "Kai: Like what happened with Rune Malna?"
 
 #: 0019DFE4
 msgid ""
 "大臣：バロスメイアの町がおそわれた、とルーンの関より連絡があったのです。"
 msgstr ""
+"Minister: We received word from the Rune Gate that Barrows May was attacked."
 
 #: 0019E03E
 msgid ""
 "カイ：ルーンの関か・・・"
-msgstr ""
+msgstr "Kai: The Rune Gate, huh."
 
 #: 0019E068
 msgid ""
 "僕達が行ってみるよ。"
-msgstr ""
+msgstr "We'll go ask them directly."
 
 #: 0019E08E
 msgid ""
 "大臣：しかし・・・・・・"
-msgstr ""
+msgstr "Minister: But..."
 
 #: 0019E0B8
 msgid ""
 "聖者：いえ、これはカイ殿に確認していただくのが良いかもしれません。"
-msgstr ""
+msgstr "Sage: I think this would be a good thing for Lord Kai to check on."
 
 #: 0019E0FE
 msgid ""
 "のちの一国のあるじとして、そして自分自身のためにも。"
-msgstr ""
+msgstr "As the future lord of the country, and also to better him as a person."
 
 #: 0019E136
 msgid ""
 "例の病気が関わっていることも、考えられますし。"
-msgstr ""
+msgstr "That, and it may be connected to that disease."
 
 #: 0019E187
 msgid ""
 "大臣：仕方ないですな。あなたにそう言われては、反対できません。"
-msgstr ""
+msgstr "Minister: Well, all right then. If that's how you feel, I won't object."
 
 #: 0019E1C9
 msgid ""
 "すぐに、ルーンの関の守備隊長への手紙を用意しましょう。"
-msgstr ""
+msgstr "I'll prepare a letter for the person in charge at the Rune Gate."
 
 #: 0019E203
 msgid ""
 "いろいろ力になってくれると思います。"
-msgstr ""
+msgstr "I believe they'll be able to help you."
 
 #: 0019E239
 msgid ""
@@ -1140,242 +1158,252 @@ msgstr "Kai: Thank you."
 #: 0019E25D
 msgid ""
 "大臣：それとさきほど言われましたルーンマルナの町ですが"
-msgstr ""
+msgstr "Minister: Speaking of Rune Malna,"
 
 #: 0019E297
 msgid ""
 "ただいま復興作業を急ピッチで進めております。"
-msgstr ""
+msgstr "Restoration efforts are proceeding there smoothly."
 
 #: 0019E2C7
 msgid ""
 "機会がございましたら、後学のためにぜひごらんくださいませ 。"
-msgstr ""
+msgstr "If you have the chance, please drop by to see what it's like."
 
 #: 0019E31F
 msgid ""
 "カイ：うん。わかったよ。"
-msgstr ""
+msgstr "Kai: Okay, I got it."
 
 #: 0019E382
 msgid ""
 "ルーンの関あての大臣の手紙を手に入れた。"
-msgstr ""
+msgstr "You got the Letter to Rune Gate from the minister!"
 
 #: 0019E3EE
 msgid ""
 "大臣：おお、カイ様、よくご無事で"
-msgstr ""
+msgstr "Minister: Oh, Lord Kai! I'm glad to see you safe."
 
 #: 0019E412
 msgid ""
 "封印の洞窟はいかがでしたか？"
-msgstr ""
+msgstr "How was the Sealed Island?"
 
 #: 0019E44B
 msgid ""
 "カイ：それが・・・"
-msgstr ""
+msgstr "Kai: Well..."
 
 #: 0019E483
 msgid ""
 "バーク：そうだ、てめーよくもむだ足させやがって！！"
-msgstr ""
+msgstr "Burke: \"How was it\"?! You sent us on a freaking goose chase, buddy!"
 
 #: 0019E4D2
 msgid ""
 "聖者：いかがなされました？"
-msgstr ""
+msgstr "Sage: What do you mean?"
 
 #: 0019E4FE
 msgid ""
 "カイ：武器は見つけたんだけど、神の力を宿していない"
-msgstr ""
+msgstr "Kai: We found the weapons, but since we didn't have any divine power,"
 
 #: 0019E534
 msgid ""
 "と取れないみたいなんだ。"
-msgstr ""
+msgstr "we couldn't take them."
 
 #: 0019E572
 msgid ""
 "ミシリア：聖者様。神の力とはどうすれば宿るか、ご存知でしょうか？"
-msgstr ""
+msgstr "Michelia: Sage, do you know how we can obtain divine power?"
 
 #: 0019E5CF
 msgid ""
 "聖者：申しわけございませんが、私は存じていません。"
-msgstr ""
+msgstr "Sage: Alas, it is beyond me."
 
 #: 0019E610
 msgid ""
 "ですが、大聖者様なら何かご存知かもしれません。"
-msgstr ""
+msgstr "But, the Grand Sage may have an idea."
 
 #: 0019E65B
 msgid ""
 "バーク：たしかにあのじいさんなら知ってそうだな。"
-msgstr ""
+msgstr "Burke: Yeah, seems like something that old geezer would know."
 
 #: 0019E6B1
 msgid ""
 "ミーナ：誰だ？その大聖者というのは？"
-msgstr ""
+msgstr "Minna: Who's this Grand Sage person?"
 
 #: 0019E704
 msgid ""
 "バーク：うーん、なんつーか、まあ、あやしいじいさんだよ。"
-msgstr ""
+msgstr "Burke: Hmm, well, uh... just some sketchy old dude."
 
 #: 0019E740
 msgid ""
 "ま、会えばわかるって。"
-msgstr ""
+msgstr "Eh, you'll understand when we meet him."
 
 #: 0019E773
 msgid ""
 "カイ：それじゃ、大聖者様に聞いてきます。"
-msgstr ""
+msgstr "Kai: Okay, let's go ask the Grand Sage."
 
 #: 0019E7B8
 msgid ""
 "大臣：はい。それがよろしいようですな。この場合。"
-msgstr ""
+msgstr "Minister: Yes, that seems like the best course of action."
 
 #: 0019E7EF
 msgid ""
 "ときにカイ様。"
-msgstr ""
+msgstr "By the way, Lord Kai."
 
 #: 0019E80C
 msgid ""
 "サリナの姿がみえないようですが？"
-msgstr ""
+msgstr "Why isn't Sarina with you?"
 
 #: 0019E854
 msgid ""
 "カイ：王宮のかたぐるしい空気は苦手だ、といって外で待ってるんだ。"
 msgstr ""
+"Kai: She says she can't stand the stifling noble air here, so she's waiting "
+"outside."
 
 #: 0019E8B1
 msgid ""
 "大臣：こまりましたな。サリナにも早く王宮になれていただかないと。"
 msgstr ""
+"Minister: Oh dear. She needs to get used to standing in the castle again "
+"sooner or later."
 
 #: 0019E923
 msgid ""
 "バーク：あのじゃじゃ馬がなれないとこまるわけでもないだろう？"
-msgstr ""
+msgstr "Burke: What's that stubborn tomboy gotta get used to the castle for?"
 
 #: 0019E97C
 msgid ""
 "大臣：いやいや、ハインローグ国の王妃になられるかもしれぬかたが"
 msgstr ""
+"Minister: Well, she might just become queen of Heinrogue one day, you know."
 
 #: 0019E9BE
 msgid ""
 "王宮ぐらしができません、ではすみませんからな。"
-msgstr ""
+msgstr "If she can't stand the place, she certainly won't live here."
 
 #: 0019EA1F
 msgid ""
 "バーク：ま、一国の王妃ともなりゃ、しかたねーわな"
-msgstr ""
+msgstr "Burke: Can't argue that. A queen's gotta live in the castle."
 
 #: 0019EA53
 msgid ""
 "そうか、あのじゃじゃ馬が王妃にね・・・・？？？"
-msgstr ""
+msgstr "What an interesting thought... That tomboy? A queen?"
 
 #: 0019EAA9
 msgid ""
 "カイ：ちょ、ちょっと待ってよ！それって！？"
-msgstr ""
+msgstr "Kai: W-WAIT!!! WHAT?!"
 
 #: 0019EAF0
 msgid ""
 "大臣：もちろん、カイ様のお妃ととしてでございます。"
-msgstr ""
+msgstr "Minister: Oh, yes! As your bride, of course."
 
 #: 0019EB26
 msgid ""
 "サリナなら家がらももうしんぶんなく、立派な王妃様に。"
 msgstr ""
+"Don't worry. Sarina comes from a fine lineage, so she'd make a spectacular "
+"queen."
 
 #: 0019EB6C
 msgid ""
 "カイ：そうじゃなくて！！"
-msgstr ""
+msgstr "Kai: That's not the problem here!"
 
 #: 0019EBA1
 msgid ""
 "大臣：わかっておりますとも、ご婚礼は旅が終わったのちに。"
-msgstr ""
+msgstr "Minister: Don't worry, this'll be after your journey and all."
 
 #: 0019EBDD
 msgid ""
 "ぜひ、このじいめが生きておる間にお世つぎを・・・"
 msgstr ""
+"But don't take too long. I wish to see you take the crown before I leave "
+"this life."
 
 #: 0019EC7F
 msgid ""
 "カイ：そうじゃなくてぇーーーー"
-msgstr ""
+msgstr "Kai: That's still not the problem here!"
 
 #: 0019ECAF
 msgid ""
 "ミシリア：・・・・・・・・・・・・・・・・・・・・・"
-msgstr ""
+msgstr "Michelia: ........."
 
 #: 001DF949
 msgid ""
 "聖者：こ、これはカイ殿、こ、このような場所になに用ですか？"
 msgstr ""
+"Sage: W-well well, Lord Kai. W-what can I help you with, here of all places?"
 
 #: 001DF995
 msgid ""
 "バーク：おめぇーさんこそなにしてるんだ？"
-msgstr ""
+msgstr "Burke: Awful suspicious, aren't you? What're you doing?"
 
 #: 001DF9C1
 msgid ""
 "仕事中じゃねぇのか？"
-msgstr ""
+msgstr "Aren't you supposed to be working?"
 
 #: 001DF9DC
 msgid ""
 "おっ？うまそーなもんくってんじゃねぇか。"
-msgstr ""
+msgstr "Oh? That looks quite delicious, I might say."
 
 #: 001DFA16
 msgid ""
 "聖者：・・・・・・・・・・"
-msgstr ""
+msgstr "Sage: ..."
 
 #: 001DFA3F
 msgid ""
 "そ、そうですか？どうですか？おひとつ。"
-msgstr ""
+msgstr "I-Indeed! How about I give you one."
 
 #: 001DFA69
 msgid ""
 "最近城下ではやりのまんじゅうですよ。"
-msgstr ""
+msgstr "These manju have been all the rage around town."
 
 #: 001DFAAA
 msgid ""
 "タフまんを手に入れた。"
-msgstr ""
+msgstr "You got a Tough Man!"
 
 #: 001DFAF1
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 001DFB15
 msgid ""
 "聖者：ざんねんですね、もてないようですね。"
-msgstr ""
+msgstr "Sage: That's too bad, you don't seem to have room."
 
 #: 001DFB59
 msgid ""
@@ -1385,22 +1413,24 @@ msgstr ""
 #: 001DFB9A
 msgid ""
 "聖者：大臣様には内緒にしておいてください。"
-msgstr ""
+msgstr "Sage: Please don't tell the Minister about this."
 
 #: 00224162
 msgid ""
 "騎士：これはカイ様、何ようでありますか？"
-msgstr "Knight: Sir Kai, what can we do for you?"
+msgstr "Knight: Sir Kai! What can we do for you?"
 
 #: 00268915
 msgid ""
 "いらっしゃいませ▽世界はひろしといえど"
-msgstr ""
+msgstr "Welcome to Dog's Shop! ▽"
 
 #: 0026893F
 msgid ""
 "いぬら屋とくせいまんじゅうが買えるのはここだけよ▽"
-msgstr "around, but only here can you buy our special manju!"
+msgstr ""
+"We have an exclusive special manju, sold only at this particular storefront! "
+"▽"
 
 #: 002AD122
 msgid ""
@@ -1430,12 +1460,12 @@ msgstr "Clerk: Welcome. What can I do for you?"
 #: 002F199C
 msgid ""
 "主人：しばらくしたらまた来てよ。"
-msgstr ""
+msgstr "Owner: Please come back again in the future."
 
 #: 002F19C0
 msgid ""
 "あたらしい商品をいれるからさ。"
-msgstr ""
+msgstr "Our stock is always changing."
 
 #: 002F1A34
 msgid ""
@@ -1450,312 +1480,313 @@ msgstr "Beautiful Young Woman: Welcome!"
 #: 00336139
 msgid ""
 "カレンのお店にようこそ▽"
-msgstr "Welcome to our cute restaraunt~"
+msgstr "Welcome to our humble restaurant! ▽"
 
 #: 00336194
 msgid ""
 "美人のお姉さん：ありがとうございました。"
-msgstr ""
+msgstr "Beautiful Woman: Thank you very much."
 
 #: 003361C0
 msgid ""
 "これからもカレンのお店をひいきにしてくださいね▽"
-msgstr ""
+msgstr "I'd love it if you stopped by to see me, Karen. ▽"
 
 #: 003BF1B8
 msgid ""
 "サリナ：なぁ、カイ。あんたいったい何者なんだ？"
-msgstr ""
+msgstr "Sarina: Hey, Kai. What are you, anyway?"
 
 #: 003BF203
 msgid ""
 "カイ：え、何者・・・って？"
-msgstr ""
+msgstr "Kai: Huh? What am i?"
 
 #: 003BF245
 msgid ""
 "サリナ：なんとなくだけど・・・"
-msgstr ""
+msgstr "Sarina: I don't know, I just get this feeling..."
 
 #: 003BF27D
 msgid ""
 "大臣の態度がなんかちがうような気がしてさ。"
-msgstr ""
+msgstr "The Minister seems to act weirdly around you."
 
 #: 003BF2D8
 msgid ""
 "バーク：ふっふっふ・・・"
-msgstr ""
+msgstr "Burke: Hehehe."
 
 #: 003BF338
 msgid ""
 "聞いておどろけっ！！"
-msgstr ""
+msgstr "Listen and despair!"
 
 #: 003BF353
 msgid ""
 "カイはこの国の王子様なのだ！！"
-msgstr ""
+msgstr "Kai is this country's prince!"
 
 #: 003BF38E
 msgid ""
 "サリナ：は？"
-msgstr ""
+msgstr "Sarina: What?"
 
 #: 003BF3A9
 msgid ""
 "あんたおかしいとは思っていたけど、ほんとにおかしいんじゃない？"
-msgstr ""
+msgstr "I thought you were clueless at first, but now I'm sure of it!"
 
 #: 003BF3EE
 msgid ""
 "どこの国に、王子をこんな危険な目にさらすやつがいるんだよ。"
 msgstr ""
+"What kind of country lets their prince run on dangerous quests like Kai does?"
 
 #: 003BF470
 msgid ""
 "バーク：う・・・そりゃそうだけどよ・・・"
-msgstr ""
+msgstr "Burke: Umm, uh... You may have a point there."
 
 #: 003BF4B5
 msgid ""
 "サリナ：だろ？"
-msgstr ""
+msgstr "Sarina: Right?"
 
 #: 003BF50D
 msgid ""
 "バーク：ま、まぁ、いろいろあってよ・・・"
-msgstr ""
+msgstr "Burke: H-hmm! Hell, there's a lot going on, is all!"
 
 #: 003BF552
 msgid ""
 "サリナ：いろいろって、なに？"
-msgstr ""
+msgstr "Sarina: A lot going on? Like what?"
 
 #: 003BF58B
 msgid ""
 "バーク：い、いや、だからいろいろだよ。"
-msgstr ""
+msgstr "Burke: A-a lot, a lot! Like, so much stuff!"
 
 #: 003BF5C3
 msgid ""
 "サリナ：答えになってないよ。"
-msgstr ""
+msgstr "Sarina: That's hardly an answer."
 
 #: 003BF5FC
 msgid ""
 "ミーナ：ふふっ・・・"
-msgstr ""
+msgstr "Minna: Heehee!"
 
 #: 003BF645
 msgid ""
 "バーク：あ？こら、今笑ったな？"
-msgstr ""
+msgstr "Burke: Hey, don't laugh at me!"
 
 #: 003BF680
 msgid ""
 "ミシリア：くすくす・・・"
-msgstr ""
+msgstr "Michelia: Giggle, giggle!"
 
 #: 003BF6BE
 msgid ""
 "バーク：う、ミシリアちゃんまで・・・"
-msgstr ""
+msgstr "Burke: Et tu, Michelia? Ugh..."
 
 #: 003BF70A
 msgid ""
 "サリナ：ほらほら、ちゃんと説明してみな。"
-msgstr ""
+msgstr "Sarina: See? You gotta actually explain things."
 
 #: 003BF74F
 msgid ""
 "バーク：く、くそー。こうなったら・・・"
-msgstr ""
+msgstr "Burke: Ugh, fine! You give me no choice..."
 
 #: 003BF787
 msgid ""
 "カイ、たのむ！"
-msgstr ""
+msgstr "Kai, you're up!"
 
 #: 003BF7B2
 msgid ""
 "サリナ：やれやれ、だらしないねぇ。"
-msgstr ""
+msgstr "Sarina: Oh, wow! The town fool has fallen into deeper ire."
 
 #: 003BF7F1
 msgid ""
 "バーク：こ、このやろう！いつかギャフンと言わせてやる！！"
-msgstr ""
+msgstr "Burke: HEY! I won't let you make fun of me forever!"
 
 #: 003BF851
 msgid ""
 "サリナ：ギャフン。"
-msgstr ""
+msgstr "Sarina: Foooool!"
 
 #: 003BF88B
 msgid ""
 "バーク：うわー！！ちくしょう！！"
-msgstr ""
+msgstr "Burke: Argh, why I oughta...!"
 
 #: 003BF8C0
 msgid ""
 "ミーナ：ふふふ・・・"
-msgstr ""
+msgstr "Minna: Hahaha!"
 
 #: 003BF8E6
 msgid ""
 "ミシリア：くすくすくす・・・"
-msgstr ""
+msgstr "Michelia: Giggle, giggle, giggle!"
 
 #: 003BF931
 msgid ""
 "カイ：ま、まぁ、ふたりともそのへんにしといてよ。"
-msgstr ""
+msgstr "Kai: R-reel it in, everyone!"
 
 #: 003BF965
 msgid ""
 "でも、バークの言ったことは本当だよ、サリナ。"
-msgstr ""
+msgstr "What Burke said is true, Sarina."
 
 #: 003BF9C9
 msgid ""
 "サリナ：え？！じゃあ本当に王子様なのか？"
-msgstr ""
+msgstr "Sarina: Huh? Wait, so you're like, actually a prince?"
 
 #: 003BFA17
 msgid ""
 "バーク：ほれ、だから言ったろ？"
-msgstr ""
+msgstr "Burke: Why else would I say he was?!"
 
 #: 003BFA5D
 msgid ""
 "サリナ：でも、王子様がなんで・・・"
-msgstr ""
+msgstr "Sarina: But, a prince..."
 
 #: 003BFA9C
 msgid ""
 "バーク：聞いてねぇ・・・"
-msgstr ""
+msgstr "Burke: She's ignoring me."
 
 #: 003BFAE3
 msgid ""
 "カイ：今、この国でいろんな異変が起きてる。"
-msgstr ""
+msgstr "Kai: There's a lot of trouble brewing in the country."
 
 #: 003BFB14
 msgid ""
 "魔物も増えているし、人間が魔物になってしまうという"
-msgstr ""
+msgstr "Monsters are rapidly spreading, and people are turning"
 
 #: 003BFB4D
 msgid ""
 "病気なんてのもある。"
-msgstr ""
+msgstr "into monsters themselves."
 
 #: 003BFB68
 msgid ""
 "そんなのを、城の中で見ているということができないんだ。"
-msgstr ""
+msgstr "I can't sit idly by in a castle and watch that happen."
 
 #: 003BFBA5
 msgid ""
 "この異変の原因を見つけてはいじょする。"
-msgstr ""
+msgstr "We'll find the cause of this outbreak and stop it ourselves."
 
 #: 003BFBD2
 msgid ""
 "それまでは、冒険者でいるって決めたんだ。"
-msgstr ""
+msgstr "Until then, I'll continue my journey."
 
 #: 003BFC1E
 msgid ""
 "サリナ：へぇ・・・また大変な道を選んだね。"
-msgstr ""
+msgstr "Sarina: Well, well! You're walking quite the dangerous road."
 
 #: 003BFC65
 msgid ""
 "カイ：もちろん、僕１人の力じゃ何もできないと思う。"
-msgstr ""
+msgstr "Kai: Of course. I couldn't possibly do it alone."
 
 #: 003BFCA6
 msgid ""
 "でも、僕には仲間がいるからね。"
-msgstr ""
+msgstr "That's why I have my friends to help me."
 
 #: 003BFCEC
 msgid ""
 "サリナ：そうか・・・気に入ったよ、カイ。"
-msgstr ""
+msgstr "Sarina: I see. You're a good man, Kai."
 
 #: 003BFD26
 msgid ""
 "あたしも最後まであんたについて行くよ。"
-msgstr ""
+msgstr "I'll stick with you till death do us part, okay?"
 
 #: 003BFD69
 msgid ""
 "カイ：ありがとう、サリナ。よろしく頼むよ。"
-msgstr ""
+msgstr "Kai: Thank you, Sarina. I'm counting on you."
 
 #: 003BFDB0
 msgid ""
 "バーク：お、なんだかいいふんいきだな。"
-msgstr ""
+msgstr "Burke: Oh? Things are getting steamy in here."
 
 #: 003BFE0E
 msgid ""
 "サリナ：バカ、ちゃかすんじゃないよ。"
-msgstr ""
+msgstr "Sarina: Fool, don't misread the situation!"
 
 #: 003BFE4F
 msgid ""
 "バーク：んん？てれてるのか？"
-msgstr ""
+msgstr "Burke: Aw, getting blushy on us?"
 
 #: 003BFEB7
 msgid ""
 "サリナ：ミシリアが本気にするだろ？ "
-msgstr ""
+msgstr "Sarina: Michelia's already gunning for him, isn't she?"
 
 #: 003BFF00
 msgid ""
 "ミシリア：え、え！？"
-msgstr ""
+msgstr "Michelia: WHA-WHA-WHAT?!"
 
 #: 003BFF31
 msgid ""
 "サリナ：ねぇ、カイ？"
-msgstr ""
+msgstr "Sarina: Kai should know."
 
 #: 003BFF62
 msgid ""
 "カイ：え？！いや、僕は、その・・・"
-msgstr ""
+msgstr "Kai: HUH? N-no, I, uh... well..."
 
 #: 003BFFA1
 msgid ""
 "サリナ：ははっ、かわいいねぇ！"
-msgstr ""
+msgstr "Sarina: Hahaha! No waaay! You two are so cute!"
 
 #: 003BFFDB
 msgid ""
 "ねぇ、ミーナもそう思うだろ？"
-msgstr ""
+msgstr "You think so too, right, Minna?"
 
 #: 003C0014
 msgid ""
 "ミーナ：ええ。"
-msgstr ""
+msgstr "Minna: Indeed."
 
 #: 003C004A
 msgid ""
 "カイ：さ、さぁ、明日も早いし、もう休もう！"
-msgstr ""
+msgstr "Kai: O-OKAY! We gotta leave really early tomorrow! Off to bed now!"
 
 #: 003C009C
 msgid ""
 "サリナ：ふふっ、てれてるてれてる！"
-msgstr ""
+msgstr "Sarina: Hahaha, no need to run away!"
 
 #: 003C00DB
 msgid ""

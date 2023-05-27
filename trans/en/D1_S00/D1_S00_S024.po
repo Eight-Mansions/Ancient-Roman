@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-09-13 22:12+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-18 08:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s024/en/>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 #: 00044971
 msgid ""
 "いんがの杖を手に入れた。"
-msgstr ""
+msgstr "You got the Causality Rod!"
 
 #: 000449DC
 msgid ""
@@ -27,12 +27,12 @@ msgstr "It's empty."
 #: 0008912E
 msgid ""
 "カイ：・・・よし、行くぞ！"
-msgstr ""
+msgstr "Kai: ...okay, let's go!"
 
 #: 0008916C
 msgid ""
 "カイ：開かないな・・・どうしたら開くんだろう？"
-msgstr ""
+msgstr "Kai: It won't open. What do we need to do to open it?"
 
 #: 0015695D
 msgid ""
@@ -62,17 +62,17 @@ msgstr ""
 #: 00156A9E
 msgid ""
 "カイ：今の世の中を何とかしたいんだ。"
-msgstr ""
+msgstr "Kai: We want to fix the problems with the world."
 
 #: 00156ADF
 msgid ""
 "男：はあ？・・・本気で言ってんのか？"
-msgstr ""
+msgstr "Man: What? Don't tell me you're serious!"
 
 #: 00156B20
 msgid ""
 "カイ：もちろん。"
-msgstr ""
+msgstr "Kai: Of course I am."
 
 #: 00156B4D
 msgid ""
@@ -83,16 +83,18 @@ msgstr ""
 msgid ""
 "俺は女神神殿の門番をつとめてきた。女神神殿について分からないことはないぜ。"
 msgstr ""
+"I'm the gatekeeper in charge of the Goddess Temple. There's nothing I don't "
+"know."
 
 #: 00156BBF
 msgid ""
 "まず、神殿の扉を開けるには「カギ」が必要だ。"
-msgstr ""
+msgstr "First, you'll need a \"key\" to get inside."
 
 #: 00156BEF
 msgid ""
 "カギとなるのは「指輪」と「ブレスレット」だ。"
-msgstr ""
+msgstr "The key consists of a \"bracelet\" and \"ring.\""
 
 #: 00156C38
 msgid ""
@@ -127,72 +129,74 @@ msgstr ""
 #: 00156D8D
 msgid ""
 "男：何か用か？"
-msgstr ""
+msgstr "Man: Do you need something?"
 
 #: 00156DB8
 msgid ""
 "カイ：女神神殿に入りたいんだけど、扉の開け方を知らないかな？"
-msgstr ""
+msgstr "Kai: We want to get into the Goddess Shrine. Do you know how to enter?"
 
 #: 00156E11
 msgid ""
 "何だ？女神の力でも手に入れようってのか？"
-msgstr ""
+msgstr "Huh? Are you're trying to claim the Goddess's divine power?"
 
 #: 00156E56
 msgid ""
 "カイ：ああ、そうだよ。"
-msgstr ""
+msgstr "Kai: Yes, that's right."
 
 #: 00156E89
 msgid ""
 "男：神の力を手に入れてどうするつもりだ？"
-msgstr ""
+msgstr "Man: What do you want with it?"
 
 #: 00156ECE
 msgid ""
 "カイ：今のこの世界をどうにかしたいんだ。"
-msgstr ""
+msgstr "Kai: We want to fix the problems with the world."
 
 #: 00156F08
 msgid ""
 "男：・・・・・・"
-msgstr ""
+msgstr "Man: ..."
 
 #: 00156F35
 msgid ""
 "カイ：・・・そんな答えじゃダメかな？"
-msgstr ""
+msgstr "Kai: ...is that not a good enough answer?"
 
 #: 00156F76
 msgid ""
 "男：・・・へへ、まあいいだろう。"
-msgstr ""
+msgstr "Man: ...hah! Well, I can't argue with your resolve."
 
 #: 00156F9A
 msgid ""
 "俺は女神神殿の門番をつとめてきた。女神神殿について分からないことはない。"
 msgstr ""
+"I'm the gatekeeper in charge of the Goddess Temple. There's nothing I don't "
+"know."
 
 #: 00156FE6
 msgid ""
 "男：まず、神殿の扉を開けるには「カギ」が必要だ。"
-msgstr ""
+msgstr "First, you'll need a \"key\" to get inside."
 
 #: 0015701A
 msgid ""
 "「カギ」となるのは「指輪」と「ブレスレット」だ。"
-msgstr ""
+msgstr "The key consists of a \"bracelet\" and \"ring.\""
 
 #: 00157067
 msgid ""
 "カイ：それで、その「指輪」と「ブレスレット」はここにあるのかい？"
-msgstr ""
+msgstr "Kai: Are the ring and bracelet here?"
 
 #: 001570C4
 msgid ""
 "男：ない。"
-msgstr ""
+msgstr "Man: No."
 
 #: 001570E0
 msgid ""
@@ -202,117 +206,120 @@ msgstr "Kai: Huh?"
 #: 001570FC
 msgid ""
 "男：今は手元にない。と、いうだけだ。"
-msgstr ""
+msgstr "Man: I don't currently have them, however."
 
 #: 00157124
 msgid ""
 "男：最近は魔物の数が増えてるからな。"
-msgstr ""
+msgstr "Man: Because monster attacks in this area have been on the rise,"
 
 #: 0015714C
 msgid ""
 "用心のために「カギ」は「ケーブの町」のやつにわたしてあるんだ。"
-msgstr ""
+msgstr "I handed them to someone in Keb Village for safekeeping."
 
 #: 0015718E
 msgid ""
 "「フィスコ＝アルタ」って名前のじいさんだ。"
-msgstr ""
+msgstr "Look for an old man named \"Fisco Alter\"."
 
 #: 001571D5
 msgid ""
 "カイ：よし、ケーブの町へ行こう！！"
-msgstr ""
+msgstr "Kai: Okay, we're off to Keb Village!"
 
 #: 00157223
 msgid ""
 "男：もう持ってきたのか。なら、神殿に行って来いよ。"
-msgstr ""
+msgstr "Man: Oh, you already have them?! Then it's off to the shrine with you!"
 
 #: 0015726C
 msgid ""
 "男：神の力を手に入れたみたいだな。顔に書いてあるぜ。"
 msgstr ""
+"Man: Looks like you found the divine power. It's written all over your face."
 
 #: 001572A4
 msgid ""
 "まあ、これから先も、がんばれよ。"
-msgstr ""
+msgstr "Good luck with whatever lies ahead for you."
 
 #: 001572FF
 msgid ""
 "男：もう持ってきたのか？"
-msgstr ""
+msgstr "Man: You already have it?!"
 
 #: 0015732E
 msgid ""
 "男：旅の無事を祈ってるぞ。"
-msgstr ""
+msgstr "Man: I'll be praying for your safe journey."
 
 #: 0019B1E3
 msgid ""
 "ミーナ：誰かいます。"
-msgstr ""
+msgstr "Minna: Someone's here."
 
 #: 0019B209
 msgid ""
 "バーク：へ？"
-msgstr ""
+msgstr "Burke: Huh?"
 
 #: 0019B219
 msgid ""
 "・・・って、誰もいねえじゃねえかよ。"
-msgstr ""
+msgstr "...but there's no one here!"
 
 #: 0019B264
 msgid ""
 "ミーナ：・・・・・・！"
-msgstr ""
+msgstr "Minna: ...!"
 
 #: 0019B28C
 msgid ""
 "カイ：だ、誰だ？！"
-msgstr ""
+msgstr "Kai: Who's there?!"
 
 #: 0019B2BE
 msgid ""
 "ダークエルフ：我が名はカーナ。貴様等に死を与える者・・・"
 msgstr ""
+"Dark Elf: My name is Kanna. The last thing you ever see will be me, sending "
+"you to the Afterlife."
 
 #: 0019B308
 msgid ""
 "バーク：でかい口をたたくヤロウだ。こてんぱんにノシてやる。"
-msgstr ""
+msgstr "Burke: Wow, the nerve of this kid. Let's kick his you-know-what!"
 
 #: 0019B346
 msgid ""
 "やいやい、てめえ！このバーク様が相手だ！"
-msgstr ""
+msgstr "What's that? You'll pay for picking a fight with Lord Burke!"
 
 #: 0019B397
 msgid ""
 "ミーナ：待ってください！"
-msgstr ""
+msgstr "Minna: Wait! Please!"
 
 #: 0019B3CC
 msgid ""
 "バーク：な・・・？"
-msgstr ""
+msgstr "Burke: Hmm?"
 
 #: 0019B3FB
 msgid ""
 "ミーナ：見たところ、相手は一人。同じエルフ同士、私にやらせて下さい。"
-msgstr ""
+msgstr "Minna: He's alone. What's more, he's an elf like me. Let me fight him."
 
 #: 0019B451
 msgid ""
 "カイ：・・・・・・？"
-msgstr ""
+msgstr "Kai: ...?"
 
 #: 0019B477
 msgid ""
 "サリナ：・・・理由はそれだけじゃないね・・・"
-msgstr ""
+msgstr "Sarina: ...those aren't not your only reasons, are they."
 
 #: 0019B4B5
 msgid ""
@@ -322,469 +329,487 @@ msgstr "Burke: ..."
 #: 0019B4CD
 msgid ""
 "・・・ちっ、勝手にしろ。"
-msgstr ""
+msgstr "...hmph. Do as you wish."
 
 #: 0019B4E9
 msgid ""
 "まけんなよ。"
-msgstr ""
+msgstr "Just don't lose."
 
 #: 0019B512
 msgid ""
 "ミーナ：ありがとうございます・・・"
-msgstr ""
+msgstr "Minna: Thank you."
 
 #: 0019B5F9
 msgid ""
 "ミーナ：・・・・・・"
-msgstr ""
+msgstr "Minna: ..."
 
 #: 0019B61F
 msgid ""
 "バロア：おい、先に行くぜ。"
-msgstr ""
+msgstr "Baroa: I'm going on ahead."
 
 #: 0019B64B
 msgid ""
 "カイ：ミーナ・・・・・・"
-msgstr ""
+msgstr "Kai: Minna..."
 
 #: 0019B675
 msgid ""
 "サリナ：カイ、しばらく１人で考える時間をあげなよ。"
-msgstr ""
+msgstr "Sarina: Kai. Give her some time to think, okay?"
 
 #: 0019B6AB
 msgid ""
 "こういう時の気持ちは、あたしの方がよく知ってる。"
-msgstr ""
+msgstr "I know the sort of feelings she's having right now."
 
 #: 0019B6ED
 msgid ""
 "ミシリア：でも、こんな所に１人で残しておくなんて・・・"
-msgstr ""
+msgstr "Michelia: But, we can't leave her alone in a place like this..."
 
 #: 0019B782
 msgid ""
 "バーク：俺がついててやるよ。"
-msgstr ""
+msgstr "Burke: I'll stay with her."
 
 #: 0019B7B0
 msgid ""
 "ちょうど、海をながめていたい気分だったからな。"
-msgstr ""
+msgstr "Funny enough, I was just in the mood to stare at the sea."
 
 #: 0019B7FE
 msgid ""
 "サリナ：あんた、ウソが下手だね。"
-msgstr ""
+msgstr "Sarina: You're a terrible liar."
 
 #: 0019B830
 msgid ""
 "バーク：・・・・・・フン。"
-msgstr ""
+msgstr "Burke: ...heh."
 
 #: 0019B859
 msgid ""
 "俺は頭が悪いからな、そんなこと言われても分からん。"
-msgstr ""
+msgstr "I'm stupid, so I don't know what you're implying."
 
 #: 0019B89D
 msgid ""
 "サリナ：ハイハイッ、そーですか。"
-msgstr ""
+msgstr "Sarina: Yeah, yeah. Whatever."
 
 #: 0019B8DA
 msgid ""
 "カイ：じゃ、バーク、ミーナを頼むよ。僕達は、ハンバの村を探そう。"
-msgstr ""
+msgstr "Kai: Okay, we'll leave Minna to you, Burke. We'll search Hanba Village."
 
 #: 0019B9B8
 msgid ""
 "マーモ島中心部"
-msgstr ""
+msgstr "Marmo Island Center."
 
 #: 0019BA3A
 msgid ""
 "ミーナ＆バーク：！"
-msgstr ""
+msgstr "Minna & Burke: !"
 
 #: 0019BA7E
 msgid ""
 "ミーナ：心配をおかけしました。もう、大丈夫です。"
-msgstr ""
+msgstr "Minna: Sorry for making you worry. I'm okay now."
 
 #: 0019BACB
 msgid ""
 "バーク：で、しゅうかくはあったのか？"
-msgstr ""
+msgstr "Burke: So, did you find anything?"
 
 #: 0019BB0F
 msgid ""
 "カイ：それは、おいおい話すよ。"
-msgstr ""
+msgstr "Kai: It's a step in the right direction."
 
 #: 0019BB31
 msgid ""
 "とにかく、ダークン島に行って、全てはそれからさ。"
-msgstr ""
+msgstr "Everything will end at Darkhen Island."
 
 #: 0019BB7E
 msgid ""
 "バーク：・・・そっか。とにかく、俺もミーナもお前についていくぜ。"
 msgstr ""
+"Burke: ...I see, but don't you worry. Minna and I will be right there with "
+"you."
 
 #: 0019BBC2
 msgid ""
 "文句はないよな。"
-msgstr ""
+msgstr "You've got no complaints about that, do you?"
 
 #: 0019BBE4
 msgid ""
 "カイ：よし、行こう！"
-msgstr ""
+msgstr "Kai: Of course not. Let's go!"
 
 #: 001DF970
 msgid ""
 "カイ：あのダークエルフの言ったことが本当なら、"
-msgstr ""
+msgstr "Kai: If what that Dark Elf said was true,"
 
 #: 001DF9A2
 msgid ""
 "このいんがの杖を、この辺りに・・・"
-msgstr ""
+msgstr "then this Causality Rod can be used nearby."
 
 #: 001DF9D6
 msgid ""
 "ぶすっ"
-msgstr ""
+msgstr "Click."
 
 #: 00224270
 msgid ""
 "魔物：私も昔は人間だったよ。今となっては、どうでもいいことだけど。"
 msgstr ""
+"Monster: While I used to be a human, I'm long past lamenting this... thing "
+"that I've become."
 
 #: 002242B6
 msgid ""
 "身も心も怪物になってしまったのに、人間としての記憶が私を苦しめる。"
 msgstr ""
+"Now that I'm a monster, the only things that ails me are my memories of "
+"being a human."
 
 #: 002242FC
 msgid ""
 "過去を全て捨ててしまえれば、どんなに楽だろうか・・・。"
 msgstr ""
+"If only I could throw them away, I would truly not have a care in this world."
 
 #: 00224345
 msgid ""
 "魔物：知っているか？"
-msgstr ""
+msgstr "Monster: Did you know?"
 
 #: 0022435D
 msgid ""
 "ここの長老には双子の兄がいるんだ。"
-msgstr ""
+msgstr "The elder here has a twin brother."
 
 #: 00224383
 msgid ""
 "確か、ドロア城を住みかにしていたと思うんだが・・・"
-msgstr ""
+msgstr "I believe he lived in Castle Droa."
 
 #: 002243C8
 msgid ""
 "魔物：人間だ。人間だ。人間だ。人間だ。人間だ。人間だ。人間だ。人間だ。"
-msgstr ""
+msgstr "Monster: Human. Human. Human. Human. Human. Human. Human. Human."
 
 #: 00224412
 msgid ""
 "人間だ・・・・・・"
-msgstr ""
+msgstr "Human..."
 
 #: 00224524
 msgid ""
 "バロア：んん？なんだ？"
-msgstr ""
+msgstr "Baroa: Hmm? What the...?"
 
 #: 0022453E
 msgid ""
 "バケモンしかいねえじゃねえか！"
-msgstr ""
+msgstr "There's only monsters here!"
 
 #: 0022456E
 msgid ""
 "サリナ：くそっ！ここもバロスメイアの町と同じように？！"
-msgstr ""
+msgstr "Sarina: Darn! Has this place fallen as Barrows May did?!"
 
 #: 002245A8
 msgid ""
 "今度こそ、あたしの手でかたづけてやる！"
-msgstr ""
+msgstr "I won't let you guys get away with this again!"
 
 #: 00224607
 msgid ""
 "魔物達：ちょ、ちょっと、待って下され！"
-msgstr ""
+msgstr "Monsters: P-please! Hold your weapons!"
 
 #: 0022463F
 msgid ""
 "サリナ：よーし、覚悟を決めたな！今からぶっ飛ばしてやる！"
-msgstr ""
+msgstr "Sarina: I'm fired up. Time to knock these guys senseless!"
 
 #: 002246B0
 msgid ""
 "魔物達：ひええ！そんならんぼうな！"
-msgstr ""
+msgstr "Monsters: AHHH! No violence! Please!"
 
 #: 002246EF
 msgid ""
 "カイ：ちょっと待ってよ。なんか様子がおかしい！"
-msgstr ""
+msgstr "Kai: Stop! Something's wrong here."
 
 #: 0022472F
 msgid ""
 "サリナ：えーい！誰だ？！ごちゃごちゃうるさ・・・"
-msgstr ""
+msgstr "Sarina: Ugh, who keeps running their mouth now? Will you just--"
 
 #: 00224763
 msgid ""
 "・・・あ、ごめん、カイだったのね。"
-msgstr ""
+msgstr "...oh. Sorry, Kai. Didn't realize that was you."
 
 #: 002247BE
 msgid ""
 "魔物達：ふう・・・なんて荒っぽい人間なんだ。"
-msgstr ""
+msgstr "Monsters: Phew! What a ferocious human."
 
 #: 002247FC
 msgid ""
 "カイ：とにかく話を聞いてみよう。"
-msgstr ""
+msgstr "Kai: Let's try talking to them, okay?"
 
 #: 00224820
 msgid ""
 "もしかしたら、例の病気のギセイ者かもしれない。"
-msgstr ""
+msgstr "They may be victims of the disease."
 
 #: 00224860
 msgid ""
 "魔物達：とりあえず、長老に相談するので待っていて下さい。"
 msgstr ""
+"Monsters: We'll need to ask the elder for his advice, so please wait here."
 
 #: 002689A8
 msgid ""
 "長老：人間との共存の希望を持つことは、わしらにとって夢も同じだ。"
 msgstr ""
+"Elder: I desire peace between humans and monsters, just the same as you."
 
 #: 002689EC
 msgid ""
 "決して交わることのないせってんなのだ。"
-msgstr ""
+msgstr "But, it's not something so easily obtained."
 
 #: 00268A16
 msgid ""
 "できることなら、もうここには来ないでほしい。"
 msgstr ""
+"If you can help it, pretend this place doesn't exist. You must stay away."
 
 #: 00268AA0
 msgid ""
 "長老：・・・ほう、そんな理由でこんな所まで。"
-msgstr ""
+msgstr "Elder: ...I see. So, that's why you came here."
 
 #: 00268AEC
 msgid ""
 "カイ：はい。しかし、この村はいったい・・・？"
-msgstr ""
+msgstr "Kai: Yes. More importantly, what is this village?"
 
 #: 00268B35
 msgid ""
 "長老：はっはっは、さぞ驚かれたことでしょう。"
-msgstr ""
+msgstr "Elder: Hahaha! Quite a sight, isn't it?"
 
 #: 00268B65
 msgid ""
 "ここは元々、争いを好まない者達の集まった村。"
-msgstr ""
+msgstr "This is a haven for those who lack any desire for conflict."
 
 #: 00268B95
 msgid ""
 "あなた方人間にとっては、怪物と呼ばれる生物だけの村です。"
-msgstr ""
+msgstr "It's only for those who you humans call \"monsters\"."
 
 #: 00268BDF
 msgid ""
 "カイ：僕達の調べていた、怪物になる病気とは、何の関係もないのですね。"
 msgstr ""
+"Kai: Is this haven not affected by the the People Becoming Monsters Disease?"
 
 #: 00268C40
 msgid ""
 "長老：もしかしたら、昔は人間だったやつもおるかもしれんが、"
-msgstr ""
+msgstr "Elder: Perhaps some dwellers here used to be human,"
 
 #: 00268C7E
 msgid ""
 "よほど昔のことだよ。最近で、ここに来た者は、あなた方だけだ。"
 msgstr ""
+"but those stories are all in the past. You're the only humans who've come "
+"recently."
 
 #: 00268CBE
 msgid ""
 "ましてや、この島から外に出て、人間をおそった者もおらん。"
-msgstr ""
+msgstr "And certainly, no one's gone outside to attack humans for sport."
 
 #: 00268D13
 msgid ""
 "カイ：あくまで、ギゼフィルとは関係ないと。"
-msgstr ""
+msgstr "Kai: Are you're saying you have no connection to Gizafeal?"
 
 #: 00268D4F
 msgid ""
 "長老：あなた方にとって、似たようなモノであることは認めるがな。"
 msgstr ""
+"Elder: I understand why you distrust us. We look like those who seek you "
+"harm."
 
 #: 00268DAA
 msgid ""
 "カイ：いえ、そこまでは・・・"
-msgstr ""
+msgstr "Kai: No, it's--"
 
 #: 00268DEE
 msgid ""
 "長老：いいんだよ。大した違いはないしな。それよりも、わしらの同族を使い、"
 msgstr ""
+"Elder: It's quite all right. Either way, those who would manipulate our kind"
 
 #: 00268E3A
 msgid ""
 "悪さをしているやつを野放しにしておくのは、けっこうイヤなものだ。"
-msgstr ""
+msgstr "for evil must be stopped. I believe we have that sentiment in common."
 
 #: 00268E7E
 msgid ""
 "わしらも、あなた方にできる限りの協力をしよう。"
-msgstr ""
+msgstr "We'll do whatever we can to help you."
 
 #: 00268ECC
 msgid ""
 "カイ：すみません。・・・では、とにかく知っていることを教えて下さい。"
 msgstr ""
+"Kai: Thank you. And, please... tell us anything you know that could help us."
 
 #: 00268F2D
 msgid ""
 "長老：そうだな、昔はわしらもダークン島に住んでおったよ。"
 msgstr ""
+"Elder: All right. Well, once upon a time, our kind lived on Darkhen Island."
 
 #: 00268F69
 msgid ""
 "そこには、まだギゼフィルの居城があるはずだ。"
-msgstr ""
+msgstr "Gizafeal's castle should still be there."
 
 #: 00268FA4
 msgid ""
 "その城門はかたくとざされていて、なんびとたりともこばむ。"
-msgstr ""
+msgstr "The gate is firmly shut, however, with no entrances for outsiders."
 
 #: 00268FE0
 msgid ""
 "それを開くには、あの島にある２つの塔の奥にある。"
-msgstr ""
+msgstr "To open it, you must search inside the two neighboring towers."
 
 #: 00269014
 msgid ""
 "装置を使わねばならん。"
-msgstr ""
+msgstr "There are devices within those towers that will open the gate."
 
 #: 00269039
 msgid ""
 "それぞれユーロの港、イオの港から行くことができるのだが、"
-msgstr ""
+msgstr "One can be reached by Yuuno Port. The other, by Io Port."
 
 #: 00269075
 msgid ""
 "おそらくやつのことだ、それなりの番人に守らせているだろう。"
-msgstr ""
+msgstr "Don't expect to scale the towers without a serious fight."
 
 #: 002690CF
 msgid ""
 "カイ：その番人については、何か分かりませんか？"
-msgstr ""
+msgstr "Kai: Do you know anything about those who guard the towers?"
 
 #: 0026911A
 msgid ""
 "長老：ロミアスとルーシアという名前ぐらいしか分からん。"
-msgstr ""
+msgstr "Elder: I know only their names: Romias and Lucia."
 
 #: 0026916D
 msgid ""
 "カイ：ロミアス・・・？どこかで聞いたような・・・"
-msgstr ""
+msgstr "Kai: Romias... I feel as if I've heard that name before."
 
 #: 002691A1
 msgid ""
 "気のせいかな？"
-msgstr ""
+msgstr "Am I misremembering?"
 
 #: 002691C1
 msgid ""
 "長老：・・・わしらは、あなた方に直接手をかしてやれるほど強くない。"
-msgstr ""
+msgstr "Elder: Unfortunately, we're not strong enough to help you directly."
 
 #: 00269207
 msgid ""
 "後は、あなた方の無事を祈るぐらいだ。"
-msgstr ""
+msgstr "All we can do is pray for your safety."
 
 #: 0026922F
 msgid ""
 "まあ、せめて、この村でゆっくりとしていってくれ。"
-msgstr ""
+msgstr "At the very least, we can offer brief hospitality here as well."
 
 #: 0026927C
 msgid ""
 "カイ：すみません。"
-msgstr "Kai: Please excuse us."
+msgstr "Kai: I appreciate it."
 
 #: 002AD18A
 msgid ""
 "おやじ：へへっ。うちの店ではこのようなものを"
-msgstr ""
+msgstr "Older Man: Hehe. Look at the various"
 
 #: 002AD1BA
 msgid ""
 "あつかっております。ぐへへへ。"
-msgstr ""
+msgstr "goods we have to offer. Guhehe!"
 
 #: 002AD22D
 msgid ""
 "へへっ。またのおこしをおまちしていますぜ。"
-msgstr ""
+msgstr "Hehee! Come again!"
 
 #: 002F192E
 msgid ""
 "ようこそ、我が主をおびやかす者達よ。"
-msgstr ""
+msgstr "Welcome, welcome, those who give threat to us."
 
 #: 002F1956
 msgid ""
 "われらが望みを食い止めたくば、なんじらの力を示してみせよ。"
-msgstr ""
+msgstr "If you wish to crush our desires, then show us your might!"
 
 #: 002F1994
 msgid ""
 "そして見事、私を倒してみせるがいい。"
-msgstr ""
+msgstr "Prove your might and defeat me!"
 
 #: 00336164
 msgid ""
 "ヴィーナスローブを手に入れた。"
-msgstr ""
+msgstr "You got the Venus Robe!"
 
 #: 003361B3
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 003361C9
 msgid ""
 "宝箱にもどした。"
-msgstr ""
+msgstr "You put it back."
 
 #: 003361F8
 msgid ""
 "何も見つからない。"
-msgstr ""
+msgstr "There's nothing here."

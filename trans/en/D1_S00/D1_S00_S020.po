@@ -1,4 +1,20 @@
-﻿#: 00268994
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-17 16:50-0400\n"
+"PO-Revision-Date: 2023-05-17 07:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d1_s00_s020/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00268994
 msgid ""
 "カイ：これが残りの半分か・・・"
 msgstr ""
@@ -6,7 +22,7 @@ msgstr ""
 #: 002689EE
 msgid ""
 "カイ：これがかぎとなる像か。"
-msgstr ""
+msgstr "Kai: This idol should be the key."
 
 #: 00268A2F
 msgid ""
@@ -16,55 +32,54 @@ msgstr ""
 #: 0033617A
 msgid ""
 "アクアローゼを憶えた。"
-msgstr ""
+msgstr "You learned Aqua Rose!"
 
 #: 003361EA
 msgid ""
 "何も入っていない。"
-msgstr ""
+msgstr "There's nothing inside."
 
 #: 0037A984
 msgid ""
 "カイ：これが残りの半分か・・・"
-msgstr ""
+msgstr "Kai: This looks like the missing half."
 
 #: 0037A9DE
 msgid ""
 "カイ：これが聖者の言ってた像だな。"
-msgstr ""
+msgstr "Kai: This is the idol the sage spoke of."
 
 #: 0037AA20
 msgid ""
 "冥界の像を手に入れた。"
-msgstr ""
+msgstr "You got the Underworld Idol!"
 
 #: 003BF151
 msgid ""
 "カイ：あれ？どうして進めないんだ？"
-msgstr ""
+msgstr "Kai: Hmm? Why can't we get through?"
 
 #: 003BF185
 msgid ""
 "ミーナ：これは封印の呪文がほどこしてあります。"
-msgstr ""
+msgstr "Minna: This seems to be held fast by the sealing spell."
 
 #: 003BF1B7
 msgid ""
 "これを無理矢理はいじょするのはおそらく無理でしょう。"
-msgstr ""
+msgstr "It's probably impossible to force this out."
 
 #: 003BF1EF
 msgid ""
 "封印を解く装置がどこかにあるはずです。それを探しましょう。"
-msgstr ""
+msgstr "There should be some way to dispel the magic. Let's look for it."
 
 #: 003BF250
 msgid ""
 "ミーナ：封印を解く装置がどこかにあるはずです。"
-msgstr ""
+msgstr "Minna: There should be some way to dispel the magic."
 
 #: 003BF282
 msgid ""
 "それを探しましょう。"
-msgstr ""
-
+msgstr "Let's look for it."

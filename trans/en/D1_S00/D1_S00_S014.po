@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-09-12 03:12+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-18 08:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s014/en/>\n"
 "Language: en\n"
@@ -17,127 +17,130 @@ msgstr ""
 #: 00000139
 msgid ""
 "バーク：入り口は・・・と、・・・"
-msgstr ""
+msgstr "Burke: Let's see... Ah! Here's the entrance."
 
 #: 0000015D
 msgid ""
 "なんだあ？向こうがわからカギがかけられているぞ？"
-msgstr ""
+msgstr "Huh? It's locked from the other side?"
 
 #: 00000191
 msgid ""
 "だめだ、あかねぇな、こりゃ。"
-msgstr ""
+msgstr "Rats. No luck getting this open."
 
 #: 000001BF
 msgid ""
 "カイ：しょうがないな、このかべを登ろう。"
-msgstr ""
+msgstr "Kai: Hmm, we'll just have to scale the wall then."
 
 #: 000001F9
 msgid ""
 "バーク：ほ、本気か？"
-msgstr ""
+msgstr "Burke: Y-you serious?"
 
 #: 00000244
 msgid ""
 "バロア：ここは通れそうもねえな。"
-msgstr ""
+msgstr "Baroa: No luck getting through here."
 
 #: 00044947
 msgid ""
 "隊長：ここは通さん！"
-msgstr ""
+msgstr "Leader: I won't let you pass!"
 
 #: 00044A87
 msgid ""
 "隊長：グ・・・さすがに強い・・・"
-msgstr ""
+msgstr "Leader: Heavens, you're strong..."
 
 #: 00044AC4
 msgid ""
 "バーク：へっ、あたりまえだ。てめえらとはきたえ方が違うんだよ。"
 msgstr ""
+"Burke: Haha, of course we are! We're built different than guys like you!"
 
 #: 00044B14
 msgid ""
 "隊長：お前達がここを通るということは・・・"
-msgstr ""
+msgstr "Leader: If you're trying to get through here..."
 
 #: 00044B42
 msgid ""
 "ロブコロアの滝を目指しているな？"
-msgstr ""
+msgstr "Then you must be heading towards Robe Koroa Waterfall?"
 
 #: 00044B7F
 msgid ""
 "サリナ：それがどうしたんだよ。"
-msgstr ""
+msgstr "Sarina: And what of we are?"
 
 #: 00044BAF
 msgid ""
 "隊長：ウル川をせきとめてある「ロブのせき」を壊さなければ先に進めまい。"
 msgstr ""
+"Leader: You won't get by unless you break the \"Robe Dam\" blocking the Ulu "
+"River."
 
 #: 00044BF9
 msgid ""
 "さあ、せきを壊すがよい・・・クククッ・・・グフッ！！"
-msgstr ""
+msgstr "Break that dam if you dare! Hahaha... Urgh!"
 
 #: 00044C44
 msgid ""
 "バーク：くたばったか・・・"
-msgstr ""
+msgstr "Burke: Looks like he kicked the bucket."
 
 #: 00044C7B
 msgid ""
 "サリナ：一体何が言いたかったんだ？コイツ。"
-msgstr ""
+msgstr "Sarina: What the heck was he trying to say?"
 
 #: 00044CA9
 msgid ""
 "「ロブのせき」を壊さなければ先には進めないなんて・・・"
-msgstr ""
+msgstr "We can't proceed without breaking Robe Dam, huh."
 
 #: 00044CE3
 msgid ""
 "あたし達を助けるようなことを言って・・・"
-msgstr ""
+msgstr "But why would he try to help us?"
 
 #: 00044D28
 msgid ""
 "バロア：・・・ワナだな。間違いねえ。"
-msgstr ""
+msgstr "Baroa: ...it's a trap, no doubt."
 
 #: 00044D69
 msgid ""
 "ミーナ：せきを壊すと、せきとめられていた大量の水が流れ出します。"
-msgstr ""
+msgstr "Minna: If we break the dam, a huge torrent of water will gush out."
 
 #: 00044DAD
 msgid ""
 "この川下に町か村があるのではないのでしょうか。"
-msgstr ""
+msgstr "Isn't there a village down the river from here?"
 
 #: 00044DED
 msgid ""
 "バロア：あるぜ。川下に確か、町があったはずだ。"
-msgstr ""
+msgstr "Baroa: There is. Or, at least, there should be."
 
 #: 00044E2D
 msgid ""
 "ミシリア：じゃあ、その町が・・・"
-msgstr ""
+msgstr "Michelia: If the dam breaks, the people of that village will...!"
 
 #: 00044E6A
 msgid ""
 "バロア：いや、その町も今じゃ「コントンのはいきょ」と呼ばれている。"
-msgstr ""
+msgstr "Baroa: Well, no. It's called \"Conton Ruins\" nowadays"
 
 #: 00044EB0
 msgid ""
 "人なんて住んじゃいねえよ。"
-msgstr ""
+msgstr "It's not a place people live."
 
 #: 00044EF2
 msgid ""
@@ -147,89 +150,89 @@ msgstr "Kai: ..."
 #: 00044F13
 msgid ""
 "よし。その「コントンのはいきょ」に行ってみよう。"
-msgstr ""
+msgstr "Let's check Conton Ruins."
 
 #: 00044F69
 msgid ""
 "バロア：え！？本気か、カイ？"
-msgstr ""
+msgstr "Baroa: Huh? Seriously, Kai?"
 
 #: 00044F89
 msgid ""
 "「コントンのはいきょ」はその名の通りはいきょだぜ？"
-msgstr ""
+msgstr "Conton. Ruins. The issue is right in the name: \"RUINS!\""
 
 #: 00044FD8
 msgid ""
 "カイ：うん・・・"
-msgstr ""
+msgstr "Kai: Yeah."
 
 #: 00044FFA
 msgid ""
 "バロア：どうしてだ？"
-msgstr ""
+msgstr "Baroa: So?"
 
 #: 00045020
 msgid ""
 "カイ：カン・・・じゃだめかな？"
-msgstr ""
+msgstr "Kai: I've... I've got a bad feeling, you know?"
 
 #: 0004505B
 msgid ""
 "バロア：カンだとお！？"
-msgstr ""
+msgstr "Baroa: A feeling?"
 
 #: 00045083
 msgid ""
 "カイ：うん。何か、こう・・・嫌な感じがするんだ。"
-msgstr ""
+msgstr "Kai: Yeah, something doesn't feel right."
 
 #: 000450D0
 msgid ""
 "バーク：まあ、いいじゃねか。カイの言う通りにしようぜ。"
-msgstr ""
+msgstr "Burke: Aw, what's the harm? Let's just go check."
 
 #: 00045123
 msgid ""
 "バロア：ま、別にかまわねえけどよ。"
-msgstr ""
+msgstr "Baroa: Well, I guess it's not too out of the way."
 
 #: 00045160
 msgid ""
 "サリナ：カイが言うんだ。何かあるかもな。"
-msgstr ""
+msgstr "Sarina: I agree with Kai. Maybe we'll find something there."
 
 #: 000451A5
 msgid ""
 "バーク：よっしゃ！じゃ、行こうぜカイ。"
-msgstr ""
+msgstr "Burke: All right, that's the plan! Let's go, Kai!"
 
 #: 000451CF
 msgid ""
 "その「コントンのはいきょ」とかいう所によ。"
-msgstr ""
+msgstr "To Conton Ruins, or... whatever place it is now!"
 
 #: 0004520B
 msgid ""
 "カイ：ありがとう、みんな。"
-msgstr ""
+msgstr "Kai: Thanks, everyone."
 
 #: 00112164
 msgid ""
 "ドラゴンヘルムを手に入れた。"
-msgstr ""
+msgstr "You got the Dragon Helm!"
 
 #: 001121B1
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 001121C7
 msgid ""
 "宝箱にもどした。"
-msgstr ""
+msgstr "You put it back."
 
 #: 001121F6
 msgid ""
 "ゴミしか見つからない。"
-msgstr ""
+msgstr "Nothing left but trash."

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-12-06 22:13+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s016/en/>\n"
 "Language: en\n"
@@ -17,32 +17,32 @@ msgstr ""
 #: 00000115
 msgid ""
 "装飾屋：イラッシャイマセー▽"
-msgstr ""
+msgstr "Decoration Dealer: Come on in! ▽"
 
 #: 00000135
 msgid ""
 "ココ、ヤマノオカ装飾店トイイマース▽"
-msgstr ""
+msgstr "Welcome to Peak Jewelers! ▽"
 
 #: 0000015D
 msgid ""
 "ナニカ買ッテクダサーイ▽"
-msgstr ""
+msgstr "Please buy something, okay? ▽"
 
 #: 00044915
 msgid ""
 "薬屋：いらっしゃいませ"
-msgstr ""
+msgstr "Pharmacist: Welcome."
 
 #: 00089115
 msgid ""
 "店員：いらっしゃいませ。"
-msgstr "Shopkeep: Welcome."
+msgstr "Innkeep: Welcome."
 
 #: 00089131
 msgid ""
 "お一人７０ガメですが、一泊されますか？"
-msgstr ""
+msgstr "The price is 70 gahme per person. Will you be staying?"
 
 #: 00089169
 msgid ""
@@ -62,177 +62,178 @@ msgstr "Good morning."
 #: 000891FD
 msgid ""
 "ゆうべはよくおやすみになれましたか？"
-msgstr "Did you sleep okay last night?"
+msgstr "Did you sleep well last night?"
 
 #: 0008924F
 msgid ""
 "申しわけありませんが、お金が不足しておりまして・・・"
-msgstr "I'm sorry, but you don't seem to have enough money..."
+msgstr "I'm sorry, but you don't seem to have enough money."
 
 #: 00089287
 msgid ""
 "またのおこしをおまちしております。"
-msgstr "Please come again!"
+msgstr "Come again!"
 
 #: 00112115
 msgid ""
 "道具屋：いらっしゃいませ"
-msgstr ""
+msgstr "Tool Shop: Welcome."
 
 #: 00156915
 msgid ""
 "エヴリ屋：いらっしゃいませ。"
-msgstr ""
+msgstr "Every Store: Welcome!"
 
 #: 00156935
 msgid ""
 "うちは店の名前にあるように全体魔法の店だよ。"
-msgstr ""
+msgstr "As our name implies, we specialize in all-targeting magic."
 
 #: 001569AC
 msgid ""
 "エヴリ屋：うーん、うちより強力な魔法が欲しかったら"
-msgstr ""
+msgstr "Every Shop: If you want even more power spells,"
 
 #: 001569E2
 msgid ""
 "大聖者様に聞いてみるといいよ。"
-msgstr ""
+msgstr "make sure to ask the Grand Sage."
 
 #: 0019B115
 msgid ""
 "武器屋：いらっしゃいませ"
-msgstr ""
+msgstr "Weapon Shop: Welcome."
 
 #: 001DF97D
 msgid ""
 "バロア：ここが封印の島ってやつだ。"
-msgstr ""
+msgstr "Baroa: This must be the rumored Sealed Island."
 
 #: 001DF9A3
 msgid ""
 "この島にはでけぇー門があってな。"
-msgstr ""
+msgstr "There's a massive gate here."
 
 #: 001DF9C7
 msgid ""
 "こいつがどうやっても開かないので、船乗り達は誰も近づかねえのさ。"
-msgstr ""
+msgstr "No one can get it open, so sailors can't get through."
 
 #: 001DFA0B
 msgid ""
 "行ってみるかい？"
-msgstr ""
+msgstr "Should we take a crack at it ourselves?"
 
 #: 001DFA38
 msgid ""
 "カイ：もちろん、行ってみるよ。"
-msgstr ""
+msgstr "Kai: Of course. Let's give it a go."
 
 #: 001DFA73
 msgid ""
 "バロア：そうこなくちゃな。よし、門は南の方だ。"
-msgstr ""
+msgstr "Baroa: That's the spirit! All right, the gate's to the south of here."
 
 #: 001DFBE5
 msgid ""
 "サリナ：あーあー、結局むだ足か。"
-msgstr ""
+msgstr "Sarina: Well, well, well. Seems like even we can't open it."
 
 #: 001DFC22
 msgid ""
 "カイ：うーん、神の力がどうのこうの言ってたけど"
-msgstr ""
+msgstr "Kai: Yeah. They mentioned divine power,"
 
 #: 001DFC54
 msgid ""
 "なんのことだろう？"
-msgstr ""
+msgstr "but what is that?"
 
 #: 001DFC8E
 msgid ""
 "ミシリア：神様の力を宿すってどういうことかしら？"
-msgstr ""
+msgstr "Michelia: And how do you obtain divine power?"
 
 #: 001DFCDB
 msgid ""
 "サリナ：うーん、聞いたことがないね。"
-msgstr ""
+msgstr "Sarina: Can't say I've heard about it either."
 
 #: 001DFD17
 msgid ""
 "ミーナ、あんたなら何か知ってるんじゃない？"
-msgstr ""
+msgstr "Minna, how about you?"
 
 #: 001DFD81
 msgid ""
 "ミーナ：いえ、特にこれといっては知りません。"
-msgstr ""
+msgstr "Minna: I have no clue, unfortunately."
 
 #: 001DFDD5
 msgid ""
 "バーク：そうか。無口な姉ちゃんでもしらねえとなると・・・"
 msgstr ""
+"Burke: If smarty pants here has no idea either, then we're fresh outta luck."
 
 #: 001DFE2A
 msgid ""
 "ミシリア：お城の聖者様なら知ってるかな？"
-msgstr ""
+msgstr "Michelia: Think the sage at the castle would know?"
 
 #: 001DFE6F
 msgid ""
 "バーク：そうだ、そもそもあいつがいい加減なこといいやがったから"
-msgstr ""
+msgstr "Burke: Why not? I've got to give him a piece of my mind anyway!"
 
 #: 001DFEB1
 msgid ""
 "こんなことになったんだ。何が強力な武器だ！！"
-msgstr ""
+msgstr "\"Powerful weapon\"? What a load of bull that was!"
 
 #: 001DFEE1
 msgid ""
 "つかえねーもん教えやがって！！"
-msgstr ""
+msgstr "Didn't even tell us about this lousy gate!"
 
 #: 001DFF1C
 msgid ""
 "バロア：強力な武器か・・・・"
-msgstr ""
+msgstr "Baroa: Powerful weapons, huh..."
 
 #: 001DFF5C
 msgid ""
 "サリナ：なんか心当たりでもあるのかい？"
-msgstr ""
+msgstr "Sarina: That ring a bell for you?"
 
 #: 001DFF9F
 msgid ""
 "バロア：ああ、船乗りの間のうわさ話なんだが、"
-msgstr ""
+msgstr "Baroa: Ahh. It's but a rumor of us sailors,"
 
 #: 001DFFCF
 msgid ""
 "「神殿の島」つー所に強力な武器が転がってるつー話だぜ。"
-msgstr ""
+msgstr "but it talks about a \"Sacred Island\" that houses powerful weapons."
 
 #: 001E0022
 msgid ""
 "サリナ：「神殿の島」？"
-msgstr ""
+msgstr "Sarina: Sacred Island?"
 
 #: 001E0055
 msgid ""
 "バロア：ああ、島の中に神殿らしいのがあるから、"
-msgstr ""
+msgstr "Baroa: Yup. It should be an island with an old shrine in the middle."
 
 #: 001E0087
 msgid ""
 "そう俺達が呼んでるだけだ。"
-msgstr ""
+msgstr "We just call it Sacred Island for short."
 
 #: 001E00B3
 msgid ""
 "サリナ：ふーん、おもしろそうじゃないの。"
-msgstr ""
+msgstr "Sarina: Hmm, sounds like its worth a look-see."
 
 #: 001E011B
 msgid ""
@@ -242,147 +243,148 @@ msgstr ""
 #: 001E013D
 msgid ""
 "ミシリア：カイ、お城の聖者様のもとにもどったほうが・・・"
-msgstr ""
+msgstr "Michelia: Kai, I think we should talk to the sage first."
 
 #: 001E0192
 msgid ""
 "カイ：う、うん。"
-msgstr "Kai: S-sure..."
+msgstr "Kai: Yeah."
 
 #: 001E01B4
 msgid ""
 "バーク：（おっ、カイがどっちを選ぶか、こいつはみものだぜ・・・）"
 msgstr ""
+"Burke: (Oh! Whose suggestion is Kai gonna pick, eh? This'll be fun to see!)"
 
 #: 001E029F
 msgid ""
 "バロア：おいおい、お宝も見ずに帰るのかい？"
-msgstr ""
+msgstr "Baroa: Heeey, we leaving without even looking for treasure?"
 
 #: 001E02CD
 msgid ""
 "まあ、いいけどよ・・・"
-msgstr ""
+msgstr "I mean, I guess that's fine..."
 
 #: 00224132
 msgid ""
 "なんじら、門を開封するしかくありしものなり"
-msgstr ""
+msgstr "Thou holds the power to open the gate."
 
 #: 00224195
 msgid ""
 "バロア：な、なんだったんだ、今のは・・・"
-msgstr ""
+msgstr "Baroa: W-woah, what was that?"
 
 #: 002241CF
 msgid ""
 "ミシリア：見て、門が開いてるわ。"
-msgstr ""
+msgstr "Michelia: Look. The gate's opening!"
 
 #: 00224201
 msgid ""
 "カイ：よし、みんな、いってみよう。"
-msgstr ""
+msgstr "Kai: All right! Let's head inside."
 
 #: 002AD16B
 msgid ""
 "ナイトシールドを手に入れた。"
-msgstr ""
+msgstr "You got a Knight Shield!"
 
 #: 002AD1B8
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 002AD1E9
 msgid ""
 "何も見つからない。"
-msgstr ""
+msgstr "There's nothing here."
 
 #: 002F1965
 msgid ""
 "カイ：あれ、ここは入り口だ・・・"
-msgstr ""
+msgstr "Kai: Wait. This is the entrance."
 
 #: 002F1989
 msgid ""
 "いったい何がおこったんだ？"
-msgstr ""
+msgstr "What happened?"
 
 #: 002F19B5
 msgid ""
 "ミーナ：おそらく、何者かの魔力によってとばされたのでしょう。"
-msgstr ""
+msgstr "Minna: It seems we were sent back via magic."
 
 #: 002F19F5
 msgid ""
 "どうやら、我々はまねかざる客のようです。"
-msgstr ""
+msgstr "Perhaps we're not wanted by someone."
 
 #: 002F1A21
 msgid ""
 "一度、外に出てこれからの事を考えませんか？"
-msgstr ""
+msgstr "Shall we head back outside and think about our next steps?"
 
 #: 003361A2
 msgid ""
 "バーク：おっ、それらしいもんがあるじゃねーか。"
-msgstr ""
+msgstr "Burke: Oh, hey. There's some nice-looking stuff here!"
 
 #: 003361FC
 msgid ""
 "サリナ：まったくだよ。これなんかいいね。"
-msgstr ""
+msgstr "Sarina: Hot dang! This stuff looks amazing!"
 
 #: 0033629F
 msgid ""
 "サリナ：あいたたたた。"
-msgstr ""
+msgstr "Sarina: Ow, ow, ow...!"
 
 #: 003362E4
 msgid ""
 "カイ：大丈夫かい、サリナ。"
-msgstr ""
+msgstr "Kai: You okay, Sarina?"
 
 #: 00336313
 msgid ""
 "ここにあるは神の武器。"
-msgstr ""
+msgstr "The God's Weapons lay here."
 
 #: 0033632D
 msgid ""
 "神の力をその身に宿したものいがい使うことあたわず。"
-msgstr ""
+msgstr "Only those with divine power may wield them."
 
 #: 00336387
 msgid ""
 "カイ：神の武器？"
-msgstr ""
+msgstr "Kai: God's Weapons?"
 
 #: 003363DB
 msgid ""
 "カイ：な、なんだ！体が！？うわぁぁぁあ！！"
-msgstr ""
+msgstr "Kai: W-what? My body is-- UWAAAHAHH!"
 
 #: 0033644B
 msgid ""
 "ここにあるは神の武器。神の力をその身に宿したもの"
-msgstr ""
+msgstr "The God's Weapons lay here. Those housing divine power"
 
 #: 0033647F
 msgid ""
 "いがい使うことあたわず。"
-msgstr ""
+msgstr "may utilize them."
 
 #: 003364D0
 msgid ""
 "カイ：まただ！！"
-msgstr ""
+msgstr "Kai: Again?!"
 
 #: 0033655A
 msgid ""
 "バーク、なんじ、神の力を宿したものなり！！"
-msgstr ""
+msgstr "Burke! Thou holds divine power!"
 
 #: 0033658B
 msgid ""
@@ -392,17 +394,17 @@ msgstr ""
 #: 003365BD
 msgid ""
 "バーク：へへっ、これで武器がもらえるわけだ。"
-msgstr ""
+msgstr "Burke: Hehe! This means I get a sick weapon, don't it?"
 
 #: 0033662A
 msgid ""
 "きょじんのおのを手に入れた。"
-msgstr ""
+msgstr "You got the Giant's Axe!"
 
 #: 00336718
 msgid ""
 "ミシリア、なんじ、神の力を宿したものなり！！"
-msgstr ""
+msgstr "Michelia! Thou holds divine power!"
 
 #: 0033674B
 msgid ""
@@ -412,79 +414,79 @@ msgstr ""
 #: 00336767
 msgid ""
 "ミシリア：はい。"
-msgstr ""
+msgstr "Michelia: Yes."
 
 #: 003367BC
 msgid ""
 "ヴィーナスロッドを手に入れた。"
-msgstr ""
+msgstr "You got the Venus Rod!"
 
 #: 003368AC
 msgid ""
 "ミーナ、なんじ、神の力を宿したものなり！！"
-msgstr ""
+msgstr "Minna! Thou holds divine power!"
 
 #: 003368DA
 msgid ""
 "前に出よ。"
-msgstr ""
+msgstr "Step forth."
 
 #: 00336922
 msgid ""
 "エルフソードを手に入れた。"
-msgstr ""
+msgstr "You got the Elf Sword!"
 
 #: 00336A0E
 msgid ""
 "サリナ、なんじ、神の力を宿したものなり！！"
-msgstr ""
+msgstr "Sarina! Thou holds divine power!"
 
 #: 00336A3C
 msgid ""
 "前へでよ。"
-msgstr ""
+msgstr "Step forth."
 
 #: 00336A58
 msgid ""
 "サリナ：ほいほい、行ってくるよ。"
-msgstr ""
+msgstr "Sarina: Ho ho! Let's see what I get..."
 
 #: 00336AC4
 msgid ""
 "ルーンの剣を手に入れた。"
-msgstr ""
+msgstr "You got the Rune Sword!"
 
 #: 00336AEE
 msgid ""
 "サリナ：こいつはいい剣だね。"
-msgstr ""
+msgstr "Sarina: Now, this is a fine sword!"
 
 #: 00336B0E
 msgid ""
 "よし、今からこいつをジェナトスソードと名づけよう。"
-msgstr ""
+msgstr "All right, I'll call this the Jenatos Sword!"
 
 #: 00336B52
 msgid ""
 "ジェナトスソードを手に入れた。"
-msgstr ""
+msgstr "You got the Jenatos Sword!"
 
 #: 00336C42
 msgid ""
 "バロア、なんじ、神の力を宿したものなり！！"
-msgstr ""
+msgstr "Baroa! Thou holds divine power!"
 
 #: 00336C70
 msgid ""
 "前にでよ。"
-msgstr ""
+msgstr "Step forth."
 
 #: 00336C8C
 msgid ""
 "バロア：よっしゃあ！"
-msgstr ""
+msgstr "Baroa: Heck yeah!"
 
 #: 00336CDE
 msgid ""
 "ポセイドンスピアを手に入れた。"
-msgstr ""
+msgstr "You got Poseidon's Spear!"

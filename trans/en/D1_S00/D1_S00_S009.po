@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-12-10 23:13+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s009/en/>\n"
 "Language: en\n"
@@ -27,562 +27,571 @@ msgstr ""
 #: 000001FE
 msgid ""
 "何も見つからない。"
-msgstr ""
+msgstr "There's nothing here."
 
 #: 00089186
 msgid ""
 "ビッグヘカを手に入れた。"
-msgstr ""
+msgstr "You got a Big Heka!"
 
 #: 000891CF
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 00089200
 msgid ""
 "何も入っていない。"
-msgstr ""
+msgstr "There's nothing inside."
 
 #: 00112164
 msgid ""
 "ファラ：ねえねえ、この辺じゃないかな？"
-msgstr ""
+msgstr "Fara: Hey, hey! This is the spot, right?"
 
 #: 0011218E
 msgid ""
 "なんとなくそれっぽいよ。"
-msgstr ""
+msgstr "It seems like it must be."
 
 #: 001121C3
 msgid ""
 "バーク：へん、そんな簡単に見つかるかよ。"
-msgstr ""
+msgstr "Burke: Hmm, I doubt we'd find it that easily."
 
 #: 001121FD
 msgid ""
 "カイ：もう少し、ちゃんと調べてみないと何とも言えないな。"
-msgstr ""
+msgstr "Kai: We won't know for sure unless we look around thoroughly."
 
 #: 00112252
 msgid ""
 "バーク：へーへー。"
-msgstr ""
+msgstr "Burke: Yeah, yeah."
 
 #: 00112295
 msgid ""
 "ファラ：もっとヤル気だせー！えいえいえいえい！"
-msgstr ""
+msgstr "Fara: Come on. Can't you be more motivated?! LET'S GO, GO, GO!"
 
 #: 00112317
 msgid ""
 "バーク：あだだだだっ。このチビ！んなもんでなぐるな！"
-msgstr ""
+msgstr "Burke: OWOWOOW! Cut it out, pipsqueak, or I'll send you flying!"
 
 #: 001123B3
 msgid ""
 "ファラ：うわっ！"
-msgstr ""
+msgstr "Fara: Ooh, how scaaary!"
 
 #: 00112415
 msgid ""
 "カイ：な・・・これは・・・"
-msgstr ""
+msgstr "Kai: Hey, is this...?"
 
 #: 0011244F
 msgid ""
 "ミシリア：見て！この木・・・"
-msgstr ""
+msgstr "Michelia: Look! The tree..."
 
 #: 00112496
 msgid ""
 "カイ：もしかして、ここに入るとエルフに会えるのかな・・・"
-msgstr ""
+msgstr "Kai: Maybe we'll meet an elf if we go inside."
 
 #: 001124EE
 msgid ""
 "バーク：おい、チビスケ。お前の持っている物を見せろ。"
-msgstr ""
+msgstr "Burke: Hey, bird brain. Show me that thing you're carrying."
 
 #: 00112579
 msgid ""
 "ファラ：いーやっ！"
-msgstr ""
+msgstr "Fara: No way!"
 
 #: 001125DB
 msgid ""
 "ミシリア：ねえ、ファラが持っているの、"
-msgstr ""
+msgstr "Michelia: Hey, what about the stick Fara's holding?"
 
 #: 00112605
 msgid ""
 "あれ、おばあさんにもらった杖じゃ・・・"
-msgstr ""
+msgstr "The one from the old lady?"
 
 #: 00112678
 msgid ""
 "カイ：・・・そうか、あの杖が入口を開くカギになっていたんだ。"
-msgstr ""
+msgstr "Kai: I see, so that stick was the key to opening the entrance!"
 
 #: 001126B8
 msgid ""
 "とにかく、中に入ってみよう。"
-msgstr ""
+msgstr "Let's try going inside."
 
 #: 001126E6
 msgid ""
 "バーク：だから、見せろって、言ってる、だろ！"
-msgstr ""
+msgstr "Burke: I thought of that! It's why I told her to show it to me!"
 
 #: 0011272F
 msgid ""
 "ハア、ハア、ハア・・・"
-msgstr ""
+msgstr "Haa, haa, haa..."
 
 #: 00112762
 msgid ""
 "ファラ：イヤダモーンっ。"
-msgstr ""
+msgstr "Fara: And I said no!"
 
 #: 0011278C
 msgid ""
 "カイ：ふたりとも！何やってんの！"
-msgstr ""
+msgstr "Kai: Guys, what the heck!"
 
 #: 001127DD
 msgid ""
 "バーク＆ファラ：ヘーイ。"
-msgstr ""
+msgstr "Burke & Fara: Sorry."
 
 #: 0019B1FF
 msgid ""
 "カイ：エ、エルフ・・・・・・？"
-msgstr ""
+msgstr "Kai: A-an elf?"
 
 #: 0019B2CE
 msgid ""
 "エルフの女：人がこのような所に現われるとは！"
-msgstr ""
+msgstr "Female Elf: What are you humans doing here?"
 
 #: 0019B2FE
 msgid ""
 "カイ：待って！僕達は！"
-msgstr ""
+msgstr "Kai: Wait! We come as friends!"
 
 #: 0019B318
 msgid ""
 "エルフの女：問答無用！"
-msgstr ""
+msgstr "Female Elf: Don't lie to me!"
 
 #: 001DF9DD
 msgid ""
 "カイ：あれ・・・？"
-msgstr ""
+msgstr "Kai: Huh?"
 
 #: 001DFA2C
 msgid ""
 "カイ：どうしたんだろう？先に進めない・・・"
-msgstr ""
+msgstr "Kai: What happened? I can't go any further!"
 
 #: 001DFAB0
 msgid ""
 "マクロード：はずかしながら、この私も前に進めません。"
-msgstr ""
+msgstr "McLeod: I'm afraid to admit it, but I cannot proceed either."
 
 #: 001DFAE8
 msgid ""
 "気持ちは前向きなのですが、体がいやがっているような・・・"
-msgstr ""
+msgstr "My mind's ready to go, but it's like my body is saying, \"Nooo...\""
 
 #: 001DFB32
 msgid ""
 "ミーナ：この奥に、邪悪で強力な力の存在を感じます。"
-msgstr ""
+msgstr "Minna: There's something malevolent up ahead."
 
 #: 001DFB68
 msgid ""
 "無意識のうちに、体が進むことをきょぜつしているように思いますが・・・"
-msgstr ""
+msgstr "I think it's tricking your body into thinking it can't proceed."
 
 #: 001DFBB0
 msgid ""
 "おそらく、結界の一種ではないでしょうか。"
-msgstr ""
+msgstr "It must be some kind of barrier."
 
 #: 001DFBEA
 msgid ""
 "バーク：俺はそんなことないぜ！"
 msgstr ""
+"Burke: What're you guys talking about? As if magic's gonna hold me back!"
 
 #: 001DFC0C
 msgid ""
 "おりゃぁぁぁーーー！！！"
-msgstr ""
+msgstr "ORYAAAA!!!"
 
 #: 001DFC9C
 msgid ""
 "おおおおおおおっ！"
-msgstr ""
+msgstr "WOAAAAAAAH!!!"
 
 #: 001DFCC0
 msgid ""
 "ミーナ：ムリです！人間の力でやぶれるような結界では・・・"
 msgstr ""
+"Minna: It's impossible! Please! It's not a barrier than can be broken by a "
+"human's--"
 
 #: 001DFDA0
 msgid ""
 "カイ：な・・・？！"
-msgstr ""
+msgstr "Kai: What?"
 
 #: 001DFDDD
 msgid ""
 "ミシリア：すごい・・・"
-msgstr ""
+msgstr "Michelia: Woah..."
 
 #: 001DFE05
 msgid ""
 "ミーナ：・・・結界の強せい力が弱まりました。"
-msgstr ""
+msgstr "Minna: ...it seems the barrier's magic has weakened."
 
 #: 001DFE35
 msgid ""
 "なんとも、単純というか、ムチャクチャというか・・・"
-msgstr ""
+msgstr "I'm not sure whether to call that reckless or outright stupid..."
 
 #: 001DFE6B
 msgid ""
 "とにかく、これなら先に進めそうです。"
-msgstr ""
+msgstr "Either way, it seems we can proceed."
 
 #: 001DFEA1
 msgid ""
 "カイ：よし、行こう。"
-msgstr ""
+msgstr "Kai: Well then, let's go."
 
 #: 002241A7
 msgid ""
 "カイ：うわあぁぁ！"
-msgstr ""
+msgstr "Kai: URGH!!!"
 
 #: 002241CE
 msgid ""
 "バーク：うわははははははは！"
-msgstr ""
+msgstr "Burke: URGHWAAA!!!"
 
 #: 002241FF
 msgid ""
 "ミシリア：は、早く逃げましょ！"
-msgstr ""
+msgstr "Michelia: Q-quick, let's run!"
 
 #: 00224232
 msgid ""
 "カイ：う、うん！"
-msgstr ""
+msgstr "Kai: Y-yeah!"
 
 #: 00224257
 msgid ""
 "ミシリア：きゃあ！"
-msgstr ""
+msgstr "Michelia: Kyaa!"
 
 #: 0022426D
 msgid ""
 "どこさわってんのよ！！"
-msgstr ""
+msgstr "Where are you touching?!"
 
 #: 0022429B
 msgid ""
 "カイ：お、おてがらだったね、バーク・・・"
-msgstr ""
+msgstr "Kai: Not bad, Burke..."
 
 #: 002242E0
 msgid ""
 "バーク：いやー、それほどでもあるけどな。"
-msgstr ""
+msgstr "Burke: Nah, was nothing!"
 
 #: 0022430C
 msgid ""
 "洞窟がくずれてきたのは、計算外だったが。"
-msgstr ""
+msgstr "Although, I can't say I planned on the cave collapsing."
 
 #: 00224354
 msgid ""
 "ミーナ：まったく・・・後先考えずに、いきなり壊すなんて。"
 msgstr ""
+"Minna: Really, now... You run ahead without thinking, and the cave collapses!"
 
 #: 00224390
 msgid ""
 "今回は、たまたま助かりましたが、時には取り返しのつかない結果を"
 msgstr ""
+"You saved us this time, but do that again, and it might not end so lucky for "
+"us."
 
 #: 002243D2
 msgid ""
 "引き起こすこともあるのです。もう少し、考えて行動して欲しいですね。"
 msgstr ""
+"I really wish you'd start thinking before diving in like an absolute fool!"
 
 #: 00224431
 msgid ""
 "バーク：なにーっ！！せっかく助けてやったのに！"
-msgstr ""
+msgstr "Burke: What? I saved you! And you still wanna yell at me?!"
 
 #: 0022447A
 msgid ""
 "マクロード：確かにバーク殿の行動はけいそつではあったが、"
-msgstr ""
+msgstr "McLeod: Now, now. Burke's actions may have been reckless,"
 
 #: 002244B6
 msgid ""
 "ミーナ殿の身を心配してのことでしょう。"
-msgstr ""
+msgstr "but he was worried about Minna's well-being, right?"
 
 #: 002244E0
 msgid ""
 "それに、行動にまよいが少なければ、戦士としての強さにつながると"
-msgstr ""
+msgstr "That, and I feel a soldier's true strength lies"
 
 #: 00224522
 msgid ""
 "私は考えますが。"
-msgstr ""
+msgstr "in his ability to act without hesitation when needed."
 
 #: 00224552
 msgid ""
 "ミシリア：・・・ミーナさん。"
-msgstr ""
+msgstr "Michelia: ...Minna."
 
 #: 0022458E
 msgid ""
 "ミーナ：いえ・・・感謝していないわけではありません。"
-msgstr ""
+msgstr "Minna: It's not that I'm ungrateful..."
 
 #: 002245C6
 msgid ""
 "ですが、確かに言いすぎたかもしれませんね。"
-msgstr ""
+msgstr "But, yes, I may have said too much."
 
 #: 00224610
 msgid ""
 "バーク：分かりゃいいんだよ。分かりゃ。"
-msgstr ""
+msgstr "Burke: As long as you understand, let's let bygones by bygones."
 
 #: 00224656
 msgid ""
 "カイ：とにかく、早くここを出よう・・・とほほ。"
-msgstr ""
+msgstr "Kai: We should really get out of here now, or... Cough!"
 
 #: 002246F3
 msgid ""
 "カイ：くずれてしまって、先に進めない。"
-msgstr ""
+msgstr "Kai: It's caved in. We can't go that way anymore."
 
 #: 002688E5
 msgid ""
 "ミーナ：く・・・"
-msgstr ""
+msgstr "Minna: Urgh..."
 
 #: 0026895C
 msgid ""
 "ミシリア：ミーナさん？！"
-msgstr ""
+msgstr "Michelia: Minna?!"
 
 #: 002689E4
 msgid ""
 "カイ：なんでミーナだけが？！僕達は何ともないのに・・・"
-msgstr ""
+msgstr "Kai: Why is it only Minna? Nothing's happening to us."
 
 #: 00268A2C
 msgid ""
 "バーク：こいつだ！こいつが原因に違いねえ！"
-msgstr ""
+msgstr "Burke: It's this thing here! This thing must be the reason!"
 
 #: 00268A5A
 msgid ""
 "ええいっ！メンドくせえ！"
-msgstr ""
+msgstr "EEYAA! Stupid piece of junk!"
 
 #: 002AD161
 msgid ""
 "カイ：ここが聖獣のほこらか・・・"
-msgstr ""
+msgstr "Kai: This is the Sacred Beast Shrine."
 
 #: 002AD188
 msgid ""
 "あれ？開かないぞ。"
-msgstr ""
+msgstr "Huh? It won't open."
 
 #: 002AD1B5
 msgid ""
 "バーク：俺に任せてみろって。"
-msgstr ""
+msgstr "Burke: Stand back and leave it to the professionals."
 
 #: 002AD1D8
 msgid ""
 "ありゃ？びくともしねえ。"
-msgstr ""
+msgstr "Huh? It won't budge."
 
 #: 002AD202
 msgid ""
 "ミーナ：ずいぶん強力な結界がはってあるようですね。"
-msgstr ""
+msgstr "Minna: Seems like it's guarded by a powerful barrier."
 
 #: 002AD238
 msgid ""
 "誰か魔法にくわしい方が、この村にいれば何とかなるかもしれないんですが。"
-msgstr ""
+msgstr "There may be someone versed in magic we can talk to in town."
 
 #: 002AD290
 msgid ""
 "ミシリア：そういえば・・・"
-msgstr ""
+msgstr "Michelia: Speaking of which..."
 
 #: 0033617E
 msgid ""
 "カイ：何だろう・・・不思議な感じが・・・"
-msgstr ""
+msgstr "Kai: What's that? Something doesn't feel right..."
 
 #: 003361B8
 msgid ""
 "ミシリア：カイ！あれを見て！"
-msgstr ""
+msgstr "Michelia: Kai! Look over there!"
 
 #: 003361F4
 msgid ""
 "カイ：これが神の力・・・？"
-msgstr ""
+msgstr "Kai: Is this divine power?"
 
 #: 00336229
 msgid ""
 "カイ：な、ドラゴンソードが・・・！"
-msgstr ""
+msgstr "Kai: W-what? The Dragon Sword's...!"
 
 #: 00336284
 msgid ""
 "バーク：どうなってんだ・・・？ドラゴンの像の中から、剣が出てきたぞ。"
 msgstr ""
+"Burke: What's going on? There's a sword sticking out of the dragon statue!"
 
 #: 003362DA
 msgid ""
 "ミーナ：ドラゴンソードより、相当に強い魔力を感じます。"
-msgstr ""
+msgstr "Minna: I feel a magic power far stronger than the Dragon Sword."
 
 #: 00336314
 msgid ""
 "おそらく、その剣が、彼を正当な所有者と認めたのではないでしょうか。"
-msgstr ""
+msgstr "Perhaps you've been recognized as the true master of this blade."
 
 #: 00336368
 msgid ""
 "カイ：神のひめられた力が、解放されたということなんだろうか・・・"
-msgstr ""
+msgstr "Kai: So, the hidden power of the sword has been unleashed."
 
 #: 003363BA
 msgid ""
 "ドラゴンセイバーを手に入れた。"
-msgstr ""
+msgstr "You got the Dragon Saber!"
 
 #: 003363EF
 msgid ""
 "バロア：とにかく、これで全員そろったわけだ。"
-msgstr ""
+msgstr "Baroa: This mean's everyone's here now, aye?"
 
 #: 0033642D
 msgid ""
 "バーク：これで悪の親玉を、ぶっとばせるってわけだな！"
-msgstr ""
+msgstr "Burke: Now we can kick the big baddy's keister, right?"
 
 #: 00336473
 msgid ""
 "サリナ：で、どこの何てヤツをを倒すんだっけねぇ？"
-msgstr ""
+msgstr "Sarina: And, who and where would that be?"
 
 #: 003364B5
 msgid ""
 "バーク：ええ？え、え・・・と、誰だっけ・・・？。"
-msgstr ""
+msgstr "Burke: Huh? U-uh, well... Who was it again?"
 
 #: 003364F7
 msgid ""
 "ミーナ：ギゼフィルです。"
-msgstr ""
+msgstr "Minna: It's Gizafeal."
 
 #: 00336521
 msgid ""
 "バーク：お、サンキュー。そうそう、ギゼフィルをぶっとばすんだ。"
-msgstr ""
+msgstr "Burke: Oh, thanks! Right, right, let's go kick Gizafeal's keister!"
 
 #: 00336571
 msgid ""
 "ミシリア：・・・ねえ、カイ、これでもう大丈夫だよね。"
-msgstr ""
+msgstr "Michelia: ...hey, Kai. We'll be okay now, won't we?"
 
 #: 003365B7
 msgid ""
 "カイ：どうかな。今までとは比べられないくらいの強さを、僕達は"
-msgstr ""
+msgstr "Kai: It's hard to say. We've obtained power beyond our wildest dreams,"
 
 #: 003365F7
 msgid ""
 "手に入れたけど、それでゆだんしちゃいけないと思う。"
-msgstr ""
+msgstr "but that doesn't mean we can let our guard down."
 
 #: 0033662D
 msgid ""
 "本当に必要なのは、力じゃなくて、それを使うための心だと思うんだ。"
 msgstr ""
+"It's not power that we need, but the courage and will to use what we have."
 
 #: 0033667F
 msgid ""
 "バロア：イイこと言うじゃねえか。後は俺達しだいってわけだな。"
-msgstr ""
+msgstr "Baroa: Well said, lad! We'll have to live up to those words!"
 
 #: 003366CD
 msgid ""
 "カイ：そうだね。それじゃ、ひとまず、新ハインローグ城にもどって"
-msgstr ""
+msgstr "Kai: I'm sure we will. All right, let's drop by New Heinrogue Castle,"
 
 #: 0033670F
 msgid ""
 "これからのことを考えよう。"
-msgstr ""
+msgstr "then think of what to do next."
 
 #: 0033673B
 msgid ""
 "おおっ！"
-msgstr ""
+msgstr "Yeah!!!"
 
 #: 0033679A
 msgid ""
 "カイ：これが伝説の武器・・・"
-msgstr ""
+msgstr "Kai: This is the legendary weapon..."
 
 #: 003367C8
 msgid ""
 "ドラゴンソードを手にいれた。"
-msgstr ""
+msgstr "You got the Dragon Sword!"
 
 #: 003367F6
 msgid ""
 "なんじの力、遠くおよばぬ。剣の力ここに現れず。"
-msgstr ""
+msgstr "Thine power is still distant. The sword's power lies dormant."
 
 #: 00336828
 msgid ""
 "時のおとずれを待たずして、力は手に入れられぬものなり。"
-msgstr ""
+msgstr "One cannot bear power they've not yet earned."
 
 #: 00336870
 msgid ""
 "バーク：なんだ？今の。"
-msgstr ""
+msgstr "Burke: The heck was that just now?"
 
 #: 00336898
 msgid ""
 "カイ：さあ・・・・・・？"
-msgstr ""
+msgstr "Kai: No idea."
 
 #: 003368D9
 msgid ""
 "これといって何も見つからない。"
-msgstr ""
+msgstr "Nothing special here."
 
 #: 0037A95B
 msgid ""

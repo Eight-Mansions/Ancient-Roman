@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-09-10 01:12+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s021/en/>\n"
 "Language: en\n"
@@ -27,67 +27,67 @@ msgstr ""
 #: 00089186
 msgid ""
 "ソードダンスを憶えた。"
-msgstr ""
+msgstr "You learned Sword Dance!"
 
 #: 000891D6
 msgid ""
 "＿＿もうなにもない。"
-msgstr ""
+msgstr "___There's nothing else here."
 
 #: 000CD951
 msgid ""
 "カイ：あれ？どうして進めないんだ？"
-msgstr ""
+msgstr "Kai: Hmm? Why can't we get through?"
 
 #: 000CD985
 msgid ""
 "ミーナ：これは封印の呪文がほどこしてあります。"
-msgstr ""
+msgstr "Minna: This seems to be held fast by the sealing spell."
 
 #: 000CD9B7
 msgid ""
 "これを無理矢理はいじょするのはおそらく無理でしょう。"
-msgstr ""
+msgstr "It's probably impossible to force this out."
 
 #: 000CD9EF
 msgid ""
 "封印を解く装置がどこかにあるはずです。それを探しましょう。"
-msgstr ""
+msgstr "There should be some way to dispel the magic. Let's look for it."
 
 #: 000CDA50
 msgid ""
 "ミーナ：封印を解く装置がどこかにあるはずです。"
-msgstr ""
+msgstr "Minna: There should be some way to dispel the magic."
 
 #: 000CDA82
 msgid ""
 "それを探しましょう。"
-msgstr ""
+msgstr "Let's look for it."
 
 #: 00156936
 msgid ""
 "どこからともなくこえがひびいた。"
-msgstr ""
+msgstr "You hear a voice echoing from somewhere unseen."
 
 #: 0015695A
 msgid ""
 "なんじに魔法をさずけよう。"
-msgstr ""
+msgstr "We shall grant you magical power."
 
 #: 00156986
 msgid ""
 "センイト・ローを憶えた。"
-msgstr ""
+msgstr "You learned Saint Row!"
 
 #: 001569C2
 msgid ""
 "＿＿もうなにもない＿＿"
-msgstr ""
+msgstr "___There's nothing else here.___"
 
 #: 00224154
 msgid ""
 "「女神の指輪」を手に入れた。"
-msgstr ""
+msgstr "You got the Goddess Ring!"
 
 #: 00224194
 msgid ""
@@ -97,12 +97,12 @@ msgstr ""
 #: 002241C1
 msgid ""
 "「ブレスレット」を手に入れた。"
-msgstr ""
+msgstr "You got the Bracelet!"
 
 #: 00224203
 msgid ""
 "中身は空だった。"
-msgstr ""
+msgstr "There's nothing inside."
 
 #: 0026892E
 msgid ""
@@ -117,137 +117,139 @@ msgstr ""
 #: 0026899C
 msgid ""
 "サリナ：・・・なーんにもないね。"
-msgstr ""
+msgstr "Sarina: ...there's nothing here."
 
 #: 002689C0
 msgid ""
 "ピカの浅瀬って、本当にここかい？"
-msgstr ""
+msgstr "Is this really Pika Shoal?"
 
 #: 002689F2
 msgid ""
 "バロア：確か・・・女神が足りないんだよ。"
-msgstr ""
+msgstr "Baroa: Hmm. Might we be missing the Goddess?"
 
 #: 00268A1E
 msgid ""
 "古文書だかにそう書いてあったはずだ。"
-msgstr ""
+msgstr "It said something like that in those dusty books."
 
 #: 00268A54
 msgid ""
 "カイ：女神・・・って、ことは、先に女神の力が必要なのかな？"
-msgstr ""
+msgstr "Kai: Goddess... So we need her divine power first?"
 
 #: 00268AA0
 msgid ""
 "バロア：多分、そうなんじゃないか。"
-msgstr ""
+msgstr "Baroa: Seems to be the case to me."
 
 #: 00268AD9
 msgid ""
 "バロア：こんなところ何もねえぜ。"
-msgstr ""
+msgstr "Baroa: There's nothing here."
 
 #: 00268AFD
 msgid ""
 "なあ、何しに来たんだ？"
-msgstr ""
+msgstr "Why'd we come here again?"
 
 #: 00268B4A
 msgid ""
 "バーク：何でえ、何にも無いじゃないか。"
-msgstr ""
+msgstr "Burke: Ugh, there's nothing here!"
 
 #: 00268B74
 msgid ""
 "こんなトコに何かあるのか？"
-msgstr ""
+msgstr "Is there supposed to be something here?"
 
 #: 00268BA0
 msgid ""
 "バロア：俺様だって知らねーよ！"
-msgstr ""
+msgstr "Baroa: Don't look at me, I don't got a clue!"
 
 #: 00268BC2
 msgid ""
 "何かあるんなら、とっくの昔に見つけているぜ。"
-msgstr ""
+msgstr "If there was, someone may have stolen it already."
 
 #: 00268C00
 msgid ""
 "カイ：本当に、こんな所に海王の力が眠っているんだろうか・・・"
-msgstr ""
+msgstr "Kai: Is Poseidon's power really sleeping here?"
 
 #: 002AD0F9
 msgid ""
 "ミシリア：わ、わたし・・・今・・・"
-msgstr ""
+msgstr "Michelia: I... Just now, I..."
 
 #: 002AD12D
 msgid ""
 "カイ：ミシリア、今のはすごかったね。"
-msgstr ""
+msgstr "Kai: That was amazing, Michelia!"
 
 #: 002AD163
 msgid ""
 "バロア：長いこと海にいたが、さすがにこんなことは初めてだな。"
-msgstr ""
+msgstr "Baroa: I've been at sea for so long, this is a first for me."
 
 #: 002AD1B1
 msgid ""
 "サリナ：ギアスの杖で出てきたってことは、あれが海王神殿の入り口だろ。"
 msgstr ""
+"Sarina: If this appeared after using the Geass Rod, then this must be "
+"Poseidon's shrine."
 
 #: 002AD1F9
 msgid ""
 "さっそく入ってみようぜ。"
-msgstr ""
+msgstr "Let's check it out!"
 
 #: 002AD223
 msgid ""
 "カイ：よし、入ってみよう。"
-msgstr ""
+msgstr "Kai: All right, let's go."
 
 #: 002F1986
 msgid ""
 "海王の盾を手に入れた。"
-msgstr ""
+msgstr "You got Poseidon's Shield!"
 
 #: 002F19CD
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 002F19FE
 msgid ""
 "何も入っていない。"
-msgstr ""
+msgstr "There's nothing inside."
 
 #: 0037AA61
 msgid ""
 "我が眠りをさまたげる者。あるいは・・・"
-msgstr ""
+msgstr "You who disturbs my rest..."
 
 #: 0037AA8B
 msgid ""
 "我が力を求める者、神のいかりを受け止めよ。"
-msgstr ""
+msgstr "You who desires my power... Show your worth against my anger!"
 
 #: 0037AAFF
 msgid ""
 "バーク：はっはっは！ずいぶん偉そうなことを言うじゃないか！"
-msgstr ""
+msgstr "Burke: Hahaha! This guy's a bit cocky, don't you think?"
 
 #: 0037AB4B
 msgid ""
 "・・・あれ？"
-msgstr ""
+msgstr "...huh?"
 
 #: 0037AB69
 msgid ""
 "カイ：く・・・体が動かない・・・"
-msgstr ""
+msgstr "Kai: W-wow, I really can't move my body..."
 
 #: 0037AB9B
 msgid ""
@@ -257,124 +259,124 @@ msgstr "Michelia: ..."
 #: 0037ABC3
 msgid ""
 "バロア：くそっ・・・体が動かねえとは・・・カッコ悪いぜ。"
-msgstr ""
+msgstr "Baroa: Dang... I can't move... I must look pathetic..."
 
 #: 0037AC18
 msgid ""
 "バーク：へっへっへ、俺はなんともないぜ。きたえ方が違うからな。"
-msgstr ""
+msgstr "Burke: Hehehe! I'm fine. Perhaps I'm simply built different."
 
 #: 0037AC68
 msgid ""
 "サリナ：アンタが鈍いだけだっつーの！"
-msgstr ""
+msgstr "Sarina: You're just stupid is all!"
 
 #: 0037AC90
 msgid ""
 "たたかえるんなら、さっさとそいつをやっちまってくれ！"
-msgstr ""
+msgstr "If you're still standing, then beat him down already!"
 
 #: 0037ACD6
 msgid ""
 "ミーナ：みなさん、冗談を言っている場合じゃ・・・"
-msgstr ""
+msgstr "Minna: Everyone, this isn't the time for a circus..."
 
 #: 0037AD31
 msgid ""
 "バーク：そうだな。じゃ、やっちまうか！"
-msgstr ""
+msgstr "Burke: You're right, it's the time for muscles!"
 
 #: 0037ADF5
 msgid ""
 "バーク：よっしゃ！見たか！このバーク様の実力を！"
-msgstr ""
+msgstr "Burke: Heck yeah! You see that? That's the true power of Lord Burke!"
 
 #: 0037AE37
 msgid ""
 "サリナ：ごめーん。横向いてたから、見えてなかった。"
-msgstr ""
+msgstr "Sarina: Sorry. I was paralyzed facing the wrong way, and I missed it."
 
 #: 0037AE86
 msgid ""
 "バロア：あー、見た見た。"
-msgstr ""
+msgstr "Baroa: Don't worry, I saw it."
 
 #: 0037AEB0
 msgid ""
 "ミーナ：じっさいに実力そのものは目に見えるモノではないので、"
-msgstr ""
+msgstr "Minna: I just saw you fighting, myself."
 
 #: 0037AEFE
 msgid ""
 "それを見たか、と言われましても・・・"
-msgstr ""
+msgstr "Nothing really seemed out of the ordinary..."
 
 #: 0037AF42
 msgid ""
 "バーク：お前らなあ・・・そりゃないだろ。"
-msgstr ""
+msgstr "Burke: Come on guys, don't be a buzz kill..."
 
 #: 0037AF8A
 msgid ""
 "カイ：そんなことないよ。すごかったよ。"
-msgstr ""
+msgstr "Kai: They're just teasing you Burke, you were amazing."
 
 #: 0037AFCD
 msgid ""
 "ミシリア：ステキだったよ。すっごく。"
-msgstr ""
+msgstr "Michelia: Truly amazing."
 
 #: 0037B01C
 msgid ""
 "バーク：そ、そっか？いやー、ま、当然の結果だからなー"
-msgstr ""
+msgstr "Burke: R-really? Hehe. Nothing less from me, of course."
 
 #: 0037B070
 msgid ""
 "ミーナ：ずいぶん単純ですね。"
-msgstr ""
+msgstr "Minna: Simpleton."
 
 #: 0037B0AC
 msgid ""
 "バーク：・・・とほほ。結局それかい。"
-msgstr ""
+msgstr "Burke: ...hehe, you can't be honest, can you?"
 
 #: 0037B0E2
 msgid ""
 "バークは山神の力を手に入れた。"
-msgstr ""
+msgstr "Burke obtained the Mountain God's divine power!"
 
 #: 003BF127
 msgid ""
 "バロア：着いたぜ。ここがその島だ。"
-msgstr ""
+msgstr "Baroa: We've arrived. This is the island."
 
 #: 003BF15B
 msgid ""
 "サリナ：ひとつ聞いてもいいかい？"
-msgstr ""
+msgstr "Sarina: Mind if I ask you something?"
 
 #: 003BF18D
 msgid ""
 "バロア：うつくしいレディーの頼みならなんなりと。"
-msgstr ""
+msgstr "Baroa: I'll listen to any request from a beautiful lady."
 
 #: 003BF1CF
 msgid ""
 "サリナ：この島に武器があるって知ってて、"
-msgstr ""
+msgstr "Sarina: If this island was known for having weapons,"
 
 #: 003BF1FB
 msgid ""
 "なんで持っていかないんだい？"
-msgstr ""
+msgstr "why did you never come and retrieve them?"
 
 #: 003BF229
 msgid ""
 "バロア：答えは簡単さ。魔物が出るからさ。"
-msgstr ""
+msgstr "Baroa: The answer's simple: monsters."
 
 #: 003BF263
 msgid ""
 "サリナ：そんなこったと思ったよ・・・"
-msgstr ""
+msgstr "Sarina: Yeah, I was afraid of that."

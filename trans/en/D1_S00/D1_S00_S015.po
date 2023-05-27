@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-09-06 00:12+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s015/en/>\n"
 "Language: en\n"
@@ -17,127 +17,127 @@ msgstr ""
 #: 0011214C
 msgid ""
 "ミシリア：見て、壁にひびが・・・"
-msgstr ""
+msgstr "Michelia: Look. There's a crack in the wall."
 
 #: 001121A8
 msgid ""
 "バーク：そういうことなら任せろ。"
-msgstr ""
+msgstr "Burke: Leave it to me!"
 
 #: 001121E8
 msgid ""
 "バーク：うおりゃーーーーー！！！"
-msgstr ""
+msgstr "Burke: HYAAA!!!"
 
 #: 0011228D
 msgid ""
 "バーク：ちっ、もう一発！！。"
-msgstr ""
+msgstr "Burke: Dang. One more try!"
 
 #: 001122EA
 msgid ""
 "バーク：うおりゃーーーーーー！！。"
-msgstr ""
+msgstr "Burke: HYRRRAAA!!!"
 
 #: 0015699C
 msgid ""
 "ミシリア：・・・すごい壁がふきとんじゃった。"
-msgstr ""
+msgstr "Michelia: ...woah. You really blew the wall away."
 
 #: 00156A0B
 msgid ""
 "ミーナ：また無茶して、ほら、つかまるといい。"
-msgstr ""
+msgstr "Minna: Don't be so reckless! Here, you can hold onto my shoulder."
 
 #: 00156A3B
 msgid ""
 "どうせ１人じゃ立てないんだろ？"
-msgstr ""
+msgstr "You can't stand after that, right?"
 
 #: 00156A99
 msgid ""
 "バーク：へへっ。たまには素直にしたがうぜ。"
-msgstr ""
+msgstr "Burke: Heheh, come onnn! You can be honest with me."
 
 #: 00156AC7
 msgid ""
 "よっ！！"
-msgstr ""
+msgstr "Yoo!"
 
 #: 00156AE1
 msgid ""
 "＿＿＿＿＿＿ふみゅ▽"
-msgstr ""
+msgstr "_____▽"
 
 #: 00156B12
 msgid ""
 "ミーナ：・・・・・・・・・・・・・・"
-msgstr ""
+msgstr "Minna: ........."
 
 #: 00156B53
 msgid ""
 "バーク：うほっ▽。いがいとボリュームが・・・"
-msgstr ""
+msgstr "Burke: Wahoo! ▽ You're surprisingly big--!"
 
 #: 00156B9C
 msgid ""
 "ミーナ：！！！！！！！！！（こえにならないさけび）。"
-msgstr ""
+msgstr "Minna: !!!!!!!!!! (Screams internally.)"
 
 #: 00156BF9
 msgid ""
 "ミーナ：ど、どこをさわっている！！。"
-msgstr ""
+msgstr "Minna: W-w-where do you think you're touching me?!"
 
 #: 00156CE6
 msgid ""
 "ミシリア：・・・すごい、壁まで吹き飛んじゃった。"
-msgstr ""
+msgstr "Michelia: ...wow, you punched him all the way to the wall."
 
 #: 00156D28
 msgid ""
 "バーク：さ、最初からこいつがやりゃよかたんじゃ・・・ばた。"
-msgstr ""
+msgstr "Burke: I have no regrets... (Faints.)"
 
 #: 00156D82
 msgid ""
 "カイ：そ、そうだね、バーク・・・"
-msgstr ""
+msgstr "Kai: Good for you, Burke..."
 
 #: 00156E27
 msgid ""
 "カイ：これが封印を解く装置か？"
-msgstr ""
+msgstr "Kai: Is this the device to remove the seal?"
 
 #: 00156E62
 msgid ""
 "カイ：な、なんだ！？"
-msgstr ""
+msgstr "Kai: Huh?!"
 
 #: 00156E88
 msgid ""
 "ミシリア：カイ、これで表の洞窟の封印がとかれたはずよ？"
-msgstr ""
+msgstr "Michelia: Kai, that should remove the seal from the cave, right?"
 
 #: 00156EC2
 msgid ""
 "いってみましょう？"
-msgstr ""
+msgstr "Shall we go check?"
 
 #: 00156EE6
 msgid ""
 "カイ：よし、いってみよう。"
-msgstr ""
+msgstr "Kai: Yup, let's go see."
 
 #: 00156F1F
 msgid ""
 "カイ：もうなにもおこらない・・・"
-msgstr ""
+msgstr "Kai: Nothing else is gonna happen now..."
 
 #: 001DF9B9
 msgid ""
 "傷薬を手に入れた。"
-msgstr ""
+msgstr "You got the Ointment!"
 
 #: 001DF9FC
 msgid ""
@@ -152,157 +152,163 @@ msgstr ""
 #: 001DFA92
 msgid ""
 "ポールアックスを手に入れた。"
-msgstr ""
+msgstr "You got the Pole Axe!"
 
 #: 001DFADF
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 001DFB10
 msgid ""
 "何も見つからない。"
-msgstr ""
+msgstr "There's nothing here."
 
 #: 002241A6
 msgid ""
 "ギアスの玉を手に入れた。"
-msgstr ""
+msgstr "You got the Geass Jewel!"
 
 #: 002241F7
 msgid ""
 "何も入っていない。"
-msgstr ""
+msgstr "There's nothing inside."
 
 #: 00224249
 msgid ""
 "カイ：な、魔物が・・・"
-msgstr ""
+msgstr "Kai: Hey, it's a monster."
 
 #: 0022427F
 msgid ""
 "魔物：うがあああああああ！"
-msgstr ""
+msgstr "Monster: UGHAAA!!!"
 
 #: 002242B6
 msgid ""
 "カイ：来るぞ！"
-msgstr ""
+msgstr "Kai: Here it comes!"
 
 #: 00224306
 msgid ""
 "カイ：いきなり、おそいかかってきたけど・・・"
-msgstr ""
+msgstr "Kai: It suddenly charged at us, but..."
 
 #: 00224336
 msgid ""
 "ここを守っていたんだろうか？"
-msgstr ""
+msgstr "Could it have been protecting this?"
 
 #: 00268A72
 msgid ""
 "男：なんかようかい？ようがないならほっといてくれよ。"
-msgstr ""
+msgstr "Man: Can I help you? If not, then beat it!"
 
 #: 00268AAA
 msgid ""
 "初対面の人に話かけてくるなんて、なれなれしい人たちだな。"
 msgstr ""
+"You're a carefree bunch, calling out to someone you've never met before."
 
 #: 00268B01
 msgid ""
 "男：・・・・・ほんとに変な人達だな・・・"
-msgstr ""
+msgstr "Man: ...you really are carefree!"
 
 #: 00268B46
 msgid ""
 "男：ここは、ファーナスの町です。"
-msgstr ""
+msgstr "Man: This is the town of Farnas."
 
 #: 00268B6A
 msgid ""
 "これといって名物はないけれど、まぁゆっくりしていってください。"
 msgstr ""
+"It might not be well-known for anything, but we hope you enjoy your stay."
 
 #: 00268BC7
 msgid ""
 "男：名物のないのが逆に名物かもね。"
 msgstr ""
+"Man: \"Farnas, the Town Not Well-known for Anything\" kind of has its own "
+"ring to it."
 
 #: 002AD2BE
 msgid ""
 "女：あなたたち、見かけない顔ね？旅の人かしら？"
-msgstr ""
+msgstr "Woman: I haven't seen you folks around. Travelers, perhaps?"
 
 #: 002AD2F0
 msgid ""
 "一つ聞きたいんだけど、南にあるルーンマルナの町はどうなったのかしら？"
-msgstr ""
+msgstr "Do you know what happened to Rune Malna down south?"
 
 #: 002AD338
 msgid ""
 "魔物におそわれたというのは本当かしら？"
-msgstr ""
+msgstr "Is it true that is was attacked by monsters?"
 
 #: 002AD37D
 msgid ""
 "女：最近、魔物が横行しているらしいじゃない。"
-msgstr ""
+msgstr "Woman: Monsters seem to be more rampant lately."
 
 #: 002AD3AD
 msgid ""
 "国はなにやってるのかしら？"
-msgstr ""
+msgstr "Is the country doing anything about this?"
 
 #: 002AD3CB
 msgid ""
 "ぜい金とってるんだから、しっかりしてよね。"
-msgstr ""
+msgstr "We're paying taxes, so do something!"
 
 #: 002AD412
 msgid ""
 "女：なあに？番人？よくは知らないけど"
-msgstr ""
+msgstr "Woman: A what? A watchman? I don't have a clue."
 
 #: 002AD43A
 msgid ""
 "そう自称している人なら港の方の小屋に居るわよ。"
 msgstr ""
+"But there's some guy who might call himself that in a small shack by the "
+"pier."
 
 #: 002AD487
 msgid ""
 "女：あのじいさん、そろそろ頭のほうやばいんじゃないの？"
-msgstr ""
+msgstr "Woman: That old man's a wee loose in the head though, understand?"
 
 #: 002AD4D0
 msgid ""
 "男の子：お兄ちゃん達、いっしょに遊ぼ。"
-msgstr ""
+msgstr "Boy: Hey! Hey! Let's play!"
 
 #: 002F194B
 msgid ""
 "カギがかかっているようだ。"
-msgstr ""
+msgstr "Seems to be locked."
 
 #: 002F1990
 msgid ""
 "なんじらをわが廟に導こう。"
-msgstr ""
+msgstr "Thou shalt be guided to my shrine."
 
 #: 002F19BF
 msgid ""
 "カイ：な、なんだ！？か、からだが・・・"
-msgstr ""
+msgstr "Kai: W-what the--? M-my body's moving on its own!"
 
 #: 002F19E9
 msgid ""
 "うああああああっ！！"
-msgstr ""
+msgstr "UWAAAA!!!"
 
 #: 00336115
 msgid ""
 "防具屋：いらっしゃいませ"
-msgstr ""
+msgstr "Armorer: Welcome."
 
 #: 0037A945
 msgid ""
@@ -332,12 +338,12 @@ msgstr ""
 #: 0037AA77
 msgid ""
 "わしにはシェリルという名前があるんじゃ。"
-msgstr ""
+msgstr "My name is Sheryl. Call me \"Sheryl\"."
 
 #: 0037AAA3
 msgid ""
 "シェリル：で、お前さん達、勇士の神の力でも手に入れようって気かね？"
-msgstr ""
+msgstr "Sheryl: Anyway, you wish to obtain the Warrior God's divine power?"
 
 #: 0037AAF7
 msgid ""
@@ -347,47 +353,47 @@ msgstr ""
 #: 0037AB23
 msgid ""
 "シェリル：ふむ・・・"
-msgstr ""
+msgstr "Sheryl: Hmm..."
 
 #: 0037AB3B
 msgid ""
 "残念だが、今のおぬし達では無理な話じゃ。"
-msgstr ""
+msgstr "Sadly, it wouldn't be possible for you."
 
 #: 0037AB67
 msgid ""
 "海王の許しをなくして勇士の神にはあえんぞ。"
-msgstr ""
+msgstr "You can't meet the Warrior God without the blessing of Poseidon."
 
 #: 0037AB95
 msgid ""
 "古文書にもそうしるされていたと思うがの？"
-msgstr ""
+msgstr "I believe the ancient texts said as such."
 
 #: 0037ABCF
 msgid ""
 "サリナ：ごっめーん。カイ。そーいやそんなことが書いてあったわ。"
-msgstr ""
+msgstr "Sarina: Oh! My bad, Kai. It did totally say that, didn't it..."
 
 #: 0037AC2C
 msgid ""
 "シェリル：海王の許しを得るのが先じゃの。"
-msgstr ""
+msgstr "Sheryl: Gaining Poseidon's blessing comes first."
 
 #: 0037AC7A
 msgid ""
 "カイ：はじめまして、僕はカイ＝オルフェアスといいます。"
-msgstr ""
+msgstr "Kai: Nice to meet you. My name is Kai Orpheus."
 
 #: 0037ACB4
 msgid ""
 "「勇士の廟」の番人さんですね？"
-msgstr ""
+msgstr "Are you the watchman of the Warrior Shrine?"
 
 #: 0037ACE4
 msgid ""
 "番人：ああ、そうだが・・・。この老いぼれに何の用かね。"
-msgstr ""
+msgstr "Watchman: Yes, that's correct. What can this old man do for you?"
 
 #: 0037AD2C
 msgid ""
@@ -407,17 +413,17 @@ msgstr ""
 #: 0037ADE8
 msgid ""
 "で、お前さん達、勇士の神の力でも手に入れようって気かね？"
-msgstr ""
+msgstr "Now, you wish to obtain the Warrior God's divine power?"
 
 #: 0037AE32
 msgid ""
 "カイ：はい、その通りです。"
-msgstr ""
+msgstr "Kai: Yes, that's correct."
 
 #: 0037AE5E
 msgid ""
 "シェリル：ほっほっ・・・そうかそうか。では、教えて進ぜよう。"
-msgstr ""
+msgstr "Sheryl: Ho ho! I see, I see. Well then, I'll teach you."
 
 #: 0037AE9E
 msgid ""
@@ -457,47 +463,49 @@ msgstr ""
 #: 0037AFEB
 msgid ""
 "カイ：番人さん、「勇士の廟」に入るための方法を教えて下さい。"
-msgstr ""
+msgstr "Kai: Watchman, please teach us how to get to the Warrior Shrine."
 
 #: 0037B039
 msgid ""
 "番人：その番人さんというのはよしてくれんかの？"
-msgstr ""
+msgstr "Watchman: You can start by not calling me \"Watchman\"."
 
 #: 0037B06B
 msgid ""
 "わしにはシェリルという、親からもらった名前があるんじゃ。"
-msgstr ""
+msgstr "I received the name \"Sheryl\" from my parents."
 
 #: 0037B0A7
 msgid ""
 "ほう、海王様におあいなさったね。そうかそうか。では、教えて進ぜよう。"
 msgstr ""
+"Ahh, so you've met with Poseidon. I see, I see. Very well, I'll teach you."
 
 #: 0037B0EF
 msgid ""
 "いいか？よく聞くんじゃぞ。"
-msgstr ""
+msgstr "Ready? Listen up."
 
 #: 0037B10D
 msgid ""
 "ルナの浅瀬の北にアルナという関がある。"
-msgstr ""
+msgstr "There's a dam to the north of Luna Shoal, named \"Alna Dam\"."
 
 #: 0037B137
 msgid ""
 "そのアルナの関から山に入ったところにロブコロアの滝がある。"
 msgstr ""
+"If you enter the mountain from Alna Dam, you can reach Robe Koroa Waterfall."
 
 #: 0037B175
 msgid ""
 "その中に勇士の神の使った剣がほかんされている。"
-msgstr ""
+msgstr "The sword used by the Warrior God lies within."
 
 #: 0037B1A7
 msgid ""
 "その剣を持ってわしの所にもどってきなさい。"
-msgstr ""
+msgstr "Obtain that sword, then return to me."
 
 #: 0037B1D5
 msgid ""
@@ -507,32 +515,32 @@ msgstr ""
 #: 0037B1FB
 msgid ""
 "カイ：はい。わかりました。"
-msgstr ""
+msgstr "Kai: Okay, I understand."
 
 #: 0037B234
 msgid ""
 "シェリル：アルナの関の北のロブコロアの滝に行き"
-msgstr ""
+msgstr "Sheryl: Head to Robe Koroa Waterfall to the north of Alna Dam."
 
 #: 0037B266
 msgid ""
 "まず剣を手に入れてきなさい。"
-msgstr ""
+msgstr "Find the sword, then return here."
 
 #: 0037B286
 msgid ""
 "まずはそれからです。"
-msgstr ""
+msgstr "That's the first step."
 
 #: 0037B2B1
 msgid ""
 "シェリル：おお、剣を手に入れられましたか。"
-msgstr ""
+msgstr "Sheryl: Ooh, you found the sword, have you?"
 
 #: 0037B2DF
 msgid ""
 "表の船着き場に行って下さい。"
-msgstr ""
+msgstr "Head to the boat in the harbor."
 
 #: 0037B2FF
 msgid ""
@@ -542,49 +550,49 @@ msgstr ""
 #: 0037B342
 msgid ""
 "表の船着き場に行ってください。"
-msgstr ""
+msgstr "Head to the boat in the harbor."
 
 #: 0037B364
 msgid ""
 "勇士の神があなたを導くことでしょう。"
-msgstr ""
+msgstr "The Warrior God shall guide you from there."
 
 #: 0037B40E
 msgid ""
 "シェリル：まだこの老いぼれに用ですかな？"
-msgstr ""
+msgstr "Sheryl: Do you still have need of this senile old man?"
 
 #: 0037B43A
 msgid ""
 "そうそう、神の力を手に入れられたのでしたら"
-msgstr ""
+msgstr "I see, I see. So, you've gained the divine power."
 
 #: 0037B468
 msgid ""
 "封印の島に行ってこられてはどうですかな？"
-msgstr ""
+msgstr "How about heading to the Sealed Island then?"
 
 #: 0037B494
 msgid ""
 "それとももういかれましたかな？"
-msgstr ""
+msgstr "Or have you already been?"
 
 #: 003BF129
 msgid ""
 "バーテン：何にしますか？"
-msgstr ""
+msgstr "Bartender: What'll it be?"
 
 #: 003BF1A7
 msgid ""
 "女：なあに？"
-msgstr ""
+msgstr "Woman: Yessums?"
 
 #: 003BF1B7
 msgid ""
 "注文ならとなりに言ってね▽"
-msgstr ""
+msgstr "You can order from the guy next to me. ▽"
 
 #: 003BF1D5
 msgid ""
 "それとも、うふ、私をごしめいくださるかしら▽"
-msgstr ""
+msgstr "Or do you have \"something else\" you'd like to ask me? Hehe! ▽"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-11-30 01:13+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s004/en/>\n"
 "Language: en\n"
@@ -57,7 +57,7 @@ msgstr "Beautiful Young Woman: Welcome!"
 #: 00044939
 msgid ""
 "カレンのお店にようこそ▽"
-msgstr "Welcome to our cute restaraunt~"
+msgstr "Welcome to our humble restaurant! ▽"
 
 #: 00044955
 msgid ""
@@ -92,12 +92,12 @@ msgstr "Kai: I was kidnapped by a monster as a baby..."
 #: 00089213
 msgid ""
 "大臣：そうか・・・"
-msgstr "Minister: I see..."
+msgstr "Minister: Indeed."
 
 #: 00089242
 msgid ""
 "カイ：ただ、その時の情景をよく夢で見ます。"
-msgstr "Kai: But, I see that day in my dreams a lot."
+msgstr "Kai: I've been having these weird dreams lately."
 
 #: 00089289
 msgid ""
@@ -107,12 +107,12 @@ msgstr "Minister: Dreams?"
 #: 000892B0
 msgid ""
 "カイ：でも・・・"
-msgstr "Kai: But..."
+msgstr "Kai: Like..."
 
 #: 000892C7
 msgid ""
 "これが現実にあった事なのか空想の出来事なのかわからないんだけど・・・"
-msgstr "I'm not sure how much is real and how much is from my dreams..."
+msgstr "Is any of this for real, or not?"
 
 #: 0008931D
 msgid ""
@@ -152,7 +152,7 @@ msgstr "Kai: I'm not sure if the woman was royalty, but she had a noble aura."
 #: 00089498
 msgid ""
 "カイ：そういえば・・・"
-msgstr "Kai: Speaking of..."
+msgstr "Kai: Which reminds me..."
 
 #: 000894C0
 msgid ""
@@ -182,7 +182,7 @@ msgstr "Kai: ...?"
 #: 000895C4
 msgid ""
 "カイ：あ、あの・・・"
-msgstr "Kai: U-um..."
+msgstr "Kai: U-umm..."
 
 #: 0008960E
 msgid ""
@@ -202,7 +202,7 @@ msgstr "Minister: Our prince, who was kidnapped long ago..."
 #: 0008969F
 msgid ""
 "カイ：！？"
-msgstr "Kai: !?"
+msgstr "Kai: ?!"
 
 #: 000896D8
 msgid ""
@@ -217,7 +217,7 @@ msgstr "Minister: Welcome home..."
 #: 00089746
 msgid ""
 "カイ：そ、そんな！ちょっと待ってよ！！"
-msgstr "Kai: W-WHAT!? Waitwaitwait, hold on!!!"
+msgstr "Kai: WHAT?! Waaait, wait, wait. Hold on!"
 
 #: 00089773
 msgid ""
@@ -232,7 +232,7 @@ msgstr "Minister: There's no mistaking it."
 #: 000897ED
 msgid ""
 "あのロケットといい、今の話といいまぎれもなく我が国の王子だ。"
-msgstr "Your story and that locket, there's no mistaking those signs."
+msgstr "Between your story and that locket, there's no mistaking the signs."
 
 #: 0008983B
 msgid ""
@@ -282,7 +282,7 @@ msgstr "Kai: Ah..."
 #: 00112136
 msgid ""
 "＿＿カギがかかっている＿＿"
-msgstr "__It's locked__"
+msgstr "__It's locked.__"
 
 #: 0011218D
 msgid ""
@@ -337,7 +337,7 @@ msgstr "My friend Burke and I would like to apply."
 #: 0019B287
 msgid ""
 "兵士：うむ。では、ここに名前を書いてくれ"
-msgstr "Soldier: Umu. Well then, please write your name here."
+msgstr "Soldier: Umm. Well then, please write your name here."
 
 #: 0019B2EB
 msgid ""
@@ -347,7 +347,7 @@ msgstr "Kai: Is this okay?"
 #: 0019B32C
 msgid ""
 "兵士：うむ、よろしい。"
-msgstr "Soldier: Umu, all in order."
+msgstr "Soldier: Umm, all in order."
 
 #: 0019B346
 msgid ""
@@ -359,12 +359,12 @@ msgstr ""
 #: 0019B388
 msgid ""
 "明日の朝７時に新ハインローグ城、城門前に集合するように。"
-msgstr "Please assemble outside the castle gates at 7am."
+msgstr "Please assemble outside the castle gates at seven a.m."
 
 #: 0019B3E0
 msgid ""
 "バーク：朝７時！？なんでまたそんな早くから！？"
-msgstr "Burke: 7AM!? Why so damn early!?"
+msgstr "Burke: SEVEN A.M.?! Why so freaking early?"
 
 #: 0019B43A
 msgid ""
@@ -384,12 +384,12 @@ msgstr "Just think of this as a part of the test."
 #: 0019B4CA
 msgid ""
 "バーク：・・・・・・・・"
-msgstr "Burke:..."
+msgstr "Burke: ..."
 
 #: 0019B4F7
 msgid ""
 "カイ：わかった。朝７時だね。"
-msgstr "Kai: We understand, 7am."
+msgstr "Kai: We understand, seven a.m."
 
 #: 0019B549
 msgid ""
@@ -399,7 +399,7 @@ msgstr "Kai: Just suck it up, Burke."
 #: 0019B581
 msgid ""
 "バーク：やれやれ・・・"
-msgstr "Burke: Oh brother..."
+msgstr "Burke: Oh, brother..."
 
 #: 0019B606
 msgid ""
@@ -480,12 +480,13 @@ msgstr "Porsche makes yer friends faster, and Nocturne puts yer foes to sleep."
 msgid ""
 "そういう魔法を使いこなしてこそ、一人前の魔法使いと言えるのじゃよ。"
 msgstr ""
-"If yer not thinking with yer head, you can hardly be called a skilled mage."
+"If yer not thinking with yer head, you can hardly call yourself \"a skilled "
+"mage\"."
 
 #: 00224337
 msgid ""
 "バーク：さて。カイ、どうするんだ？"
-msgstr "Burke: Well Kai, what're we going to do?"
+msgstr "Burke: Well, Kai, what're we going to do?"
 
 #: 0022437F
 msgid ""
@@ -530,12 +531,12 @@ msgstr "It's right in front of you!"
 #: 0022476C
 msgid ""
 "老人：ん？何かようかの？はぁ長老の家ですか？"
-msgstr "Old Man: Huh? What now? The Elder's house?"
+msgstr "Old Man: Huh? What now? The elder's house?"
 
 #: 0022479C
 msgid ""
 "そこ宿の東がわの道をまっすぐいった所にありますじゃ。"
-msgstr "Just follow the road to the east of the inn, can't miss it."
+msgstr "Just follow the road to the east of the inn. Can't miss it."
 
 #: 002247EF
 msgid ""
@@ -570,7 +571,7 @@ msgstr "It's a nice, peaceful village."
 #: 00224974
 msgid ""
 "と、長老はいつも言っておるんじゃが・・・どうものぅ。"
-msgstr "Well, that's what the Elder keeps repeating... Is it really though?"
+msgstr "Well, that's what the elder keeps repeating... Is it really though?"
 
 #: 002249CF
 msgid ""
@@ -590,7 +591,7 @@ msgstr "Young Man: Like I said, the building straight ahead!"
 #: 00224A93
 msgid ""
 "若者：長老？この町の東に家があるよ。"
-msgstr "Young Man: The Elder? His house is to the east."
+msgstr "Young Man: The elder? His house is to the east."
 
 #: 00224ABB
 msgid ""
@@ -610,7 +611,7 @@ msgstr "...can't say I know something like that."
 #: 00224B3E
 msgid ""
 "君は僕の親戚の家を知っているかい？それとおなじだよ。"
-msgstr "I mean, you don't know where *my* relatives live. Same idea."
+msgstr "I mean, you don't know where myyy relatives live, do you? Same idea!"
 
 #: 00224BB2
 msgid ""
@@ -645,7 +646,7 @@ msgstr "I believe it's that building right over there."
 #: 00224CCF
 msgid ""
 "女性：長老さんの家？"
-msgstr "Woman: The Elder's house?"
+msgstr "Woman: The elder's house?"
 
 #: 00224CE7
 msgid ""
@@ -655,7 +656,7 @@ msgstr "It's just to the east of the inn."
 #: 00224D24
 msgid ""
 "女性：アルマイヤーさん？ごめんなさい、知らないわ。"
-msgstr "Woman: Almayer? I'm sorry, I'm unfamiliar with them."
+msgstr "Woman: Almayer? I'm sorry. I'm unfamiliar with them."
 
 #: 00224D8C
 msgid ""
@@ -675,12 +676,12 @@ msgstr "Let's stay here until that business is done."
 #: 00224E5F
 msgid ""
 "バーク：おいっ！！ミシリアちゃんをどうするつもりだ！！"
-msgstr "Burke: Hey! Are you just ditching Michelia!?"
+msgstr "Burke: Hey! Are you doing, ditching Michelia?"
 
 #: 00224E99
 msgid ""
 "答えがでるまで、俺はこの町からお前をださねぇぞ！！"
-msgstr "I'm not letting you leave this village until she's made a decision!!"
+msgstr "I'm not letting you leave this village until she's made her decision!"
 
 #: 00224EED
 msgid ""
@@ -695,7 +696,7 @@ msgstr "Burke: H-hey, wait up!"
 #: 00268B81
 msgid ""
 "まてっていってんだろ。カイ。"
-msgstr "I said wait, god damnit!!"
+msgstr "I said \"wait\", gosh dangit!"
 
 #: 00268BB8
 msgid ""
@@ -706,7 +707,7 @@ msgstr ""
 msgid ""
 "バーク：なあ、本当にこれがミシリアちゃんにとって良かったのか？"
 msgstr ""
-"Burke: Come on man, do you really think leaving Michelia here is the right "
+"Burke: Come on, man! Do you really think leaving Michelia here is the right "
 "thing to do?"
 
 #: 00268C37
@@ -722,7 +723,7 @@ msgstr ""
 #: 00268C98
 msgid ""
 "・・・本当にそう思っているのか？"
-msgstr "...do you really though?"
+msgstr "...do you really, though?"
 
 #: 00268CE0
 msgid ""
@@ -732,7 +733,7 @@ msgstr ""
 #: 00268D5E
 msgid ""
 "バーク：・・・ミシリアちゃんのことを大切だと思っているのは"
-msgstr "Burke: ...come on man, don't be like this."
+msgstr "Burke: ...come on, man. Don't be like this."
 
 #: 00268D9C
 msgid ""
@@ -792,7 +793,7 @@ msgstr ""
 #: 00269018
 msgid ""
 "バーク：まあ、今日はもう遅えから宿で休んでゆっくり考えようぜ。"
-msgstr "Burke: It's late, let's just rest and think it over in bed, okay?"
+msgstr "Burke: It's late. Let's just rest and think it over in bed, okay?"
 
 #: 002690A6
 msgid ""
@@ -818,17 +819,17 @@ msgstr "Does something live in there...?"
 #: 00269203
 msgid ""
 "おば：はい、どなた？"
-msgstr "Older woman: Hi, who is it?"
+msgstr "Older woman: Hello? Who is it?"
 
 #: 00269229
 msgid ""
 "カイ：カイ＝オルフェアスといいます。"
-msgstr "Kai: Hello, my name is Kai Orpheus."
+msgstr "Kai: Hello. My name is Kai Orpheus."
 
 #: 00269251
 msgid ""
 "失礼ですが「クオーレ」という女性をご存知ですか？"
-msgstr "I'm sorry to bother you, but do you know a woman named Cuore?"
+msgstr "I'm sorry to bother you, but do you know a woman named \"Cuore\"?"
 
 #: 00269293
 msgid ""
@@ -843,7 +844,7 @@ msgstr "Kai: We believe this girl here is her daughter."
 #: 00269307
 msgid ""
 "おば：な、なんだって！？"
-msgstr "Older Woman: W-what!?"
+msgstr "Older Woman: W-what?"
 
 #: 00269323
 msgid ""
@@ -893,12 +894,12 @@ msgstr "Please don't leave me..."
 #: 002AD4C4
 msgid ""
 "バーク：お、おいおい、おいていくってのは"
-msgstr "Burke: w-wait wait wait,"
+msgstr "Burke: W-wait, wait, wait..."
 
 #: 002AD4FB
 msgid ""
 "どういう事だ？"
-msgstr "who said anything about leaving you?"
+msgstr "Who said anything about leaving you?"
 
 #: 002AD52F
 msgid ""
@@ -913,7 +914,7 @@ msgstr ""
 #: 002AD5A8
 msgid ""
 "バーク：ミシリアちゃんをあずけるつもりだったのか・・・"
-msgstr "Burke: So you wanted to ditch Michelia on them..."
+msgstr "Burke: So you wanted to drop Michelia on them..."
 
 #: 002AD61E
 msgid ""
@@ -998,7 +999,7 @@ msgstr "Young Man: The inn's by the town entrance."
 #: 002ADB54
 msgid ""
 "青年：長老の家はどこかって？"
-msgstr "Young Man: You're looking for the Elder's house?"
+msgstr "Young Man: You're looking for the elder's house?"
 
 #: 002ADB74
 msgid ""
@@ -1008,7 +1009,7 @@ msgstr "It's that building in the back."
 #: 002ADBB5
 msgid ""
 "青年：おくにあるたてものが長老の家です。"
-msgstr "Young Man: The Elder's in that house in the back."
+msgstr "Young Man: The elder's in that house in the back."
 
 #: 002ADC06
 msgid ""
@@ -1038,7 +1039,7 @@ msgstr "I told him not to go to the woods..."
 #: 002F190D
 msgid ""
 "店員：いらっしゃいませ。"
-msgstr "Shopkeep: Welcome."
+msgstr "Innkeep: Welcome."
 
 #: 002F1929
 msgid ""
@@ -1060,7 +1061,7 @@ msgstr "Shopkeep: Welcome."
 #: 0037AA0A
 msgid ""
 "おば：そうかい、あんたがクオーレの娘なんだね。"
-msgstr "Older Woman: I see, so you're Cuore's daughter."
+msgstr "Older Woman: I see. So, you're Cuore's daughter."
 
 #: 0037AA4A
 msgid ""
@@ -1130,7 +1131,7 @@ msgstr "Older Woman: Hmm..."
 #: 0037AD38
 msgid ""
 "まあ、今日一日くらいならかまわないけど・・・"
-msgstr "That's fair, one day couldn't hurt..."
+msgstr "That's fair. One day couldn't hurt..."
 
 #: 0037AD76
 msgid ""
@@ -1190,12 +1191,12 @@ msgstr "She wouldn't be happy staying here, you know."
 #: 0037B24F
 msgid ""
 "おば：何だい、あんたらは。人の家に勝手に入りこんで。"
-msgstr "Older Woman: Who the hell are you guys, busting into someone's house?"
+msgstr "Older Woman: Who do you think you are, busting into someone's home?!"
 
 #: 0037B287
 msgid ""
 "さあ、出っていった出ていった。"
-msgstr "Out out!!"
+msgstr "Out! Out!"
 
 #: 0037B2BC
 msgid ""
@@ -1270,7 +1271,7 @@ msgstr "We had something we'd like to ask you."
 #: 003BF1CD
 msgid ""
 "長老：くわしい話を聞こうじゃないか。"
-msgstr "Elder: Well then, come in. (did we come in?)"
+msgstr "Elder: Well then, make yourselves at home."
 
 #: 003BF2AA
 msgid ""
@@ -1416,7 +1417,7 @@ msgstr "there's some related in the house to the west."
 #: 003BFA12
 msgid ""
 "母の、クオーレの名前を出せば分かるじゃろう。"
-msgstr "If you tell the mother the name Cuore, she'll understand."
+msgstr "If you tell the mother the name \"Cuore\", she'll understand."
 
 #: 003BFA5B
 msgid ""
@@ -1431,7 +1432,7 @@ msgstr "Kai: Thank you very much, Elder."
 #: 003BFACD
 msgid ""
 "長老：いやいや。"
-msgstr "Elder: No no, it's nothing."
+msgstr "Elder: No, it's nothing."
 
 #: 003BFB03
 msgid ""

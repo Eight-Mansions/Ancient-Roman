@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2023-02-01 07:36+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s006/en/>\n"
 "Language: en\n"
@@ -22,7 +22,7 @@ msgstr "You got an Elf Stick!"
 #: 000449D8
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 00044A3F
 msgid ""
@@ -37,12 +37,12 @@ msgstr "Guard: I don't trust you guys."
 #: 00112294
 msgid ""
 "ただ、長老のことばにしたがっているだけだ。"
-msgstr "I'm just following the Elder's orders."
+msgstr "I'm just following the elder's orders."
 
 #: 001122D0
 msgid ""
 "ミーナ：・・・まあ、そういうな。"
-msgstr "Minna: ...come on, don't be like that."
+msgstr "Minna: Come on, don't be like that!"
 
 #: 00112302
 msgid ""
@@ -52,7 +52,7 @@ msgstr "Guard: Mistress Minna!"
 #: 0011231A
 msgid ""
 "これは失礼しました。"
-msgstr "Please forgive my rudeness."
+msgstr "...forgive my rudeness."
 
 #: 00112366
 msgid ""
@@ -97,7 +97,7 @@ msgstr "Minna: A lot happened..."
 #: 00112508
 msgid ""
 "女：・・・ふーん。"
-msgstr "Woman: ...I see~"
+msgstr "Woman: I see!"
 
 #: 00112552
 msgid ""
@@ -167,7 +167,7 @@ msgstr "Minna: Yes, but..."
 #: 00156A69
 msgid ""
 "老人：いくらミーナ様といえど、人間とあまり仲良くされるのは"
-msgstr "Old Man: I trust you know what you're doing Mistress Minna,"
+msgstr "Old Man: I trust you know what you're doing, Mistress Minna,"
 
 #: 00156AA7
 msgid ""
@@ -177,12 +177,12 @@ msgstr "but seeing you with humans is pretty appalling."
 #: 00156ACF
 msgid ""
 "ミーナ：・・・そう思いますか・・・"
-msgstr "Minna: ...is that so..."
+msgstr "Minna: You think that, do you..."
 
 #: 00156B03
 msgid ""
 "老人：まあ、年寄りのよまいごとじゃ。"
-msgstr "Old Man: Eh, just think of it as the ramblings of an old man."
+msgstr "Old Man: Err--! J-just think of it as the ramblings of an old man."
 
 #: 00156B2B
 msgid ""
@@ -193,7 +193,7 @@ msgstr "Don't pay me any mind."
 msgid ""
 "老人：長老に会うのなら、北の神殿へ向かいなされ。"
 msgstr ""
-"Old Man: If you're looking for the Elder, head to the temple to the north."
+"Old Man: If you're looking for the elder, head to the temple to the north."
 
 #: 00156BBE
 msgid ""
@@ -204,7 +204,7 @@ msgstr ""
 #: 00156C4B
 msgid ""
 "ミーナ：すみませんが、私は彼女にあわせる顔がありません。"
-msgstr "Minna: Sorry, I'm not ready to face her yet."
+msgstr "Minna: Sorry. I'm not ready to face her yet."
 
 #: 00156C87
 msgid ""
@@ -214,7 +214,7 @@ msgstr "Could you guys enter on your own?"
 #: 00156CBB
 msgid ""
 "ミシリア：でも・・・"
-msgstr "Michelia: But..."
+msgstr "Michelia: But...!"
 
 #: 00156CE1
 msgid ""
@@ -224,7 +224,7 @@ msgstr "Burke: It's fine, she says she's not ready yet."
 #: 00156D17
 msgid ""
 "好きにやらせてやるのが、人情ってもんだ。"
-msgstr "Let her do as she wants, it's called having empathy."
+msgstr "Let her do as she wants. It's called \"having empathy\"."
 
 #: 00156D51
 msgid ""
@@ -244,7 +244,7 @@ msgstr "Minna: Sorry."
 #: 00156E08
 msgid ""
 "自分で自分が情けなくなります。"
-msgstr "Don't let yourself make you miserable."
+msgstr "Don't make yourself miserable."
 
 #: 0019B1E4
 msgid ""
@@ -264,7 +264,7 @@ msgstr ""
 #: 0019B2B3
 msgid ""
 "ファラ：うん、元気！早く、外を飛び回りたいな！"
-msgstr "Fara: Doing great! I wanna fly around outside!!"
+msgstr "Fara: Doing great! I wanna fly around outside!"
 
 #: 0019B2F3
 msgid ""
@@ -296,7 +296,7 @@ msgstr "Kai: Fara, how're you feeling?"
 #: 0019B411
 msgid ""
 "ファラ：うん、元気！早く、カイと旅をしたいな。"
-msgstr "Fara: Doing great! I really want to travel with you again!!"
+msgstr "Fara: Doing great! I really want to travel with you again!"
 
 #: 0019B451
 msgid ""
@@ -311,7 +311,7 @@ msgstr ""
 #: 0019B4D4
 msgid ""
 "ファラ：カイも体に気をつけてね。"
-msgstr "Fara: Kai, be careful and don't get hurt."
+msgstr "Fara: Kai, be careful not to get hurt."
 
 #: 0019B4F8
 msgid ""
@@ -326,12 +326,12 @@ msgstr "Kai: Fara, we're back. Still feeling good?"
 #: 0019B587
 msgid ""
 "ファラ：うん、もう元気だよ。"
-msgstr "Fara: Yup, I'm all better now."
+msgstr "Fara: Yup! I'm all better now."
 
 #: 0019B5A7
 msgid ""
 "でもね、まだあのヤブ医者が飛んじゃダメっていうんだ。"
-msgstr "But, that quack says I still shouldn't fly."
+msgstr "But, that dang doctor says I still shouldn't fly."
 
 #: 0019B5ED
 msgid ""
@@ -341,13 +341,13 @@ msgstr "Doctor: I heard that. You're not healed enough to fly yet."
 #: 0019B62D
 msgid ""
 "カイ：何度も言うようだけど・・・"
-msgstr "Kai: I know I keep harping on this..."
+msgstr "Kai: I know I keep harping on this, but..."
 
 #: 0019B651
 msgid ""
 "ファラ、今は体をなおすことが一番大切なことなんだよ。"
 msgstr ""
-"But Fara, healing your body is the most important thing you can do right now."
+"Fara, healing your body is the most important thing you can do right now."
 
 #: 0019B697
 msgid ""
@@ -372,7 +372,7 @@ msgstr "Fara: I'm nice and healthy."
 #: 0019B773
 msgid ""
 "そうだ、この前ね、カイのためにこれを編んだの。"
-msgstr "Oh yeah, I knitted this for you earlier, Kai."
+msgstr "Oh, yeah! I knitted this for you earlier, Kai."
 
 #: 0019B7A5
 msgid ""
@@ -402,18 +402,18 @@ msgstr "but I'm too small for that..."
 #: 0019B88E
 msgid ""
 "カイ：ファラ・・・ありがとう。ほんとうにうれしいよ。"
-msgstr "Kai: Fara... Thanks, I'm really happy."
+msgstr "Kai: Fara... Thanks. I'm really happy."
 
 #: 0019B8E9
 msgid ""
 "カイ：はやくなおして、また一緒に旅を続けよう。"
 msgstr ""
-"Kai: Hopefully you'll get better soon, then we can continue our journey."
+"Kai: Hopefully you'll get better soon. Then we can continue our journey."
 
 #: 0019B929
 msgid ""
 "ファラ：うん▽"
-msgstr "Fara: Yup▽"
+msgstr "Fara: Yup! ▽"
 
 #: 0019B958
 msgid ""
@@ -443,7 +443,7 @@ msgstr "she tried to chase after you..."
 #: 0019BA3B
 msgid ""
 "あと少し見つけるのが遅かったら、本当に死んでおったわい。"
-msgstr "If she was found any later, she could be dead."
+msgstr "If she was found any later, she could have died."
 
 #: 0019BA85
 msgid ""
@@ -473,7 +473,7 @@ msgstr "Doctor: Her consciousness still hasn't returned."
 #: 0019BB87
 msgid ""
 "この子をはやくなおしたいのなら、無理はさせんでくれんかの？"
-msgstr "Please don't push her and let her make a full recovery."
+msgstr "Please don't push her. We need her to make a full recovery."
 
 #: 0019BBD3
 msgid ""
@@ -488,7 +488,7 @@ msgstr "Kai: Fara, we'll be back."
 #: 0019BC6B
 msgid ""
 "カイ：ファラ！！"
-msgstr "Kai: Fara!!"
+msgstr "Kai: Fara!"
 
 #: 0019BC8D
 msgid ""
@@ -568,7 +568,7 @@ msgstr "Kai: We'll wait for you, no matter how long it takes."
 #: 0019C01B
 msgid ""
 "ファラ：カイ、がんばってね。"
-msgstr "Fara: Kai, good luck."
+msgstr "Fara: Good luck, Kai."
 
 #: 0019C0F8
 msgid ""
@@ -603,7 +603,7 @@ msgstr "Michelia: ...s-sorry."
 #: 0019C2C4
 msgid ""
 "医者：なに、いのちに別状はない。"
-msgstr "Doctor: Don't be so down, her life's not in danger."
+msgstr "Doctor: Don't be so down. Her life's not in danger."
 
 #: 0019C2E8
 msgid ""
@@ -619,7 +619,7 @@ msgstr "Burke: Seems like it's still too early to bring her with us."
 msgid ""
 "医者：当たり前だ。今が一番、大事な時期なのだぞ。"
 msgstr ""
-"Doctor: Definitely too early. She needs her rest now more than anything."
+"Doctor: Definitely too early. She needs her rest now, more than anything."
 
 #: 0019C3DA
 msgid ""
@@ -689,7 +689,7 @@ msgstr "Elf Woman: ..."
 #: 0019C6F0
 msgid ""
 "それなら、先に私から長老に話しておきましょう。"
-msgstr "In that case, I'll go on ahead and talk to our Elder."
+msgstr "In that case, I'll go on ahead and talk to our elder."
 
 #: 0019C730
 msgid ""
@@ -704,19 +704,19 @@ msgstr "Kai: Are you okay, Fara?"
 #: 0019C84D
 msgid ""
 "ファラ：ん・・・そうだね。ちょっと苦しいかな・・・"
-msgstr "Fara: U-um... I think so. It hurts though..."
+msgstr "Fara: U-umm... I think so. It hurts, though..."
 
 #: 0019C883
 msgid ""
 "あ、ウソウソ！心配ないよ！"
 msgstr ""
-"Ah, no it doesn't! Just kidding! Don't worry about me...! See, lively as "
+"Ah! No, it doesn't! Just kidding! Don't worry about me...! See? Lively as "
 "always!"
 
 #: 0019C8C8
 msgid ""
 "バーク：お前から元気を取ったら、何も残らねえもんな。"
-msgstr "Burke: If we took away your hyperness, there'd be nothing left."
+msgstr "Burke: If we took away your ferocity, there'd be nothing left."
 
 #: 0019C90E
 msgid ""
@@ -726,7 +726,7 @@ msgstr "Fara: Exactly! I'll be fine!"
 #: 0019C936
 msgid ""
 "そんで、カイを追いかけるんだから！"
-msgstr "We should follow that elf though, Kai!"
+msgstr "We should still follow that elf, Kai!"
 
 #: 0019C975
 msgid ""
@@ -746,7 +746,7 @@ msgstr ""
 #: 0019C9EC
 msgid ""
 "バーク：みんなのことは俺に任せとけって！"
-msgstr "Burke: Don't worry, everyone will be safe with me around!"
+msgstr "Burke: Don't worry. Everyone will be safe with me around!"
 
 #: 0019CA18
 msgid ""
@@ -796,7 +796,7 @@ msgstr "Will you be staying the night?"
 #: 001DF959
 msgid ""
 "一人につき、１００ガメいただきます。"
-msgstr "It will be 100 Gahme a person."
+msgstr "It will be 100 gahme a person."
 
 #: 001DF98F
 msgid ""
@@ -816,7 +816,7 @@ msgstr "Good morning."
 #: 001DFA23
 msgid ""
 "ゆうべはよくおやすみになれましたか？"
-msgstr "Did you sleep okay last night?"
+msgstr "Did you sleep well last night?"
 
 #: 001DFA75
 msgid ""
@@ -826,7 +826,7 @@ msgstr "I'm very sorry, but you don't have enough money."
 #: 001DFAA7
 msgid ""
 "またのおこしをおまちしております。"
-msgstr "Please come again!"
+msgstr "Come again!"
 
 #: 00224137
 msgid ""
@@ -867,7 +867,8 @@ msgstr "Man: Like you, another group attempted the Island of Trials,"
 msgid ""
 "あまりのきびしさに逃げ出してきた連中がいたな。"
 msgstr ""
-"but it was too much for them and they ran back here, tail between their legs."
+"but it was too much for them and they ran back here, tails between their "
+"legs."
 
 #: 002F1B14
 msgid ""
@@ -877,7 +878,7 @@ msgstr "Man: Well, good luck to ya."
 #: 002F1B47
 msgid ""
 "男：あの島の試練を乗り切ったのか！？"
-msgstr "Man: You overcame the Island of Trials!?"
+msgstr "Man: You overcame the Island of Trials?!"
 
 #: 002F1B72
 msgid ""
@@ -887,17 +888,17 @@ msgstr "Oh, you haven't even left yet..."
 #: 002F1BD1
 msgid ""
 "男：あの島の試練を乗り切っただって！？"
-msgstr "Man: You said you overcame the Island of Trials!?"
+msgstr "Man: You say you overcame the Island of Trials?!"
 
 #: 002F1BFE
 msgid ""
 "男：そいつはすげぇーや！！"
-msgstr "Man: Holy shit!"
+msgstr "Man: Holy smokes!"
 
 #: 002F1C2F
 msgid ""
 "男：そーいや"
-msgstr "Man: Oh yeah, speaking of."
+msgstr "Man: Oh, yes. Speaking of which..."
 
 #: 002F1C3F
 msgid ""
@@ -907,7 +908,7 @@ msgstr "I heard someone else went in solo recently and cleared it as well."
 #: 002F1C75
 msgid ""
 "男：そいつもすげぇーや！！"
-msgstr "Man: He's even more insane than you!"
+msgstr "Man: He's even more a wild child than you!"
 
 #: 002F1CB6
 msgid ""
@@ -972,12 +973,12 @@ msgstr "who leave from this port never return."
 #: 002F1F50
 msgid ""
 "女：帰らずだなんて、不吉な名前だと思いませんか？"
-msgstr "Woman: Don't you think it's rather ominous, No Return..."
+msgstr "Woman: Don't you think it's rather ominous? \"No Return\"..."
 
 #: 002F1FAE
 msgid ""
 "女：無事に帰って来てくれてうれしいわ。"
-msgstr "Woman: I hope you're able to Safely Return."
+msgstr "Woman: I hope you're able to \"safely return\" instead."
 
 #: 002F1FFB
 msgid ""
@@ -1007,17 +1008,17 @@ msgstr "Guard: You really came back in one peace! You're really amazing."
 #: 002F210C
 msgid ""
 "バーク：おう、まかせとけって。"
-msgstr "Burke: See, told you we weren't all talk."
+msgstr "Burke: See? Told you we weren't all talk."
 
 #: 002F213C
 msgid ""
 "番人：よし、じゃあ聖者の塔に行くんだ。"
-msgstr "Guard: Good, good. Okay now, back to the Sage's Tower."
+msgstr "Guard: Good, good. Okay, now, back to the Sage's Tower."
 
 #: 002F2174
 msgid ""
 "ミシリア：え！？また！？"
-msgstr "Michelia: Huh!? Again!?"
+msgstr "Michelia: Huh? Again?!"
 
 #: 002F219E
 msgid ""
@@ -1027,12 +1028,12 @@ msgstr "Guard: Yup, that's right."
 #: 002F21B9
 msgid ""
 "番人：くわしくは、聖者の塔の聖者に聞いてくれ。"
-msgstr "Guard: Specifically, you gotta talk to the Sage in the Sage's Tower."
+msgstr "Guard: Specifically, you gotta talk to the sage in the Sage's Tower."
 
 #: 002F21F9
 msgid ""
 "ファラ：なによう！！また、そんな所に行かなきゃいけないの！？"
-msgstr "Fara: What gives!? We have to go to *that* place again!?"
+msgstr "Fara: What gives? Don't tell me we have to go to \"that\" place again!"
 
 #: 002F2247
 msgid ""
@@ -1052,7 +1053,7 @@ msgstr "That's just how it goes."
 #: 002F22CE
 msgid ""
 "ファラ：また決まりだぁ！！そればっかり！！"
-msgstr "Fara: \"How it goes\"!? Who came up with this--"
+msgstr "Fara: \"How it goes\"? Who came up with this--?!"
 
 #: 002F230A
 msgid ""
@@ -1082,7 +1083,7 @@ msgstr "Guard: This time off to the Hermit's Island?"
 #: 002F23FA
 msgid ""
 "わかった。船に乗るといい。"
-msgstr "Alright. You can board anytime."
+msgstr "All right. You can board anytime."
 
 #: 002F2452
 msgid ""
@@ -1112,7 +1113,7 @@ msgstr "Kai: Still under construction, huh?"
 #: 002F2570
 msgid ""
 "カイ：あれ！？紙は張ってあるけど扉が少し開いている。"
-msgstr "Kai: Huh!? The door with the paper is slightly open."
+msgstr "Kai: Huh? The door with the paper slipped in is slightly open."
 
 #: 002F25A8
 msgid ""
@@ -1137,7 +1138,7 @@ msgstr "Guard: Where do you wanna go?"
 #: 002F26B0
 msgid ""
 "なるほど修練の港か。わかった船をだそう。"
-msgstr "I see, the Port of Discipline. Alright, hop on board."
+msgstr "I see, the Port of Discipline. All right. Hop on board!"
 
 #: 002F2709
 msgid ""
@@ -1159,7 +1160,7 @@ msgstr "Woman: Did you not see the notice?"
 #: 00336199
 msgid ""
 "まだ工事中なの・・・あれ？あなたは・・・"
-msgstr "We're still under construction... wait, you...?"
+msgstr "We're still under construction... Wait, you are..."
 
 #: 003361C5
 msgid ""
@@ -1174,7 +1175,7 @@ msgstr "It's me! I used to work at the cafeteria at the digging camp!"
 #: 00336236
 msgid ""
 "カイ：ああ！！覚えていますよ。お元気でしたか？"
-msgstr "Kai: Ahh!! I remember! How have you been doing?"
+msgstr "Kai: Ahh, I remember! How have you been doing?"
 
 #: 00336276
 msgid ""
@@ -1199,7 +1200,7 @@ msgstr "It might be small, but I'm opening up a restaurant here."
 #: 0033632C
 msgid ""
 "そのときはぜひきてね▽"
-msgstr "When it's ready, please come by!▽"
+msgstr "When it's ready, please come by! ▽"
 
 #: 00336361
 msgid ""
@@ -1209,7 +1210,7 @@ msgstr "Woman: None of this would have happened without you."
 #: 0033639F
 msgid ""
 "とってもかんしゃしているわ▽"
-msgstr "I'm very grateful for everything▽"
+msgstr "I'm very grateful for everything. ▽"
 
 #: 0037A915
 msgid ""

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-09-12 03:12+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s023/en/>\n"
 "Language: en\n"
@@ -17,22 +17,22 @@ msgstr ""
 #: 000CD966
 msgid ""
 "「カギ」が必要のようだ"
-msgstr ""
+msgstr "It seems you need a key."
 
 #: 000CD9B3
 msgid ""
 "ハーミットガードを手に入れた。"
-msgstr ""
+msgstr "You got the Hermit Guard!"
 
 #: 000CDA02
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 000CDA33
 msgid ""
 "何もない"
-msgstr ""
+msgstr "Nothing here."
 
 #: 0011217D
 msgid ""
@@ -42,202 +42,202 @@ msgstr ""
 #: 001121A6
 msgid ""
 "ミーナ：カイさん、気をつけて下さい！！おそってきます！！"
-msgstr ""
+msgstr "Minna: Kai, watch out! It's attacking!"
 
 #: 001122FC
 msgid ""
 "カイ：あ、ヘビの中から剣が・・・"
-msgstr ""
+msgstr "Kai: Hey, there's a sword inside of the snake."
 
 #: 0011232E
 msgid ""
 "バーク：その剣がじーさんの言ってた剣じゃねぇのか？"
-msgstr ""
+msgstr "Burke: Is that the sword the old man was talking about?"
 
 #: 00112364
 msgid ""
 "他にそれらしいのは見あたらねぇし、ここで行き止まりだしよ。"
-msgstr ""
+msgstr "We're at a dead end, and I don't see anything else that fits the bill."
 
 #: 001123B0
 msgid ""
 "カイ：うん、そうみたいだね。"
-msgstr ""
+msgstr "Kai: Yeah, this is probably it."
 
 #: 001123DE
 msgid ""
 "ガイアソードを手に入れた。"
-msgstr ""
+msgstr "You got the Gaia Sword!"
 
 #: 0011240F
 msgid ""
 "カイ：見たところふつうの剣だね。"
-msgstr ""
+msgstr "Kai: It looks like it's actually two swords."
 
 #: 00112441
 msgid ""
 "サリナ：どれどれあたしに見せてごらん。"
-msgstr ""
+msgstr "Sarina: Oh? Let me see!"
 
 #: 001124FE
 msgid ""
 "サリナ：きゃ。▽"
-msgstr ""
+msgstr "Sarina: Ahh! ▽"
 
 #: 001125BB
 msgid ""
 "サリナ：・・・・・・・ど、どうしたんだよ。みんな、しーんとしちゃって。"
-msgstr ""
+msgstr "Sarina: ...what? Why's everyone silent?"
 
 #: 00112605
 msgid ""
 "びっくりさせて悪かったよ。"
-msgstr ""
+msgstr "Sorry for startling you, I guess."
 
 #: 00112623
 msgid ""
 "あたしだっておどろいているんだ。あいこじゃないか。"
-msgstr ""
+msgstr "I'm surprised too, you know! It's a perfect fit!"
 
 #: 00112672
 msgid ""
 "バロア：んー、そうだなぁ。こいつは俺様のカンだが"
-msgstr ""
+msgstr "Baroa: Hmm. Well, I get that impression too,"
 
 #: 001126A6
 msgid ""
 "きっとみんながおどろいたのはそれじゃねぇと思うけどな。"
-msgstr ""
+msgstr "but I don't think that's why everyone's surprised."
 
 #: 00112760
 msgid ""
 "サリナ：？"
-msgstr ""
+msgstr "Sarina: ?"
 
 #: 00112787
 msgid ""
 "バロア：ま、世の中しらねぇ方がしあわせってこともあらぁな。"
-msgstr ""
+msgstr "Baroa: Eh. There's some things you're happier off not knowing."
 
 #: 001127DE
 msgid ""
 "サリナ：？？？？"
-msgstr ""
+msgstr "Sarina: ???"
 
 #: 001127F2
 msgid ""
 "なんだよ、気になるじゃないか。教えておくれよ。"
-msgstr ""
+msgstr "What? Now I'm double curious. Tell me!"
 
 #: 00112873
 msgid ""
 "サリナ：教えておくれよ。"
-msgstr ""
+msgstr "Sarina: Hey, hey! Tell meee!"
 
 #: 0011291B
 msgid ""
 "サリナ：ミーナ、教えておくれよ。"
-msgstr ""
+msgstr "Sarina: Minna, tell meee..."
 
 #: 00112958
 msgid ""
 "ミーナ：・・・・・・・・・・・・・"
-msgstr ""
+msgstr "Minna: ..."
 
 #: 001129E5
 msgid ""
 "サリナ：ミシリア、バーク！！"
-msgstr ""
+msgstr "Sarina: Michelia, Burke!"
 
 #: 00112A86
 msgid ""
 "サリナ：カイ！！"
-msgstr ""
+msgstr "Sarina: Kai!"
 
 #: 00112B42
 msgid ""
 "カイ：なんだろう？この台座は？"
-msgstr ""
+msgstr "Kai: What's this pedestal?"
 
 #: 00112B72
 msgid ""
 "ミーナ：ここに先ほどの剣が置いてあったのでしょう。"
-msgstr ""
+msgstr "Minna: Maybe that sword from earlier used to rest here."
 
 #: 00112BA8
 msgid ""
 "あのヘビはそれを飲み込んでしまったようですね。"
-msgstr ""
+msgstr "Sooner or later, the snake must have eaten it."
 
 #: 00156AE6
 msgid ""
 "カイ：かぎがかかっている。"
-msgstr ""
+msgstr "Kai: It's locked."
 
 #: 00156B12
 msgid ""
 "ミシリア：この町の人はどうしたのかしら？"
-msgstr ""
+msgstr "Michelia: What happened to the people here?"
 
 #: 00156B4C
 msgid ""
 "＿＿＿＿＿ごとっ"
-msgstr ""
+msgstr "___Gulp."
 
 #: 00156B6E
 msgid ""
 "ミーナ：なにか物音がしませんでしたか？"
-msgstr ""
+msgstr "Minna: Did you hear something?"
 
 #: 00156BA6
 msgid ""
 "バーク：気のせいだろ？"
-msgstr ""
+msgstr "Burke: It's gotta be your imagination, right?"
 
 #: 00156BC0
 msgid ""
 "こんなしけた町はさっさとでようぜ"
-msgstr ""
+msgstr "Let's hurry and get out of this gloomy town."
 
 #: 00156BF7
 msgid ""
 "カイ：入る前に、まず外の魔物をかたずけよう。"
-msgstr ""
+msgstr "Kai: Let's kill the monsters before going inside."
 
 #: 00156C64
 msgid ""
 "怪物：死ねやー"
-msgstr ""
+msgstr "Monster: Die!"
 
 #: 00156C84
 msgid ""
 "カイ：させるか！！"
-msgstr ""
+msgstr "Kai: Never!"
 
 #: 00156CC5
 msgid ""
 "怪物：げふっ。"
-msgstr ""
+msgstr "Monster: Ack!"
 
 #: 00156D30
 msgid ""
 "怪物：お前等の首もらった。"
-msgstr ""
+msgstr "Monster: I'LL HAVE YOUR HEADS!"
 
 #: 00156D5C
 msgid ""
 "バーク：腕がなるぜ！！"
-msgstr ""
+msgstr "Burke: We'll have yours first!"
 
 #: 00156D96
 msgid ""
 "怪物：ぎゃふん。"
-msgstr ""
+msgstr "Monster: Arrrgh!"
 
 #: 00156E0E
 msgid ""
 "怪物：ここから生きて帰れると思うなよ。"
-msgstr ""
+msgstr "Monster: Don't think you'll escape with your lives!"
 
 #: 00156E46
 msgid ""
@@ -247,22 +247,22 @@ msgstr ""
 #: 00156E86
 msgid ""
 "怪物：ぎにあー"
-msgstr ""
+msgstr "Monster: Gyaaaaugh!"
 
 #: 00156F08
 msgid ""
 "・・・フン・・・"
-msgstr ""
+msgstr "...hmph."
 
 #: 00156F48
 msgid ""
 "ミシリア：・・・今の誰？"
-msgstr ""
+msgstr "Michelia: Who was that?"
 
 #: 00156F72
 msgid ""
 "カイ：・・・多分・・・"
-msgstr ""
+msgstr "Kai: Probably the..."
 
 #: 00156F8C
 msgid ""
@@ -272,107 +272,108 @@ msgstr ""
 #: 0019B251
 msgid ""
 "子供：やだやだ！！こっち来るな！"
-msgstr ""
+msgstr "Child: No! Stay back!"
 
 #: 0019B28E
 msgid ""
 "ミシリア：大丈夫よ。私達はあなたを助けに来ただけなの。"
-msgstr ""
+msgstr "Michelia: It's okay. We came to help you."
 
 #: 0019B2F8
 msgid ""
 "子供：ホント？"
-msgstr ""
+msgstr "Child: Really?"
 
 #: 0019B318
 msgid ""
 "ミシリア：ホントにホントよ。"
-msgstr ""
+msgstr "Michelia: Really-really."
 
 #: 0019B351
 msgid ""
 "子供：あのね、あのね。怪物がこの町を・・・"
-msgstr ""
+msgstr "Child: Oh! Well, the monsters... They..."
 
 #: 0019B38A
 msgid ""
 "僕のお父さんとお母さんもおじいちゃんも・・・"
-msgstr ""
+msgstr "My mom, my dad... and gramps too."
 
 #: 0019B3E5
 msgid ""
 "ミシリア：ひどい・・・・・・"
-msgstr ""
+msgstr "Michelia: How terrible...!"
 
 #: 0019B41E
 msgid ""
 "カイ：・・・・・・。"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 0019B436
 msgid ""
 "ねえ、君の名前はなんて言うんだい？"
-msgstr ""
+msgstr "Hey, what's your name?"
 
 #: 0019B475
 msgid ""
 "子供：ユータ＝アルタ。"
-msgstr ""
+msgstr "Child: Yuuta Alter."
 
 #: 0019B4A8
 msgid ""
 "サリナ：！？！"
-msgstr ""
+msgstr "Sarina: ?!?!"
 
 #: 0019B4DE
 msgid ""
 "カイ：じゃ、君のおじいさんの名前は、フィスコ＝アルタ？"
-msgstr ""
+msgstr "Kai: Then, was your grandpa named Fisco Alter?"
 
 #: 0019B531
 msgid ""
 "ユータ：そうだよ。"
-msgstr ""
+msgstr "Yuuta: That's right."
 
 #: 0019B560
 msgid ""
 "バーク：ああー？！じゃあ・・・どうすんだよ。"
-msgstr ""
+msgstr "Burke: Seriously? Well... what do we do now?"
 
 #: 0019B5A9
 msgid ""
 "サリナ：ぼうや、おじいさんについて何か覚えていることあるかい？"
-msgstr ""
+msgstr "Sarina: Do you remember anything about your gramps, boy?"
 
 #: 0019B5EB
 msgid ""
 "ちょっとしたことでいいからさ。"
-msgstr ""
+msgstr "Any information is fine."
 
 #: 0019B629
 msgid ""
 "ユータ：・・・・・・"
-msgstr ""
+msgstr "Yuuta: ..."
 
 #: 0019B641
 msgid ""
 "分かんないよ。・・・分かんない！"
-msgstr ""
+msgstr "I don't know... I don't know!"
 
 #: 0019B681
 msgid ""
 "サリナ：いつも口ぐせのように言っていたこととかさ。"
 msgstr ""
+"Sarina: Did he ever have, you know, a favorite saying or anything like that?"
 
 #: 0019B6B7
 msgid ""
 "昔話をよく話してくれなかったかい？"
-msgstr ""
+msgstr "Did he tell you any stories of the past?"
 
 #: 0019B6F6
 msgid ""
 "ユータ：そういえば・・・・・・"
-msgstr ""
+msgstr "Yuuta: Well..."
 
 #: 0019B723
 msgid ""
@@ -382,37 +383,37 @@ msgstr ""
 #: 0019B733
 msgid ""
 "いつもおじいちゃんは、"
-msgstr ""
+msgstr "He was always talking about the sand bar, east of here."
 
 #: 0019B74D
 msgid ""
 "東の浅瀬には、神様を守る人が住んでいて、よこしまな心を持つ人を"
-msgstr ""
+msgstr "People who protected the gods lived there."
 
 #: 0019B78F
 msgid ""
 "近づかないようにしているんだって、言ってた。"
-msgstr ""
+msgstr "They'd work hard to keep the bad guys away."
 
 #: 0019B7BF
 msgid ""
 "その人の心で神様が、けがれないように、だって。"
-msgstr ""
+msgstr "That way, the gods wouldn't get hurt by any mean people."
 
 #: 0019B822
 msgid ""
 "ミシリア：それって・・・"
-msgstr ""
+msgstr "Michelia: That means..."
 
 #: 0019B857
 msgid ""
 "カイ：じゃ、やっぱり、あの指輪と腕輪が・・・"
-msgstr ""
+msgstr "Kai: Then, that ring and bracelet..."
 
 #: 0019B8A0
 msgid ""
 "サリナ：そういうことだね。"
-msgstr ""
+msgstr "Sarina: They must make up the key."
 
 #: 0019B8CC
 msgid ""
@@ -422,27 +423,27 @@ msgstr "Kai: ..."
 #: 0019B8FB
 msgid ""
 "ユータ：？"
-msgstr ""
+msgstr "Yuuta: ?"
 
 #: 0019B917
 msgid ""
 "カイ：・・・ねえ、君はこれからどうするの？"
-msgstr ""
+msgstr "Kai: ...what do you want to do now?"
 
 #: 0019B953
 msgid ""
 "ユータ：どうしよう・・・・・・分かんない。"
-msgstr ""
+msgstr "Yuuta: What do I do...? I don't know."
 
 #: 0019B99A
 msgid ""
 "バーク：俺達もあまり連れて回るわけにもいかないしなあ。"
-msgstr ""
+msgstr "Burke: We can't really take him along with us."
 
 #: 0019B9DF
 msgid ""
 "だれか頼めるやつはいないか？親戚とか、友達とか・・・"
-msgstr ""
+msgstr "Is there some relative or friend we can find, maybe?"
 
 #: 0019BA25
 msgid ""
@@ -452,152 +453,152 @@ msgstr "..."
 #: 0019BA43
 msgid ""
 "ユータ：・・・おじさんがいるけど・・・"
-msgstr ""
+msgstr "Yuuta: I do have an uncle..."
 
 #: 0019BA7B
 msgid ""
 "サリナ：おじさんの名前は？"
-msgstr ""
+msgstr "Sarina: What's your uncle's name?"
 
 #: 0019BAA7
 msgid ""
 "ユータ：・・・・・・レイヨン。"
-msgstr ""
+msgstr "Yuuta: Leon."
 
 #: 0019BAFE
 msgid ""
 "カイ＆バーク＆ミシリア：！？！？！？！"
-msgstr ""
+msgstr "Kai & Burke & Michelia: ?!?!?!"
 
 #: 0019BB5D
 msgid ""
 "ミーナ＆サリナ＆バロア：？"
-msgstr ""
+msgstr "Minna & Sarina & Baroa: ?"
 
 #: 0019BBC7
 msgid ""
 "バロア：・・・・・・しょうがねえな。"
-msgstr ""
+msgstr "Baroa: ...guess we have no choice."
 
 #: 0019BBEF
 msgid ""
 "とりあえず、連れていくか？"
-msgstr ""
+msgstr "Shall we lug the lad along for now?"
 
 #: 0019BC34
 msgid ""
 "カイ：はは・・・ねえ、ユータ君。僕達についてきてくれる？"
-msgstr ""
+msgstr "Kai: Ah-ha! How's that sound, Yuuta? Want to come with us?"
 
 #: 0019BC89
 msgid ""
 "子供：・・・うん。"
-msgstr ""
+msgstr "Child: ...sure."
 
 #: 001DF9C7
 msgid ""
 "バーク：よっしゃー。"
-msgstr ""
+msgstr "Burke: Phew, that's settled!"
 
 #: 001DFA07
 msgid ""
 "子供：おとーちゃん！"
-msgstr ""
+msgstr "Child: Daddy!"
 
 #: 001DFA32
 msgid ""
 "カイ：僕たちも行こう。"
-msgstr ""
+msgstr "Kai: We should go too."
 
 #: 00224189
 msgid ""
 "子供：おとーちゃん！！"
-msgstr ""
+msgstr "Child: Daddyyy!"
 
 #: 002241DD
 msgid ""
 "男：おお無事だったか。"
-msgstr ""
+msgstr "Man: Ooh! You're safe and sound!"
 
 #: 00224217
 msgid ""
 "女：よかった、よかった・・・"
-msgstr ""
+msgstr "Woman: I'm so glad... So very glad!"
 
 #: 002243CD
 msgid ""
 "老人：おお、かたじけない。助かりましたぞ。"
-msgstr ""
+msgstr "Old Man: Oh, how can we ever thank you? You saved our lives!"
 
 #: 00224409
 msgid ""
 "カイ：おじいさん、いきなりだけど名前教えてくれないかな。"
-msgstr ""
+msgstr "Kai: Forgive the sudden question, but... what's your name?"
 
 #: 0022445E
 msgid ""
 "ん？名前？わしはフィスコ＝アルタというものじゃが・・・"
-msgstr ""
+msgstr "My name? Well, it's Fisco Alter."
 
 #: 002244C5
 msgid ""
 "サリナ：じゃあ、このおじいさんが・・・"
-msgstr ""
+msgstr "Sarina: Then this guy is..."
 
 #: 0022451C
 msgid ""
 "フィスコ：んん？"
-msgstr ""
+msgstr "Fisco: Hmm?"
 
 #: 0022455D
 msgid ""
 "カイ：フィスコさん。女神神殿の門番から「指輪」と"
-msgstr ""
+msgstr "Kai: Fisco, we heard you protect the bracelet"
 
 #: 00224591
 msgid ""
 "「ブレスレット」をあずかっていると思うんだけど・・・"
-msgstr ""
+msgstr "and ring that open the gate into the Goddess Shrine."
 
 #: 002245D7
 msgid ""
 "フィスコ：む・・・。おぬし等、何者じゃ。"
-msgstr ""
+msgstr "Fisco: Ah... And who are you to ask me about these things?"
 
 #: 0022461C
 msgid ""
 "ミシリア：あ、あの、そんなにけいかいしないで下さい。"
-msgstr ""
+msgstr "Michelia: Umm... We're not bad guys. Honest!"
 
 #: 00224676
 msgid ""
 "カイ：僕達は、今、世の中に横行している魔物達の支配者、"
-msgstr ""
+msgstr "Kai: We're on a journey to save this world"
 
 #: 002246B0
 msgid ""
 "「ギゼフィル」を倒すために旅をしているんだ。"
-msgstr ""
+msgstr "by defeating the Demon Lord, Gizafeal."
 
 #: 002246F9
 msgid ""
 "フィスコ：な、なんと・・・"
-msgstr ""
+msgstr "Fisco: Oh dear..."
 
 #: 00224725
 msgid ""
 "カイ：でも「ギゼフィル」を倒すためには僕達は"
-msgstr ""
+msgstr "Kai: But to defeat Gizafeal,"
 
 #: 00224755
 msgid ""
 "もっともっと強くならなきゃいけない。"
-msgstr ""
+msgstr "we need to gain more strength."
 
 #: 0022477D
 msgid ""
 "そのために「神の力」がほしいんだ。"
-msgstr ""
+msgstr "We wish to claim the divine power that may help us."
 
 #: 002247A3
 msgid ""
@@ -612,162 +613,166 @@ msgstr ""
 #: 00224823
 msgid ""
 "カイ：僕達は、今、世の中に横行している病気、"
-msgstr ""
+msgstr "Kai: We've been investigating the sickness spreading around,"
 
 #: 00224853
 msgid ""
 "「怪物になってしまう病」のことをしらべているんだ。"
-msgstr ""
+msgstr "the \"People Becoming Monsters Disease.\""
 
 #: 00224889
 msgid ""
 "この病気の原因は今の世界にある巨大な「何か」らしいんだ。"
-msgstr ""
+msgstr "We believe there's some catalyst that's spreading this disease."
 
 #: 002248DE
 msgid ""
 "フィスコ：ほう・・・"
-msgstr ""
+msgstr "Fisco: I see."
 
 #: 00224904
 msgid ""
 "カイ：その「何か」を打ち払うために「神の力」がほしいんだ。"
-msgstr ""
+msgstr "Kai: To stop it for good, we want the divine power."
 
 #: 00224942
 msgid ""
 "フィスコさん。女神神殿の扉を開くカギ、"
-msgstr ""
+msgstr "Fisco, we would like the key to the Goddess Shrine."
 
 #: 0022496C
 msgid ""
 "「指輪」と「ブレスレット」を僕達にかしてほしいんだ。"
-msgstr ""
+msgstr "We would like the bracelet and ring."
 
 #: 002249BD
 msgid ""
 "フィスコ：むう・・・大変な旅をしているのじゃな・・・"
-msgstr ""
+msgstr "Fisco: Hmm. It sounds like quite the difficult journey."
 
 #: 00224A0E
 msgid ""
 "いいじゃろう。指輪とブレスレットのありかを教えよう。"
-msgstr ""
+msgstr "Very well. I'll tell you where you can find the ring and bracelet."
 
 #: 00224A5F
 msgid ""
 "サリナ：え！？おじいさんが持ってるんじゃないの？"
-msgstr ""
+msgstr "Sarina: Wait, what? You don't have them?!"
 
 #: 00224AB5
 msgid ""
 "フィスコ：確かにわしがあずかってはいるが、手元には持っておらん。"
 msgstr ""
+"Fisco: I may be in charge of guarding them, but that never meant I had to "
+"carry them around."
 
 #: 00224AF9
 msgid ""
 "もし、持っておったら今頃魔物どもの手にわたっておるわい。"
 msgstr ""
+"I wouldn't want them stolen by a monster in the event that one killed me or "
+"anything."
 
 #: 00224B4E
 msgid ""
 "サリナ：そ、それもそうか・・・"
-msgstr ""
+msgstr "Sarina: T-that's true..."
 
 #: 00224B92
 msgid ""
 "フィスコ：いいか？よく聞くんじゃぞ。"
-msgstr ""
+msgstr "Fisco: All right, listen up."
 
 #: 00224BBA
 msgid ""
 "「指輪」と「ブレスレット」はある洞窟に隠してある。"
-msgstr ""
+msgstr "The ring and bracelet are hidden in a cave."
 
 #: 00224BF0
 msgid ""
 "この地の東に「ルナ」という名の浅瀬がある。"
-msgstr ""
+msgstr "To the east of here lies the sand bar, Luna Shoal."
 
 #: 00224C1E
 msgid ""
 "その浅瀬にある洞窟の奥に埋めてあるんじゃ。"
-msgstr ""
+msgstr "The items you seek are buried in the back of a cave there."
 
 #: 00224C5A
 msgid ""
 "カイ：「ルナの浅瀬」にある洞窟の奥だね？"
-msgstr ""
+msgstr "Kai: Deep in a cave at Luna Shoal?"
 
 #: 00224C9F
 msgid ""
 "フィスコ：そうじゃ。"
-msgstr ""
+msgstr "Fisco: That's right."
 
 #: 00224CD0
 msgid ""
 "バーク：な、なんだかややこしいな・・・"
-msgstr ""
+msgstr "Burke: That sounds like a pain to get to."
 
 #: 00224D13
 msgid ""
 "カイ：ありがとう、フィスコさん。"
-msgstr ""
+msgstr "Kai: Thank you, Fisco."
 
 #: 00224D50
 msgid ""
 "フィスコ：いや、礼を言うのはこちらの方じゃ。"
-msgstr ""
+msgstr "Fisco: Oh, no. I should be thanking you!"
 
 #: 00224D80
 msgid ""
 "それよりも、気をつけて行くんじゃぞ。"
-msgstr ""
+msgstr "Good luck on your journey."
 
 #: 00224DD8
 msgid ""
 "カイ：よし、行こう！！"
-msgstr ""
+msgstr "Kai: All right, let's go!"
 
 #: 00224E34
 msgid ""
 "フィスコ：気をつけて行くんじゃぞ。"
-msgstr ""
+msgstr "Fisco: Be careful."
 
 #: 00336248
 msgid ""
 "バーク：なんだこりゃ？魔物がいるじゃねえか。"
-msgstr ""
+msgstr "Burke: What's this? There sure are lots of monsters around."
 
 #: 00336286
 msgid ""
 "サリナ：やっぱり、ここには何かあるんだよ。"
-msgstr ""
+msgstr "Sarina: As we thought, there's something here."
 
 #: 00336435
 msgid ""
 "カイ：中に入る前に、外の魔物を全部倒しておこう。"
-msgstr ""
+msgstr "Kai: Let's beat all the monsters outside first."
 
 #: 00336469
 msgid ""
 "今のままじゃ、落ち着いて調べることができないからね。"
-msgstr ""
+msgstr "We can't really search the area with them breathing down our necks."
 
 #: 003364C2
 msgid ""
 "怪物：殺してやる。"
-msgstr ""
+msgstr "Monster: I'll kill you!"
 
 #: 003364E6
 msgid ""
 "カイ：な、なんだ！？"
-msgstr ""
+msgstr "Kai: Huh?!"
 
 #: 00336517
 msgid ""
 "カイ：いくぞ！！"
-msgstr ""
+msgstr "Kai: Let's go!"
 
 #: 0033654B
 msgid ""
@@ -777,42 +782,42 @@ msgstr ""
 #: 003365AF
 msgid ""
 "怪物：やってやるぜ。"
-msgstr ""
+msgstr "Mosnter: Do your worst!"
 
 #: 003365D5
 msgid ""
 "ミシリア：あまくみないでね。"
-msgstr ""
+msgstr "Michelia: Don't underestimate us!"
 
 #: 0033662E
 msgid ""
 "怪物：くらいな。"
-msgstr ""
+msgstr "Monster: Eat this!"
 
 #: 00336650
 msgid ""
 "バーク：へっ、腕がなるぜ。"
-msgstr ""
+msgstr "Burke: Ha! Just when I was getting bored!"
 
 #: 0033667C
 msgid ""
 "怪物：ぎゃ"
-msgstr ""
+msgstr "Monster: Ack!"
 
 #: 003366C3
 msgid ""
 "怪物：ここは通さん！"
-msgstr ""
+msgstr "Monster: I won't let you pass!"
 
 #: 003366E9
 msgid ""
 "カイ：行くぞ！！"
-msgstr ""
+msgstr "Kai: Let's go!"
 
 #: 0033671D
 msgid ""
 "怪物：ぎゃーー！！"
-msgstr ""
+msgstr "Monster: Gyargh!"
 
 #: 0034736C
 msgid ""
@@ -821,29 +826,29 @@ msgstr ""
 #: 0037A91F
 msgid ""
 "バロア：カイ、これからどこに行く？"
-msgstr ""
+msgstr "Baroa: Kai, where should we go now?"
 
 #: 0037A945
 msgid ""
 "あてがねぇなら今は使われていない西にあるクーバの港や"
-msgstr ""
+msgstr "If we're not sure, maybe we should go to Kuuba Port,"
 
 #: 0037A97D
 msgid ""
 "この近くのバーシス島にいってみねぇか？"
-msgstr ""
+msgstr "or even Bahsis Island. It's close enough, right?"
 
 #: 0037A9A7
 msgid ""
 "なにかあるかもしれねぇしな。"
-msgstr ""
+msgstr "There might be something there."
 
 #: 0037A9EA
 msgid ""
 "バロア：さてこれからどうする？"
-msgstr ""
+msgstr "Baroa: All right, where to next?"
 
 #: 0037AA0C
 msgid ""
 "大臣のおっさんの言ってた島にでも行ってみっか？"
-msgstr ""
+msgstr "Shall we check out the island that minister told us about?"

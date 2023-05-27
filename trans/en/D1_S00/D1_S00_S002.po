@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-07 17:12-0400\n"
-"PO-Revision-Date: 2022-09-12 03:12+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s002/en/>\n"
 "Language: en\n"
@@ -22,12 +22,12 @@ msgstr "Soldier: We managed to catch a strange creature,"
 #: 0000037F
 msgid ""
 "どう処分しようかマクロード隊長に聞いてみないと・・・"
-msgstr "but we need McLeod's orders before we can dispose of it..."
+msgstr "but we need McLeod's orders before we can dispose of it."
 
 #: 000003B7
 msgid ""
 "とりあえず、ろうやにほうりこんであるから問題無いだろう。"
-msgstr "We threw it in a cell, so at least it's taken care of for now."
+msgstr "We threw it in a cell, so it's taken care of. For now..."
 
 #: 00000420
 msgid ""
@@ -82,7 +82,7 @@ msgstr ""
 #: 000006E3
 msgid ""
 "マクロード：わかった。私のことは気にせず作業をすすめてくれ。"
-msgstr "McLeod: Understood. Don't mind me; continue your work."
+msgstr "McLeod: Understood. Don't mind me. Continue your work."
 
 #: 00000731
 msgid ""
@@ -93,7 +93,7 @@ msgstr "Solider: Yes, sir."
 msgid ""
 "兵士：ルーンマルナの復興は、もうしばらく先になるでしょう。"
 msgstr ""
-"Soldier: Rune Malna's reconstruction will probably still take us awhile."
+"Soldier: Rune Malna's reconstruction will probably still take us a while."
 
 #: 000007BF
 msgid ""
@@ -110,7 +110,7 @@ msgstr "Soldier: Monsters keep attacking the Rune Gate almost daily."
 msgid ""
 "私もマクロード隊長とともに前線に出て戦いたいものだ。"
 msgstr ""
-"I hope I get the chance to join Captain McLeod on the frontlines as well."
+"I hope I get the chance to join Captain McLeod on the front lines as well."
 
 #: 000008AD
 msgid ""
@@ -126,7 +126,7 @@ msgstr "McLeod: Denied. Defending this town is your critical task."
 msgid ""
 "ここを守り切ることこそが、お前の前線だと思え。"
 msgstr ""
-"I'm counting on you to protect this place as if it were your own front line."
+"I'm counting on you to protect this place as if it were your own front yard."
 
 #: 00000977
 msgid ""
@@ -137,8 +137,8 @@ msgstr "Soldier: Understood, Captain McLeod!"
 msgid ""
 "兵士：私もマクロード隊長とともに前線に出で戦いたいものだ。"
 msgstr ""
-"Soldier: I hope I get the chance to join Captain McLeod on the frontlines as "
-"well."
+"Soldier: I hope I get the chance to join Captain McLeod on the front lines "
+"as well."
 
 #: 00000A15
 msgid ""
@@ -169,7 +169,7 @@ msgstr "Soldier: As the Captain ordered, we're protecting this man."
 #: 00000B93
 msgid ""
 "姿形は違えども彼も我々と同じ人間なのですね。"
-msgstr "His appearance may be strange, but he's human just like us."
+msgstr "His appearance may be strange, but he's human, just like us."
 
 #: 00000BD6
 msgid ""
@@ -258,12 +258,13 @@ msgstr "Girl: I heard Rune Malna was attacked by something!"
 #: 00044D22
 msgid ""
 "でもこの町は大丈夫。"
-msgstr "But, we're safe here."
+msgstr "Thankfully, we're safe here."
 
 #: 00044D3A
 msgid ""
 "ハインローグ守備隊、第１連隊のマクロード隊長がしっかり守ってくださるもの。"
-msgstr "Captain McLeod of the Heinrogue Garrison Regiment #1 protects us all."
+msgstr ""
+"Captain McLeod of the Heinrogue Garrison Regiment No. 1 protects us all."
 
 #: 00044D88
 msgid ""
@@ -288,22 +289,22 @@ msgstr "Even without someone like that, Captain McLeod will keep us safe."
 #: 00044E66
 msgid ""
 "娘：マクロード隊長、ああなんてりりしいおかた・・・・"
-msgstr "Girl: Ahh Captain McLeod, take me away on your shining steed..."
+msgstr "Girl: Ooh, Captain McLeod! take me away on your shining steed!"
 
 #: 00044E9E
 msgid ""
 "ね、あなたもそう思うでしょう。"
-msgstr "I, uh, said that out loud, didn't I?"
+msgstr "I, uh, said that out loud, didn't I..."
 
 #: 00044EE3
 msgid ""
 "子供：あのね、僕大きくなったらマクロード隊長のように"
-msgstr "Child: When I grow up, I wanna be a cool knight"
+msgstr "Child: When I grow up, I wanna be a cool knight,"
 
 #: 00044F1B
 msgid ""
 "かっこいい戦士になるんだ。"
-msgstr "like Captain McLeod!"
+msgstr "just like Captain McLeod!"
 
 #: 00044F54
 msgid ""
@@ -320,7 +321,7 @@ msgstr "But, I'm not sure where they went."
 #: 00044FBC
 msgid ""
 "でも、いなくてもいいよ。この町にはマクロード隊長がいるからね。"
-msgstr "But that's fine! We've got Captain McLeod here!"
+msgstr "That's fine! We've got Captain McLeod here!"
 
 #: 00045011
 msgid ""
@@ -335,7 +336,7 @@ msgstr "Man: Sounds like the nearby town was attacked!"
 #: 00045097
 msgid ""
 "それで、はいきょになっちまったって話だぜ。"
-msgstr "Apparently only ruined buildings remain now."
+msgstr "Apparently, only ruined buildings remain now."
 
 #: 000450D8
 msgid ""
@@ -360,7 +361,7 @@ msgstr "Is Captain McLeod going to leave as well?"
 #: 00045187
 msgid ""
 "かれまで向かってしまうと、だれがこの町を守ってくれるんだ？"
-msgstr "If he's going, then whose gonna protect US?"
+msgstr "If he's going, then who's gonna protect us?"
 
 #: 000451D8
 msgid ""
@@ -380,7 +381,7 @@ msgstr "Woman: This is Lake Mount."
 #: 0004526B
 msgid ""
 "見かけない顔だね？旅の人かい？"
-msgstr "I haven't seen you around before. Travellers?"
+msgstr "I haven't seen you around before. Travelers?"
 
 #: 000452A8
 msgid ""
@@ -415,17 +416,17 @@ msgstr "Things are getting pretty lively over there..."
 #: 00089375
 msgid ""
 "男：えっ、ルーンマルナの町がおそわれたって？！"
-msgstr "Man: What!? Rune Malna was attacked!?"
+msgstr "Man: What? Rune Malna was attacked?!"
 
 #: 000893A7
 msgid ""
 "いったい何があったっていうんだ・・・"
-msgstr "What the hell happened...?"
+msgstr "What the heck happened?"
 
 #: 000893DD
 msgid ""
 "バーク：なんだ、今ごろそんな事を言ってるのか。"
-msgstr "Burke: The hell you think happened?"
+msgstr "Burke: The heck you think happened?!"
 
 #: 0008941D
 msgid ""
@@ -440,7 +441,7 @@ msgstr "Man: That large building over there is the barracks."
 #: 0008949A
 msgid ""
 "男：確か、この町にマールって魔導師がいたな。"
-msgstr "Man: There was a magician here named Marl, yes."
+msgstr "Man: There was a magician here named \"Marl\", yes."
 
 #: 000894CA
 msgid ""
@@ -474,17 +475,17 @@ msgstr "..."
 #: 000895C6
 msgid ""
 "ハッ。"
-msgstr "Haa~..."
+msgstr "Haa..."
 
 #: 000895D0
 msgid ""
 "いかんいかん。思わず、ぼーっとしてしまった。"
-msgstr "No, no! I started spacing out again."
+msgstr "Aw, drats! I started spacing out again."
 
 #: 0008960F
 msgid ""
 "兵士：ここはハインローグ守備隊第１連隊の兵舎である。"
-msgstr "Soldier: This is the barracks of Heinrogue Garrison Regiment #1."
+msgstr "Soldier: This is the barracks of Heinrogue Garrison Regiment No. 1."
 
 #: 000CD915
 msgid ""
@@ -501,7 +502,7 @@ msgstr ""
 msgid ""
 "じじい：そういえば、この町にはノクターンの魔法を使えたものがおったな。"
 msgstr ""
-"Old Man: Oh yes, there's someone in this town to whom I've taught Nocturne."
+"Old Man: Oh, yes. There's someone in this town to whom I've taught Nocturne."
 
 #: 000CDA09
 msgid ""
@@ -517,7 +518,7 @@ msgstr "You can put your foes to sleep with Nocturne."
 msgid ""
 "隊長：誰だ？ここはハインローグ守備隊、第１連隊の詰め所だ。"
 msgstr ""
-"Captain: Who are you? This is the Heinrogue Garrison Regiment #1 Station."
+"Captain: Who are you? This is the Heinrogue Garrison Regiment No. 1 Station."
 
 #: 0011222A
 msgid ""
@@ -558,17 +559,17 @@ msgstr "then I believe they left for Sanitas Village a few days ago."
 #: 00112403
 msgid ""
 "カイ：そうですか・・・"
-msgstr "Kai: I see..."
+msgstr "Kai: Ah, that's too bad."
 
 #: 0011242B
 msgid ""
 "ミシリア：あ、あの、隊長さん・・・"
-msgstr "Michelia: U-um, Mr. Captain..."
+msgstr "Michelia: U-umm, Mr. Captain?"
 
 #: 00112467
 msgid ""
 "さきほどハインローグ守備隊、第１連隊と言われましたよね？"
-msgstr "You said you were the Heinrogue Garrison Regiment #1, correct?"
+msgstr "You said you were the Heinrogue Garrison Regiment No. 1, correct?"
 
 #: 001124AE
 msgid ""
@@ -578,7 +579,7 @@ msgstr "Then, do you recognize this pendant...?"
 #: 0011250E
 msgid ""
 "隊長：こ、これは・・・"
-msgstr "Captain: T-this is...!?"
+msgstr "Captain: T-this is...!"
 
 #: 00112528
 msgid ""
@@ -598,7 +599,7 @@ msgstr "Michelia: At the Rune Gate, sir."
 #: 001125D0
 msgid ""
 "隊長：ルーンの関！？"
-msgstr "Captain: The Rune Gate!?"
+msgstr "Captain: The Rune Gate?!"
 
 #: 001125E8
 msgid ""
@@ -608,7 +609,7 @@ msgstr "You guys went over there?"
 #: 00112621
 msgid ""
 "カイ：うん。それから、ルーンマルナの町も・・・"
-msgstr "Kai: Yeah. Then, we passed through Rune Malna as well..."
+msgstr "Kai: We did, and later passed through Rune Malna as well..."
 
 #: 0011266A
 msgid ""
@@ -618,12 +619,12 @@ msgstr "Captain: I see... What did you see there?"
 #: 001126B7
 msgid ""
 "カイ：関と町もはいきょになってて・・・"
-msgstr "Kai: Both the gate and town were no more..."
+msgstr "Kai: Both the gate and town were no more."
 
 #: 001126E1
 msgid ""
 "だれも・・・いなかった。"
-msgstr "No one was left... Only quiet rubble remained..."
+msgstr "No one was left... Only quiet rubble remained."
 
 #: 001126FD
 msgid ""
@@ -678,7 +679,7 @@ msgstr "You can reach it by going east from Sanitas Village."
 #: 00112947
 msgid ""
 "隊長：確か、宿屋だったはずです・・・すみませんが"
-msgstr "Captain: I believe they run an inn if I remember right."
+msgstr "Captain: I believe they run an inn, if I remember right."
 
 #: 0011297B
 msgid ""
@@ -729,12 +730,12 @@ msgstr "Rune Malna and Rune Gate need my urgent attention."
 #: 00112B81
 msgid ""
 "ミシリア：あの・・・このロケットの持ち主の方って・・・"
-msgstr "Michelia: Um... About the locket owner..."
+msgstr "Michelia: Umm... About the locket owner..."
 
 #: 00112BD4
 msgid ""
 "隊長：ミシェル＝ロア。古いゆうじんです。"
-msgstr "Captain: Michel Roa. An old friend of mine."
+msgstr "Captain: Michel Roa. He was an old friend of mine."
 
 #: 00112C19
 msgid ""
@@ -744,7 +745,7 @@ msgstr "Michelia: ..."
 #: 00112C4C
 msgid ""
 "カイ：それじゃ、行ってきます。色々ありがとう。"
-msgstr "Kai: Alright, let's get going then. Thank you for everything."
+msgstr "Kai: All right, let's get going then. Thank you for everything."
 
 #: 00112C97
 msgid ""
@@ -764,7 +765,7 @@ msgstr "Soldier: You're asking what happened?"
 #: 00112DA8
 msgid ""
 "知らないよ。これから調べに行くんだから。"
-msgstr "I don't have a clue. We're off to go find out now though."
+msgstr "I don't have a clue. We're off to go find out now, though."
 
 #: 00156915
 msgid ""
@@ -810,17 +811,17 @@ msgstr ""
 #: 00224296
 msgid ""
 "男：旅のかた、どうか私の頼みを聞いてくださいませんか？"
-msgstr "Man: Wait you, travelers, please, listen to my request!!"
+msgstr "Man: Wait, travelers. Please, listen to my request!"
 
 #: 002242DE
 msgid ""
 "バーク：なんでぇいきなり！？"
-msgstr "Burke: Woah, damn, where'd you come from!?"
+msgstr "Burke: Woah, there! Where'd you come from?"
 
 #: 0022430C
 msgid ""
 "男：バーにいる女性にこの指輪をわたしてほしいのです。"
-msgstr "Man: I wish for you to hand this ring to a woman named Baa."
+msgstr "Man: I wish for you to hand this ring to a woman named \"Baa\"."
 
 #: 00224352
 msgid ""
@@ -852,12 +853,13 @@ msgstr "It sounds like she lost the ring that I gave her."
 #: 00224478
 msgid ""
 "彼女はそれをたいへん気にしているようなので・・・"
-msgstr "She's really taking it hard on herself for it and won't talk to me..."
+msgstr ""
+"She's really taking it personally, and won't talk to me because of it..."
 
 #: 002244AC
 msgid ""
 "私も彼女に気づかれぬよう探したのですが、見つからなくて・・・"
-msgstr "I've tried looking for it too without telling her, but no luck..."
+msgstr "I've tried looking for it too, without telling her, but no luck..."
 
 #: 002244FA
 msgid ""
@@ -887,7 +889,7 @@ msgstr "Michelia: Kai, could we help him out?"
 #: 0022460C
 msgid ""
 "カイ：わかりました。彼女にわたしておきますね。"
-msgstr "Kai: Alright. We'll deliver it to her."
+msgstr "Kai: All right. We'll deliver it to her."
 
 #: 0022464C
 msgid ""
@@ -932,7 +934,7 @@ msgstr "Master: Welcome!"
 #: 0026899E
 msgid ""
 "何かなやみをかかえているようですね。"
-msgstr "You seem troubled, something on you mind?"
+msgstr "You seem troubled. Something on you mind?"
 
 #: 002689F8
 msgid ""
@@ -947,7 +949,7 @@ msgstr "How could I lose the precious ring he gave me..."
 #: 00268A54
 msgid ""
 "何と言って謝ればいいのかしら・・・"
-msgstr "How could I possibly apologize for this...?"
+msgstr "How do I possibly apologize for this...?"
 
 #: 00268A91
 msgid ""
@@ -977,7 +979,7 @@ msgstr "Kai: Excuse me..."
 #: 00268BED
 msgid ""
 "女：なにっ（ギロリ）"
-msgstr "Woman: What...? *glares*"
+msgstr "Woman: What? (Glares.)"
 
 #: 00268C13
 msgid ""
@@ -987,7 +989,7 @@ msgstr "Kai: I-is this yours, by chance?"
 #: 00268C53
 msgid ""
 "女：これ！！ど、どこにあったの！！"
-msgstr "Woman: WHAT!? W-where'd you find it!?"
+msgstr "Woman: WHAT?! W-where'd you find it?"
 
 #: 00268C87
 msgid ""
@@ -1007,7 +1009,7 @@ msgstr "We thought it might be yours, so we came to ask."
 #: 00268D1D
 msgid ""
 "女：ありがとう。ほんとうにありがとう。"
-msgstr "Woman: Thank you! Thank you so much!!"
+msgstr "Woman: Thank you! Thank you so much!"
 
 #: 00268D47
 msgid ""
@@ -1047,7 +1049,7 @@ msgstr "Woman: Thank you for finding my ring earlier."
 #: 002AD115
 msgid ""
 "ここはレイクマウントで一番のホテルだよ。"
-msgstr "This is Lake Mount's #1 hotel."
+msgstr "This is Lake Mount's number one hotel."
 
 #: 002AD141
 msgid ""
@@ -1077,17 +1079,17 @@ msgstr "Good morning."
 #: 002AD249
 msgid ""
 "ゆうべはよくおやすみになれましたか？"
-msgstr "Did you sleep okay last night?"
+msgstr "Did you sleep well last night?"
 
 #: 002AD29B
 msgid ""
 "申しわけありませんが、お金が不足しておりまして・・・"
-msgstr "I'm sorry, but you don't seem to have enough money..."
+msgstr "I'm sorry, but you don't seem to have enough money."
 
 #: 002AD2D3
 msgid ""
 "またのおこしをおまちしております。"
-msgstr "Please come again!"
+msgstr "Come again!"
 
 #: 002F1B67
 msgid ""
@@ -1097,17 +1099,17 @@ msgstr "Woman: This is Sanitas Village."
 #: 002F1B83
 msgid ""
 "腰痛に良く効く温泉がありますよ。"
-msgstr "The hot spring here is famous for helping back pain."
+msgstr "The hot spring here is famous for relieving back pain."
 
 #: 002F1BB5
 msgid ""
 "バーク：そういや、最近、腰の具合が・・・"
-msgstr "Burke: Speaking of, my back's been really sore lately..."
+msgstr "Burke: Speaking of which, my back has been really sore lately..."
 
 #: 002F1BEF
 msgid ""
 "カイ：ええ？！"
-msgstr "Kai: Wait, really!?"
+msgstr "Kai: Wait, really?"
 
 #: 002F1C0F
 msgid ""
@@ -1157,12 +1159,12 @@ msgstr "N-no!"
 #: 002F1D64
 msgid ""
 "そんな、おほ、"
-msgstr "No no, haha."
+msgstr "No, haha."
 
 #: 002F1D76
 msgid ""
 "おほほほほほほほほほほほほほほほほほほほほほほほほほほほほほほほほほ"
-msgstr "Hahahahahahahahahahhaahahhaa!"
+msgstr "Hahahahahahahahahahaahahhaa!"
 
 #: 002F1DDF
 msgid ""
@@ -1182,7 +1184,8 @@ msgstr "There was an injured old man carried here earlier."
 #: 002F1E55
 msgid ""
 "いかにも！って感じだったような気が・・・"
-msgstr "\"That's him!\" just flashed in my head for some reason..."
+msgstr ""
+"The thought, \"That's him!\" drilled itself into my head for some reason."
 
 #: 002F1EAD
 msgid ""
@@ -1213,7 +1216,7 @@ msgstr "If he does, I wonder if he'd come and bring me with him..."
 #: 002F1FBC
 msgid ""
 "なんてねっ。"
-msgstr "Just kidding~"
+msgstr "Just kidding!"
 
 #: 002F2031
 msgid ""
@@ -1243,7 +1246,7 @@ msgstr "We can't just leave now."
 #: 002F2134
 msgid ""
 "バーク：おいおい、待てよ。"
-msgstr "Burke: Hey hey, hold your horses."
+msgstr "Burke: Hey, hold your horses!"
 
 #: 002F2152
 msgid ""
@@ -1253,7 +1256,7 @@ msgstr "We can't meet that magician if we don't drop by the clinic."
 #: 00336327
 msgid ""
 "老人：そういえば、療養所に運ばれたじいさんがいたが、"
-msgstr "Elderly Man: Oh yeah, an older man was carried to the clinic,"
+msgstr "Elderly Man: Oh, yeah. An older man was carried to the clinic,"
 
 #: 0033635F
 msgid ""
@@ -1318,7 +1321,7 @@ msgstr "Further along is the hot spring."
 #: 00336570
 msgid ""
 "あったまるわよー。"
-msgstr "It's really warm and refreshing~"
+msgstr "It's really warm and refreshing!"
 
 #: 00336599
 msgid ""
@@ -1333,7 +1336,7 @@ msgstr "How scary..."
 #: 0033660B
 msgid ""
 "女：ケガしたら療養所に行く。"
-msgstr "Woman: If you're injured, then head over to the clinic."
+msgstr "Woman: If you're injured, head over to the clinic."
 
 #: 0033662B
 msgid ""
@@ -1344,7 +1347,7 @@ msgstr "You can take a nice, long rest there!"
 msgid ""
 "女：温泉でぬくぬくするのもいいわねー。"
 msgstr ""
-"Woman: The hot spring's a great way to let the travel fatigue float away~"
+"Woman: The hot spring's a great way to let the travel fatigue float away!"
 
 #: 0033668C
 msgid ""
@@ -1364,7 +1367,7 @@ msgstr "He was covered in blood..."
 #: 00336715
 msgid ""
 "ぶるぶるぶる・・・"
-msgstr "*shudders*..."
+msgstr "(Shudders.)"
 
 #: 00336739
 msgid ""
@@ -1374,7 +1377,7 @@ msgstr "Michelia: Do you think that could be the magician...?"
 #: 0033677B
 msgid ""
 "カイ：うん、確かめてみよう。"
-msgstr "Kai: I think so too. We should take a look."
+msgstr "Kai: I do think so. We should take a look."
 
 #: 003367AE
 msgid ""
@@ -1409,22 +1412,22 @@ msgstr "It's got really annoying."
 #: 003368BB
 msgid ""
 "女：でも、ここは空気もキレイで、景色もばっちり。"
-msgstr "Woman: But, the air is clean here and the scenery's just lovely."
+msgstr "Woman: But, the air is clean here, and the scenery's just lovely."
 
 #: 003368EF
 msgid ""
 "私も温泉を楽しみたくなってきちゃった。"
-msgstr "Now I'm starting to get excited about the hot spring!"
+msgstr "Ooh, I'm starting to get excited about the hot spring!"
 
 #: 003369A7
 msgid ""
 "カイ：・・・どうしよう、温泉に入っていっちゃった。"
-msgstr "Kai: What now, she went into the hot spring..."
+msgstr "Kai: What now? She went into the hot spring..."
 
 #: 003369EB
 msgid ""
 "バーク：と、いうことは・・・ニヤリ。"
-msgstr "Burke: What now, indeed. *smirk*"
+msgstr "Burke: \"What now,\" indeed. (Smirks.)"
 
 #: 00336A13
 msgid ""
@@ -1434,7 +1437,7 @@ msgstr "As a man, there's only one thing to do here."
 #: 00336A41
 msgid ""
 "よし、のぞけ。"
-msgstr "Alright, go peek at her."
+msgstr "All right. Go peek at her."
 
 #: 00336A61
 msgid ""
@@ -1444,7 +1447,7 @@ msgstr "Kai: B-B-B-B-BURKE!"
 #: 00336A8D
 msgid ""
 "バーク：いいから行って来い！"
-msgstr "Burke: Come on, go for it!"
+msgstr "Burke: Come on. Go for it!"
 
 #: 00336B6E
 msgid ""
@@ -1454,12 +1457,12 @@ msgstr "Kai: WOAH!"
 #: 00336BC3
 msgid ""
 "ミシリア：きゃあああああああああああああああ！"
-msgstr "Michelia: AHHHHHHHHHH!!!!!"
+msgstr "Michelia: AHHHHHHHHHH!!!"
 
 #: 00336BF5
 msgid ""
 "カイ？！"
-msgstr "KAI!?"
+msgstr "KAI?!"
 
 #: 00336C0F
 msgid ""
@@ -1469,22 +1472,22 @@ msgstr "Kai: S-Sorry! Burke just--"
 #: 00336C47
 msgid ""
 "ミシリア：ばかばかばかばかばかばかばかエッチ！"
-msgstr "Michelia: STUPID STUPID STUPID IDIOT FACE PERVERT!"
+msgstr "Michelia: STUPID! STUPID! STUPID IDIOT-FACED PERVERT!"
 
 #: 00336C79
 msgid ""
 "もう！知らない！"
-msgstr "Don't talk to me ever again!!"
+msgstr "Don't talk to me ever again!"
 
 #: 00336C9B
 msgid ""
 "かぽーんっ。"
-msgstr "*SMACK*"
+msgstr "Smack!"
 
 #: 00336CAB
 msgid ""
 "ばたっ。"
-msgstr "*THUD*"
+msgstr "Thud!"
 
 #: 00336CDB
 msgid ""
@@ -1494,7 +1497,7 @@ msgstr "Michelia: Huh...?"
 #: 00336CFB
 msgid ""
 "・・・・・・カイ？！"
-msgstr "...Kai!?"
+msgstr "...Kai?!"
 
 #: 00336D13
 msgid ""
@@ -1520,7 +1523,7 @@ msgstr ""
 #: 0037AA45
 msgid ""
 "・・・気になるって顔してるな。２０００ガメで向こうにわたしてやろうか？"
-msgstr "...if that interest's ya, 2,000 gahme will get you there."
+msgstr "...if that interests ya, I can get you there for 2,000 gahme."
 
 #: 0037AA8F
 msgid ""
@@ -1550,7 +1553,7 @@ msgstr "Ship Captain: Sorry, but she ain't sailing right now."
 #: 0037AB8D
 msgid ""
 "舟底がくさっちまってて、直すのに時間がかかっちまうんだ。"
-msgstr "The bilge is in bad shape and will take some time to repair."
+msgstr "The hull is in bad shape and will take some time to repair."
 
 #: 0037ABE4
 msgid ""
@@ -1560,7 +1563,9 @@ msgstr "Ship Captain: This here's Lacent Lake."
 #: 0037AC0C
 msgid ""
 "真ん中のちっちゃい島に、聖獣のほこらってやつがあるんだ。"
-msgstr "Right in the center's a small island with a shrine to the Sacred Beast."
+msgstr ""
+"Right in the center's a small island with a shrine dedicated to the Sacred "
+"Beast."
 
 #: 0037AC48
 msgid ""
@@ -1585,19 +1590,19 @@ msgstr "You paid 2,000 gahme."
 #: 0037AD6B
 msgid ""
 "船主：よし、ちょっと待ってろ。"
-msgstr "Ship Captain: Alright, let's get sailing!"
+msgstr "Ship Captain: All right, let's get sailing!"
 
 #: 0037ADA4
 msgid ""
 "船主：ほら、見えてきただろう。あれが聖獣のほこらだ。"
 msgstr ""
-"Ship Captain: Look, you can see it coming into view. That there's the Sacred "
+"Ship Captain: Look! You can see it coming into view. That there's the Sacred "
 "Beast shrine."
 
 #: 0037ADF9
 msgid ""
 "船主：冗談じゃねえ！足りないじゃないか！"
-msgstr "Ship Captain: Yer kidding me, right!? This ain't 2,000 gahme!"
+msgstr "Ship Captain: Yer kidding me, right? This ain't worth no 2,000 gahme!"
 
 #: 0037AE54
 msgid ""
@@ -1607,7 +1612,7 @@ msgstr "Ship Captain: If yer just window shopping, then scram!"
 #: 0037AFB4
 msgid ""
 "バーク：なんだ？今のやつ、あぶねーな・・・っ！"
-msgstr "Burke: What the? Hey, that was dangerous!!"
+msgstr "Burke: What the--? Hey, that was dangerous!"
 
 #: 0037AFF4
 msgid ""
@@ -1632,12 +1637,12 @@ msgstr "...n-no?"
 #: 0037B0D8
 msgid ""
 "バーク：なんか変だな・・・？"
-msgstr "Burke: You're acting kinda fishy...?"
+msgstr "Burke: You're acting kinda fishy..."
 
 #: 0037B0F8
 msgid ""
 "ま、いいけどよ。"
-msgstr "Eh, oh well."
+msgstr "Eh. Oh, well."
 
 #: 003BF1E0
 msgid ""
@@ -1682,7 +1687,7 @@ msgstr "Man: No one can be trusted in this world."
 #: 003BF38B
 msgid ""
 "なあ、あんたはどう思う？"
-msgstr "How about you, what do you think?"
+msgstr "How about you? What do you think?"
 
 #: 003BF3C8
 msgid ""
@@ -1702,13 +1707,14 @@ msgstr "The contents apparently change over time."
 #: 003BF426
 msgid ""
 "ま、確かめられるのは、一回だから実際には分からんがな。"
-msgstr "Well, it's hard to verify since you can only open it once."
+msgstr "Well, it's hard to prove that point, since you can only open it once."
 
 #: 003BF473
 msgid ""
 "男：薬屋なら、左がわのたてものだよ。"
 msgstr ""
-"Man: If you're looking for the pharmacist, it's the building on the left."
+"Man: If you're looking for the pharmacist, he works in the building on the "
+"left."
 
 #: 003BF49B
 msgid ""
@@ -1728,7 +1734,7 @@ msgstr "Man: This village is known as the healing village,"
 #: 003BF551
 msgid ""
 "この先の森にまで、魔物が出るようになっちまって・・・"
-msgstr "but monsters are starting to show up in the surrounding forest..."
+msgstr "but monsters are starting to show up in the surrounding forest."
 
 #: 003BF589
 msgid ""
@@ -1744,4 +1750,4 @@ msgstr "Man: People are getting injured trying"
 #: 003BF602
 msgid ""
 "何かにおそわれてケガしたんじゃ、シャレにならねぇ。"
-msgstr "to reach the clinic, it's ridiculous!"
+msgstr "to reach the clinic. It's ridiculous!"

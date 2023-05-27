@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-02 01:47+0000\n"
-"PO-Revision-Date: 2022-11-27 05:13+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-17 07:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s022/en/>\n"
 "Language: en\n"
@@ -17,57 +17,57 @@ msgstr ""
 #: 00044994
 msgid ""
 "神官：道中、くれぐれもご無事で・・・"
-msgstr ""
+msgstr "Priest: Be careful on your travels."
 
 #: 000449D9
 msgid ""
 "神官：よくいらっしゃいました。精霊の神に導かれし者達よ。"
-msgstr ""
+msgstr "Priest: To those guided by the Spirit God, I welcome you."
 
 #: 00044A23
 msgid ""
 "カイ：あなたは・・・？"
-msgstr ""
+msgstr "Kai: Who are you?"
 
 #: 00044A4B
 msgid ""
 "神官：精霊の神に仕え、ここを守るもの。"
-msgstr ""
+msgstr "Priest: I serve the Spirit God and protect this place."
 
 #: 00044A75
 msgid ""
 "神のお告げにより、あなた方をおむかえするように待っておりました。"
-msgstr ""
+msgstr "I have been instructed to wait for you all here."
 
 #: 00044AC7
 msgid ""
 "ミシリア：それじゃ、私達がここに来た理由も・・・？"
-msgstr ""
+msgstr "Michelia: Then, do you already know why we're here?"
 
 #: 00044B0B
 msgid ""
 "神官：もちろん、存じております。"
-msgstr ""
+msgstr "Priest: Of course."
 
 #: 00044B3D
 msgid ""
 "バロア：じゃあ、話が早い。さっさと終わらせちまおう。"
-msgstr ""
+msgstr "Baroa: Well, that makes things easy! Let's get this settled then."
 
 #: 00044B83
 msgid ""
 "神官：この奥に特別な部屋が用意してあります。"
-msgstr ""
+msgstr "Priest: There's a special room prepared inside."
 
 #: 00044BB3
 msgid ""
 "そこで神の試練を受けて下さい。全てはそれからです。"
-msgstr ""
+msgstr "If you wish to proceed, please enter and take the Spirit God's trial."
 
 #: 00044C0D
 msgid ""
 "神官：見事、試練をこえられたようですね。"
-msgstr ""
+msgstr "Priest: Splendid. You overcame the trail."
 
 #: 00044C47
 msgid ""
@@ -77,12 +77,12 @@ msgstr ""
 #: 00044C67
 msgid ""
 "神官：それは良かった。"
-msgstr ""
+msgstr "Priest: I'm glad for you."
 
 #: 00044C81
 msgid ""
 "・・・それでは、あなた方に伝えなくてはならないことがあります。"
-msgstr ""
+msgstr "...now, there's something I must express to you."
 
 #: 00044CD1
 msgid ""
@@ -92,162 +92,163 @@ msgstr "Kai: ...?"
 #: 00044CF1
 msgid ""
 "神官：今、世界をおびやかしている者の正体。"
-msgstr ""
+msgstr "Priest: The true identity of the being who threatens the world."
 
 #: 00044D1F
 msgid ""
 "異形の病気をまき散らし、魔物をひきいてしんりゃくを行う者。"
-msgstr ""
+msgstr "He spreads unknown disease, and leads the demons against our world."
 
 #: 00044D5D
 msgid ""
 "その者の名を、ギゼフィルと言う。"
-msgstr ""
+msgstr "This being's name is \"Gizafeal\"."
 
 #: 00044D8F
 msgid ""
 "カイ：ギゼフィル？それが僕らのてきなのですか？"
-msgstr ""
+msgstr "Kai: Gizafeal? Is that who we must defeat?"
 
 #: 00044DCF
 msgid ""
 "神官：全ての魔物のちょうてんにくんりんし、"
-msgstr ""
+msgstr "Priest: He stands at the top of demonkind,"
 
 #: 00044DFD
 msgid ""
 "この世のあらゆる物をうばいつくす。"
-msgstr ""
+msgstr "and has come to steal everything from us."
 
 #: 00044E23
 msgid ""
 "恐ろしき闇の支配者です。"
-msgstr ""
+msgstr "He is the fearsome ruler of darkness."
 
 #: 00044E4D
 msgid ""
 "カイ：・・・ギゼフィルを倒せば、全て解決するんだね。"
 msgstr ""
+"Kai: From the sound of it, everything will be settled if we defeat Gizafeal."
 
 #: 00044E93
 msgid ""
 "バーク：よし、それなら早く神様の力を集めようぜ。"
-msgstr ""
+msgstr "Burke: All right! Let's hurry and gather that divine power."
 
 #: 00044EC7
 msgid ""
 "集めて、倒して、スカッとしようぜ。"
-msgstr ""
+msgstr "Gather power, destroy boss, relax... Easy plan!"
 
 #: 00044EFB
 msgid ""
 "カイ：そうだね。よし、がんばろう！"
-msgstr ""
+msgstr "Kai: Pretty simple, when you put it that way. Let's do our best!"
 
 #: 0008912F
 msgid ""
 "ミーナ：待って下さい。このまま帰るわけにはいきません。"
-msgstr ""
+msgstr "Minna: Wait a moment. We can't return just yet."
 
 #: 00089186
 msgid ""
 "神官：お気をつけて。"
-msgstr ""
+msgstr "Priest: Please, be careful."
 
 #: 000CDA07
 msgid ""
 "力を求める者、その自らの相応しきを示せ。"
-msgstr ""
+msgstr "He who seeks power, prove your worth!"
 
 #: 000CDA74
 msgid ""
 "カイ：く・・・体が動かない。"
-msgstr ""
+msgstr "Kai: Urgh...! I can't move my body."
 
 #: 000CDAA2
 msgid ""
 "バロア：あーあ、みっともねえよな。大の男が指一本動かせないんだぜ。"
-msgstr ""
+msgstr "Baroa: Ahh, how pathetic. A grown man who can't even lift a finger..."
 
 #: 000CDAF6
 msgid ""
 "ミシリア：今はミーナさんだけが動けるみたいですね。"
-msgstr ""
+msgstr "Michelia: Seems like only Minna can move this time."
 
 #: 000CDB2C
 msgid ""
 "サリナ：とにかく頼むよ。神様、マジらしいからさ。"
-msgstr ""
+msgstr "Sarina: We're counting on you. That god's not gonna hold back."
 
 #: 000CDB60
 msgid ""
 "バーク：心配ねえよ。ミーナは俺の次に強いからよ。"
-msgstr ""
+msgstr "Burke: No need to worry. After me, Minna's the strongest."
 
 #: 000CDBA2
 msgid ""
 "ミーナ：もう２度と、みなさんにめいわくはかけられませんから・・・"
-msgstr ""
+msgstr "Minna: I won't be a burden on any of you ever again."
 
 #: 000CDBE6
 msgid ""
 "かならず、勝ってきます。"
-msgstr ""
+msgstr "I'll win, without a doubt!"
 
 #: 000CDC55
 msgid ""
 "ミーナは精霊の力を手に入れた。"
-msgstr ""
+msgstr "Minna obtained the Spirit God's divine power!"
 
 #: 000CDC90
 msgid ""
 "バーク：よっしゃ！やったぜ！"
-msgstr ""
+msgstr "Burke: Heck yeah! Victoryyy! Woo!"
 
 #: 000CDCC9
 msgid ""
 "サリナ：まるで、自分のことのように喜ぶよな、アンタ。"
-msgstr ""
+msgstr "Sarina: You're acting like you won that, not her."
 
 #: 000CDD1A
 msgid ""
 "バーク：いいじゃんか、うれしいんだから。"
-msgstr ""
+msgstr "Burke: What's the big deal? I'm just happy, is all."
 
 #: 000CDD5F
 msgid ""
 "ミーナ：ありがとうございます。無事、なんとか・・・"
-msgstr ""
+msgstr "Minna: Thank you very much. I managed, somehow."
 
 #: 000CDDAE
 msgid ""
 "カイ：力は感じるかい？"
-msgstr ""
+msgstr "Kai: Can you feel the power?"
 
 #: 000CDDE1
 msgid ""
 "ミーナ：想像以上ですね。おどろきました。"
-msgstr ""
+msgstr "Minna: It's more than I anticipated, so I'm rather surprised."
 
 #: 000CDE26
 msgid ""
 "バーク：感想それだけ？"
-msgstr ""
+msgstr "Burke: That's it? That's all you feel?"
 
 #: 000CDE59
 msgid ""
 "ミーナ：はい。"
-msgstr ""
+msgstr "Minna: Yes."
 
 #: 000CDE79
 msgid ""
 "バーク：あ、そ・・・・・・"
-msgstr ""
+msgstr "Burke: Ah, okay."
 
 #: 0019B186
 msgid ""
 "ゴッドアーマーを手に入れた。"
-msgstr ""
+msgstr "You got the God Armor!"
 
 #: 0019B1C6
 msgid ""
@@ -257,37 +258,37 @@ msgstr ""
 #: 001DF945
 msgid ""
 "カイ：お前がロミアスか？"
-msgstr ""
+msgstr "Kai: Are you Romias?"
 
 #: 001DF96F
 msgid ""
 "ロミアス：・・・・・・そうだ。"
-msgstr ""
+msgstr "Romias: ...that's right."
 
 #: 001DF991
 msgid ""
 "すでに、お前達の目的は分かっている。"
-msgstr ""
+msgstr "I already know of your intentions."
 
 #: 001DF9B9
 msgid ""
 "さあ、私を見事倒し、我が主ギゼフィルの下へむかうがいい。"
-msgstr ""
+msgstr "Now, best me in combat if you wish to face Gizafeal down below."
 
 #: 001DF9F5
 msgid ""
 "人間の最後の抵抗を、見せてみるがいい。さもなくば、"
-msgstr ""
+msgstr "Show me the final struggle of mankind!"
 
 #: 001DFA2B
 msgid ""
 "お前達が死ぬだけのことだ。"
-msgstr ""
+msgstr "Should you fail, only Death awaits you."
 
 #: 001DFA73
 msgid ""
 "カイ：・・・・・・行くぞ！"
-msgstr ""
+msgstr "Kai: ...let's go!"
 
 #: 001DFADD
 msgid ""
@@ -297,132 +298,134 @@ msgstr ""
 #: 001DFAFF
 msgid ""
 "カイ：これでよし。"
-msgstr ""
+msgstr "Kai: There we go."
 
 #: 00268986
 msgid ""
 "アルトリコーダーを手に入れた。"
-msgstr ""
+msgstr "You got the Alto Recorder!"
 
 #: 002689D5
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 00268A06
 msgid ""
 "何も見つからない。"
-msgstr ""
+msgstr "There's nothing here."
 
 #: 002F198B
 msgid ""
 "ルーシア：こんな所に来ちゃってさ、何を考えてんのかしら。"
-msgstr ""
+msgstr "Lucia: What were you thinking, coming here?"
 
 #: 002F19C7
 msgid ""
 "アタシだって、アンタ達に付き合っていられるほどヒマじゃないの。"
-msgstr ""
+msgstr "I'm not bored enough to waste my time on you lot."
 
 #: 002F1A09
 msgid ""
 "つまんないことで、働かせないでよ。"
-msgstr ""
+msgstr "I don't move for boring things."
 
 #: 002F1A48
 msgid ""
 "カイ：・・・・・・それなら、"
-msgstr ""
+msgstr "Kai: ...so..."
 
 #: 002F1A68
 msgid ""
 "僕達のすることを、黙って見ていてくれれば、戦わないですむ。"
-msgstr ""
+msgstr "Does that mean you'll you ignore us if we try to pass?"
 
 #: 002F1AA6
 msgid ""
 "それじゃダメかな？"
-msgstr ""
+msgstr "That'd be nice."
 
 #: 002F1AD5
 msgid ""
 "ルーシア：あー、ハイハイ。ムリだと分かってて、言ってるんでしょ。"
-msgstr ""
+msgstr "Lucia: Ugh, fine! I know, I know!"
 
 #: 002F1B19
 msgid ""
 "・・・ったく、面倒くさい人達。"
-msgstr ""
+msgstr "...goodness, you guys sure are a pain in the butt."
 
 #: 002F1B3B
 msgid ""
 "そうね、また、あの子に手伝ってもらいましょうか。"
-msgstr ""
+msgstr "Hmm. Maybe I'll have that boy help me out again."
 
 #: 002F1B7A
 msgid ""
 "おいで、ボウヤ。"
-msgstr ""
+msgstr "Come out, boy."
 
 #: 002F1BDF
 msgid ""
 "カーナ：・・・・・・"
-msgstr ""
+msgstr "Kanna: ..."
 
 #: 002F1C05
 msgid ""
 "バーク：バカな！死んだはずだろ？！"
-msgstr ""
+msgstr "Burke: What the--? Wasn't he dead?!"
 
 #: 002F1C39
 msgid ""
 "ミーナ：カーナ！"
-msgstr ""
+msgstr "Minna: Kanna!"
 
 #: 002F1CCE
 msgid ""
 "バーク：バカやろう！あそこにいるのはタダのぬけがらだ！"
-msgstr ""
+msgstr "Burke: Stop, you idiot! That's just his empty shell!"
 
 #: 002F1D16
 msgid ""
 "ミーナ：でも！・・・でも・・・"
-msgstr ""
+msgstr "Minna: But...! But...!"
 
 #: 002F1D51
 msgid ""
 "ルーシア：あら？知らなかったの？"
-msgstr ""
+msgstr "Lucia: Hmm? Didn't you know?"
 
 #: 002F1D75
 msgid ""
 "このボウヤったらアタシにメロメロなのよ。"
-msgstr ""
+msgstr "This boy was head over heels for me, once upon a time."
 
 #: 002F1DAC
 msgid ""
 "死んでからも、アタシのためにガンバってくれるんですって。"
-msgstr ""
+msgstr "He said he'd serve me forever, even after death."
 
 #: 002F1DE8
 msgid ""
 "じゃ、さっさとゴミを始末して、２人の時間を楽しみましょう・・・"
 msgstr ""
+"Enough talk. It's time I took out the trash. After that, the two of us can "
+"enjoy our evening."
 
 #: 002F1E38
 msgid ""
 "ミーナ：・・・・・・っ！"
-msgstr ""
+msgstr "Minna: ...!!!"
 
 #: 002F1E62
 msgid ""
 "バーク：てめえっ！絶対ゆるさねえ！"
-msgstr ""
+msgstr "Burke: You witch! I'll never forgive you!"
 
 #: 002F1EF1
 msgid ""
 "ミーナ：・・・・・・"
-msgstr ""
+msgstr "Minna: ..."
 
 #: 002F1F17
 msgid ""
@@ -432,54 +435,55 @@ msgstr "Burke: ..."
 #: 002F1F3D
 msgid ""
 "装置を解除した。"
-msgstr ""
+msgstr "You released the device."
 
 #: 002F1F5F
 msgid ""
 "カイ：・・・これでよし。"
-msgstr ""
+msgstr "Kai: ...and that's that."
 
 #: 002F1FB5
 msgid ""
 "・・・・・・行くよ。"
-msgstr ""
+msgstr "...let's go."
 
 #: 00336162
 msgid ""
 "バロア：とにかく、ここを壊せばいいんだろ。"
-msgstr ""
+msgstr "Baroa: So, we just gotta break this, right?"
 
 #: 00336190
 msgid ""
 "俺にまかせとけって。"
-msgstr ""
+msgstr "Leave it to me!"
 
 #: 003361B6
 msgid ""
 "魔物：ぬ、何だ貴様等は・・・。そうか、このせきを壊すつもりだな？"
 msgstr ""
+"Monster: The heck is with you guys? Ahh, plan on breaking this dam, do you?"
 
 #: 003361FA
 msgid ""
 "このせきを壊せば、たくさんの人間が死ぬぞ。それでもいいのか！？"
-msgstr ""
+msgstr "If you break it, a lot of people will die. You really okay with that?"
 
 #: 0033625E
 msgid ""
 "バロア：へへっ、だまってな、化け物。"
-msgstr ""
+msgstr "Baroa: Hahaha! Shut your trap, monster."
 
 #: 00336294
 msgid ""
 "魔物：なんだと！？"
-msgstr ""
+msgstr "Monster: What did you say?"
 
 #: 0037A916
 msgid ""
 "バロア：やっと、水もひいたようだな。"
-msgstr ""
+msgstr "Baroa: All right, the water's finally calmed down."
 
 #: 0037A94C
 msgid ""
 "カイ：よし、行くぞ。"
-msgstr ""
+msgstr "Kai: All right, let's go."

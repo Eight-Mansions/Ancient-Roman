@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-12-06 22:13+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 09:51+0000\n"
+"Last-Translator: Cargodin <cargodin@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s003/en/>\n"
 "Language: en\n"
@@ -22,12 +22,12 @@ msgstr "Burke: The hot springs, huh? Brings back bittersweet memories."
 #: 00000191
 msgid ""
 "カイ：バーク、誰のせいだと・・・！"
-msgstr "Kai: And whose fault was that, Burke...!?"
+msgstr "Kai: And whose fault was that, Burke?"
 
 #: 000001C5
 msgid ""
 "ミシリア：・・・もう忘れましょ・・・"
-msgstr "Michelia: ...let's just forget about it..."
+msgstr "Michelia: ...let's just forget about it."
 
 #: 00000228
 msgid ""
@@ -47,7 +47,7 @@ msgstr ""
 #: 000002BC
 msgid ""
 "ミシリア：やっぱりエンリョします！"
-msgstr "Michelia: On second thought, I'm okay!!"
+msgstr "Michelia: On second thought, I'm okay."
 
 #: 0000031D
 msgid ""
@@ -67,17 +67,17 @@ msgstr "Burke: Nice! And relaxing! Hot spring!"
 #: 000003BF
 msgid ""
 "カイ：あ、そ、そうだね・・・"
-msgstr "Kai: Ah, t-true..."
+msgstr "Kai: Ah, i-it sure is..."
 
 #: 000003ED
 msgid ""
 "バーク：じゃあ、みんなで温泉に入るか！"
-msgstr "Burke: Alright, let's all jump in!"
+msgstr "Burke: All right! We're jumping in!"
 
 #: 00000425
 msgid ""
 "ミシリア：バークさん、いいかげんにしてください！"
-msgstr "Michelia: Burke, please cut it out!!"
+msgstr "Michelia: Burke, please cut it out!"
 
 #: 00000467
 msgid ""
@@ -102,7 +102,7 @@ msgstr "Burke: Hey, cut it out."
 #: 0000056E
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 00044902
 msgid ""
@@ -112,17 +112,17 @@ msgstr "Jeweler: Welcome..."
 #: 00089102
 msgid ""
 "道具屋（男）：あらーん、リッパなか・ら・だ。"
-msgstr "Curio Shop (Male Owner): Ohh, what nice muscles you have~"
+msgstr "Curio Shop (Male Owner): Ooh, what nice muscles you have!"
 
 #: 00089132
 msgid ""
 "なんでも売っちゃうわよーん。"
-msgstr "I'll sell you whatever you need, hun~"
+msgstr "I'll sell you whatever you need, hun!"
 
 #: 000CD958
 msgid ""
 "宿屋の娘：あの・・・お連れの方が外に出て行かれましたけど・・・"
-msgstr "Inn Girl: Um.. The rest of your group has left already..."
+msgstr "Inn Girl: Umm.. The rest of your group already left."
 
 #: 000CD99A
 msgid ""
@@ -167,7 +167,7 @@ msgstr ""
 #: 000CDB1F
 msgid ""
 "では、奥の部屋でごゆっくりどうぞ。"
-msgstr "Thank you! Your room is right in the back."
+msgstr "Thank you! Your room is straight in the back."
 
 #: 000CDB91
 msgid ""
@@ -182,12 +182,12 @@ msgstr ""
 #: 000CDBFB
 msgid ""
 "申しわけありませんが、お金が不足しておりまして・・・"
-msgstr "I'm sorry, but you don't seem to have enough money..."
+msgstr "I'm sorry, but you don't seem to have enough money."
 
 #: 000CDC33
 msgid ""
 "またのおこしをおまちしております。"
-msgstr "Please come again!"
+msgstr "Come again!"
 
 #: 000CDC84
 msgid ""
@@ -207,12 +207,12 @@ msgstr "While Michelia's out, I can finally mention that"
 #: 000CDCF0
 msgid ""
 "俺さ、ケツにデキモノができちゃっててさ。"
-msgstr "I got a rash on my ass."
+msgstr "I got a rash on my derriere."
 
 #: 000CDD1C
 msgid ""
 "いてぇんだ・・・"
-msgstr "Hurts like shit, man..."
+msgstr "Hurts like heck, man."
 
 #: 000CDD3E
 msgid ""
@@ -227,12 +227,12 @@ msgstr "Burke: ...let's go to bed."
 #: 000CDDAD
 msgid ""
 "ただいまー。"
-msgstr "...I'm back~"
+msgstr "I'm baaack!"
 
 #: 000CDDCB
 msgid ""
 "ゴソゴソ・・・"
-msgstr "*rustle rustle*..."
+msgstr "Rustle, rustle..."
 
 #: 000CDDEE
 msgid ""
@@ -242,27 +242,27 @@ msgstr "Kai: Uwahh!"
 #: 000CDE5B
 msgid ""
 "ミシリア：・・・ふにゃ？"
-msgstr "Michelia: ...nyaa?"
+msgstr "Michelia: ...myaa?"
 
 #: 000CDE85
 msgid ""
 "カイ：ミ、ミミミ、ミシリア！"
-msgstr "Kai: M-M-M-M-Michelia!?"
+msgstr "Kai: M-M-M-M-Michelia?!"
 
 #: 000CDEA5
 msgid ""
 "な、なんで僕と同じベッドに？！"
-msgstr "W-why are you in my bed!?"
+msgstr "W-why are you in my bed?!"
 
 #: 000CDED5
 msgid ""
 "ミシリア：あ、あれ？私ったら・・・"
-msgstr "Michelia: H-huh? Why am I..."
+msgstr "Michelia: H-huh? Why am I...?"
 
 #: 000CDF09
 msgid ""
 "バーク：うるせーなー、ムニャムニャ。"
-msgstr "Burke: Shaddup and go to bed... *sleepy grumble*"
+msgstr "Burke: Shaddup and go to bed...! (Grumbles in exhaustion.)"
 
 #: 000CDF3F
 msgid ""
@@ -282,12 +282,12 @@ msgstr "Michelia: Goodnight..."
 #: 000CE007
 msgid ""
 "バーク：ミシリアちゃん、どこいっちまったのかなぁ！"
-msgstr "Burke: Michelia, where ya going!"
+msgstr "Burke: Michelia? Where're ya going?"
 
 #: 000CE03D
 msgid ""
 "がっはっはっは！"
-msgstr "Gahahaha!!"
+msgstr "Gahahaha!"
 
 #: 000CE097
 msgid ""
@@ -297,7 +297,7 @@ msgstr "Inn Girl: Good morning."
 #: 000CE0B9
 msgid ""
 "ゆうべはよくおやすみになれましたか？"
-msgstr "Did you sleep okay last night?"
+msgstr "Did you sleep well last night?"
 
 #: 000CE0F8
 msgid ""
@@ -312,7 +312,7 @@ msgstr "Michelia: ...my head hurts."
 #: 000CE146
 msgid ""
 "バーク：あー・・・早く療養所に行こうゼ。"
-msgstr "Burke:...ugh. Let's just get to the clinic already."
+msgstr "Burke: Ugh. Let's just get to the clinic already."
 
 #: 000CE185
 msgid ""
@@ -322,22 +322,22 @@ msgstr "Burke: Okay, let's hurry over to the clinic."
 #: 00112163
 msgid ""
 "薬屋：ウィー、ヒック。"
-msgstr "Pharmacist: *hiccup*"
+msgstr "Pharmacist: Hiccup!"
 
 #: 0011217D
 msgid ""
 "なんだぁー？おまえらは。"
-msgstr "Whaaa cha guys want?"
+msgstr "Whaaatcha guys want?"
 
 #: 001121B5
 msgid ""
 "ミシリア：あの・・・薬を買いにきたんですけど。"
-msgstr "Michelia: Um... We came here to buy medicine."
+msgstr "Michelia: Umm, we came here to buy medicine."
 
 #: 001121F5
 msgid ""
 "薬屋：くすりぃー？どうすんだよ、そんなもん。ウィー"
-msgstr "Pharmacist: Mediciiiiine? What ya want something like THAT for? *hicc*"
+msgstr "Pharmacist: Mediciiiiine? Whatcha want something like THAT for-- Hicc!"
 
 #: 00112247
 msgid ""
@@ -347,17 +347,17 @@ msgstr "Michelia: No, I mean..."
 #: 00112284
 msgid ""
 "バーク：おい、酔っぱらってんじゃねぇよ。さっさと出せって。"
-msgstr "Burke: Hey, you're drunk, aren't you? Just give us what we need."
+msgstr "Burke: Hey! You're drunk, aren't you! Just give us what we need."
 
 #: 001122D0
 msgid ""
 "薬屋：なにぃー！俺のどこが酔っぱらってるって言うんだぁー！"
-msgstr "Pharmacist: WHAT!? Whwat part of me loooks drnk to you!?"
+msgstr "Pharmacist: WHAT?! Whwat part of me loooks drnk to you?!"
 
 #: 0011230E
 msgid ""
 "ふんがー！ヒック。"
-msgstr "How rudde! *hicc*"
+msgstr "How rude! Hicc!"
 
 #: 0011233D
 msgid ""
@@ -372,32 +372,32 @@ msgstr "The doctor asked us to grab it for him."
 #: 001123A3
 msgid ""
 "薬屋：そんならそうと、はよ言えー！"
-msgstr "Pharmacist: Why didn't you just say so earlier!?"
+msgstr "Pharmacist: Why didn't you say so earlier?"
 
 #: 001123C9
 msgid ""
 "さっさと持ってけー！そらよ！"
-msgstr "Take it and scream! Out!"
+msgstr "Take it and scram! Out!"
 
 #: 00112410
 msgid ""
 "カイ：あ、ありがとう。おいくらでしょうか？"
-msgstr "Kai: T-thanks. How much do we own you?"
+msgstr "Kai: T-thanks. How much do we owe you?"
 
 #: 0011244C
 msgid ""
 "薬屋：てめぇ！俺をバカにしてんだろ！"
-msgstr "Pharmacist: HOW DARE YOU!? Do you take me for a fool!?"
+msgstr "Pharmacist: HOW DARE YOU! Do you take me for a fool?!"
 
 #: 00112474
 msgid ""
 "金で何でも買えると思うなよ！"
-msgstr "You can't just buy anything with money!!"
+msgstr "You can't just buy anything with money!"
 
 #: 00112494
 msgid ""
 "金じゃねぇー！誠意だ！誠意を見せろ！"
-msgstr "I don't want your cash, I want sincerity! SHOW ME YOU'RE SINCERE!!"
+msgstr "I don't want your cash, I want sincerity! SHOW ME YOUR SINCERITY!"
 
 #: 001124D5
 msgid ""
@@ -412,7 +412,7 @@ msgstr "Pharmacist: Good! I don't need your money, so scram!"
 #: 00112556
 msgid ""
 "バーク：カイ、気が変わらないうちに退散した方が良さそうだぜ。"
-msgstr "Burke: Kai, let's get the hell out of here before he changes his mind."
+msgstr "Burke: Kai, let's get the heck out of here before he changes his mind."
 
 #: 001125A4
 msgid ""
@@ -422,7 +422,7 @@ msgstr "Kai: Ah, y-yeah, let's go."
 #: 00112600
 msgid ""
 "薬屋：ウィー"
-msgstr "Pharmacist: *hicc*"
+msgstr "Pharmacist: Hicc!"
 
 #: 0015699E
 msgid ""
@@ -432,7 +432,7 @@ msgstr "Doctor: The pharmacist is south east of here."
 #: 001569C6
 msgid ""
 "早く行って来てくれんかね。"
-msgstr "Please go fetch it for me."
+msgstr "Please go fetch the medicine for me."
 
 #: 00156A05
 msgid ""
@@ -452,7 +452,7 @@ msgstr "Doctor: Okay, I've given him the medicine."
 #: 00156B00
 msgid ""
 "しかし、明日、一日ぐらいなら話ができるだろう。"
-msgstr "But, it'll be about a day before he'll wake up."
+msgstr "But, it'll be about a day before he wakes up."
 
 #: 00156B32
 msgid ""
@@ -462,7 +462,7 @@ msgstr "I'm sorry, but please try coming by tomorrow."
 #: 00156B87
 msgid ""
 "ミシリア：カイ、仕方ないから、今日は宿で休みましょう。"
-msgstr "Michelia: Kai, let's get a room at the inn and check tomorrow."
+msgstr "Michelia: Kai, let's get a room at the inn. We'll check tomorrow."
 
 #: 00156BC1
 msgid ""
@@ -492,7 +492,7 @@ msgstr "Even if I can cure them, they won't be back to normal like magic."
 #: 00156CCC
 msgid ""
 "もうからんのだよ。この仕事は・・・"
-msgstr "Sometimes I feel like I'm getting to old for this..."
+msgstr "Sometimes I feel like I'm getting to old for this."
 
 #: 00156D44
 msgid ""
@@ -507,7 +507,7 @@ msgstr "Doctor's Permission Required"
 #: 00156DB1
 msgid ""
 "バーク：・・・ったく、人がいいんだから・・・"
-msgstr "Burke: ...*tsk* Kai's too nice to everyone..."
+msgstr "Burke: ...tsk, tsk. Kai's too nice to everyone."
 
 #: 00156DEF
 msgid ""
@@ -527,7 +527,7 @@ msgstr "Doctor: Hmm? How can I help you?"
 #: 00156EFC
 msgid ""
 "カイ：すみません。"
-msgstr "Kai: Please excuse us."
+msgstr "Kai: I appreciate it."
 
 #: 00156F12
 msgid ""
@@ -543,7 +543,7 @@ msgstr "Doctor: Ahh, you probably mean Marl."
 msgid ""
 "残念なことに、この村に来る途中で盗賊におそわれて・・"
 msgstr ""
-"I'm sorry to say, but he was attacked by bandits on the way to this town..."
+"I'm sorry to say, but he was attacked by bandits on the way to this town."
 
 #: 00156FE5
 msgid ""
@@ -613,7 +613,7 @@ msgstr "Kai: What's the name of the medicine to get?"
 #: 001572FF
 msgid ""
 "医者：活心剤というやつだ。"
-msgstr "Doctor: It's called the Spirit Healing Medicine."
+msgstr "Doctor: It's called \"the Spirit Healing Medicine\"."
 
 #: 0015731D
 msgid ""
@@ -623,12 +623,12 @@ msgstr "You can get to the pharmacy by heading south east from here."
 #: 001573C3
 msgid ""
 "バーク：どうしたんだよ、ずいぶんと遅かったじゃないか。"
-msgstr "Burke: What happened? Took your time and all."
+msgstr "Burke: What happened? Sure took your time, didn't you?"
 
 #: 0015742F
 msgid ""
 "カイ：・・・いや、その・・・ちょっとね。"
-msgstr "Kai: ...no, it's... Don't worry about it, okay?"
+msgstr "Kai: No, I... D-don't worry about it, okay?"
 
 #: 00157469
 msgid ""
@@ -648,7 +648,7 @@ msgstr "Sounds like someone who knows Michelia might be there."
 #: 001574F5
 msgid ""
 "あのロケットの持ち主の家族に会えるかもしれないから・・・"
-msgstr "That, and we can meet the locket's owners..."
+msgstr "That, and we can meet the locket's owners."
 
 #: 00157558
 msgid ""
@@ -698,7 +698,7 @@ msgstr "Kai: Unfortunately, nothing yet..."
 #: 0019B2DD
 msgid ""
 "マール：あせっても仕方がないからな。"
-msgstr "Marl: Now now, I don't mean to sound impatient, was just curious."
+msgstr "Marl: Now, now. I don't mean to sound impatient. I was only curious."
 
 #: 0019B305
 msgid ""
@@ -723,12 +723,12 @@ msgstr "Marl: Oh, how interesting. What brings you there?"
 #: 0019B3EF
 msgid ""
 "魔物の巣になってしまっていて、物見ゆ山どころではないぞ。"
-msgstr "It's a nest of monsters now, not a place for sightseeing."
+msgstr "It's a nest of monsters now. Certainly not a place for sightseeing."
 
 #: 0019B439
 msgid ""
 "カイ：だから、それを確かめに行くんです。"
-msgstr "Kai: There's something we need to confirm."
+msgstr "Kai: There's something there that we need to confirm."
 
 #: 0019B473
 msgid ""
@@ -743,7 +743,7 @@ msgstr "Well then, take this with you."
 #: 0019B4EB
 msgid ""
 "カイ：これは・・・？"
-msgstr "Kai: What's this...?"
+msgstr "Kai: What's this?"
 
 #: 0019B511
 msgid ""
@@ -783,12 +783,12 @@ msgstr "but we can save that for another time."
 #: 0019B662
 msgid ""
 "まったく・・・お前のような、甘いやつも珍しいな。"
-msgstr "It's been a long time since I've seen someone as courteous as you..."
+msgstr "It's been a long time since I've seen someone as courteous as you."
 
 #: 0019B6B2
 msgid ""
 "バーク：（おい、今、ほめられたのか？）"
-msgstr "Burke: (Wait, did he just complement him!?)"
+msgstr "Burke: (Wait, did we just complement him?)"
 
 #: 0019B6EA
 msgid ""
@@ -799,13 +799,13 @@ msgstr "Minna: (Why are you asking me?)"
 msgid ""
 "（人間の意志伝達方法を、私がくわしく知るわけがないだろう）"
 msgstr ""
-"(I don't have some magic power to read people's minds, how the hell would I "
-"know?)"
+"(How should I know? I don't have some magic ability that lets me read "
+"people's minds!)"
 
 #: 0019B756
 msgid ""
 "バーク：（いやー、なんとなく・・・）"
-msgstr "Burke: (You wouldn't need-- nevermind, just forget it...)"
+msgstr "Burke: (You wouldn't need-- nevermind, just forget it!)"
 
 #: 0019B78C
 msgid ""
@@ -816,7 +816,7 @@ msgstr ""
 #: 0019B7F4
 msgid ""
 "マール：ハッハッハッハッハ、無事に帰ってきたか。"
-msgstr "Marl: Hahaha, you've come back alive!"
+msgstr "Marl: Hahaha! You've come back alive!"
 
 #: 0019B828
 msgid ""
@@ -826,7 +826,7 @@ msgstr "Now there's nothing stopping me from flapping my gums!"
 #: 0019B85A
 msgid ""
 "以前の忠告は忘れてくれ。わしの見当違いだった。"
-msgstr "Forget my warning from before, clearly it wasn't needed."
+msgstr "Forget my warning from before. Clearly, it wasn't needed."
 
 #: 0019B89A
 msgid ""
@@ -957,7 +957,7 @@ msgstr "Could you buy some of my magic?"
 #: 0019BE0C
 msgid ""
 "マール：すまんのう・・・うー、ゴホゴホ。"
-msgstr "Marl: Sorry about this... *cough cough*"
+msgstr "Marl: Sorry about this... Cough, cough!"
 
 #: 0019BE38
 msgid ""
@@ -977,12 +977,12 @@ msgstr "Do what you can when you're young."
 #: 0019BEDA
 msgid ""
 "老人：ん、ん・・・"
-msgstr "Old Man: U-urgh..."
+msgstr "Old Man: U-urgh...!"
 
 #: 0019BEFE
 msgid ""
 "老人：・・・なんだ、お前らは。"
-msgstr "Old Man: ...who are you?"
+msgstr "Old Man: Who are you?"
 
 #: 0019BF47
 msgid ""
@@ -1022,7 +1022,7 @@ msgstr "Marl: What would you do with such knowledge?"
 #: 0019C0BE
 msgid ""
 "バーク：助けるんだよ！当たり前だろ！"
-msgstr "Burke: We'd help people, no shit!"
+msgstr "Burke: We'd help the people, of course!"
 
 #: 0019C0F4
 msgid ""
@@ -1077,17 +1077,17 @@ msgstr "Not enough to cure someone, that's for sure."
 #: 0019C2C1
 msgid ""
 "バーク：なんだそりゃあ？！"
-msgstr "Burke: What's with the attitude!?"
+msgstr "Burke: What's with the attitude?"
 
 #: 0019C2DF
 msgid ""
 "それじゃ、今まで何を研究してきたって言うんだよ！"
-msgstr "Then what the fuck has all your research even been for!?"
+msgstr "Then what the blazes has all your research ever stood for?!"
 
 #: 0019C321
 msgid ""
 "マール：そこの大男はうるさいな。"
-msgstr "Marl: That big guy's loud as hell."
+msgstr "Marl: That big guy's loud as heck."
 
 #: 0019C345
 msgid ""
@@ -1097,7 +1097,7 @@ msgstr "Can someone throw him out of here?"
 #: 0019C37E
 msgid ""
 "バーク：このクソじじいっ！"
-msgstr "Burke: You shitty old man!!"
+msgstr "Burke: You freaky old man!"
 
 #: 0019C3B8
 msgid ""
@@ -1187,7 +1187,7 @@ msgstr "You learned Ice Rock!"
 #: 0019C782
 msgid ""
 "マール：これらの呪文は、魔物にダメージを与えるものだ。"
-msgstr "Marl: These spells will let you damage enemies with various elements."
+msgstr "Marl: These spells will let you damage enemies of various elements."
 
 #: 0019C7BC
 msgid ""
@@ -1202,7 +1202,7 @@ msgstr ""
 #: 0019C80A
 msgid ""
 "それじゃあ、僕達はこれで・・・"
-msgstr "Well then, we'll be on our way..."
+msgstr "Well then, we'll be on our way."
 
 #: 0019C8B4
 msgid ""
@@ -1217,7 +1217,7 @@ msgstr "Marl: What's your story?"
 #: 0019C94E
 msgid ""
 "カイ：何者って・・・"
-msgstr "Kai: My story...?"
+msgstr "Kai: My story?"
 
 #: 0019C966
 msgid ""
@@ -1237,12 +1237,12 @@ msgstr "Marl: I see."
 #: 0019C9DE
 msgid ""
 "いや、ちょっとな・・・そんなに気にするな。"
-msgstr "I didn't mean to press, don't let it bother you."
+msgstr "I didn't mean to press. Don't let it bother you."
 
 #: 0019CA0C
 msgid ""
 "そうだ、一度新ハインローグ城に行ってみるといい。"
-msgstr "Oh right, you should try going to New Heinrogue Castle at least once."
+msgstr "Oh, right. You should try going to New Heinrogue Castle at least once."
 
 #: 0019CA40
 msgid ""
@@ -1262,12 +1262,12 @@ msgstr "Also:"
 #: 0019CABC
 msgid ""
 "これはお前より長く生きてきた者からの忠告だ。"
-msgstr "Let me give you a warning as someone wise in their years:"
+msgstr "Let me give you a warning, as someone wise in their years:"
 
 #: 0019CAEC
 msgid ""
 "あの娘を連れ回すようなマネはやめておけ。"
-msgstr "Don't drag that girl with you on your journey."
+msgstr "Don't drag that Michelia girl with you on your journey."
 
 #: 0019CB34
 msgid ""
@@ -1326,7 +1326,7 @@ msgstr "Burke: Kai, it's cold to leave someone behind like that, ya know?"
 #: 001DFCE8
 msgid ""
 "カイ：バーク！？"
-msgstr "Kai: Burke!?"
+msgstr "Kai: Burke?"
 
 #: 001DFD0A
 msgid ""
@@ -1341,7 +1341,7 @@ msgstr "That's where I'm going!"
 #: 001DFD59
 msgid ""
 "ファラ：およびじゃない！！"
-msgstr "Fara: We didn't invite you!!"
+msgstr "Fara: We didn't invite you!"
 
 #: 001DFD90
 msgid ""
@@ -1367,7 +1367,7 @@ msgstr "Burke: See, Kai gets it!"
 #: 001DFE7C
 msgid ""
 "ファラ：ぶーぶー。"
-msgstr "Fara: *pouts*"
+msgstr "Fara: (Pouts.)"
 
 #: 001DFFB6
 msgid ""
@@ -1387,12 +1387,12 @@ msgstr "Michelia: Just going for a walk."
 #: 001E0024
 msgid ""
 "カイこそどうしたの？こんな夜更けに。"
-msgstr "What are you doing Kai, at this hour?"
+msgstr "What are you doing at this hour, Kai?"
 
 #: 001E005A
 msgid ""
 "カイ：ぼ、僕もちょっと散歩に・・・"
-msgstr "Kai: I-I was also walking..."
+msgstr "Kai: I-I was also walking."
 
 #: 001E0080
 msgid ""
@@ -1402,12 +1402,12 @@ msgstr "H-hey, Burke?"
 #: 001E00B4
 msgid ""
 "バーク：あ、ああ。そうだよな。カイ。"
-msgstr "Burke: Hmm? Ahh, yeah, yup, just walking Kai."
+msgstr "Burke: Hmm? Ahh, yeah! Yup! I was juuust walking Kai."
 
 #: 001E00EA
 msgid ""
 "ミシリア：ふーん。・・・もう終わったんでしょ？"
-msgstr "Michelia: Really now. ...you're done now, right?"
+msgstr "Michelia: Really, now... And you're done now, aren't you?"
 
 #: 001E012A
 msgid ""
@@ -1417,12 +1417,12 @@ msgstr "Kai: Huh? I, uh..."
 #: 001E0154
 msgid ""
 "ミシリア：終わったんでしょ？"
-msgstr "Michelia: You're done now, *right*?"
+msgstr "Michelia: You're done now, riiight?"
 
 #: 001E01AE
 msgid ""
 "カイ：う、うん。"
-msgstr "Kai: S-sure..."
+msgstr "Kai: Yeah."
 
 #: 001E01D0
 msgid ""
@@ -1442,7 +1442,7 @@ msgstr "Kai: G-goodnight, Michelia."
 #: 001E0396
 msgid ""
 "男：今、けいび兵のテストに向けて練習中なんだ。"
-msgstr "Man: Right now they're practicing for the guard soldier exam."
+msgstr "Man: Right now, they're practicing for the guard soldier exam."
 
 #: 001E03C8
 msgid ""
@@ -1452,7 +1452,7 @@ msgstr "You can read all about it on the notice board in front of the inn."
 #: 001E045E
 msgid ""
 "１・２、１・２、がんばらないと"
-msgstr "1 - 2, 1 -2, begin your life anew~"
+msgstr "One-two! One-two! Time to live your life anew!"
 
 #: 001E04C5
 msgid ""
@@ -1462,7 +1462,7 @@ msgstr ""
 #: 001E055E
 msgid ""
 "男：最近みょうなしせんを感じるんだ・・・"
-msgstr "Man: I feel like someone's been watching me lately..."
+msgstr "Man: I feel like someone's been watching me lately."
 
 #: 001E05A6
 msgid ""
@@ -1489,7 +1489,7 @@ msgstr "Man: This is New Heinrogue Castle's lower city."
 #: 001E0701
 msgid ""
 "って、僕もさっき着いたばかりなんだけどね。"
-msgstr "Wait, I just arrived myself, why am I the one telling you?"
+msgstr "Wait, I just arrived, myself. Why am I the one telling you?"
 
 #: 001E0742
 msgid ""
@@ -1504,7 +1504,7 @@ msgstr "the guard exam suddenly became less important."
 #: 001E078E
 msgid ""
 "僕の練習は何だったのだろう？むなしい・・・"
-msgstr "Why did I work so hard...? I wanna go home..."
+msgstr "Why did I work so hard...? I wanna go home!"
 
 #: 001E07DF
 msgid ""
@@ -1526,12 +1526,12 @@ msgstr "Woman: I'm worried, so I'm going to keep an eye on him from over here."
 #: 001E0890
 msgid ""
 "じぃーーーーーー"
-msgstr "*stares*"
+msgstr "(Stares.)"
 
 #: 001E08A4
 msgid ""
 "ああ、愛してる。愛してる。愛してる。"
-msgstr "Ahh, I'm in love, in love, in love!!"
+msgstr "Ahh, I'm in love! I'm in love! I'm in love!"
 
 #: 001E08CC
 msgid ""
@@ -1576,7 +1576,7 @@ msgstr ""
 #: 001E0A61
 msgid ""
 "女：がんばっている彼が大好き。"
-msgstr "Woman: I adore my boyfriend when he's trying so hard~"
+msgstr "Woman: I adore my boyfriend when he tries so hard!"
 
 #: 001E0A83
 msgid ""
@@ -1586,12 +1586,12 @@ msgstr "Woman: But I love him when he loves me best."
 #: 001E0AD8
 msgid ""
 "女：ああ、愛してる。愛してる。愛してる。"
-msgstr "Woman: Ahhh, I'm in love, in love, in love!"
+msgstr "Woman: Ahh, I'm in love, in love, in love!"
 
 #: 001E0B04
 msgid ""
 "ぶつぶつ・・・・・"
-msgstr "*mutter mutter mutter*..."
+msgstr "(Mutter, mutter, mutter...)"
 
 #: 001E0B28
 msgid ""
@@ -1611,22 +1611,22 @@ msgstr ""
 #: 001E0BC2
 msgid ""
 "ミシリア：これ、魔法だわ！？"
-msgstr "Michelia: I-is this magic!?"
+msgstr "Michelia: Is... is this magic?"
 
 #: 001E0BF0
 msgid ""
 "カイ達はリトルラヴァを憶えた。"
-msgstr "Kai and crew learned Little Lover!"
+msgstr "The party learned Little Lover!"
 
 #: 001E0C32
 msgid ""
 "女：彼はわたしを愛してる・・・愛してる・・・"
-msgstr "Woman: He loves me... loves me..."
+msgstr "Woman: He loves me! He loves meee!"
 
 #: 001E0C62
 msgid ""
 "ぶつぶつ・・・・・・・"
-msgstr "*mutter mutter mutter*...."
+msgstr "(Mutter, mutter, mutter...)"
 
 #: 001E0CC3
 msgid ""
@@ -1636,7 +1636,7 @@ msgstr "Woman: That's my boyfriend over there."
 #: 001E0CFA
 msgid ""
 "女：落ちこんでいる彼も大好きよ。"
-msgstr "Woman: I love him even when he's in a depressed puddle~"
+msgstr "Woman: I love him even when he's in a depressed puddle!"
 
 #: 001E0D4F
 msgid ""
@@ -1698,12 +1698,12 @@ msgstr ""
 #: 001E0FB1
 msgid ""
 "カイ：明日、テストがあるとかいっていたな・・・"
-msgstr "Kai: The test is tomorrow, huh..."
+msgstr "Kai: The test is tomorrow, huh."
 
 #: 001E0FF1
 msgid ""
 "ファラ：カイ、明日はがんばって！！わたし、応援してるよ！！"
-msgstr "Fara: Kai, best of luck tomorrow!! I'll be cheering for you!!"
+msgstr "Fara: Best of luck tomorrow, Kai! I'll be cheering for you!"
 
 #: 001E103D
 msgid ""
@@ -1748,17 +1748,17 @@ msgstr "Michelia: Let's stay in town and think about it a bit more, okay?"
 #: 001E130A
 msgid ""
 "バーク：こいつだっ！！"
-msgstr "Burke: THAT'S IT!!"
+msgstr "Burke: THAT'S IT!"
 
 #: 001E1364
 msgid ""
 "カイ：ど、どうしたんだい、バーク。"
-msgstr "Kai: O-ow, my ears..."
+msgstr "Kai: O-ow! My ears!"
 
 #: 001E13BA
 msgid ""
 "バーク：これだよ、これ、この城のけいび兵になりゃ、"
-msgstr "Burke: This here, see? We become castle guards,"
+msgstr "Burke: This, here. See? We become castle guards,"
 
 #: 001E13F3
 msgid ""
@@ -1768,7 +1768,7 @@ msgstr "Burke: then we can meet the Sage guy, yeah?"
 #: 001E1457
 msgid ""
 "カイ：本気かい！？バーク？"
-msgstr "Kai: Really Burke!? That's your plan?"
+msgstr "Kai: Really, Burke? That's your plan?"
 
 #: 001E1491
 msgid ""
@@ -1833,7 +1833,7 @@ msgstr "Kai: Nah, I think just Burke and I should be fine."
 #: 001E179A
 msgid ""
 "ファラ：わたしもけいび兵になりたーい！！"
-msgstr "Fara: I wanna become a guard too!!"
+msgstr "Fara: I wanna become a guard too!"
 
 #: 001E17F6
 msgid ""
@@ -1843,17 +1843,17 @@ msgstr "Kai: Don't be unreasonable..."
 #: 001E183D
 msgid ""
 "ファラ：ぶーぶー、つまぁんない。"
-msgstr "Fara: Booo, you're no fun."
+msgstr "Fara: Booo, you're no fun!"
 
 #: 001E187D
 msgid ""
 "ミシリア：ねぇ、カイ、募集のしめ切りは今日までって書いてあるわ。"
-msgstr "Michelia: Kai, looks like the deadline is today."
+msgstr "Michelia: Kai. It looks like the deadline is today."
 
 #: 001E18E6
 msgid ""
 "バーク：なに？カイ、急がないと間にあわねぇぜ。"
-msgstr "Burke: Uh oh. Kai, we gotta hurry!"
+msgstr "Burke: Uh-oh. Kai, we gotta hurry!"
 
 #: 001E193D
 msgid ""
@@ -1863,7 +1863,7 @@ msgstr "Michelia: It says to sign up at the barracks to the right of this sign."
 #: 001E1996
 msgid ""
 "カイ：よし、兵舎へ向かおう。"
-msgstr "Kai: Alright, let's check the barracks then!"
+msgstr "Kai: All right, let's check the barracks!"
 
 #: 00224377
 msgid ""
@@ -1893,13 +1893,13 @@ msgstr "Gatekeeper: The test is tomorrow."
 #: 00224509
 msgid ""
 "門番：カイ様、ご自由にお通り下さい。"
-msgstr "Gatekeeper: Prince Kai, please come and go as you wish."
+msgstr "Gatekeeper: Prince Kai, you may come and go as you wish."
 
 #: 0022455F
 msgid ""
 "男：うぃーーーー、何か用か？そこの酒場の酒はさいこうだぜ。"
 msgstr ""
-"Man: Wheeeeew~ Huh? Whacha want? I tell you, this place has the best booze."
+"Man: Wheeeeew! Huh? Whacha want? I tell you, this place has the best booze."
 
 #: 0022459D
 msgid ""
@@ -1909,7 +1909,7 @@ msgstr "Man: Y'all should come drink too!"
 #: 002245CA
 msgid ""
 "男：ひっく。"
-msgstr "Man: *burp*"
+msgstr "Man: Burp!"
 
 #: 002245F5
 msgid ""
@@ -1919,22 +1919,22 @@ msgstr "Man: I'm telling you, the drinks are on fire today!"
 #: 00224625
 msgid ""
 "バーク：だめだ、こりゃ完全に酔ってやがる。"
-msgstr "Burke: It's no good, he's too far gone."
+msgstr "Burke: It's no good. He's too far-gone."
 
 #: 00224661
 msgid ""
 "男：そーなんです、私酔ってるんです。わははははははっ。"
-msgstr "Man: That's right I'm far gone, hahahaha!!"
+msgstr "Man: That's right! I'm outta sight, hahahaha!"
 
 #: 002246C0
 msgid ""
 "男：どうだい、旅の方、あんたもいっぱい？"
-msgstr "Man: How 'bout it, travelling folk? Care for a share?"
+msgstr "Man: How 'bout it, traveling folk? Care for a share?"
 
 #: 002246FA
 msgid ""
 "ファラ：わたし、お酒飲みたーい。行こうよ、カイ。"
-msgstr "Fara: Ooo me, me, I wanna drink! Let's go, Kai!"
+msgstr "Fara: Ooh, me! Me! I wanna drink, Kai! Let's gooo!"
 
 #: 0022473C
 msgid ""
@@ -1954,22 +1954,22 @@ msgstr ""
 #: 002247E3
 msgid ""
 "男：おいしいのになぁ、お酒。"
-msgstr "Man: It's really good~"
+msgstr "Man: It's really good!"
 
 #: 00224811
 msgid ""
 "ファラ：ううぅ、飲みたいよー。"
-msgstr "Fara: He says it's really good!!"
+msgstr "Fara: He says it's really good!"
 
 #: 00224850
 msgid ""
 "男：どうだい、旅の方、あんた達も一杯？"
-msgstr "Man: How 'bout it, travelling folk? Care for a share?"
+msgstr "Man: How 'bout it, traveling folk? Care for a share?"
 
 #: 00224888
 msgid ""
 "ファラ：飲みに行くぅ。行くたぁら行くぅ！！"
-msgstr "Fara: Let's go drink, come on!!"
+msgstr "Fara: Let's go drink. Come on!"
 
 #: 002248C4
 msgid ""
@@ -1989,22 +1989,23 @@ msgstr "You and Michelia are sticking to juice, of course!"
 #: 00224968
 msgid ""
 "カイ：じゃあ、ジュースだけなら・・・"
-msgstr "Kai: If it's just juice, then I suppose it's fine..."
+msgstr "Kai: If it's just juice, then I suppose it's fine."
 
 #: 0022499E
 msgid ""
 "ミシリア：カイ、明日は早いからよしたほうが・・・"
-msgstr "Michelia: Kai, we need to wake up early tomorrow, maybe we shouldn't..."
+msgstr ""
+"Michelia: Kai, we need to wake up early tomorrow. Maybe this is a bad idea..."
 
 #: 002249E0
 msgid ""
 "カイ：・・・そうだね。"
-msgstr "Kai: ...that's true."
+msgstr "Kai: True..."
 
 #: 00224A08
 msgid ""
 "ファラ：えー、行こうよ、行こうよ。"
-msgstr "Fara: Huh?? No no, let's go!!"
+msgstr "Fara: Huh? No, let's go!"
 
 #: 00224A3C
 msgid ""
@@ -2014,7 +2015,7 @@ msgstr "Michelia: Fara..."
 #: 00224A66
 msgid ""
 "ファラ：ぶー、つまんない。"
-msgstr "Fara: Booo, you're so boring."
+msgstr "Fara: Booo, you're so boring!"
 
 #: 00224A92
 msgid ""
@@ -2024,12 +2025,12 @@ msgstr "Burke: Come on, no complaining."
 #: 00224ACD
 msgid ""
 "男：いい気分なんだから話かけんなよ。"
-msgstr "Man: I'm in a good spot, don't bother me!"
+msgstr "Man: I'm in a good spot. Don't bother me!"
 
 #: 00224B34
 msgid ""
 "男：ぷはーー今日も酒がうまいとくらぁ。"
-msgstr "Man: WheeeewWW!! Damn the liquor is good today!"
+msgstr "Man: WheeeewW! Wow, the liquor is good today!"
 
 #: 00224B71
 msgid ""
@@ -2040,7 +2041,7 @@ msgstr ""
 #: 00224BAD
 msgid ""
 "男：王子様ばんざーい！！ってか？"
-msgstr "Man: Love live the prince!! Wooo!!!"
+msgstr "Man: Long live the prince! Wooo!!!"
 
 #: 00224BF4
 msgid ""
@@ -2095,7 +2096,7 @@ msgstr "Buk, buk"
 #: 00224E59
 msgid ""
 "こっこっこっこ、こけこぉー"
-msgstr "Buk buk buk buk, ba-gawk!!"
+msgstr "Buk-buk! Buk-buk, ba-gawk!"
 
 #: 00224E85
 msgid ""
@@ -2105,7 +2106,7 @@ msgstr "Burke: That chicken's got oddly good rythmn."
 #: 00224EBF
 msgid ""
 "ミシリア：・・・・？こっこっこっこ、こけこぉー？"
-msgstr "Michelia: ...? Buk buk buk buk, ba-gawk?"
+msgstr "Michelia: ...? Buk, buk, buk, buk, ba-gawk?"
 
 #: 00224F01
 msgid ""
@@ -2115,7 +2116,7 @@ msgstr "Kai: W-what is it, Michelia?"
 #: 00224F37
 msgid ""
 "ミシリア：これ魔法のリズムよ。"
-msgstr "Michelia: This rhythm, it's a magic chant!"
+msgstr "Michelia: This rhythm... It's a magic chant!"
 
 #: 00224F67
 msgid ""
@@ -2140,7 +2141,7 @@ msgstr "Michelia: We should really get the registration settled..."
 #: 002250E0
 msgid ""
 "バーク：おい、さっきミシリアちゃんに注意されたばかりだぜ？"
-msgstr "Burke: Hey, Michelia just warned us, come on man."
+msgstr "Burke: Hey, Michelia just warned us. Come on, man."
 
 #: 00225131
 msgid ""
@@ -2166,7 +2167,7 @@ msgstr "Kai: Sounds good to me."
 #: 002689D6
 msgid ""
 "おばさん：いらっしゃいませ、お泊まりかい？"
-msgstr "Woman: Welcome, staying the night?"
+msgstr "Woman: Welcome! Staying the night?"
 
 #: 00268A2A
 msgid ""
@@ -2176,12 +2177,12 @@ msgstr ".....That night....."
 #: 00268A5E
 msgid ""
 "＿＿＿＿＿ごそごそ＿＿＿＿＿＿＿＿"
-msgstr "_____*rustle* *rustle*_____"
+msgstr "_____Rustle, rustle._____"
 
 #: 00268A92
 msgid ""
 "カイ、カイってば！！"
-msgstr "Kai, Kaiii!!!"
+msgstr "Kai! Kaaai!"
 
 #: 00268AB8
 msgid ""
@@ -2211,17 +2212,17 @@ msgstr "Kai: But, we gotta get up early tomorrow..."
 #: 00268BAD
 msgid ""
 "ファラ：ちょっとだけ、ね、ね、行こうよ、行こうよ。"
-msgstr "Fara: Just a little! A sip! Come on, come on!!"
+msgstr "Fara: Just a little! A sip! Come on, come on...!"
 
 #: 00268BF1
 msgid ""
 "カイ：・・・・そうだね、行こうか。"
-msgstr "Kai: ...alright, fine, let's go."
+msgstr "Kai: ...all right, fine. Let's go."
 
 #: 00268C25
 msgid ""
 "ファラ：わーい、わーい。"
-msgstr "Fara: Yaaay!! Wooo!!"
+msgstr "Fara: Yaaay! Wooo!"
 
 #: 00268C4F
 msgid ""
@@ -2372,7 +2373,7 @@ msgstr "Kai: I mean, I've had it for as long as can remember."
 #: 002AD4AE
 msgid ""
 "大臣：そうか・・・"
-msgstr "Minister: I see..."
+msgstr "Minister: Indeed."
 
 #: 002AD4E0
 msgid ""
@@ -2392,7 +2393,7 @@ msgstr "Kai: O-"
 #: 002AD587
 msgid ""
 "カイ：はい・・・"
-msgstr "Kai: okay..."
+msgstr "Kai: Okay..."
 
 #: 002AD6A1
 msgid ""
@@ -2402,17 +2403,17 @@ msgstr "___ New Heinrogue Castle _ Royal Chambers___"
 #: 002AD6F3
 msgid ""
 "ファラ：大変っ！大変だよう！！"
-msgstr "Fara: Oh no, oh no!!!"
+msgstr "Fara: Oh, no! Oh, no!"
 
 #: 002AD752
 msgid ""
 "バーク：どうした！？"
-msgstr "Burke: What, what happened!?"
+msgstr "Burke: What, what happened?"
 
 #: 002AD778
 msgid ""
 "ファラ：あのねあのね、カイってこの国の王子様なんだって！！"
-msgstr "Fara: Um, well, Kai's, uh... He's a prince!!"
+msgstr "Fara: Umm, well, Kai's, uh... He's a prince!"
 
 #: 002AD7E7
 msgid ""
@@ -2422,7 +2423,7 @@ msgstr "Burke: ...huh?"
 #: 002AD807
 msgid ""
 "バーク：なんだって？"
-msgstr "Burke: The hell you talking about?"
+msgstr "Burke: What the heck are you talking about?"
 
 #: 002AD82D
 msgid ""
@@ -2447,7 +2448,7 @@ msgstr "Burke: There's gotta be a misunderstanding."
 #: 002AD94C
 msgid ""
 "ファラ：ホントだもん！！あの大臣とかいう人がそう言ってたんだから！！"
-msgstr "Fara: It's true!! The minister said it himself!!"
+msgstr "Fara: It's true! The minister said it himself!"
 
 #: 002AD997
 msgid ""
@@ -2462,7 +2463,7 @@ msgstr "Burke: Okay, okay."
 #: 002ADA83
 msgid ""
 "ミシリア：・・・あの人が王子様・・・"
-msgstr "Michelia: ...Kai, a prince...?"
+msgstr "Michelia: Kai? A prince...?"
 
 #: 002ADAC4
 msgid ""
@@ -2557,7 +2558,7 @@ msgstr "Well, at first we didn't really have a goal for our journey,"
 #: 002ADF29
 msgid ""
 "マールっていう魔導師に頼まれて・・・"
-msgstr "until we met Marl at least."
+msgstr "until we met Marl, at least."
 
 #: 002ADF7B
 msgid ""
@@ -2567,7 +2568,7 @@ msgstr "Sage: Marl?"
 #: 002ADFA6
 msgid ""
 "カイ：そして、そのマールに「新ハインローグ城にいる聖者に"
-msgstr "Kai: He said we should seek the Sage in New Heinrogue Castle"
+msgstr "Kai: He said we should seek the sage in New Heinrogue Castle"
 
 #: 002ADFE2
 msgid ""
@@ -2612,7 +2613,7 @@ msgstr "Minister: Prince..."
 #: 002AE1A8
 msgid ""
 "カイ：王子って言うのもやめてくれないかな。"
-msgstr "Kai: Could you stop calling me prince?"
+msgstr "Kai: Could you stop calling me \"prince\"?"
 
 #: 002AE1D9
 msgid ""
@@ -2642,7 +2643,7 @@ msgstr "Minister: Sage, please stop him..."
 #: 002AE314
 msgid ""
 "聖者：仕方ないでしょう。カイ殿の気持ちが変わるとは思えないですし。"
-msgstr "Sage: It is not our place. I doubt that we could sway his passion."
+msgstr "Sage: It is not our place. I doubt we could sway his passion."
 
 #: 002AE384
 msgid ""
@@ -2662,7 +2663,7 @@ msgstr "Kai: I'll come back here after my journey's over."
 #: 002AE45C
 msgid ""
 "大臣：・・・ふう・・・"
-msgstr "Minister: ...hmm..."
+msgstr "Minister: Hmm..."
 
 #: 002AE484
 msgid ""
@@ -2682,7 +2683,7 @@ msgstr "Kai: Of course."
 #: 002AE557
 msgid ""
 "大臣：やれやれ・・・"
-msgstr "Minister: Good grief..."
+msgstr "Minister: Good grief!"
 
 #: 002AE593
 msgid ""
@@ -2752,7 +2753,7 @@ msgstr "........."
 #: 002AE8E1
 msgid ""
 "できました。これを大聖者様に見せてください"
-msgstr "There we go, please show this to the Grand Sage."
+msgstr "There we go. Please show this to the Grand Sage."
 
 #: 002AE92B
 msgid ""
@@ -2777,7 +2778,7 @@ msgstr "I'll be back, I promise."
 #: 002AEB3D
 msgid ""
 "大臣：カイ様。"
-msgstr "Minister: Lord Kai, if I may."
+msgstr "Minister: Lord Kai? If I may..."
 
 #: 002AEB4F
 msgid ""
@@ -2919,7 +2920,7 @@ msgstr "Burke Schwartz, forward."
 #: 002F1BAC
 msgid ""
 "バーク：よっしゃ！！じゃあ、行って来るぜ！！"
-msgstr "Burke: Hell yeah, let's gooo!!!"
+msgstr "Burke: Heck yeah, let's gooo!"
 
 #: 002F1C2B
 msgid ""
@@ -2929,22 +2930,22 @@ msgstr "Kai: Burke, we're counting on you!"
 #: 002F1C6C
 msgid ""
 "バーク：まかせておけって！！"
-msgstr "Burke: Just leave it to me!!"
+msgstr "Burke: Just leave it to me!"
 
 #: 002F1DD3
 msgid ""
 "大臣：始めっ！！"
-msgstr "Minister: Start!!"
+msgstr "Minister: Start!"
 
 #: 002F1DF5
 msgid ""
 "バーク：うおしゃあーー！！いくぜ！！"
-msgstr "Burke: WOOO!! TAKE THAT!!"
+msgstr "Burke: WOOO! TAKE THAT!"
 
 #: 002F1EDD
 msgid ""
 "大臣：それまで！！バーク＝シュワルツの勝ち"
-msgstr "Minister: Stop! Winner, Burke Schwartz!"
+msgstr "Minister: Stop! Winner: Burke Schwartz!"
 
 #: 002F1FC8
 msgid ""
@@ -2954,17 +2955,17 @@ msgstr "Kai: Good going, Burke!"
 #: 002F2000
 msgid ""
 "バーク：はあ、つまんねえ試合だったぜ。"
-msgstr "Burke: Pff, was a walk in the park."
+msgstr "Burke: Pfft! That was a walk in the park."
 
 #: 002F2066
 msgid ""
 "大臣：次、カイ＝オルフェアス、前へ。"
-msgstr "Minister: Next up, Kai Orpheus, forward."
+msgstr "Minister: Next up, Kai Orpheus! Forward."
 
 #: 002F20D2
 msgid ""
 "バーク：お。カイ、出番だぜ。"
-msgstr "Burke: Go on Kai, it's your turn."
+msgstr "Burke: Go on, Kai. It's your turn."
 
 #: 002F2100
 msgid ""
@@ -2974,12 +2975,12 @@ msgstr "Kai: Okay, wish me luck."
 #: 002F213C
 msgid ""
 "ミシリア：がんばって！カイ！"
-msgstr "Michelia: You got this, Kai!!"
+msgstr "Michelia: You've got this, Kai!"
 
 #: 002F2184
 msgid ""
 "ファラ：がんばれー！！"
-msgstr "Fara: Good luck!!"
+msgstr "Fara: Good luck!"
 
 #: 002F2212
 msgid ""
@@ -2989,27 +2990,27 @@ msgstr "Kai: Thanks!"
 #: 002F223D
 msgid ""
 "バーク：・・・・・俺んときとだいぶ違うじゃねーか（ぼそっ）"
-msgstr "Burke: ...they weren't that happy for me (pout)."
+msgstr "Burke: ...they weren't that happy for me! (Pouts.)"
 
 #: 002F227E
 msgid ""
 "なんか面白くねぇーな。まけちめぇー。（ぼそぼそっ）"
-msgstr "Maybe he should just lose, would give me a laugh... (pout pout)."
+msgstr "Maybe he should just lose! That would give me a laugh. (Pouts further.)"
 
 #: 002F22CE
 msgid ""
 "ファラ：なにか言った？（ぎろり）"
-msgstr "Fara: What was that? (glare)."
+msgstr "Fara: What was that? (Glares.)"
 
 #: 002F232E
 msgid ""
 "バーク：いえいえ、ぜんぜん、めっそうもございません。"
-msgstr "Burke: No no, nothing, nothing at all, please don't pay me any mind."
+msgstr "Burke: N,o no. Nothing, nothing at all! Don't pay me any mind."
 
 #: 002F2374
 msgid ""
 "カイ：じゃあ、行って来るよ"
-msgstr "Kai: Alright, I'll be back shortly."
+msgstr "Kai: All right, I'll be back shortly."
 
 #: 002F2480
 msgid ""
@@ -3019,17 +3020,17 @@ msgstr "Michelia: Oh, we saw that person in town."
 #: 002F24CA
 msgid ""
 "大臣：始め！！"
-msgstr "Minister: Start!!"
+msgstr "Minister: Start!"
 
 #: 002F2585
 msgid ""
 "ミシリア：カイ！！"
-msgstr "Michelia: Kai!!"
+msgstr "Michelia: Kai!"
 
 #: 002F25B4
 msgid ""
 "ファラ：あっ！！カイのペンダントが・・・・"
-msgstr "Fara: Oh no, Kai's pendant!!"
+msgstr "Fara: Oh, no! Kai's pendant!"
 
 #: 002F267D
 msgid ""
@@ -3039,12 +3040,12 @@ msgstr "Kai: I'm sorry, everyone..."
 #: 002F26C1
 msgid ""
 "ミシリア：カイ、そんなにおちこまないで。"
-msgstr "Michelia: Kai, don't worry, it's okay."
+msgstr "Michelia: Kai, don't worry. It's okay."
 
 #: 002F2726
 msgid ""
 "バーク：そうだぜ、今回は相手が悪かった。"
-msgstr "Burke: You just had a bad matchup, is all."
+msgstr "Burke: You just had a bad match-up, is all."
 
 #: 002F2795
 msgid ""
@@ -3064,7 +3065,7 @@ msgstr "Burke: Lost against that dude as well."
 #: 002F286E
 msgid ""
 "カイ：・・・そうか、バークでもだめか・・・"
-msgstr "Kai: ...I see, you too..."
+msgstr "Kai: I see. You too..."
 
 #: 002F28BF
 msgid ""
@@ -3094,7 +3095,7 @@ msgstr "Kai: Uh..."
 #: 002F2A6C
 msgid ""
 "ミシリア：大変、探さないと。"
-msgstr "Michelia: Oh no, we need to find her!"
+msgstr "Michelia: Oh, no. We need to find her!"
 
 #: 002F2A9A
 msgid ""
@@ -3109,7 +3110,7 @@ msgstr ""
 #: 002F2C2C
 msgid ""
 "ファラ：カイーーーー！！"
-msgstr "Fara: Kai!!!"
+msgstr "Fara: Kai!"
 
 #: 002F2C64
 msgid ""
@@ -3119,7 +3120,7 @@ msgstr "Kai: Fara, we were looking for you!"
 #: 002F2CA0
 msgid ""
 "ファラ：カイ、あのね、あのね。"
-msgstr "Fara: Hey hey, Kai!"
+msgstr "Fara: Hey! Hey, Kai!"
 
 #: 002F2CDB
 msgid ""
@@ -3134,12 +3135,12 @@ msgstr "Fara: Kai, hey, listen..."
 #: 002F2D49
 msgid ""
 "バーク：まあいいじゃねか、こうして無事なわけだし。"
-msgstr "Burke: Eh she's fine, no need to worry."
+msgstr "Burke: Eh, she's fine. No need to worry."
 
 #: 002F2DA6
 msgid ""
 "ファラ：カイ、あの・・・"
-msgstr "Fara: Kai, um..."
+msgstr "Fara: Kai, umm..."
 
 #: 002F2E10
 msgid ""
@@ -3164,7 +3165,7 @@ msgstr "Kai: What's wrong, Fara?"
 #: 002F2FAD
 msgid ""
 "ファラ：なんでもないですよーだ！！"
-msgstr "Fara: It's nothing!!!"
+msgstr "Fara: It's nothing!"
 
 #: 002F3041
 msgid ""
@@ -3184,17 +3185,18 @@ msgstr "Man: I lost to him as well."
 #: 003361DB
 msgid ""
 "騎士：この先は王の間になっている。通すわけにはいかない。"
-msgstr "Knight: Up ahead is the Royal Chambers. You cannot pass."
+msgstr ""
+"Knight: Up ahead, you'd find the Royal Chambers, but they're off limits."
 
 #: 00336239
 msgid ""
 "騎士：これはカイ様、何ようでありますか？"
-msgstr "Knight: Sir Kai, what can we do for you?"
+msgstr "Knight: Sir Kai! What can we do for you?"
 
 #: 003362A1
 msgid ""
 "＿＿お待ちください！！"
-msgstr "___please wait!!"
+msgstr "___Please, wait!"
 
 #: 00336337
 msgid ""
@@ -3210,18 +3212,18 @@ msgstr "Kai: Yeah, that's me."
 msgid ""
 "兵士：どうぞ、王の間においでください。大臣様と聖者様がお待ちです。"
 msgstr ""
-"Soldier: Please, the Minister and the Sage would like to speak with you in "
-"the Royal Chambers."
+"Soldier: The minister and the sage would like to speak with you in the Royal "
+"Chambers."
 
 #: 0033641A
 msgid ""
 "カイ：ええ！？大臣と聖者・・・"
-msgstr "Kai: What!? The Minister and Sage...?"
+msgstr "Kai: What? The minister and the sage?"
 
 #: 00336458
 msgid ""
 "兵士：では、ご案内いたします。"
-msgstr "Soldier: Now please, right this way."
+msgstr "Soldier: Now, please, right this way."
 
 #: 00336530
 msgid ""
@@ -3251,7 +3253,7 @@ msgstr ""
 #: 0033686F
 msgid ""
 "バーク：聖者の塔ねぇ。まあ、いいや"
-msgstr "Burke: Sage's Tower, huh? Alright, don't see why not."
+msgstr "Burke: Sage's Tower, huh? All right, don't see why not."
 
 #: 00336898
 msgid ""
@@ -3351,12 +3353,12 @@ msgstr "Michelia: Okay..."
 #: 00336DB0
 msgid ""
 "ファラ：みんな！！"
-msgstr "Fara: Hey guys!!"
+msgstr "Fara: Hey guys!"
 
 #: 00336E1F
 msgid ""
 "ファラ：早く行こうよ！！早く！！"
-msgstr "Fara: Come on, let's go already!!"
+msgstr "Fara: Come on, let's go already!"
 
 #: 00336EA6
 msgid ""
@@ -3366,7 +3368,7 @@ msgstr ""
 #: 00336FF1
 msgid ""
 "ファラ：あっ！カイだ！！"
-msgstr "Fara: Ahh, Kai!!"
+msgstr "Fara: Ahh! Kai!"
 
 #: 003370E0
 msgid ""
@@ -3401,7 +3403,7 @@ msgstr "Burke: Well?"
 #: 003372B5
 msgid ""
 "カイ：いまきいてくる！！！"
-msgstr "Kai: Let me go ask!!"
+msgstr "Kai: I'll go ask!"
 
 #: 00337321
 msgid ""
@@ -3476,7 +3478,7 @@ msgstr "Burke: Still a bit shocked, Michelia?"
 #: 003377F2
 msgid ""
 "ミシリア：え！？"
-msgstr "Michelia: Huh!?"
+msgstr "Michelia: Huh?!"
 
 #: 0033783A
 msgid ""
@@ -3501,7 +3503,7 @@ msgstr "Kai: I don't really feel like a prince myself."
 #: 0033795A
 msgid ""
 "カイ：呼び方だって今まで通り「カイ」でいいよ。"
-msgstr "Kai: You can just call me Kai like always."
+msgstr "Kai: You can just call me Kai, like always."
 
 #: 003379BE
 msgid ""
@@ -3521,12 +3523,12 @@ msgstr "Michelia: ..."
 #: 00337A85
 msgid ""
 "カイ：ひどいな、バーク、そこまでいうかい？"
-msgstr "Kai: Burke, come on, that was uncalled for!"
+msgstr "Kai: Burke, come on. That was uncalled for!"
 
 #: 00337AD8
 msgid ""
 "バーク：ん？違うというのか、道を聞き忘れたカイ王子様？"
-msgstr "Burke: Hmm? Well then, Prince Kai, enlighten us and tell us the way."
+msgstr "Burke: Hmm? Well then, Prince Kai. Enlighten us and tell us the way!"
 
 #: 00337B23
 msgid ""
@@ -3546,17 +3548,17 @@ msgstr "Kai: ..."
 #: 00337BE5
 msgid ""
 "バーク：おっ、いっちょまえにてれてやがるぜ。"
-msgstr "Burke: Don't blush man, you're an adult!"
+msgstr "Burke: Don't blush, man. You're an adult!"
 
 #: 00337C3F
 msgid ""
 "カイ：う、うるさいな！！"
-msgstr "Kai: S-shut up!!"
+msgstr "Kai: C-can it!"
 
 #: 00337C7F
 msgid ""
 "ファラ：カイ！！"
-msgstr "Fara: Kai!!"
+msgstr "Fara: Kai!"
 
 #: 00337CF5
 msgid ""
@@ -3566,17 +3568,19 @@ msgstr "Fara: Come on, let's go! Hurry!"
 #: 00337D7E
 msgid ""
 "カイ：よし、みんな行こう！！"
-msgstr "Kai: Okay, let's go everyone!!"
+msgstr "Kai: Okay, let's go everyone!"
 
 #: 0037A960
 msgid ""
 "いぬら屋本舗にようこそ▽世界はひろしといえど"
-msgstr "Welcome to the Dog's Shop's main store! We have shops all"
+msgstr "Welcome to the world-renowned Dog's Shop's main store! ▽"
 
 #: 0037A990
 msgid ""
 "いぬら屋とくせいまんじゅうが買えるのはここだけよ▽"
-msgstr "around, but only here can you buy our special manju!"
+msgstr ""
+"We have an exclusive special manju, sold only at this particular storefront! "
+"▽"
 
 #: 0037A9F6
 msgid ""
@@ -3626,12 +3630,12 @@ msgstr "Maka Man will extend your magic power."
 #: 0037AB48
 msgid ""
 "それはそれは、すっごいまんじゅうなんだから！"
-msgstr "They're all delicious and powerful manju!!"
+msgstr "They're all delicious and powerful manju!"
 
 #: 0037ABC8
 msgid ""
 "聖者：ややっ、カイ殿ではありませんか？"
-msgstr "Sage: Oh, if it isn't Lord Kai?"
+msgstr "Sage: Oh, if it isn't Lord Kai!"
 
 #: 0037ABF2
 msgid ""
@@ -3646,17 +3650,17 @@ msgstr "This store is really the best of the best."
 #: 0037AC61
 msgid ""
 "娘：聖者様にはいつもひいきにしてもらっています▽"
-msgstr "Girl: Oh you're always flattering us, sir~"
+msgstr "Girl: You're always flattering us, sir! ▽"
 
 #: 0037ACA3
 msgid ""
 "聖者：そうそう、先ほどわたしそこねたものがありまして・・・"
-msgstr "Sage: Oh right, I wanted to give you something."
+msgstr "Sage: Oh, right. I wanted to give you something."
 
 #: 0037ACE1
 msgid ""
 "ごそごそ・・・・"
-msgstr "*rustle rustle*"
+msgstr "Rustle, rustle."
 
 #: 0037ACF5
 msgid ""
@@ -3671,7 +3675,7 @@ msgstr "You learned Thor High!"
 #: 0037AD59
 msgid ""
 "聖者：それでは私はこれで・・・"
-msgstr "Sage: Now then, I best be on my way."
+msgstr "Sage: Now, then. I'd best be on my way."
 
 #: 003BF115
 msgid ""
