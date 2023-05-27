@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-09-06 00:12+0000\n"
+"PO-Revision-Date: 2022-12-10 23:13+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s009/en/>\n"
@@ -587,14 +587,14 @@ msgstr ""
 #: 0037A95B
 msgid ""
 "聖者：むこうに見えるのが聖者の塔です。"
-msgstr ""
+msgstr "Sage: That's the Sage's Tower in the distance."
 
 #: 0037A985
 msgid ""
 "あの塔の最上階に大聖者様がおられます。"
-msgstr ""
+msgstr "The Grand Sage awaits you at the top."
 
 #: 0037A9CD
 msgid ""
 "聖者：あれが聖者の塔です"
-msgstr ""
+msgstr "Sage: That's the Sage's Tower."

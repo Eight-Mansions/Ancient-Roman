@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2022-11-30 01:13+0000\n"
+"PO-Revision-Date: 2023-02-03 02:36+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s007/en/>\n"
@@ -17,177 +17,180 @@ msgstr ""
 #: 00000166
 msgid ""
 "カイ：今、逃げ出すわけにはいかない。"
-msgstr ""
+msgstr "Kai: We can't just run away."
 
 #: 000001BC
 msgid ""
 "塔の聖者：まて、説明するべきことがある。"
-msgstr ""
+msgstr "Tower Sage: Wait. I must explain your task."
 
 #: 000001E8
 msgid ""
 "こちらにまいられよ。"
-msgstr ""
+msgstr "This way."
 
 #: 0000022E
 msgid ""
 "塔の聖者：帰らずの港はここから北に行ったところにあります。"
-msgstr ""
+msgstr "Tower Sage: The Port of No Return is to the north of here."
 
 #: 0000028F
 msgid ""
 "塔の聖者：なぜ、ここにいる。なんじらの今いる場所ではない。"
 msgstr ""
+"Tower Sage: Why do you stand before me? This is not the place for you at "
+"this moment."
 
 #: 000002E8
 msgid ""
 "塔の聖者：来たか。では今よりこの塔で最後の試練を行う。"
-msgstr ""
+msgstr "Tower Sage: You've come. Now, it's time for the tower's final trial."
 
 #: 00000330
 msgid ""
 "バーク：な、なにー！？。"
-msgstr ""
+msgstr "Burke: W-what!?"
 
 #: 0000035A
 msgid ""
 "ファラ：やっぱり・・・わたしね、よそうしてたもん。"
-msgstr ""
+msgstr "Fara: I knew it... I totally saw this coming."
 
 #: 0000039E
 msgid ""
 "塔の聖者：この試練を行ないたくないのならば、それでもよい。"
-msgstr ""
+msgstr "Tower Sage: If you do not wish to undertake this trial, you may leave."
 
 #: 000003EA
 msgid ""
 "カイ：うけます。強くなりたいから。"
-msgstr ""
+msgstr "Kai: We'll take it. We want to become stronger."
 
 #: 0000041E
 msgid ""
 "バーク：まあ、お前ならそう言うと思ったぜ。"
-msgstr ""
+msgstr "Burke: Can't imagine you saying anything else."
 
 #: 0000045A
 msgid ""
 "塔の聖者：試練といっても簡単である。"
-msgstr ""
+msgstr "Tower Sage: The trial is a simple one."
 
 #: 00000482
 msgid ""
 "最上階におられる大聖者様の"
-msgstr ""
+msgstr "The Grand Sage awaits on the highest floor."
 
 #: 000004A0
 msgid ""
 "もとにいって巻き物をさずかるだけである。"
-msgstr ""
+msgstr "The trial is over when you receive his scroll."
 
 #: 000004CF
 msgid ""
 "では、なんじらにしゅくふくあれ！！"
-msgstr ""
+msgstr "Now, blessings be upon ye!!"
 
 #: 00000562
 msgid ""
 "＿＿ＨＰとＭＰが回復した。＿＿"
-msgstr ""
+msgstr "__HP and MP recovered.__"
 
 #: 000005AC
 msgid ""
 "塔の聖者：さぁ先に進まれよ。"
-msgstr ""
+msgstr "Tower Sage: Now, go!"
 
 #: 000005DF
 msgid ""
 "塔の聖者：ここは聖者の塔です。"
-msgstr ""
+msgstr "Tower Sage: This is the Sage's Tower."
 
 #: 00000601
 msgid ""
 "塔の聖者：大聖者様はこの塔の最上階におられます。"
-msgstr ""
+msgstr "Tower Sage: The Grand Sage is at the top of the tower."
 
 #: 00089290
 msgid ""
 "聖者：私はこの塔で武術を教えているものです。"
-msgstr ""
+msgstr "Sage: I teach martial arts at this tower."
 
 #: 000892C0
 msgid ""
 "何をするにしても、まず肉体ありきです。"
-msgstr ""
+msgstr "To train for anything, first you must train your body."
 
 #: 00089305
 msgid ""
 "聖者：見事です。どうぞ先に進んでください。"
-msgstr ""
+msgstr "Sage: Well done. Please, continue ahead."
 
 #: 0008934F
 msgid ""
 "修行僧：ここで肉体をきたえています。"
-msgstr ""
+msgstr "Monk: We're training our bodies here."
 
 #: 00089377
 msgid ""
 "どうです。このきたえあげられた肉体。うつくしいと思いませんか？"
-msgstr ""
+msgstr "What do you think? Don't you think this well-toned body is beautiful?"
 
 #: 000893D4
 msgid ""
 "修行僧：うーん、参りました。また修行し直しです。"
-msgstr ""
+msgstr "Monk: Whew, you beat us. We've got more training to do."
 
 #: 00089424
 msgid ""
 "修行僧：心の前に体をきたえないとね。"
-msgstr ""
+msgstr "Monk: You've gotta train your body before your mind."
 
 #: 0008945A
 msgid ""
 "ふん。どうですこのきたえあげられた肉体。うつくしいと思いませんか？"
-msgstr ""
+msgstr "Hmm. Don't you think this well-toned body is beautiful?"
 
 #: 000894BB
 msgid ""
 "修行僧：うーん、参りました。"
-msgstr ""
+msgstr "Monk: Well, you beat us."
 
 #: 00089511
 msgid ""
 "聖者：よく参られました。それでは、"
-msgstr ""
+msgstr "Sage: Well done. Now..."
 
 #: 00089558
 msgid ""
 "聖者：まいりますっ！！"
-msgstr ""
+msgstr "Sage: It's time to fight!!!"
 
 #: 000CDA7A
 msgid ""
 "聖者：ここは精神の間ともうします。"
-msgstr ""
+msgstr "Sage: This is called the Spirit Chamber."
 
 #: 000CDAA0
 msgid ""
 "我々３人はここで修行をしております。"
-msgstr ""
+msgstr "The three of us train hard here."
 
 #: 000CDAE8
 msgid ""
 "聖者：参りました。さすが、大聖者様が目をつけられたお方。"
 msgstr ""
+"Sage: I've been beaten. As expected of those summoned by the Grand Sage."
 
 #: 000CDB24
 msgid ""
 "どうぞ５階にお進みください。大聖者様がお待ちです。"
-msgstr ""
+msgstr "Please, continue to the 5th floor. The Grand Sage awaits."
 
 #: 000CDB6D
 msgid ""
 "聖者：私の修行の道はまだまだ続いているようです。"
-msgstr ""
+msgstr "Sage: It seems my training has much more to go."
 
 #: 000CDBBD
 msgid ""
@@ -197,87 +200,87 @@ msgstr ""
 #: 000CDBE3
 msgid ""
 "我々兄弟３人はここで修行をしております。"
-msgstr ""
+msgstr "The three of us brothers train hard here."
 
 #: 000CDC2F
 msgid ""
 "聖者：まいった。"
-msgstr ""
+msgstr "Sage: I'm beaten."
 
 #: 000CDC43
 msgid ""
 "見事です。どうぞ５階にお進みください。"
-msgstr ""
+msgstr "Well done. Please, continue to the 5th floor."
 
 #: 000CDC80
 msgid ""
 "聖者：私もまだまだ修行がたりません。"
-msgstr ""
+msgstr "Sage: It seems my training is lacking."
 
 #: 000CDCC4
 msgid ""
 "聖者：ここは精神をきたえる間です。"
-msgstr ""
+msgstr "Sage: This is the chamber for training your spirit."
 
 #: 000CDCEA
 msgid ""
 "私は兄じゃ達とここで修行をしておるものです。"
-msgstr ""
+msgstr "My brothers and I train here to get stronger."
 
 #: 000CDD3A
 msgid ""
 "聖者：・・・・・・・・・"
-msgstr ""
+msgstr "Sage: ..."
 
 #: 000CDD56
 msgid ""
 "われら３兄弟よりかたいきずなをおもちとは・・・・"
-msgstr ""
+msgstr "To think you'd outpace us brothers..."
 
 #: 000CDD9D
 msgid ""
 "聖者：人の和とは血がつながってなくても強くなるものですな・・・"
-msgstr ""
+msgstr "Sage: It seems a connection by blood does not make you stronger..."
 
 #: 000CDDEE
 msgid ""
 "おまちしておりました。"
-msgstr ""
+msgstr "We've been waiting."
 
 #: 000CDE58
 msgid ""
 "聖者：どこをみておいでですか。"
-msgstr ""
+msgstr "Sage: Where are you looking?"
 
 #: 000CDE7A
 msgid ""
 "ここですよ。"
-msgstr ""
+msgstr "Here."
 
 #: 000CDED7
 msgid ""
 "聖者：いえいえ、こちらですよ。"
-msgstr ""
+msgstr "Sage: No, no. Over here."
 
 #: 000CDF4C
 msgid ""
 "聖者：いやいや、こちらです。"
-msgstr ""
+msgstr "Sage: No, no. Here."
 
 #: 000CDFC1
 msgid ""
 "聖者：ようこそ"
-msgstr ""
+msgstr "Sage: Welcome"
 
 #: 000CDFEC
 msgid ""
 "聖者：それでは"
-msgstr ""
+msgstr "Sage: Now then."
 
 #: 000CE017
 msgid ""
 "聖者：まいります"
-msgstr ""
+msgstr "Sage: Let us fight."
 
 #: 0011223D
 msgid ""
@@ -287,47 +290,49 @@ msgstr ""
 #: 00112260
 msgid ""
 "が、乗りこえればきっとお主達の力となるだろう。"
-msgstr ""
+msgstr "But, succeeding at it will grant you much more."
 
 #: 001122B5
 msgid ""
 "大聖者：帰らずの港から船にのるといい。"
-msgstr ""
+msgstr "Grand Sage: You shall take the boat at the Port of No Return."
 
 #: 00112336
 msgid ""
 "大聖者：道はきつくけわしい。"
-msgstr ""
+msgstr "Grand Sage: Your road will be perilous and painful."
 
 #: 00112369
 msgid ""
 "大聖者：お前達の持っている呪文書に呪文をかきこんでやろう。"
-msgstr ""
+msgstr "Grand Sage: I will write down a spell into the grimoire you hold."
 
 #: 001123A7
 msgid ""
 "ただし、ただではないがな。"
-msgstr ""
+msgstr "But, it won't be for free."
 
 #: 00112433
 msgid ""
 "聖者：あちらにおられますのが、大聖者様です"
-msgstr ""
+msgstr "Sage: The Grand Sage awaits over there."
 
 #: 00112492
 msgid ""
 "聖者：あきらめずにがんばれば、きっと道は開けるはずです。"
 msgstr ""
+"Sage: If you strive to succeed without sparing any effort, the path will "
+"surely open for you."
 
 #: 001125B0
 msgid ""
 "カイ：お初にお目にかかります、大聖者様。"
-msgstr ""
+msgstr "Kai: It is a pleasure to meet you, Grand Sage."
 
 #: 001125DF
 msgid ""
 "僕はカイ＝オルフェアスといいます。"
-msgstr ""
+msgstr "My name is Kai Orpheus."
 
 #: 00112616
 msgid ""
@@ -338,271 +343,283 @@ msgstr ""
 msgid ""
 "カイ：新ハインローグ城の聖者から手紙をあずかって来ました。"
 msgstr ""
+"Kai: I came here to deliver a letter from the Sage at New Heinrogue Castle."
 
 #: 001126F6
 msgid ""
 "大聖者：おぬしらには、［精神］と［肉体］の両方をきたえてもらう。"
 msgstr ""
+"Grand Sage: I will have you all train both your \"spirit\" and \"strength.\""
 
 #: 0011273A
 msgid ""
 "試練は試練の島で行う。"
-msgstr ""
+msgstr "The trials will be at the Island of Trials."
 
 #: 00112754
 msgid ""
 "くわしい事はそこにいる聖者に説明させる。"
-msgstr ""
+msgstr "The Sage over there will explain further."
 
 #: 00112817
 msgid ""
 "聖者：試練の島の試練は常人にはつらくかこくなものだ。"
-msgstr ""
+msgstr "Sage: The trials of the Island of Trials are no easy feat."
 
 #: 00112852
 msgid ""
 "あきらめるなら今ですぞ。"
-msgstr ""
+msgstr "If you're going to give up, please do so now."
 
 #: 0011288A
 msgid ""
 "カイ：僕は大丈夫です。"
-msgstr ""
+msgstr "Kai: I'm fine."
 
 #: 001128CC
 msgid ""
 "バーク：俺も大丈夫だぜ。"
-msgstr ""
+msgstr "Burke: No chickening out here."
 
 #: 00112912
 msgid ""
 "ミシリア：私も・・・平気です。"
-msgstr ""
+msgstr "Michelia: I'm... fine."
 
 #: 0011294D
 msgid ""
 "ファラ：わたしは何があっても、絶対ぜーったい、カイに付いていくからね。"
-msgstr ""
+msgstr "Fara: No matter what happens, I'm sticking by Kai through and through."
 
 #: 001129C8
 msgid ""
 "聖者：わかった。"
-msgstr ""
+msgstr "Sage: Good."
 
 #: 001129DF
 msgid ""
 "試練の島へは、帰らずの港から船でいく事ができる。"
 msgstr ""
+"You can reach the Island of Trials by taking a boat from the Port of No "
+"Return."
 
 #: 00112A13
 msgid ""
 "帰らずの港の船着き場の男に話せば船を出してくれる。"
-msgstr ""
+msgstr "There's a man at the dock there who will take you."
 
 #: 00112A57
 msgid ""
 "試練についてのくわしい事は"
-msgstr ""
+msgstr "As for the trials themselves,"
 
 #: 00112A75
 msgid ""
 "試練の島にある修練の村で教えてもらえる。"
 msgstr ""
+"there's a small village on the Island of Trials where you'll be trained."
 
 #: 00112AA1
 msgid ""
 "そして、その試練を終えたらまた、ここへもどってくることだ。"
-msgstr ""
+msgstr "Once you finish your training, you will return here."
 
 #: 00112AFB
 msgid ""
 "カイ：わかった。ありがとう。"
-msgstr ""
+msgstr "Kai: I understand. Thank you."
 
 #: 00112C85
 msgid ""
 "大聖者：・・・・・・"
-msgstr ""
+msgstr "Grand Sage: ..."
 
 #: 00112CAB
 msgid ""
 "何年ぶりだろうか・・・"
-msgstr ""
+msgstr "How many years has it been..."
 
 #: 00112CC8
 msgid ""
 "ここまで来た者は・・・"
-msgstr ""
+msgstr "Since someone made it this far..."
 
 #: 00112CE2
 msgid ""
 "これより、最終試練を行う。"
-msgstr ""
+msgstr "Now commences your final trial."
 
 #: 00112D0B
 msgid ""
 "見事乗りこえてみせよ！！"
-msgstr ""
+msgstr "Show me you can reach the end!"
 
 #: 00112E17
 msgid ""
 "大聖者：見事・・・"
-msgstr ""
+msgstr "Grand Sage: Well done..."
 
 #: 00112E6B
 msgid ""
 "大聖者：これを受け取るがよい。"
-msgstr ""
+msgstr "Grand Sage: Take this."
 
 #: 00112EB9
 msgid ""
 "「試練の位」の巻物を手に入れた。"
-msgstr ""
+msgstr "You received a rolled-up Trial Certificate."
 
 #: 00112F0E
 msgid ""
 "大聖者：その巻物は、試練の位をさすものだ。"
 msgstr ""
+"Grand Sage: That Trial Certificate proves you've overcome difficult trials."
 
 #: 00112F3F
 msgid ""
 "ただし、これからも日々試練であることを忘れることないように。"
 msgstr ""
+"But, that does not mean you can forget what you learned on this journey."
 
 #: 00112F7F
 msgid ""
 "試練をつんでここへ来れば、また新しい力をさずけよう。"
 msgstr ""
+"I'll grant you more power if you return here after you've gained more "
+"experience."
 
 #: 00112FD3
 msgid ""
 "カイ：ありがとう、大聖者様。"
-msgstr ""
+msgstr "Kai: Thank you, Grand Sage."
 
 #: 001130A8
 msgid ""
 "兵士：カイ様！！"
-msgstr ""
+msgstr "Soldier: Lord Kai!!"
 
 #: 001130F0
 msgid ""
 "兵士：大臣様より急ぎの知らせにございます。"
-msgstr ""
+msgstr "Soldier: The Minister has an urgent message for you."
 
 #: 0011313A
 msgid ""
 "カイ：いったいどうしたんだい？"
-msgstr ""
+msgstr "Kai: What happened?"
 
 #: 00113180
 msgid ""
 "兵士：急いで新ハインローグ城へもどられたし、とのことです。"
-msgstr ""
+msgstr "Soldier: Please return to New Heinrogue Castle at once!"
 
 #: 001131DD
 msgid ""
 "カイ：なにかあったの？"
-msgstr ""
+msgstr "Kai: Did something happen though?"
 
 #: 00113210
 msgid ""
 "兵士：私もくわしいことは・・・"
-msgstr ""
+msgstr "Soldier: I wasn't informed the specifics myself..."
 
 #: 0011324E
 msgid ""
 "カイ：わかったよ。みんな、すぐ城にもどろう。"
-msgstr ""
+msgstr "Kai: Understood. Everyone, let's hurry back."
 
 #: 00113299
 msgid ""
 "日々これ試練である。"
-msgstr ""
+msgstr "Everyday is a good day to train."
 
 #: 001132C0
 msgid ""
 "兵士：くわしいことは私にも。"
-msgstr ""
+msgstr "Soldier: I don't know the details."
 
 #: 001132E0
 msgid ""
 "なるべくはやくおかえりください。"
-msgstr ""
+msgstr "Please hurry back."
 
 #: 00113313
 msgid ""
 "大聖者：しばらくみぬうちにずいぶんとたくましくなったな・・・"
-msgstr ""
+msgstr "Grand Sage: You've grown greatly in a short time..."
 
 #: 00113361
 msgid ""
 "カイ：大聖者様、今日は聞きたいことがあってきました。"
-msgstr ""
+msgstr "Kai: Grand Sage, I've come here today to ask something of you."
 
 #: 001133A7
 msgid ""
 "大聖者：なにかな？"
-msgstr ""
+msgstr "Grand Sage: What is that?"
 
 #: 001133CB
 msgid ""
 "バーク：「神の力」ってのをしりたくてな。"
-msgstr ""
+msgstr "Burke: What's up with the \"Gods' Power\" and all that?"
 
 #: 00113405
 msgid ""
 "大聖者：・・・神とは、「山神」「海王」「勇士の神」「女神」「精霊の神」"
 msgstr ""
+"Grand Sage: ...the Mountain God, the Sea God, the God of Heroes, the Goddess,"
 
 #: 00113452
 msgid ""
 "大聖者：そして「龍」のことをさす・・・"
-msgstr ""
+msgstr "Grand Sage: the God of Spirits, and the Dragon God..."
 
 #: 0011347C
 msgid ""
 "力とはその神々からさずかる力・・・"
-msgstr ""
+msgstr "The Gods' Power refers to power granted by them..."
 
 #: 001134A2
 msgid ""
 "くわしくは帰らずの港から「隠者の島」に行くといい。"
 msgstr ""
+"You may learn more if you travel to the Hermit's Island from the Port of No "
+"Return."
 
 #: 001134D8
 msgid ""
 "そこにくわしく書き記された古文書が保管してある。"
-msgstr ""
+msgstr "The ancient archives there will tell more."
 
 #: 0011351A
 msgid ""
 "カイ：ありがとう、大聖者様。さっそくいってみるよ。"
-msgstr ""
+msgstr "Kai: Thank you, Grand Sage. Let's go right away."
 
 #: 00156ABE
 msgid ""
 "男：魔導師のレイヨンを探してんのか？"
-msgstr ""
+msgstr "Man: You're searching for the magician Rayon?"
 
 #: 00156AE6
 msgid ""
 "止めとけ。"
-msgstr ""
+msgstr "I'd stop if I were ya."
 
 #: 00156B10
 msgid ""
 "やつに会っても、あんたらのためにはならないよ。"
-msgstr ""
+msgstr "Even if ya find 'im, he's not gonna lift a finger for ya."
 
 #: 00156B55
 msgid ""
 "男：スバノフなら・・・"
-msgstr ""
+msgstr "Man: If you need Subahnoff..."
 
 #: 00156B94
 msgid ""
 "ほらっ、そこの作業場で働いてる。"
-msgstr ""
+msgstr "See that workshop over there? That's where he works."
 
 #: 00156BED
 msgid ""
