@@ -1,11 +1,10 @@
-﻿msgctxt "00000000"
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-05 20:12-0400\n"
-"PO-Revision-Date: 2023-05-19 09:51+0000\n"
-"Last-Translator: Cargodin <cargodin@gmail.com>\n"
+"POT-Creation-Date: 2023-07-19 00:46-0400\n"
+"PO-Revision-Date: 2023-07-19 04:46+0000\n"
+"Last-Translator: EsperKnight <douglas.e.steele@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s004/en/>\n"
 "Language: en\n"
@@ -14,6 +13,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.12.2\n"
+
+msgctxt "00000000"
+msgid ""
+msgstr ""
 
 #: 00000134
 msgctxt "00000001"
@@ -145,7 +148,7 @@ msgstr "Minister: That's fine. Will you tell me about it?"
 msgctxt "00000022"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 00089381
 msgctxt "00000023"
@@ -169,7 +172,7 @@ msgstr "The monster pulls me out of her hands."
 msgctxt "00000026"
 msgid ""
 "大臣：・・・・・・"
-msgstr ""
+msgstr "Minister: ..."
 
 #: 00089454
 msgctxt "00000027"
@@ -193,7 +196,7 @@ msgstr "Kai: I think I saw her crying before I was dragged away..."
 msgctxt "00000030"
 msgid ""
 "大臣：・・・・・・"
-msgstr ""
+msgstr "Minister: ..."
 
 #: 0008952C
 msgctxt "00000031"
@@ -283,7 +286,7 @@ msgstr "Between your story and that locket, there's no mistaking the signs."
 msgctxt "00000045"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 0008985F
 msgctxt "00000046"
@@ -307,7 +310,7 @@ msgstr "Sage: Is that so..."
 msgctxt "00000049"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 000899E2
 msgctxt "00000050"
@@ -319,7 +322,7 @@ msgstr "Sage: You've truly grown..."
 msgctxt "00000051"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 00089A5B
 msgctxt "00000052"
@@ -385,7 +388,7 @@ msgstr "and New Heinrogue Castle Town security recruitment post."
 msgctxt "00000062"
 msgid ""
 "君もけいび兵のしがん者か？"
-msgstr ""
+msgstr "Are you here as an applicant?"
 
 #: 0019B221
 msgctxt "00000063"
@@ -623,7 +626,7 @@ msgstr "Old Man: Hmm? What? An inn?"
 msgctxt "00000101"
 msgid ""
 "宿屋は目の前のたてものですじゃ。"
-msgstr ""
+msgstr "It's right in front of you!"
 
 #: 00224723
 msgctxt "00000102"
@@ -839,7 +842,7 @@ msgstr "I said \"wait\", gosh dangit!"
 msgctxt "00000137"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 00268BE7
 msgctxt "00000138"
@@ -859,7 +862,7 @@ msgstr "Kai... of course I do."
 msgctxt "00000140"
 msgid ""
 "バーク：・・・・・・"
-msgstr ""
+msgstr "Burke: ..."
 
 #: 00268C98
 msgctxt "00000141"
@@ -871,7 +874,7 @@ msgstr "...do you really, though?"
 msgctxt "00000142"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 00268D5E
 msgctxt "00000143"
@@ -901,7 +904,7 @@ msgstr "Burke: What about how Michelia feels?"
 msgctxt "00000147"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 00268E95
 msgctxt "00000148"
@@ -943,7 +946,7 @@ msgstr "Do you want her to end up like the inn lady we brought news to?"
 msgctxt "00000154"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 00269018
 msgctxt "00000155"
@@ -1130,7 +1133,7 @@ msgstr "Michelia: But..."
 msgctxt "00000185"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 002AD7E2
 msgctxt "00000186"
@@ -1142,19 +1145,19 @@ msgstr "Burke: How about we have you at least meet your folks?"
 msgctxt "00000187"
 msgid ""
 "な？"
-msgstr ""
+msgstr "That okay at least?"
 
 #: 002AD849
 msgctxt "00000188"
 msgid ""
 "ミシリア：・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 002AD871
 msgctxt "00000189"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 002AD8C5
 msgctxt "00000190"
@@ -1276,7 +1279,7 @@ msgstr "Older Woman: I see. So, you're Cuore's daughter."
 msgctxt "00000209"
 msgid ""
 "ミシリア：・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 0037AA86
 msgctxt "00000210"
@@ -1306,7 +1309,7 @@ msgstr "Do you think you'd be able to take her in?"
 msgctxt "00000214"
 msgid ""
 "ミシリア：カイ・・・"
-msgstr ""
+msgstr "Michelia: Kai..."
 
 #: 0037ABAF
 msgctxt "00000215"
@@ -1366,7 +1369,7 @@ msgstr "Kai: Thank you."
 msgctxt "00000224"
 msgid ""
 "ミシリア：カイ・・・"
-msgstr ""
+msgstr "Michelia: Kai..."
 
 #: 0037AE2C
 msgctxt "00000225"
@@ -1558,7 +1561,7 @@ msgstr "Young lady, what's your name."
 msgctxt "00000256"
 msgid ""
 "ミシリア：・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 003BF418
 msgctxt "00000257"
