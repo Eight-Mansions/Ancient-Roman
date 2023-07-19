@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-07-19 04:46+0000\n"
+"PO-Revision-Date: 2023-07-19 15:00+0000\n"
 "Last-Translator: EsperKnight <douglas.e.steele@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s003/en/>\n"
@@ -232,7 +232,7 @@ msgstr "Come again!"
 msgctxt "00000036"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 000CDCA8
 msgctxt "00000037"
@@ -665,7 +665,7 @@ msgstr "Burke: Did he kick the bucket?"
 msgctxt "00000108"
 msgid ""
 "カイ：バーク！"
-msgstr ""
+msgstr "Kai: Burke!"
 
 #: 00157050
 msgctxt "00000109"
@@ -1437,7 +1437,7 @@ msgstr "Use them well."
 msgctxt "00000236"
 msgid ""
 "カイ：ありがとう。"
-msgstr ""
+msgstr "Kai: Thank you."
 
 #: 0019C80A
 msgctxt "00000237"
@@ -1749,7 +1749,7 @@ msgstr "One-two! One-two! Time to live your life anew!"
 msgctxt "00000288"
 msgid ""
 "男：今、けいび兵のテストに向けて、くんれん中なんだ。"
-msgstr ""
+msgstr "Man: Right now they're training for the guard soldier exam."
 
 #: 001E055E
 msgctxt "00000289"
@@ -1969,7 +1969,7 @@ msgstr "Woman: I love him even when he's in a depressed puddle!"
 msgctxt "00000324"
 msgid ""
 "告知：けいび兵募集のお知らせ"
-msgstr ""
+msgstr "# Notice of Guard Soldier Recruitment #"
 
 #: 001E0D6F
 msgctxt "00000325"
@@ -1987,19 +1987,21 @@ msgstr "we are recruiting new candidates. See below for more details."
 msgctxt "00000327"
 msgid ""
 "告知：けいび兵募集のお知らせ"
-msgstr ""
+msgstr "# Notice of Guard Soldier Recruitment #"
 
 #: 001E0E32
 msgctxt "00000328"
 msgid ""
 "新ハインローグ城内、および周辺けいびの増強のためけいび兵を募集します。"
 msgstr ""
+"In order to strengthen the security around New Heinrogue Castle, we are "
+"recruiting new candidates."
 
 #: 001E0E7C
 msgctxt "00000329"
 msgid ""
 "くわしくは下記をごらんください。"
-msgstr ""
+msgstr "See below for more details."
 
 #: 001E0EAE
 msgctxt "00000330"
@@ -2031,7 +2033,7 @@ msgstr ""
 msgctxt "00000334"
 msgid ""
 "くわしくは下記をごらんください。"
-msgstr ""
+msgstr "See below for more details."
 
 #: 001E0FB1
 msgctxt "00000335"
@@ -2085,7 +2087,7 @@ msgstr "See below for more details."
 msgctxt "00000343"
 msgid ""
 "ミシリア：もう少し町で考えましょう？"
-msgstr ""
+msgstr "Michelia: Let's stay in town and think about it a bit more, okay?"
 
 #: 001E1212
 msgctxt "00000344"
@@ -2241,13 +2243,13 @@ msgstr "Kai: All right, let's check the barracks!"
 msgctxt "00000369"
 msgid ""
 "門番：城内へ入れるわけにはいかん！"
-msgstr ""
+msgstr "Gatekeeper: Entry into the castle is forbidden!"
 
 #: 002243BB
 msgctxt "00000370"
 msgid ""
 "門番：しんさは明日だ。"
-msgstr ""
+msgstr "Gatekeeper: The test is tomorrow."
 
 #: 0022441A
 msgctxt "00000371"
@@ -2496,13 +2498,13 @@ msgstr "Buk, buk, ba-gawk---"
 msgctxt "00000411"
 msgid ""
 "こけこっこ"
-msgstr ""
+msgstr "Buk, buk"
 
 #: 00224E0B
 msgctxt "00000412"
 msgid ""
 "こけ？"
-msgstr ""
+msgstr "Buk?"
 
 #: 00224E30
 msgctxt "00000413"
@@ -2580,7 +2582,7 @@ msgstr "Michelia: Let's hold off, we gotta wake up early tomorrow, okay?"
 msgctxt "00000425"
 msgid ""
 "＿＿＿＿＿明朝＿＿＿＿＿"
-msgstr ""
+msgstr "_____Morning_____"
 
 #: 0026896E
 msgctxt "00000426"
@@ -3044,7 +3046,7 @@ msgstr "Are you sure...?"
 msgctxt "00000502"
 msgid ""
 "聖者：・・・・・・"
-msgstr ""
+msgstr "Sage: ..."
 
 #: 002ADE84
 msgctxt "00000503"
@@ -3404,7 +3406,7 @@ msgstr "Sage: Hmm, I see."
 msgctxt "00000562"
 msgid ""
 "聖者：聖者の塔には聖者の道を通って行きます。"
-msgstr ""
+msgstr "Sage: You can reach the Sage's Tower by taking the Sage's Road."
 
 #: 002AEE15
 msgctxt "00000563"
@@ -3416,13 +3418,13 @@ msgstr "The Sage's Road is to the east of the castle."
 msgctxt "00000564"
 msgid ""
 "聖者：では、ご武運をお祈りしております。"
-msgstr ""
+msgstr "Sage: Well then, I pray for your success."
 
 #: 002AEED3
 msgctxt "00000565"
 msgid ""
 "聖者：では、ご武運をお祈りしております。"
-msgstr ""
+msgstr "Sage: Well then, I pray for your success."
 
 #: 002AEF32
 msgctxt "00000566"
@@ -3440,7 +3442,7 @@ msgstr "Sage: The Sage's Road is to the east of the castle."
 msgctxt "00000568"
 msgid ""
 "聖者：では、ご武運をお祈りしております。"
-msgstr ""
+msgstr "Sage: Well then, I pray for your success."
 
 #: 002AF01E
 msgctxt "00000569"
@@ -3895,7 +3897,7 @@ msgstr ""
 msgctxt "00000643"
 msgid ""
 "＿＿今までの事を話した"
-msgstr ""
+msgstr "___Kai explained everything."
 
 #: 0033686F
 msgctxt "00000644"
@@ -3919,49 +3921,49 @@ msgstr "Kai: Yup, that's the plan."
 msgctxt "00000647"
 msgid ""
 "「聖者の塔」に行くには"
-msgstr ""
+msgstr "To reach the Sage's Tower,"
 
 #: 00336931
 msgctxt "00000648"
 msgid ""
 "「聖者の道」という所を通って行くらしいんだ。"
-msgstr ""
+msgstr "we need to take the Sage's Road apparently."
 
 #: 0033697D
 msgctxt "00000649"
 msgid ""
 "バーク：なんだっていいさ、またみんなで旅が出来るんだからよ。"
-msgstr ""
+msgstr "Burke: Works for me. Time for us to all journey together again."
 
 #: 003369D9
 msgctxt "00000650"
 msgid ""
 "ミシリア：・・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 00336A1A
 msgctxt "00000651"
 msgid ""
 "カイ：どうしたんだい、ミシリア？"
-msgstr ""
+msgstr "Kai: What's wrong, Michelia?"
 
 #: 00336A5A
 msgctxt "00000652"
 msgid ""
 "ミシリア：え？"
-msgstr ""
+msgstr "Michelia: Huh?"
 
 #: 00336A7A
 msgctxt "00000653"
 msgid ""
 "ミシリア：ううん、なんでもない・・・"
-msgstr ""
+msgstr "Michelia: N-no, it's nothing..."
 
 #: 00336AD3
 msgctxt "00000654"
 msgid ""
 "バーク：ははぁ"
-msgstr ""
+msgstr "Burke: Hahaha!"
 
 #: 00336B24
 msgctxt "00000655"
@@ -3979,25 +3981,25 @@ msgstr ""
 msgctxt "00000657"
 msgid ""
 "バーク：カイが王子様だって知ってさ。"
-msgstr ""
+msgstr "Burke: You know, Kai being a prince and all."
 
 #: 00336C02
 msgctxt "00000658"
 msgid ""
 "ミシリア：・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 00336C3E
 msgctxt "00000659"
 msgid ""
 "カイ：そんなの気にする事ないよ。"
-msgstr ""
+msgstr "Kai: Don't let it bother you."
 
 #: 00336C73
 msgctxt "00000660"
 msgid ""
 "カイ：僕だってまだあまり実感が無いんだから。"
-msgstr ""
+msgstr "Kai: I don't really feel like a prince myself."
 
 #: 00336CD0
 msgctxt "00000661"
@@ -4009,7 +4011,7 @@ msgstr "Kai: Just call me Kai like you always did."
 msgctxt "00000662"
 msgid ""
 "バーク：だってよ、ミシリアちゃん。"
-msgstr ""
+msgstr "Burke: See, nothing to worry about, Michelia."
 
 #: 00336D72
 msgctxt "00000663"
