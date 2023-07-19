@@ -1,4 +1,20 @@
-﻿msgctxt "00000000"
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-19 00:41-0400\n"
+"PO-Revision-Date: 2023-07-19 04:41+0000\n"
+"Last-Translator: EsperKnight <douglas.e.steele@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d1_s00_s008/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+msgctxt "00000000"
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -67,7 +83,7 @@ msgstr "Swordsman: Now, continue forth."
 msgctxt "00000009"
 msgid ""
 "カイ：ありがとう。それじゃあ。"
-msgstr ""
+msgstr "Kai: Thank you. We'll be off."
 
 #: 00000573
 msgctxt "00000010"
@@ -86,12 +102,14 @@ msgctxt "00000012"
 msgid ""
 "その装備で大丈夫かい？なんなら僕が売ってあげるよ。"
 msgstr ""
+"Think that equipment of yours is good enough? I'll sell ya something REAL "
+"nice."
 
 #: 00044A0F
 msgctxt "00000013"
 msgid ""
 "男：武器がほしかったらいつでもいってよ。"
-msgstr ""
+msgstr "Man: If yer ever looking for gear again, you know where to come!"
 
 #: 0019B200
 msgctxt "00000014"
@@ -770,7 +788,7 @@ msgstr "Everyone, rest up so we'll be in top shape tomorrow."
 msgctxt "00000123"
 msgid ""
 "番人：ゆっくり休んで、英気を養うといい。"
-msgstr ""
+msgstr "Guard: A great rest is needed for great strength."
 
 #: 0037AE42
 msgctxt "00000124"
@@ -1152,31 +1170,31 @@ msgstr "Ahh, I love him..."
 msgctxt "00000185"
 msgid ""
 "番人：今はそこを通すわけにはいかない。"
-msgstr ""
+msgstr "Guard: You cannot pass right now."
 
 #: 0037BCA2
 msgctxt "00000186"
 msgid ""
 "あせらず時を待ちなさい。"
-msgstr ""
+msgstr "Please be patient and relax."
 
 #: 0037BCF1
 msgctxt "00000187"
 msgid ""
 "番人：今はそこを通すわけにはいかない。"
-msgstr ""
+msgstr "Guard: You cannot pass right now."
 
 #: 0037BD1B
 msgctxt "00000188"
 msgid ""
 "あせらず時を待ちなさい。"
-msgstr ""
+msgstr "Please be patient and relax."
 
 #: 0037BD89
 msgctxt "00000189"
 msgid ""
 "番人：お前さん達はもうそこには用はないはずじゃ。"
-msgstr ""
+msgstr "Guard: There shouldn't be any reason for you to go through anymore."
 
 #: 0037BDEF
 msgctxt "00000190"
@@ -1188,7 +1206,7 @@ msgstr "Kai: Let's report to the guard what happened."
 msgctxt "00000191"
 msgid ""
 "帰るのはそれからでも遅くないはずだ。"
-msgstr ""
+msgstr "It shouldn't take us too long."
 
 #: 0037BE5A
 msgctxt "00000192"
@@ -1212,13 +1230,13 @@ msgstr "Kai: Why even come here if we're just gonna leave?"
 msgctxt "00000195"
 msgid ""
 "番人：今はそこを通すわけにはいかない。"
-msgstr ""
+msgstr "Guard: You cannot pass right now."
 
 #: 0037BF7D
 msgctxt "00000196"
 msgid ""
 "あせらず時を待ちなさい。"
-msgstr ""
+msgstr "Please be patient and relax."
 
 #: 0037BFD2
 msgctxt "00000197"
@@ -1332,7 +1350,7 @@ msgstr "Thinking like that, am I right?"
 msgctxt "00000215"
 msgid ""
 "ミシリア：・・・・・・・・・・・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 0037C579
 msgctxt "00000216"
@@ -1368,7 +1386,7 @@ msgstr "That's the reason you came on this journey, right?"
 msgctxt "00000221"
 msgid ""
 "ミシリア：・・・・・・・・・・・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 0037C6EC
 msgctxt "00000222"
@@ -1562,7 +1580,7 @@ msgstr "Michelia: ..."
 msgctxt "00000253"
 msgid ""
 "カイ：・・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 0037D09A
 msgctxt "00000254"
