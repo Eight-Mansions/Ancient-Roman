@@ -1,4 +1,20 @@
-﻿msgctxt "00000000"
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-19 00:33-0400\n"
+"PO-Revision-Date: 2023-07-19 04:33+0000\n"
+"Last-Translator: EsperKnight <douglas.e.steele@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d1_s00_s000/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+msgctxt "00000000"
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -673,25 +689,25 @@ msgstr ""
 msgctxt "00000108"
 msgid ""
 "ゆかに穴が開いている！"
-msgstr ""
+msgstr "You found a hole in the floor!"
 
 #: 00001FF3
 msgctxt "00000109"
 msgid ""
 "こ、これは！？"
-msgstr ""
+msgstr "Woah!"
 
 #: 00002005
 msgctxt "00000110"
 msgid ""
 "これがどこかに続いているっていうぬけ穴か！？"
-msgstr ""
+msgstr "Don't tell me, is this a secret passage?!"
 
 #: 00002035
 msgctxt "00000111"
 msgid ""
 "・・・よしっ！入ってみよう！"
-msgstr ""
+msgstr "...only one way to find out!"
 
 #: 000020BC
 msgctxt "00000112"
@@ -729,25 +745,25 @@ msgstr "...only one way to find out!"
 msgctxt "00000117"
 msgid ""
 "ナイフを手に入れた。"
-msgstr ""
+msgstr "You got a Knife."
 
 #: 00002353
 msgctxt "00000118"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 00044992
 msgctxt "00000119"
 msgid ""
 "ヘカの実を手に入れた。"
-msgstr ""
+msgstr "You got a Heka Fruit!"
 
 #: 000449D9
 msgctxt "00000120"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 00044A26
 msgctxt "00000121"
@@ -790,13 +806,13 @@ msgstr "Girl: How do you even hide such a passageway, and where?"
 msgctxt "00000127"
 msgid ""
 "ヘカの実を手に入れた。"
-msgstr ""
+msgstr "You got a Heka Fruit!"
 
 #: 0008916F
 msgctxt "00000128"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 000CD973
 msgctxt "00000129"
@@ -1162,13 +1178,13 @@ msgstr "but it'll be our little secret!"
 msgctxt "00000189"
 msgid ""
 "ヘカの実を手に入れた。"
-msgstr ""
+msgstr "You got a Heka Fruit!"
 
 #: 00156B8D
 msgctxt "00000190"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 0019B145
 msgctxt "00000191"
@@ -1193,13 +1209,13 @@ msgstr "It's hard to admit it, but I'm getting old..."
 msgctxt "00000194"
 msgid ""
 "マカの実を手に入れた。"
-msgstr ""
+msgstr "You got a Maka Fruit!"
 
 #: 0019B21E
 msgctxt "00000195"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 001DF92E
 msgctxt "00000196"
@@ -1235,7 +1251,7 @@ msgstr "You took the axe head off. You got a Staff!"
 msgctxt "00000201"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry anymore."
 
 #: 001DFAEC
 msgctxt "00000202"
@@ -1247,19 +1263,19 @@ msgstr "There's nothing else you can salvage here."
 msgctxt "00000203"
 msgid ""
 "ナイフを手に入れた。"
-msgstr ""
+msgstr "You got a Knife!"
 
 #: 001DFB9E
 msgctxt "00000204"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 001DFBCF
 msgctxt "00000205"
 msgid ""
 "使えそうな物は見あたらない。"
-msgstr ""
+msgstr "Nothing here that looks useful."
 
 #: 00224142
 msgctxt "00000206"
@@ -1548,7 +1564,7 @@ msgstr "Kai: What about you, Michelia?"
 msgctxt "00000252"
 msgid ""
 "ミシリア：・・・・・・・・・・"
-msgstr ""
+msgstr "Michelia: ........."
 
 #: 00336328
 msgctxt "00000253"
