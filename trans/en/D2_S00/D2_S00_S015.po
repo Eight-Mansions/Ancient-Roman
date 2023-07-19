@@ -1,594 +1,713 @@
 ﻿#: 0011214C
+msgctxt "00000000"
 msgid ""
 "ミシリア：見て、壁にひびが・・・"
 msgstr ""
 
 #: 001121A8
+msgctxt "00000001"
 msgid ""
 "バーク：そういうことなら任せろ。"
 msgstr ""
 
 #: 001121E8
+msgctxt "00000002"
 msgid ""
 "バーク：うおりゃーーーーー！！！"
 msgstr ""
 
 #: 0011228D
+msgctxt "00000003"
 msgid ""
 "バーク：ちっ、もう一発！！。"
 msgstr ""
 
 #: 001122EA
+msgctxt "00000004"
 msgid ""
 "バーク：うおりゃーーーーーー！！。"
 msgstr ""
 
 #: 0015699C
+msgctxt "00000005"
 msgid ""
 "ミシリア：・・・すごい壁がふきとんじゃった。"
 msgstr ""
 
 #: 00156A0B
+msgctxt "00000006"
 msgid ""
 "ミーナ：また無茶して、ほら、つかまるといい。"
 msgstr ""
 
 #: 00156A3B
+msgctxt "00000007"
 msgid ""
 "どうせ１人じゃ立てないんだろ？"
 msgstr ""
 
 #: 00156A99
+msgctxt "00000008"
 msgid ""
 "バーク：へへっ。たまには素直にしたがうぜ。"
 msgstr ""
 
 #: 00156AC7
+msgctxt "00000009"
 msgid ""
 "よっ！！"
 msgstr ""
 
 #: 00156AE1
+msgctxt "00000010"
 msgid ""
 "＿＿＿＿＿＿ふみゅ▽"
 msgstr ""
 
 #: 00156B12
+msgctxt "00000011"
 msgid ""
 "ミーナ：・・・・・・・・・・・・・・"
 msgstr ""
 
 #: 00156B53
+msgctxt "00000012"
 msgid ""
 "バーク：うほっ▽。いがいとボリュームが・・・"
 msgstr ""
 
 #: 00156B9C
+msgctxt "00000013"
 msgid ""
 "ミーナ：！！！！！！！！！（こえにならないさけび）。"
 msgstr ""
 
 #: 00156BF9
+msgctxt "00000014"
 msgid ""
 "ミーナ：ど、どこをさわっている！！。"
 msgstr ""
 
 #: 00156CE6
+msgctxt "00000015"
 msgid ""
 "ミシリア：・・・すごい、壁まで吹き飛んじゃった。"
 msgstr ""
 
 #: 00156D28
+msgctxt "00000016"
 msgid ""
 "バーク：さ、最初からこいつがやりゃあよかったんじゃ・・・ばた。"
 msgstr ""
 
 #: 00156D86
+msgctxt "00000017"
 msgid ""
 "カイ：そ、そうだね、バーク・・・"
 msgstr ""
 
 #: 00156E3C
+msgctxt "00000018"
 msgid ""
 "カイ：これが封印を解く装置か？"
 msgstr ""
 
 #: 00156E9A
+msgctxt "00000019"
 msgid ""
 "カイ：な、なんだ！？"
 msgstr ""
 
 #: 00156EC0
+msgctxt "00000020"
 msgid ""
 "ミシリア：カイ、これで表の洞窟の封印がとかれたはずよ？"
 msgstr ""
 
 #: 00156EFA
+msgctxt "00000021"
 msgid ""
 "いってみましょう？"
 msgstr ""
 
 #: 00156F1E
+msgctxt "00000022"
 msgid ""
 "カイ：よし、いってみよう。"
 msgstr ""
 
 #: 00156F78
+msgctxt "00000023"
 msgid ""
 "カイ：なんだろう、これ？"
 msgstr ""
 
 #: 00156FD0
+msgctxt "00000024"
 msgid ""
 "カイ：な、なんだ！？"
 msgstr ""
 
 #: 00156FF6
+msgctxt "00000025"
 msgid ""
 "ミシリア：カイ、表のほうで音がしたわ。"
 msgstr ""
 
 #: 00157020
+msgctxt "00000026"
 msgid ""
 "いってみましょう？"
 msgstr ""
 
 #: 00157051
+msgctxt "00000027"
 msgid ""
 "カイ：もうなにもおこらない・・・"
 msgstr ""
 
 #: 001DF9B9
+msgctxt "00000028"
 msgid ""
 "傷薬を手に入れた。"
 msgstr ""
 
 #: 001DF9FC
+msgctxt "00000029"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 001DFA2D
+msgctxt "00000030"
 msgid ""
 "何も見つからない。"
 msgstr ""
 
 #: 001DFA92
+msgctxt "00000031"
 msgid ""
 "ポールアックスを手に入れた。"
 msgstr ""
 
 #: 001DFADF
+msgctxt "00000032"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 001DFB10
+msgctxt "00000033"
 msgid ""
 "何も見つからない。"
 msgstr ""
 
 #: 002241A6
+msgctxt "00000034"
 msgid ""
 "ギアスの玉を手に入れた。"
 msgstr ""
 
 #: 002241F7
+msgctxt "00000035"
 msgid ""
 "何も入っていない。"
 msgstr ""
 
 #: 00224249
+msgctxt "00000036"
 msgid ""
 "カイ：な、魔物が・・・"
 msgstr ""
 
 #: 0022427F
+msgctxt "00000037"
 msgid ""
 "魔物：うがあああああああ！"
 msgstr ""
 
 #: 002242B6
+msgctxt "00000038"
 msgid ""
 "カイ：来るぞ！"
 msgstr ""
 
 #: 00224306
+msgctxt "00000039"
 msgid ""
 "カイ：いきなり、おそいかかってきたけど・・・"
 msgstr ""
 
 #: 00224336
+msgctxt "00000040"
 msgid ""
 "ここを守っていたんだろうか？"
 msgstr ""
 
 #: 00268A72
+msgctxt "00000041"
 msgid ""
 "男：なんかようかい？ようがないならほっといてくれよ。"
 msgstr ""
 
 #: 00268AAA
+msgctxt "00000042"
 msgid ""
 "初対面の人に話かけてくるなんて、なれなれしい人たちだな。"
 msgstr ""
 
 #: 00268B01
+msgctxt "00000043"
 msgid ""
 "男：・・・・・ほんとに変な人達だな・・・"
 msgstr ""
 
 #: 00268B46
+msgctxt "00000044"
 msgid ""
 "男：ここは、ファーナスの町です。"
 msgstr ""
 
 #: 00268B6A
+msgctxt "00000045"
 msgid ""
 "これといって名物はないけれど、まぁゆっくりしていってください。"
 msgstr ""
 
 #: 00268BC7
+msgctxt "00000046"
 msgid ""
 "男：名物のないのが逆に名物かもね。"
 msgstr ""
 
 #: 002AD2BE
+msgctxt "00000047"
 msgid ""
 "女：あなたたち、見かけない顔ね？旅の人かしら？"
 msgstr ""
 
 #: 002AD2F0
+msgctxt "00000048"
 msgid ""
 "一つ聞きたいんだけど、南にあるルーンマルナの町はどうなったのかしら？"
 msgstr ""
 
 #: 002AD338
+msgctxt "00000049"
 msgid ""
 "魔物におそわれたというのは本当かしら？"
 msgstr ""
 
 #: 002AD37D
+msgctxt "00000050"
 msgid ""
 "女：最近、魔物が横行しているらしいじゃない。"
 msgstr ""
 
 #: 002AD3AD
+msgctxt "00000051"
 msgid ""
 "国はなにやってるのかしら？"
 msgstr ""
 
 #: 002AD3CB
+msgctxt "00000052"
 msgid ""
 "ぜい金とってるんだから、しっかりしてよね。"
 msgstr ""
 
 #: 002AD412
+msgctxt "00000053"
 msgid ""
 "女：なあに？番人？よくは知らないけど"
 msgstr ""
 
 #: 002AD43A
+msgctxt "00000054"
 msgid ""
 "そう自称している人なら港の方の小屋に居るわよ。"
 msgstr ""
 
 #: 002AD487
+msgctxt "00000055"
 msgid ""
 "女：あのじいさん、そろそろ頭のほうやばいんじゃないの？"
 msgstr ""
 
 #: 002AD4D0
+msgctxt "00000056"
 msgid ""
 "男の子：お兄ちゃん達、いっしょに遊ぼ。"
 msgstr ""
 
 #: 002F194B
+msgctxt "00000057"
 msgid ""
 "カギがかかっているようだ。"
 msgstr ""
 
 #: 002F1990
+msgctxt "00000058"
 msgid ""
 "なんじらをわが廟に導こう。"
 msgstr ""
 
 #: 002F19BF
+msgctxt "00000059"
 msgid ""
 "カイ：な、なんだ！？か、からだが・・・"
 msgstr ""
 
 #: 002F19E9
+msgctxt "00000060"
 msgid ""
 "うああああああっ！！"
 msgstr ""
 
 #: 00336115
+msgctxt "00000061"
 msgid ""
 "防具屋：いらっしゃいませ"
 msgstr ""
 
 #: 0037A945
+msgctxt "00000062"
 msgid ""
 "カイ：はじめまして、僕はカイ＝オルフェアスといいます。"
 msgstr ""
 
 #: 0037A97F
+msgctxt "00000063"
 msgid ""
 "「勇士の廟」の番人さんですね？"
 msgstr ""
 
 #: 0037A9AF
+msgctxt "00000064"
 msgid ""
 "番人：ああ、そうだが・・・。この老いぼれに何の用かね。"
 msgstr ""
 
 #: 0037A9F7
+msgctxt "00000065"
 msgid ""
 "カイ：番人さん、「勇士の廟」に入るための方法を教えて下さい。"
 msgstr ""
 
 #: 0037AA45
+msgctxt "00000066"
 msgid ""
 "番人：その番人さんというのはよしてくれんかの？"
 msgstr ""
 
 #: 0037AA77
+msgctxt "00000067"
 msgid ""
 "わしにはシェリルという名前があるんじゃ。"
 msgstr ""
 
 #: 0037AAA3
+msgctxt "00000068"
 msgid ""
 "シェリル：で、お前さん達、勇士の神の力でも手に入れようって気かね？"
 msgstr ""
 
 #: 0037AAF7
+msgctxt "00000069"
 msgid ""
 "カイ：はい、その通りです。"
 msgstr ""
 
 #: 0037AB23
+msgctxt "00000070"
 msgid ""
 "シェリル：ふむ・・・"
 msgstr ""
 
 #: 0037AB3B
+msgctxt "00000071"
 msgid ""
 "残念だが、今のおぬし達では無理な話じゃ。"
 msgstr ""
 
 #: 0037AB67
+msgctxt "00000072"
 msgid ""
 "海王の許しをなくして勇士の神にはあえんぞ。"
 msgstr ""
 
 #: 0037AB95
+msgctxt "00000073"
 msgid ""
 "古文書にもそうしるされていたと思うがの？"
 msgstr ""
 
 #: 0037ABCF
+msgctxt "00000074"
 msgid ""
 "サリナ：ごっめーん。カイ。そーいやそんなことが書いてあったわ。"
 msgstr ""
 
 #: 0037AC2C
+msgctxt "00000075"
 msgid ""
 "シェリル：海王の許しを得るのが先じゃの。"
 msgstr ""
 
 #: 0037AC7A
+msgctxt "00000076"
 msgid ""
 "カイ：はじめまして、僕はカイ＝オルフェアスといいます。"
 msgstr ""
 
 #: 0037ACB4
+msgctxt "00000077"
 msgid ""
 "「勇士の廟」の番人さんですね？"
 msgstr ""
 
 #: 0037ACE4
+msgctxt "00000078"
 msgid ""
 "番人：ああ、そうだが・・・。この老いぼれに何の用かね。"
 msgstr ""
 
 #: 0037AD2C
+msgctxt "00000079"
 msgid ""
 "カイ：番人さん、「勇士の廟」に入るための方法を教えて下さい。"
 msgstr ""
 
 #: 0037AD7A
+msgctxt "00000080"
 msgid ""
 "番人：その番人さんというのはよしてくれんかの？"
 msgstr ""
 
 #: 0037ADAC
+msgctxt "00000081"
 msgid ""
 "わしにはシェリルという、親からもらった名前があるんじゃ。"
 msgstr ""
 
 #: 0037ADE8
+msgctxt "00000082"
 msgid ""
 "で、お前さん達、勇士の神の力でも手に入れようって気かね？"
 msgstr ""
 
 #: 0037AE32
+msgctxt "00000083"
 msgid ""
 "カイ：はい、その通りです。"
 msgstr ""
 
 #: 0037AE5E
+msgctxt "00000084"
 msgid ""
 "シェリル：ほっほっ・・・そうかそうか。では、教えて進ぜよう。"
 msgstr ""
 
 #: 0037AE9E
+msgctxt "00000085"
 msgid ""
 "いいか？よく聞くんじゃぞ。"
 msgstr ""
 
 #: 0037AEBC
+msgctxt "00000086"
 msgid ""
 "ルナの浅瀬の北にアルナという関がある。"
 msgstr ""
 
 #: 0037AEE6
+msgctxt "00000087"
 msgid ""
 "そのアルナの関から山に入ったところにロブコロアの滝がある。"
 msgstr ""
 
 #: 0037AF24
+msgctxt "00000088"
 msgid ""
 "その中に勇士の神の使った剣がほかんされている。"
 msgstr ""
 
 #: 0037AF56
+msgctxt "00000089"
 msgid ""
 "その剣を持ってわしの所にもどってきなさい。"
 msgstr ""
 
 #: 0037AF84
+msgctxt "00000090"
 msgid ""
 "まずはそれからです。"
 msgstr ""
 
 #: 0037AFAA
+msgctxt "00000091"
 msgid ""
 "カイ：はい。わかりました。"
 msgstr ""
 
 #: 0037AFEB
+msgctxt "00000092"
 msgid ""
 "カイ：番人さん、「勇士の廟」に入るための方法を教えて下さい。"
 msgstr ""
 
 #: 0037B039
+msgctxt "00000093"
 msgid ""
 "番人：その番人さんというのはよしてくれんかの？"
 msgstr ""
 
 #: 0037B06B
+msgctxt "00000094"
 msgid ""
 "わしにはシェリルという、親からもらった名前があるんじゃ。"
 msgstr ""
 
 #: 0037B0A7
+msgctxt "00000095"
 msgid ""
 "ほう、海王様におあいなさったね。そうかそうか。では、教えて進ぜよう。"
 msgstr ""
 
 #: 0037B0EF
+msgctxt "00000096"
 msgid ""
 "いいか？よく聞くんじゃぞ。"
 msgstr ""
 
 #: 0037B10D
+msgctxt "00000097"
 msgid ""
 "ルナの浅瀬の北にアルナという関がある。"
 msgstr ""
 
 #: 0037B137
+msgctxt "00000098"
 msgid ""
 "そのアルナの関から山に入ったところにロブコロアの滝がある。"
 msgstr ""
 
 #: 0037B175
+msgctxt "00000099"
 msgid ""
 "その中に勇士の神の使った剣がほかんされている。"
 msgstr ""
 
 #: 0037B1A7
+msgctxt "00000100"
 msgid ""
 "その剣を持ってわしの所にもどってきなさい。"
 msgstr ""
 
 #: 0037B1D5
+msgctxt "00000101"
 msgid ""
 "まずはそれからです。"
 msgstr ""
 
 #: 0037B1FB
+msgctxt "00000102"
 msgid ""
 "カイ：はい。わかりました。"
 msgstr ""
 
 #: 0037B234
+msgctxt "00000103"
 msgid ""
 "シェリル：アルナの関の北のロブコロアの滝に行き"
 msgstr ""
 
 #: 0037B266
+msgctxt "00000104"
 msgid ""
 "まず剣を手に入れてきなさい。"
 msgstr ""
 
 #: 0037B286
+msgctxt "00000105"
 msgid ""
 "まずはそれからです。"
 msgstr ""
 
 #: 0037B2B1
+msgctxt "00000106"
 msgid ""
 "シェリル：おお、剣を手に入れられましたか。"
 msgstr ""
 
 #: 0037B2DF
+msgctxt "00000107"
 msgid ""
 "表の船着き場に行って下さい。"
 msgstr ""
 
 #: 0037B2FF
+msgctxt "00000108"
 msgid ""
 "勇士の神があなたを導くことでしょう。"
 msgstr ""
 
 #: 0037B342
+msgctxt "00000109"
 msgid ""
 "表の船着き場に行ってください。"
 msgstr ""
 
 #: 0037B364
+msgctxt "00000110"
 msgid ""
 "勇士の神があなたを導くことでしょう。"
 msgstr ""
 
 #: 0037B40E
+msgctxt "00000111"
 msgid ""
 "シェリル：まだこの老いぼれに用ですかな？"
 msgstr ""
 
 #: 0037B43A
+msgctxt "00000112"
 msgid ""
 "そうそう、神の力を手に入れられたのでしたら"
 msgstr ""
 
 #: 0037B468
+msgctxt "00000113"
 msgid ""
 "封印の島に行ってこられてはどうですかな？"
 msgstr ""
 
 #: 0037B494
+msgctxt "00000114"
 msgid ""
 "それとももういかれましたかな？"
 msgstr ""
 
 #: 003BF129
+msgctxt "00000115"
 msgid ""
 "バーテン：何にしますか？"
 msgstr ""
 
 #: 003BF1A7
+msgctxt "00000116"
 msgid ""
 "女：なあに？"
 msgstr ""
 
 #: 003BF1B7
+msgctxt "00000117"
 msgid ""
 "注文ならとなりに言ってね▽"
 msgstr ""
 
 #: 003BF1D5
+msgctxt "00000118"
 msgid ""
 "それとも、うふ、私をごしめいくださるかしら▽"
 msgstr ""

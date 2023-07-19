@@ -1,79 +1,95 @@
 ﻿#: 00268994
+msgctxt "00000000"
 msgid ""
 "カイ：これが残りの半分か・・・"
 msgstr ""
 
 #: 002689C9
+msgctxt "00000001"
 msgid ""
 "冥界の像を手に入れた。"
 msgstr ""
 
 #: 00268A16
+msgctxt "00000002"
 msgid ""
 "カイ：これがかぎとなる像か。"
 msgstr ""
 
 #: 00268A57
+msgctxt "00000003"
 msgid ""
 "冥界の像を手に入れた。"
 msgstr ""
 
 #: 0033617A
+msgctxt "00000004"
 msgid ""
 "アクアローゼを憶えた。"
 msgstr ""
 
 #: 003361EA
+msgctxt "00000005"
 msgid ""
 "何も入っていない。"
 msgstr ""
 
 #: 0037A984
+msgctxt "00000006"
 msgid ""
 "カイ：これが残りの半分か・・・"
 msgstr ""
 
 #: 0037A9B9
+msgctxt "00000007"
 msgid ""
 "冥界の像を手に入れた。"
 msgstr ""
 
 #: 0037AA0B
+msgctxt "00000008"
 msgid ""
 "カイ：これが聖者の言ってた像だな。"
 msgstr ""
 
 #: 0037AA4D
+msgctxt "00000009"
 msgid ""
 "冥界の像を手に入れた。"
 msgstr ""
 
 #: 003BF151
+msgctxt "00000010"
 msgid ""
 "カイ：あれ？どうして進めないんだ？"
 msgstr ""
 
 #: 003BF185
+msgctxt "00000011"
 msgid ""
 "ミーナ：これは封印の呪文がほどこしてあります。"
 msgstr ""
 
 #: 003BF1B7
+msgctxt "00000012"
 msgid ""
 "これを無理矢理はいじょするのはおそらく無理でしょう。"
 msgstr ""
 
 #: 003BF1EF
+msgctxt "00000013"
 msgid ""
 "封印を解く装置がどこかにあるはずです。それを探しましょう。"
 msgstr ""
 
 #: 003BF250
+msgctxt "00000014"
 msgid ""
 "ミーナ：封印を解く装置がどこかにあるはずです。"
 msgstr ""
 
 #: 003BF282
+msgctxt "00000015"
 msgid ""
 "それを探しましょう。"
 msgstr ""

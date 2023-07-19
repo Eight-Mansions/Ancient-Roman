@@ -1,584 +1,701 @@
 ﻿#: 00000186
+msgctxt "00000000"
 msgid ""
 "マカの実を手に入れた。"
 msgstr ""
 
 #: 000001CD
+msgctxt "00000001"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 000001FE
+msgctxt "00000002"
 msgid ""
 "何も見つからない。"
 msgstr ""
 
 #: 00089186
+msgctxt "00000003"
 msgid ""
 "ビッグヘカを手に入れた。"
 msgstr ""
 
 #: 000891CF
+msgctxt "00000004"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 00089200
+msgctxt "00000005"
 msgid ""
 "何も入っていない。"
 msgstr ""
 
 #: 00112164
+msgctxt "00000006"
 msgid ""
 "ファラ：ねえねえ、この辺じゃないかな？"
 msgstr ""
 
 #: 0011218E
+msgctxt "00000007"
 msgid ""
 "なんとなくそれっぽいよ。"
 msgstr ""
 
 #: 001121C3
+msgctxt "00000008"
 msgid ""
 "バーク：へん、そんな簡単に見つかるかよ。"
 msgstr ""
 
 #: 001121FD
+msgctxt "00000009"
 msgid ""
 "カイ：もう少し、ちゃんと調べてみないと何とも言えないな。"
 msgstr ""
 
 #: 00112252
+msgctxt "00000010"
 msgid ""
 "バーク：へーへー。"
 msgstr ""
 
 #: 00112295
+msgctxt "00000011"
 msgid ""
 "ファラ：もっとヤル気だせー！えいえいえいえい！"
 msgstr ""
 
 #: 00112317
+msgctxt "00000012"
 msgid ""
 "バーク：あだだだだっ。このチビ！んなもんでなぐるな！"
 msgstr ""
 
 #: 001123B3
+msgctxt "00000013"
 msgid ""
 "ファラ：うわっ！"
 msgstr ""
 
 #: 00112415
+msgctxt "00000014"
 msgid ""
 "カイ：な・・・これは・・・"
 msgstr ""
 
 #: 0011244F
+msgctxt "00000015"
 msgid ""
 "ミシリア：見て！この木・・・"
 msgstr ""
 
 #: 00112496
+msgctxt "00000016"
 msgid ""
 "カイ：もしかして、ここに入るとエルフに会えるのかな・・・"
 msgstr ""
 
 #: 001124EE
+msgctxt "00000017"
 msgid ""
 "バーク：おい、チビスケ。お前の持っている物を見せろ。"
 msgstr ""
 
 #: 00112579
+msgctxt "00000018"
 msgid ""
 "ファラ：いーやっ！"
 msgstr ""
 
 #: 001125DB
+msgctxt "00000019"
 msgid ""
 "ミシリア：ねえ、ファラが持っているの、"
 msgstr ""
 
 #: 00112605
+msgctxt "00000020"
 msgid ""
 "あれ、おばあさんにもらった杖じゃ・・・"
 msgstr ""
 
 #: 00112678
+msgctxt "00000021"
 msgid ""
 "カイ：・・・そうか、あの杖が入口を開くカギになっていたんだ。"
 msgstr ""
 
 #: 001126B8
+msgctxt "00000022"
 msgid ""
 "とにかく、中に入ってみよう。"
 msgstr ""
 
 #: 001126E6
+msgctxt "00000023"
 msgid ""
 "バーク：だから、見せろって、言ってる、だろ！"
 msgstr ""
 
 #: 0011272F
+msgctxt "00000024"
 msgid ""
 "ハア、ハア、ハア・・・"
 msgstr ""
 
 #: 00112762
+msgctxt "00000025"
 msgid ""
 "ファラ：イヤダモーンっ。"
 msgstr ""
 
 #: 0011278C
+msgctxt "00000026"
 msgid ""
 "カイ：ふたりとも！何やってんの！"
 msgstr ""
 
 #: 001127DD
+msgctxt "00000027"
 msgid ""
 "バーク＆ファラ：ヘーイ。"
 msgstr ""
 
 #: 0019B1FF
+msgctxt "00000028"
 msgid ""
 "カイ：エ、エルフ・・・・・・？"
 msgstr ""
 
 #: 0019B2CE
+msgctxt "00000029"
 msgid ""
 "エルフの女：人がこのような所に現われるとは！"
 msgstr ""
 
 #: 0019B2FE
+msgctxt "00000030"
 msgid ""
 "カイ：待って！僕達は！"
 msgstr ""
 
 #: 0019B318
+msgctxt "00000031"
 msgid ""
 "エルフの女：問答無用！"
 msgstr ""
 
 #: 001DF9DD
+msgctxt "00000032"
 msgid ""
 "カイ：あれ・・・？"
 msgstr ""
 
 #: 001DFA2C
+msgctxt "00000033"
 msgid ""
 "カイ：どうしたんだろう？先に進めない・・・"
 msgstr ""
 
 #: 001DFAB0
+msgctxt "00000034"
 msgid ""
 "マクロード：はずかしながら、この私も前に進めません。"
 msgstr ""
 
 #: 001DFAE8
+msgctxt "00000035"
 msgid ""
 "気持ちは前向きなのですが、体がいやがっているような・・・"
 msgstr ""
 
 #: 001DFB32
+msgctxt "00000036"
 msgid ""
 "ミーナ：この奥に、邪悪で強力な力の存在を感じます。"
 msgstr ""
 
 #: 001DFB68
+msgctxt "00000037"
 msgid ""
 "無意識のうちに、体が進むことをきょぜつしているように思いますが・・・"
 msgstr ""
 
 #: 001DFBB0
+msgctxt "00000038"
 msgid ""
 "おそらく、結界の一種ではないでしょうか。"
 msgstr ""
 
 #: 001DFBEA
+msgctxt "00000039"
 msgid ""
 "バーク：俺はそんなことないぜ！"
 msgstr ""
 
 #: 001DFC0C
+msgctxt "00000040"
 msgid ""
 "おりゃぁぁぁーーー！！！"
 msgstr ""
 
 #: 001DFC9C
+msgctxt "00000041"
 msgid ""
 "おおおおおおおっ！"
 msgstr ""
 
 #: 001DFCC0
+msgctxt "00000042"
 msgid ""
 "ミーナ：ムリです！人間の力でやぶれるような結界では・・・"
 msgstr ""
 
 #: 001DFDA0
+msgctxt "00000043"
 msgid ""
 "カイ：な・・・？！"
 msgstr ""
 
 #: 001DFDDD
+msgctxt "00000044"
 msgid ""
 "ミシリア：すごい・・・"
 msgstr ""
 
 #: 001DFE05
+msgctxt "00000045"
 msgid ""
 "ミーナ：・・・結界の強せい力が弱まりました。"
 msgstr ""
 
 #: 001DFE35
+msgctxt "00000046"
 msgid ""
 "なんとも、単純というか、ムチャクチャというか・・・"
 msgstr ""
 
 #: 001DFE6B
+msgctxt "00000047"
 msgid ""
 "とにかく、これなら先に進めそうです。"
 msgstr ""
 
 #: 001DFEA1
+msgctxt "00000048"
 msgid ""
 "カイ：よし、行こう。"
 msgstr ""
 
 #: 002241A7
+msgctxt "00000049"
 msgid ""
 "カイ：うわあぁぁ！"
 msgstr ""
 
 #: 002241CE
+msgctxt "00000050"
 msgid ""
 "バーク：うわははははははは！"
 msgstr ""
 
 #: 002241FF
+msgctxt "00000051"
 msgid ""
 "ミシリア：は、早く逃げましょ！"
 msgstr ""
 
 #: 00224232
+msgctxt "00000052"
 msgid ""
 "カイ：う、うん！"
 msgstr ""
 
 #: 00224257
+msgctxt "00000053"
 msgid ""
 "ミシリア：きゃあ！"
 msgstr ""
 
 #: 0022426D
+msgctxt "00000054"
 msgid ""
 "どこさわってんのよ！！"
 msgstr ""
 
 #: 0022429B
+msgctxt "00000055"
 msgid ""
 "カイ：お、おてがらだったね、バーク・・・"
 msgstr ""
 
 #: 002242E0
+msgctxt "00000056"
 msgid ""
 "バーク：いやー、それほどでもあるけどな。"
 msgstr ""
 
 #: 0022430C
+msgctxt "00000057"
 msgid ""
 "洞窟がくずれてきたのは、計算外だったが。"
 msgstr ""
 
 #: 00224354
+msgctxt "00000058"
 msgid ""
 "ミーナ：まったく・・・後先考えずに、いきなり壊すなんて。"
 msgstr ""
 
 #: 00224390
+msgctxt "00000059"
 msgid ""
 "今回は、たまたま助かりましたが、時には取り返しのつかない結果を"
 msgstr ""
 
 #: 002243D2
+msgctxt "00000060"
 msgid ""
 "引き起こすこともあるのです。もう少し、考えて行動して欲しいですね。"
 msgstr ""
 
 #: 00224431
+msgctxt "00000061"
 msgid ""
 "バーク：なにーっ！！せっかく助けてやったのに！"
 msgstr ""
 
 #: 0022447A
+msgctxt "00000062"
 msgid ""
 "マクロード：確かにバーク殿の行動はけいそつではあったが、"
 msgstr ""
 
 #: 002244B6
+msgctxt "00000063"
 msgid ""
 "ミーナ殿の身を心配してのことでしょう。"
 msgstr ""
 
 #: 002244E0
+msgctxt "00000064"
 msgid ""
 "それに、行動にまよいが少なければ、戦士としての強さにつながると"
 msgstr ""
 
 #: 00224522
+msgctxt "00000065"
 msgid ""
 "私は考えますが。"
 msgstr ""
 
 #: 00224552
+msgctxt "00000066"
 msgid ""
 "ミシリア：・・・ミーナさん。"
 msgstr ""
 
 #: 0022458E
+msgctxt "00000067"
 msgid ""
 "ミーナ：いえ・・・感謝していないわけではありません。"
 msgstr ""
 
 #: 002245C6
+msgctxt "00000068"
 msgid ""
 "ですが、確かに言いすぎたかもしれませんね。"
 msgstr ""
 
 #: 00224610
+msgctxt "00000069"
 msgid ""
 "バーク：分かりゃいいんだよ。分かりゃ。"
 msgstr ""
 
 #: 00224656
+msgctxt "00000070"
 msgid ""
 "カイ：とにかく、早くここを出よう・・・とほほ。"
 msgstr ""
 
 #: 002246F3
+msgctxt "00000071"
 msgid ""
 "カイ：くずれてしまって、先に進めない。"
 msgstr ""
 
 #: 002688E5
+msgctxt "00000072"
 msgid ""
 "ミーナ：く・・・"
 msgstr ""
 
 #: 0026895C
+msgctxt "00000073"
 msgid ""
 "ミシリア：ミーナさん？！"
 msgstr ""
 
 #: 002689E4
+msgctxt "00000074"
 msgid ""
 "カイ：なんでミーナだけが？！僕達は何ともないのに・・・"
 msgstr ""
 
 #: 00268A2C
+msgctxt "00000075"
 msgid ""
 "バーク：こいつだ！こいつが原因に違いねえ！"
 msgstr ""
 
 #: 00268A5A
+msgctxt "00000076"
 msgid ""
 "ええいっ！メンドくせえ！"
 msgstr ""
 
 #: 002AD161
+msgctxt "00000077"
 msgid ""
 "カイ：ここが聖獣のほこらか・・・"
 msgstr ""
 
 #: 002AD188
+msgctxt "00000078"
 msgid ""
 "あれ？開かないぞ。"
 msgstr ""
 
 #: 002AD1B5
+msgctxt "00000079"
 msgid ""
 "バーク：俺に任せてみろって。"
 msgstr ""
 
 #: 002AD1D8
+msgctxt "00000080"
 msgid ""
 "ありゃ？びくともしねえ。"
 msgstr ""
 
 #: 002AD202
+msgctxt "00000081"
 msgid ""
 "ミーナ：ずいぶん強力な結界がはってあるようですね。"
 msgstr ""
 
 #: 002AD238
+msgctxt "00000082"
 msgid ""
 "誰か魔法にくわしい方が、この村にいれば何とかなるかもしれないんですが。"
 msgstr ""
 
 #: 002AD290
+msgctxt "00000083"
 msgid ""
 "ミシリア：そういえば・・・"
 msgstr ""
 
 #: 0033617E
+msgctxt "00000084"
 msgid ""
 "カイ：何だろう・・・不思議な感じが・・・"
 msgstr ""
 
 #: 003361B8
+msgctxt "00000085"
 msgid ""
 "ミシリア：カイ！あれを見て！"
 msgstr ""
 
 #: 003361F4
+msgctxt "00000086"
 msgid ""
 "カイ：これが神の力・・・？"
 msgstr ""
 
 #: 00336229
+msgctxt "00000087"
 msgid ""
 "カイ：な、ドラゴンソードが・・・！"
 msgstr ""
 
 #: 00336284
+msgctxt "00000088"
 msgid ""
 "バーク：どうなってんだ・・・？ドラゴンの像の中から、剣が出てきたぞ。"
 msgstr ""
 
 #: 003362DA
+msgctxt "00000089"
 msgid ""
 "ミーナ：ドラゴンソードを上回る、強い魔力を感じます。"
 msgstr ""
 
 #: 00336312
+msgctxt "00000090"
 msgid ""
 "おそらく、その剣が、彼を正当な所有者と認めたのではないでしょうか。"
 msgstr ""
 
 #: 00336366
+msgctxt "00000091"
 msgid ""
 "カイ：神のひめられた力が、解放されたということなんだろうか・・・"
 msgstr ""
 
 #: 003363B8
+msgctxt "00000092"
 msgid ""
 "ドラゴンセイバーを手に入れた。"
 msgstr ""
 
 #: 003363ED
+msgctxt "00000093"
 msgid ""
 "バロア：とにかく、これで全員そろったわけだ。"
 msgstr ""
 
 #: 0033642B
+msgctxt "00000094"
 msgid ""
 "バーク：これで悪の親玉を、ぶっとばせるってわけだな！"
 msgstr ""
 
 #: 00336471
+msgctxt "00000095"
 msgid ""
 "サリナ：で、どこの何てヤツを倒すんだっけねぇ？"
 msgstr ""
 
 #: 003364B1
+msgctxt "00000096"
 msgid ""
 "バーク：ええ？え、え・・・と、誰だっけ・・・？。"
 msgstr ""
 
 #: 003364F3
+msgctxt "00000097"
 msgid ""
 "ミーナ：ギゼフィルです。"
 msgstr ""
 
 #: 0033651D
+msgctxt "00000098"
 msgid ""
 "バーク：お、サンキュー。そうそう、ギゼフィルをぶっとばすんだ。"
 msgstr ""
 
 #: 0033656D
+msgctxt "00000099"
 msgid ""
 "ミシリア：・・・ねえ、カイ、これでもう大丈夫だよね。"
 msgstr ""
 
 #: 003365B3
+msgctxt "00000100"
 msgid ""
 "カイ：どうかな。今までとは比べられないくらいの強さを、僕達は"
 msgstr ""
 
 #: 003365F3
+msgctxt "00000101"
 msgid ""
 "手に入れたけど、それでゆだんしちゃいけないと思う。"
 msgstr ""
 
 #: 00336629
+msgctxt "00000102"
 msgid ""
 "本当に必要なのは、力じゃなくて、それを使うための心だと思うんだ。"
 msgstr ""
 
 #: 0033667B
+msgctxt "00000103"
 msgid ""
 "バロア：イイこと言うじゃねえか。後は俺達しだいってわけだな。"
 msgstr ""
 
 #: 003366C9
+msgctxt "00000104"
 msgid ""
 "カイ：そうだね。それじゃ、ひとまず、新ハインローグ城にもどって"
 msgstr ""
 
 #: 0033670B
+msgctxt "00000105"
 msgid ""
 "これからのことを考えよう。"
 msgstr ""
 
 #: 00336737
+msgctxt "00000106"
 msgid ""
 "全員：おおっ！"
 msgstr ""
 
 #: 0033679C
+msgctxt "00000107"
 msgid ""
 "カイ：これが伝説の武器・・・"
 msgstr ""
 
 #: 003367CA
+msgctxt "00000108"
 msgid ""
 "ドラゴンソードを手にいれた。"
 msgstr ""
 
 #: 003367F8
+msgctxt "00000109"
 msgid ""
 "なんじの力、遠くおよばぬ。剣の力ここに現れず。"
 msgstr ""
 
 #: 0033682A
+msgctxt "00000110"
 msgid ""
 "時のおとずれを待たずして、力は手に入れられぬものなり。"
 msgstr ""
 
 #: 00336872
+msgctxt "00000111"
 msgid ""
 "バーク：なんだ？今の。"
 msgstr ""
 
 #: 0033689A
+msgctxt "00000112"
 msgid ""
 "カイ：さあ・・・・・・？"
 msgstr ""
 
 #: 003368DB
+msgctxt "00000113"
 msgid ""
 "これといって何も見つからない。"
 msgstr ""
 
 #: 0037A95B
+msgctxt "00000114"
 msgid ""
 "聖者：むこうに見えるのが聖者の塔です。"
 msgstr ""
 
 #: 0037A985
+msgctxt "00000115"
 msgid ""
 "あの塔の最上階に大聖者様がおられます。"
 msgstr ""
 
 #: 0037A9CD
+msgctxt "00000116"
 msgid ""
 "聖者：あれが聖者の塔です"
 msgstr ""

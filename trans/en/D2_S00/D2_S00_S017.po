@@ -1,1044 +1,1253 @@
 ﻿#: 000449B9
+msgctxt "00000000"
 msgid ""
 "カイ：・・・よし、開いた。"
 msgstr ""
 
 #: 000449F7
+msgctxt "00000001"
 msgid ""
 "カイ：・・・だめだ、まだ開かないんだ。"
 msgstr ""
 
 #: 00044A35
+msgctxt "00000002"
 msgid ""
 "老女：ドロア城の宝玉じゃ。"
 msgstr ""
 
 #: 00044A53
+msgctxt "00000003"
 msgid ""
 "忘れるでないぞ。"
 msgstr ""
 
 #: 00044A7A
+msgctxt "00000004"
 msgid ""
 "老女：お前らに「力」があるのなら、ピカの浅瀬に道が現れる。"
 msgstr ""
 
 #: 00044AB8
+msgctxt "00000005"
 msgid ""
 "さもなくば・・・まあ、地道にがんばることじゃ。"
 msgstr ""
 
 #: 00044B14
+msgctxt "00000006"
 msgid ""
 "老女：何事も、地道にやるもんじゃ。"
 msgstr ""
 
 #: 00044BA0
+msgctxt "00000007"
 msgid ""
 "カイ：・・・だめだ、開かない。"
 msgstr ""
 
 #: 00044BE2
+msgctxt "00000008"
 msgid ""
 "バーク：俺にまかせろ・・・！"
 msgstr ""
 
 #: 00044C27
+msgctxt "00000009"
 msgid ""
 "・・・・・・！"
 msgstr ""
 
 #: 00044C44
+msgctxt "00000010"
 msgid ""
 "ムリだわ、こりゃ。"
 msgstr ""
 
 #: 00044C68
+msgctxt "00000011"
 msgid ""
 "バロア：このデカブツでもダメなら、そりゃ本物だな。"
 msgstr ""
 
 #: 00044C9E
+msgctxt "00000012"
 msgid ""
 "ベつの手を探さにゃならん。さて、どうするよ。"
 msgstr ""
 
 #: 00044CE7
+msgctxt "00000013"
 msgid ""
 "カイ：うーん、どうしよう？"
 msgstr ""
 
 #: 00044D41
+msgctxt "00000014"
 msgid ""
 "老女：ほっほっほ、お困りのようですな。そんなことでは、"
 msgstr ""
 
 #: 00044D7B
+msgctxt "00000015"
 msgid ""
 "この塔には入れませんぞ。ほっほっほっほ。"
 msgstr ""
 
 #: 00044DC7
+msgctxt "00000016"
 msgid ""
 "バーク：なんだよ、ばあさん。"
 msgstr ""
 
 #: 00044DF5
+msgctxt "00000017"
 msgid ""
 "老女：長い間、ずっとここを守ってきた者だよ。"
 msgstr ""
 
 #: 00044E25
+msgctxt "00000018"
 msgid ""
 "守人とでも、番人とでも好きなように呼びな。"
 msgstr ""
 
 #: 00044E6C
+msgctxt "00000019"
 msgid ""
 "カイ：それで、どうすればこの塔に入れるんですか？"
 msgstr ""
 
 #: 00044EAE
+msgctxt "00000020"
 msgid ""
 "老女：そうさのう、ちと老人の頼みでも聞いてくれれば、教えるぞ。"
 msgstr ""
 
 #: 00044EF0
+msgctxt "00000021"
 msgid ""
 "ちょっとしたお使いじゃ。"
 msgstr ""
 
 #: 00044F25
+msgctxt "00000022"
 msgid ""
 "バーク：なんで俺達が・・・"
 msgstr ""
 
 #: 00044F51
+msgctxt "00000023"
 msgid ""
 "老女：年寄りのお願いは聞くもんじゃ。さもないとバチが当たるぞ。"
 msgstr ""
 
 #: 00044FAC
+msgctxt "00000024"
 msgid ""
 "カイ：それで、何をすればいいんでしょうか？"
 msgstr ""
 
 #: 00044FF3
+msgctxt "00000025"
 msgid ""
 "老女：そうじゃ、それでいい。"
 msgstr ""
 
 #: 00045013
+msgctxt "00000026"
 msgid ""
 "ここから山ぞいに、南西へ向かうと、ドロア城という所につく。"
 msgstr ""
 
 #: 00045051
+msgctxt "00000027"
 msgid ""
 "昔はリッパな城だったんだがな。今じゃ人の住まぬ古城じゃ。"
 msgstr ""
 
 #: 0004508D
+msgctxt "00000028"
 msgid ""
 "そこにある、１個の宝玉を取ってきてくれればいい。"
 msgstr ""
 
 #: 000450C1
+msgctxt "00000029"
 msgid ""
 "簡単じゃろ？"
 msgstr ""
 
 #: 000450E9
+msgctxt "00000030"
 msgid ""
 "カイ：それだけですか？"
 msgstr ""
 
 #: 00045111
+msgctxt "00000031"
 msgid ""
 "老女：それだけじゃ。取ってきたら、色々教えてやる。"
 msgstr ""
 
 #: 00045160
+msgctxt "00000032"
 msgid ""
 "バーク：まじかよー。今、教えろよー。"
 msgstr ""
 
 #: 00045196
+msgctxt "00000033"
 msgid ""
 "サリナ：ブツブツ言ってないで、行くぜ。"
 msgstr ""
 
 #: 000451D9
+msgctxt "00000034"
 msgid ""
 "バーク：うえー、冗談じゃねえよー。"
 msgstr ""
 
 #: 00045222
+msgctxt "00000035"
 msgid ""
 "カイ：それってこれですか？"
 msgstr ""
 
 #: 0004524E
+msgctxt "00000036"
 msgid ""
 "老女：お？おお、それじゃよ。これは、まいったの。"
 msgstr ""
 
 #: 00045290
+msgctxt "00000037"
 msgid ""
 "バーク：はっはっは！すごいだろう！"
 msgstr ""
 
 #: 000452C4
+msgctxt "00000038"
 msgid ""
 "老女：おーおー、本当に取ってきたのは、お前らが初めてじゃ。"
 msgstr ""
 
 #: 00045310
+msgctxt "00000039"
 msgid ""
 "バロア：ばあさん、早く教えなよ。どうやったら、ここに入れるんだい？"
 msgstr ""
 
 #: 00045364
+msgctxt "00000040"
 msgid ""
 "老女：あわてなさんな。今、お前らが持ってきた宝玉がカギになっとるんじゃ。"
 msgstr ""
 
 #: 000453C9
+msgctxt "00000041"
 msgid ""
 "カイ：ええ？"
 msgstr ""
 
 #: 000453E7
+msgctxt "00000042"
 msgid ""
 "老女：昔、この塔はドロア城の所有物だったんじゃ。"
 msgstr ""
 
 #: 0004541B
+msgctxt "00000043"
 msgid ""
 "ワシが絶世の美女と、呼ばれていた頃の話じゃがな。"
 msgstr ""
 
 #: 00045468
+msgctxt "00000044"
 msgid ""
 "バーク：５００年前ぐらいか？"
 msgstr ""
 
 #: 00045496
+msgctxt "00000045"
 msgid ""
 "サリナ：おいおい。"
 msgstr ""
 
 #: 000454BA
+msgctxt "00000046"
 msgid ""
 "ミーナ：エルフなら、多分それぐらいですね。"
 msgstr ""
 
 #: 000454F6
+msgctxt "00000047"
 msgid ""
 "サリナ：フォローになってねえよ・・・"
 msgstr ""
 
 #: 0004552C
+msgctxt "00000048"
 msgid ""
 "老女：だから、ドロア城にカギがあっても不思議ではなかろ。"
 msgstr ""
 
 #: 00045568
+msgctxt "00000049"
 msgid ""
 "そういうこっちゃ。"
 msgstr ""
 
 #: 00045597
+msgctxt "00000050"
 msgid ""
 "カイ：では、これを使えば中に入れるんですね。"
 msgstr ""
 
 #: 000455D5
+msgctxt "00000051"
 msgid ""
 "老女：そういうこっちゃ。"
 msgstr ""
 
 #: 00045669
+msgctxt "00000052"
 msgid ""
 "バーク：どうだ！取ってきたぜ！"
 msgstr ""
 
 #: 00045699
+msgctxt "00000053"
 msgid ""
 "老女：おーおー、本当に取ってきたのは、お前らが初めてじゃ。"
 msgstr ""
 
 #: 000456E5
+msgctxt "00000054"
 msgid ""
 "バロア：ばあさん、早く教えなよ。どうやったら、ここに入れるんだい？"
 msgstr ""
 
 #: 00045739
+msgctxt "00000055"
 msgid ""
 "老女：あわてなさんな。今、お前らが持ってきた宝玉がカギになっとるんじゃ。"
 msgstr ""
 
 #: 0004579E
+msgctxt "00000056"
 msgid ""
 "カイ：ええ？"
 msgstr ""
 
 #: 000457BC
+msgctxt "00000057"
 msgid ""
 "老女：昔、この塔はドロア城の所有物だったんじゃ。"
 msgstr ""
 
 #: 000457F0
+msgctxt "00000058"
 msgid ""
 "ワシが絶世の美女と、呼ばれていた頃の話じゃがな。"
 msgstr ""
 
 #: 0004583D
+msgctxt "00000059"
 msgid ""
 "バーク：５００年前ぐらいか？"
 msgstr ""
 
 #: 0004586B
+msgctxt "00000060"
 msgid ""
 "サリナ：おいおい。"
 msgstr ""
 
 #: 0004588F
+msgctxt "00000061"
 msgid ""
 "ミーナ：エルフなら、多分それぐらいですね。"
 msgstr ""
 
 #: 000458CB
+msgctxt "00000062"
 msgid ""
 "サリナ：フォローになってねえよ・・・"
 msgstr ""
 
 #: 00045901
+msgctxt "00000063"
 msgid ""
 "老女：だから、ドロア城にカギがあっても不思議ではなかろ。"
 msgstr ""
 
 #: 0004593D
+msgctxt "00000064"
 msgid ""
 "そういうこっちゃ。"
 msgstr ""
 
 #: 0004596C
+msgctxt "00000065"
 msgid ""
 "カイ：では、これを使えば中に入れるんですね。"
 msgstr ""
 
 #: 000459AA
+msgctxt "00000066"
 msgid ""
 "老女：そういうこっちゃ。"
 msgstr ""
 
 #: 00045A3A
+msgctxt "00000067"
 msgid ""
 "老女：ほう、大したもんじゃ。無事に帰ってきおった。"
 msgstr ""
 
 #: 00045A89
+msgctxt "00000068"
 msgid ""
 "バーク：はっはっは！このバーク様に不可能はない！"
 msgstr ""
 
 #: 00045AD6
+msgctxt "00000069"
 msgid ""
 "老女：おうおう、そうじゃろうとも。"
 msgstr ""
 
 #: 00045AFC
+msgctxt "00000070"
 msgid ""
 "さて、これから、そのギアスの杖を使わんといかんのう。"
 msgstr ""
 
 #: 00045B4D
+msgctxt "00000071"
 msgid ""
 "バーク：わぁってるよ！・・・って、どうすんだ？"
 msgstr ""
 
 #: 00045B8D
+msgctxt "00000072"
 msgid ""
 "老女：ほっほっほ、それを持ってピカの浅瀬に行きなされ。"
 msgstr ""
 
 #: 00045BC7
+msgctxt "00000073"
 msgid ""
 "そうすれば、おのずと道は開かれるものじゃよ。"
 msgstr ""
 
 #: 00045C05
+msgctxt "00000074"
 msgid ""
 "バーク：んなこと言われてもなぁ・・・"
 msgstr ""
 
 #: 00045C3B
+msgctxt "00000075"
 msgid ""
 "バロア：ピカの浅瀬なら、俺様が知ってる。"
 msgstr ""
 
 #: 00045C67
+msgctxt "00000076"
 msgid ""
 "行くだけなら、何とでもなるぜ。"
 msgstr ""
 
 #: 00045CA2
+msgctxt "00000077"
 msgid ""
 "カイ：じゃ、ピカの浅瀬に行こう。ありがとう、おばあさん。"
 msgstr ""
 
 #: 00045CEC
+msgctxt "00000078"
 msgid ""
 "老女：ほっほっほ。どういたしまして。"
 msgstr ""
 
 #: 00089186
+msgctxt "00000079"
 msgid ""
 "フィヨルドを憶えた。"
 msgstr ""
 
 #: 000891BE
+msgctxt "00000080"
 msgid ""
 "何も見つからない。"
 msgstr ""
 
 #: 0015696B
+msgctxt "00000081"
 msgid ""
 "からっぽだった。"
 msgstr ""
 
 #: 001569C8
+msgctxt "00000082"
 msgid ""
 "ギアスの杖を手に入れた。"
 msgstr ""
 
 #: 00156A24
+msgctxt "00000083"
 msgid ""
 "これは何に使うものだろう？"
 msgstr ""
 
 #: 0019B13D
+msgctxt "00000084"
 msgid ""
 "カギがかかっているようだ。"
 msgstr ""
 
 #: 001DF926
+msgctxt "00000085"
 msgid ""
 "おふだを使った。"
 msgstr ""
 
 #: 001DF93A
+msgctxt "00000086"
 msgid ""
 "けっかいがとけた。"
 msgstr ""
 
 #: 001DF98A
+msgctxt "00000087"
 msgid ""
 "カイ：あれ？入れない・・・"
 msgstr ""
 
 #: 001DF9B6
+msgctxt "00000088"
 msgid ""
 "ミーナ：魔力によるけっかいがはられています。"
 msgstr ""
 
 #: 001DF9E6
+msgctxt "00000089"
 msgid ""
 "どこかにけっかいをとく方法があるはずです。"
 msgstr ""
 
 #: 001DFA14
+msgctxt "00000090"
 msgid ""
 "それを探しましょう。"
 msgstr ""
 
 #: 0022422A
+msgctxt "00000091"
 msgid ""
 "カイ：みんなに話を聞いてからにしよう。"
 msgstr ""
 
 #: 00224300
+msgctxt "00000092"
 msgid ""
 "カイ：たくさんの本がおいてある。これが古文書か。"
 msgstr ""
 
 #: 0022434D
+msgctxt "00000093"
 msgid ""
 "ミシリア：ひとつひとつ読んでいくのは大変そうね。"
 msgstr ""
 
 #: 0022438F
+msgctxt "00000094"
 msgid ""
 "カイ：よし、みんな、手分けして読もう。"
 msgstr ""
 
 #: 002243EB
+msgctxt "00000095"
 msgid ""
 "バーク＆サリナ＆バロア：えーーーー！！！"
 msgstr ""
 
 #: 00224457
+msgctxt "00000096"
 msgid ""
 "ミーナ：こういうことはあなた達には不向きかもしれないが"
 msgstr ""
 
 #: 00224491
+msgctxt "00000097"
 msgid ""
 "みんなで作業した方が早くおわります。"
 msgstr ""
 
 #: 002244EE
+msgctxt "00000098"
 msgid ""
 "バーク＆サリナ＆バロア：とほほほほ・・・"
 msgstr ""
 
 #: 0022455B
+msgctxt "00000099"
 msgid ""
 "＿＿ただいま読書中＿＿"
 msgstr ""
 
 #: 002245CE
+msgctxt "00000100"
 msgid ""
 "＿＿ただいま読書中＿＿"
 msgstr ""
 
 #: 00224641
+msgctxt "00000101"
 msgid ""
 "＿＿ただいま読書中＿＿"
 msgstr ""
 
 #: 002246B4
+msgctxt "00000102"
 msgid ""
 "＿＿読書おしまい＿＿"
 msgstr ""
 
 #: 00224732
+msgctxt "00000103"
 msgid ""
 "カイ：僕の読んだ古文書には龍についてかかれていたな。"
 msgstr ""
 
 #: 0022476A
+msgctxt "00000104"
 msgid ""
 "いろいろ書かれていたけれど、重要だったのは"
 msgstr ""
 
 #: 00224798
+msgctxt "00000105"
 msgid ""
 "龍はサナトリの村にある湖の中央の島に眠っているってことと"
 msgstr ""
 
 #: 002247D4
+msgctxt "00000106"
 msgid ""
 "五人の神の力を持った者達のみが龍の許しを得る。"
 msgstr ""
 
 #: 00224806
+msgctxt "00000107"
 msgid ""
 "と、この部分だな。龍はサナトリの村か・・・"
 msgstr ""
 
 #: 00224854
+msgctxt "00000108"
 msgid ""
 "カイ：みんなに話を聞くのが先だな。"
 msgstr ""
 
 #: 0022488D
+msgctxt "00000109"
 msgid ""
 "カイ：ここには古文書がある。"
 msgstr ""
 
 #: 002248AD
+msgctxt "00000110"
 msgid ""
 "龍はサナトリに"
 msgstr ""
 
 #: 002248BF
+msgctxt "00000111"
 msgid ""
 "山神はクーデン川に"
 msgstr ""
 
 #: 002248D5
+msgctxt "00000112"
 msgid ""
 "海王はピカの浅瀬に、でもその前にギアスの塔か"
 msgstr ""
 
 #: 00224905
+msgctxt "00000113"
 msgid ""
 "女神は北西の島に"
 msgstr ""
 
 #: 00224919
+msgctxt "00000114"
 msgid ""
 "精霊の神はバロスメイアの北に"
 msgstr ""
 
 #: 00224939
+msgctxt "00000115"
 msgid ""
 "古文書にはそうかかれていたな。"
 msgstr ""
 
 #: 00224975
+msgctxt "00000116"
 msgid ""
 "ミシリア：カイ、私が読んだ本には"
 msgstr ""
 
 #: 00224999
+msgctxt "00000117"
 msgid ""
 "女神様について書かれていたわ。"
 msgstr ""
 
 #: 002249BB
+msgctxt "00000118"
 msgid ""
 "女神様は、北西の方角にある島の神殿で、"
 msgstr ""
 
 #: 002249E5
+msgctxt "00000119"
 msgid ""
 "今も眠りについているそうよ。"
 msgstr ""
 
 #: 00224A05
+msgctxt "00000120"
 msgid ""
 "でね、女神様の神殿の扉には封印がほどこされていて"
 msgstr ""
 
 #: 00224A39
+msgctxt "00000121"
 msgid ""
 "その封印の解き方は女神様の神殿の番人が知っている。"
 msgstr ""
 
 #: 00224A6F
+msgctxt "00000122"
 msgid ""
 "神殿の番人というのは代々受け継がれて、"
 msgstr ""
 
 #: 00224A99
+msgctxt "00000123"
 msgid ""
 "島に住んでいる人達のことらしいの。"
 msgstr ""
 
 #: 00224AD8
+msgctxt "00000124"
 msgid ""
 "ミシリア：私はその島に行ってみるのがいいと思うの。"
 msgstr ""
 
 #: 00224B0E
+msgctxt "00000125"
 msgid ""
 "神殿の番人さんが受け継がれて、今もいるかもしれないわ。"
 msgstr ""
 
 #: 00224BA0
+msgctxt "00000126"
 msgid ""
 "バーク：カイ、俺の読んだ本には"
 msgstr ""
 
 #: 00224BC2
+msgctxt "00000127"
 msgid ""
 "どうやら山神について書かれていたようだぜ。"
 msgstr ""
 
 #: 00224BFB
+msgctxt "00000128"
 msgid ""
 "むずかしいことはよくわかんねぇけどよ。"
 msgstr ""
 
 #: 00224C25
+msgctxt "00000129"
 msgid ""
 "クーデン川の上流に山神は住んでるらしいぜ。"
 msgstr ""
 
 #: 00224C5E
+msgctxt "00000130"
 msgid ""
 "とりあえずだ、クーデン川ってとこに行ってみようぜ。"
 msgstr ""
 
 #: 00224CEC
+msgctxt "00000131"
 msgid ""
 "ミーナ：カイさん、私の読んだ本には"
 msgstr ""
 
 #: 00224D12
+msgctxt "00000132"
 msgid ""
 "精霊の神について書かれておりました。"
 msgstr ""
 
 #: 00224D45
+msgctxt "00000133"
 msgid ""
 "神は木々ふかき森の精霊の都にて、ねむりについておられるそうです。"
 msgstr ""
 
 #: 00224D89
+msgctxt "00000134"
 msgid ""
 "その木々ふかき森については心当たりがございます。"
 msgstr ""
 
 #: 00224DBD
+msgctxt "00000135"
 msgid ""
 "おそらく、この前、立ち寄ったバロスメイアの町の"
 msgstr ""
 
 #: 00224DEF
+msgctxt "00000136"
 msgid ""
 "北にある森がそうでないかと・・・"
 msgstr ""
 
 #: 00224E1E
+msgctxt "00000137"
 msgid ""
 "一度、行ってみるのが良いと思います。"
 msgstr ""
 
 #: 00224E9E
+msgctxt "00000138"
 msgid ""
 "サリナ：カイ、あたいの読んだ本には"
 msgstr ""
 
 #: 00224EC4
+msgctxt "00000139"
 msgid ""
 "勇士の神について書いてあったよ。"
 msgstr ""
 
 #: 00224EF3
+msgctxt "00000140"
 msgid ""
 "なんでも勇士の廟ってのがあって、それを守る番人の一族がいるらしい。"
 msgstr ""
 
 #: 00224F39
+msgctxt "00000141"
 msgid ""
 "印のついた地図みたいなものがはさんであってさ。"
 msgstr ""
 
 #: 00224F6B
+msgctxt "00000142"
 msgid ""
 "どうやら印がついてる所はファーナスの町あたりだね。"
 msgstr ""
 
 #: 00224FA1
+msgctxt "00000143"
 msgid ""
 "ファーナスには前に行ったことがあるよ。"
 msgstr ""
 
 #: 00224FCB
+msgctxt "00000144"
 msgid ""
 "メルーって町の南にあるはずだよ。"
 msgstr ""
 
 #: 00224FFA
+msgctxt "00000145"
 msgid ""
 "案内してやるから行ってみないか？"
 msgstr ""
 
 #: 00225076
+msgctxt "00000146"
 msgid ""
 "バロア：んー俺様の読んだ本には"
 msgstr ""
 
 #: 00225098
+msgctxt "00000147"
 msgid ""
 "海王について書いてあったぜ。"
 msgstr ""
 
 #: 002250C3
+msgctxt "00000148"
 msgid ""
 "んー、なんでもギアスの塔とか言う所にある杖を持って"
 msgstr ""
 
 #: 002250F9
+msgctxt "00000149"
 msgid ""
 "女神とともにピカの浅瀬に行けばあえるそうだぜ。"
 msgstr ""
 
 #: 0022512B
+msgctxt "00000150"
 msgid ""
 "自分で言っててなんだがよ、俺様が知ってるのはピカの浅瀬ぐれぇだ。"
 msgstr ""
 
 #: 0022516F
+msgctxt "00000151"
 msgid ""
 "ギアスの塔ってのはここについてた地図をたよっていくしかねぇな。"
 msgstr ""
 
 #: 002251B1
+msgctxt "00000152"
 msgid ""
 "おおまかな場所はノーザラスの西の方だな。"
 msgstr ""
 
 #: 002251E8
+msgctxt "00000153"
 msgid ""
 "行ってみるか？"
 msgstr ""
 
 #: 00268A9A
+msgctxt "00000154"
 msgid ""
 "老人：おや、珍しい。こんなところにお客人とはの。"
 msgstr ""
 
 #: 00268ACE
+msgctxt "00000155"
 msgid ""
 "このじじいめに何かごようかの。"
 msgstr ""
 
 #: 00268B09
+msgctxt "00000156"
 msgid ""
 "カイ：僕はカイ＝オルフェアスといいます。"
 msgstr ""
 
 #: 00268B35
+msgctxt "00000157"
 msgid ""
 "「神の力」について聞きに来ました。"
 msgstr ""
 
 #: 00268B74
+msgctxt "00000158"
 msgid ""
 "老人：ほう、「神の力」かね。"
 msgstr ""
 
 #: 00268BAD
+msgctxt "00000159"
 msgid ""
 "カイ：この島に神のことについて書かれた"
 msgstr ""
 
 #: 00268BD7
+msgctxt "00000160"
 msgid ""
 "古文書があると聞いたのですが・・・"
 msgstr ""
 
 #: 00268C16
+msgctxt "00000161"
 msgid ""
 "老人：「神の力」について知ってどうするのじゃ？"
 msgstr ""
 
 #: 00268C56
+msgctxt "00000162"
 msgid ""
 "カイ：え？"
 msgstr ""
 
 #: 00268C72
+msgctxt "00000163"
 msgid ""
 "老人：どうしたいのかを聞いているのじゃ・・・"
 msgstr ""
 
 #: 00268CA2
+msgctxt "00000164"
 msgid ""
 "答えれんのか？"
 msgstr ""
 
 #: 00268CCD
+msgctxt "00000165"
 msgid ""
 "カイ：・・・・・・"
 msgstr ""
 
 #: 00268CFC
+msgctxt "00000166"
 msgid ""
 "バーク：何ワケのわかんないことをいってんだよ！"
 msgstr ""
 
 #: 00268D2E
+msgctxt "00000167"
 msgid ""
 "必要だから情報がほしいって言ってるじゃないか。"
 msgstr ""
 
 #: 00268D60
+msgctxt "00000168"
 msgid ""
 "それで十分じゃないのかよ！"
 msgstr ""
 
 #: 00268D97
+msgctxt "00000169"
 msgid ""
 "老人：すぎた力は害になるだけじゃ。"
 msgstr ""
 
 #: 00268DBD
+msgctxt "00000170"
 msgid ""
 "必要とはいえ「神の力」は「神様」そのものを手に入れるような物じゃ。"
 msgstr ""
 
 #: 00268E03
+msgctxt "00000171"
 msgid ""
 "そのようなものを手にすることなど考えないことだ・・・"
 msgstr ""
 
 #: 00268E49
+msgctxt "00000172"
 msgid ""
 "カイ：・・・・・・"
 msgstr ""
 
 #: 00268E78
+msgctxt "00000173"
 msgid ""
 "サリナ：やってらんないね。"
 msgstr ""
 
 #: 00268E96
+msgctxt "00000174"
 msgid ""
 "だから頭のかたい者ってのは・・・"
 msgstr ""
 
 #: 00268EDE
+msgctxt "00000175"
 msgid ""
 "バロア：まったくだな・・・"
 msgstr ""
 
 #: 00268F7F
+msgctxt "00000176"
 msgid ""
 "カイ：・・・・・・"
 msgstr ""
 
 #: 00268FA3
+msgctxt "00000177"
 msgid ""
 "ミーナ：・・・・・・"
 msgstr ""
 
 #: 00268FD4
+msgctxt "00000178"
 msgid ""
 "バーク：・・・・・・・・"
 msgstr ""
 
 #: 0026902F
+msgctxt "00000179"
 msgid ""
 "ミシリア：・・・確かにそれが正しいのかもしれません。"
 msgstr ""
 
 #: 00269085
+msgctxt "00000180"
 msgid ""
 "バーク：ミシリアちゃん！"
 msgstr ""
 
 #: 002690BA
+msgctxt "00000181"
 msgid ""
 "ミシリア：でも、答えはそれだけじゃないと思います。"
 msgstr ""
 
 #: 002690FE
+msgctxt "00000182"
 msgid ""
 "老人：・・・・・・"
 msgstr ""
 
 #: 00269122
+msgctxt "00000183"
 msgid ""
 "ミシリア：「神の力」を手にしたといって・・・"
 msgstr ""
 
 #: 00269152
+msgctxt "00000184"
 msgid ""
 "力にふり回されるだけの人間ばかりではないと思うんです。"
 msgstr ""
 
 #: 0026918C
+msgctxt "00000185"
 msgid ""
 "中には「神の力］に屈しない強い心の持ち主がいるはずです・・・"
 msgstr ""
 
 #: 002691DA
+msgctxt "00000186"
 msgid ""
 "老人：・・・・・・"
 msgstr ""
 
 #: 002691FB
+msgctxt "00000187"
 msgid ""
 "・・・で、娘さんはこの坊主にその力があると？"
 msgstr ""
 
 #: 00269244
+msgctxt "00000188"
 msgid ""
 "カイ：ミシリア・・・"
 msgstr ""
 
 #: 0026926A
+msgctxt "00000189"
 msgid ""
 "老人：・・・・・・"
 msgstr ""
 
 #: 002692A2
+msgctxt "00000190"
 msgid ""
 "・・・もし、「神の力」にその坊主が"
 msgstr ""
 
 #: 002692D3
+msgctxt "00000191"
 msgid ""
 "ふり回されたときはどうする？"
 msgstr ""
 
 #: 0026930C
+msgctxt "00000192"
 msgid ""
 "ミシリア：その時は・・・"
 msgstr ""
 
 #: 0026933E
+msgctxt "00000193"
 msgid ""
 "その時は、私がカイを止めます。・・・いのちに代えてでも・・・"
 msgstr ""
 
 #: 0026938C
+msgctxt "00000194"
 msgid ""
 "ミーナ：ミシリアさん・・・"
 msgstr ""
 
 #: 002693B8
+msgctxt "00000195"
 msgid ""
 "老人：・・・・・・"
 msgstr ""
 
 #: 002693CE
+msgctxt "00000196"
 msgid ""
 "・・・いい目をしておる。"
 msgstr ""
 
 #: 002693EA
+msgctxt "00000197"
 msgid ""
 "これをあずけよう。"
 msgstr ""
 
 #: 00269419
+msgctxt "00000198"
 msgid ""
 "ミシリア：このおふだは？"
 msgstr ""
 
 #: 00269451
+msgctxt "00000199"
 msgid ""
 "老人：古文書はわしの手元にはない。この先の洞窟の中に保管してある。"
 msgstr ""
 
 #: 002694DC
+msgctxt "00000200"
 msgid ""
 "ミシリア：それじゃあ・・・"
 msgstr ""
 
 #: 00269521
+msgctxt "00000201"
 msgid ""
 "老人：自分自身で調べてきなさい。"
 msgstr ""
 
 #: 00269553
+msgctxt "00000202"
 msgid ""
 "ミシリア：ありがとう。"
 msgstr ""
 
 #: 002695D0
+msgctxt "00000203"
 msgid ""
 "老人：目的の情報は手に入りましたかな？"
 msgstr ""
 
 #: 00269616
+msgctxt "00000204"
 msgid ""
 "老人：今後の旅の無事をお祈りしております。"
 msgstr ""
 
 #: 0026966C
+msgctxt "00000205"
 msgid ""
 "老人：もう見てきたのか。"
 msgstr ""
 
 #: 00269696
+msgctxt "00000206"
 msgid ""
 "カイ：いえ、今からです。"
 msgstr ""
 
 #: 002696C0
+msgctxt "00000207"
 msgid ""
 "老人：・・・・・・"
 msgstr ""
 
 #: 002696E9
+msgctxt "00000208"
 msgid ""
 "老人：今後の旅の無事をお祈りしております。"
 msgstr ""

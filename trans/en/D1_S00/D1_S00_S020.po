@@ -1,3 +1,4 @@
+﻿msgctxt "00000000"
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -15,71 +16,85 @@ msgstr ""
 "X-Generator: Weblate 4.12.2\n"
 
 #: 00268994
+msgctxt "00000001"
 msgid ""
 "カイ：これが残りの半分か・・・"
 msgstr ""
 
 #: 002689EE
+msgctxt "00000002"
 msgid ""
 "カイ：これがかぎとなる像か。"
 msgstr "Kai: This idol should be the key."
 
 #: 00268A2F
+msgctxt "00000003"
 msgid ""
 "冥界の像を手に入れた。"
 msgstr ""
 
 #: 0033617A
+msgctxt "00000004"
 msgid ""
 "アクアローゼを憶えた。"
 msgstr "You learned Aqua Rose!"
 
 #: 003361EA
+msgctxt "00000005"
 msgid ""
 "何も入っていない。"
 msgstr "There's nothing inside."
 
 #: 0037A984
+msgctxt "00000006"
 msgid ""
 "カイ：これが残りの半分か・・・"
 msgstr "Kai: This looks like the missing half."
 
 #: 0037A9DE
+msgctxt "00000007"
 msgid ""
 "カイ：これが聖者の言ってた像だな。"
 msgstr "Kai: This is the idol the sage spoke of."
 
 #: 0037AA20
+msgctxt "00000008"
 msgid ""
 "冥界の像を手に入れた。"
 msgstr "You got the Underworld Idol!"
 
 #: 003BF151
+msgctxt "00000009"
 msgid ""
 "カイ：あれ？どうして進めないんだ？"
 msgstr "Kai: Hmm? Why can't we get through?"
 
 #: 003BF185
+msgctxt "00000010"
 msgid ""
 "ミーナ：これは封印の呪文がほどこしてあります。"
 msgstr "Minna: This seems to be held fast by the sealing spell."
 
 #: 003BF1B7
+msgctxt "00000011"
 msgid ""
 "これを無理矢理はいじょするのはおそらく無理でしょう。"
 msgstr "It's probably impossible to force this out."
 
 #: 003BF1EF
+msgctxt "00000012"
 msgid ""
 "封印を解く装置がどこかにあるはずです。それを探しましょう。"
 msgstr "There should be some way to dispel the magic. Let's look for it."
 
 #: 003BF250
+msgctxt "00000013"
 msgid ""
 "ミーナ：封印を解く装置がどこかにあるはずです。"
 msgstr "Minna: There should be some way to dispel the magic."
 
 #: 003BF282
+msgctxt "00000014"
 msgid ""
 "それを探しましょう。"
 msgstr "Let's look for it."

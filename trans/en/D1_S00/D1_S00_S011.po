@@ -1,3 +1,4 @@
+﻿msgctxt "00000000"
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -15,76 +16,91 @@ msgstr ""
 "X-Generator: Weblate 4.12.2\n"
 
 #: 00044986
+msgctxt "00000001"
 msgid ""
 "スニーカーを手に入れた。"
 msgstr "You found Sneakers!"
 
 #: 000449CF
+msgctxt "00000002"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 000449E5
+msgctxt "00000003"
 msgid ""
 "宝箱にもどした。"
 msgstr ""
 
 #: 00044A14
+msgctxt "00000004"
 msgid ""
 "何も見つからない。"
 msgstr ""
 
 #: 00112186
+msgctxt "00000005"
 msgid ""
 "ふえを手に入れた。"
 msgstr "You got a Flute!"
 
 #: 001121C9
+msgctxt "00000006"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 001121DF
+msgctxt "00000007"
 msgid ""
 "宝箱にもどした。"
 msgstr "You put it back."
 
 #: 0011220E
+msgctxt "00000008"
 msgid ""
 "何も見つからない。"
 msgstr ""
 
 #: 00156A1E
+msgctxt "00000009"
 msgid ""
 "バーク：がっはっはっはっはっはっはっは！"
 msgstr "Burke: GAHAHAHAHAHAHAHA!!!"
 
 #: 00156A4A
+msgctxt "00000010"
 msgid ""
 "このバーク様が、この町に巣くうワル者を退治しにきてやったぜ！"
 msgstr "I, THE ALL POWERFUL BURKE, SHALL RID THIS TOWN OF IT'S EVIL VERMIN!"
 
 #: 00156A98
+msgctxt "00000011"
 msgid ""
 "ミシリア：あの、バークさん・・・"
 msgstr "Michelia: Umm, Burke..."
 
 #: 00156ACA
+msgctxt "00000012"
 msgid ""
 "ミーナ：どうやら、何か悪いモノでも食べたようですね。"
 msgstr "Minna: Did he eat some expired food or something?"
 
 #: 00156B10
+msgctxt "00000013"
 msgid ""
 "マクロード：いつもこうなのですか？"
 msgstr "McLeod: Don't tell me he's always like this."
 
 #: 00156B52
+msgctxt "00000014"
 msgid ""
 "カイ：今日は特別だと思います・・・"
 msgstr "Kai: I think he's worse today..."
 
 #: 00156B91
+msgctxt "00000015"
 msgid ""
 "怪物：ええーい！私をムシして、何を盛り上がっているんだ！"
 msgstr ""
@@ -92,106 +108,127 @@ msgstr ""
 "won?"
 
 #: 00156BCD
+msgctxt "00000016"
 msgid ""
 "こっちには人質がいるのだ！少しは危機を感じろ！"
 msgstr "I have a hostage, you know! Have some sense of urgency!"
 
 #: 00156C0D
+msgctxt "00000017"
 msgid ""
 "マクロード：・・・フム、確かに女性が１人いるようだが・・・"
 msgstr "McLeod: ...it's right. There's a women behind it."
 
 #: 00156C67
+msgctxt "00000018"
 msgid ""
 "女剣士：ちくしょう！お前ら何しにきやがった！"
 msgstr "Female Knight: Darn! What the heck did you guys show up for?!"
 
 #: 00156C97
+msgctxt "00000019"
 msgid ""
 "ここは、あたし１人でやれるんだ！ほっといてくれよ！"
 msgstr "I'll handle this myself! Scram!"
 
 #: 00156CE9
+msgctxt "00000020"
 msgid ""
 "バーク：とか言ってるぜ。どうする？"
 msgstr "Burke: The lady speaks. Do we listen?"
 
 #: 00156D2B
+msgctxt "00000021"
 msgid ""
 "カイ：ほっとくわけにはいかないよ。助けなくちゃ。"
 msgstr "Kai: We can't just ignore her. We have to help."
 
 #: 00156D89
+msgctxt "00000022"
 msgid ""
 "バーク：というわけだ。怪物め、おとなしく俺に倒されろ。"
 msgstr "Burke: Fine, don't listen. Farewell, monster. Your time is now!"
 
 #: 00156DEA
+msgctxt "00000023"
 msgid ""
 "怪物：ふ、ふざけるなー！貴様らごとき、蹴散らしてくれる！"
 msgstr "Monster: D-don't underestimate me! I'll kick you all to the curb!"
 
 #: 00156F2F
+msgctxt "00000024"
 msgid ""
 "女剣士：なんで助けたんだよ！あたし１人でも倒せたんだ！"
 msgstr "Female Knight: Why'd you save me? I said I was fine on my own!"
 
 #: 00156F85
+msgctxt "00000025"
 msgid ""
 "バーク：なんだよ、せっかく助けてやったのに、その言い方は。"
 msgstr "Burke: What's your deal? We saved your butt, you know."
 
 #: 00156FDC
+msgctxt "00000026"
 msgid ""
 "女剣士：誰も助けてくれなんて、頼みはしなかったよ。"
 msgstr "Female Knight: I don't recall asking for your help."
 
 #: 0015702B
+msgctxt "00000027"
 msgid ""
 "バーク：んだとぉ！"
 msgstr "Burke: Why you--!"
 
 #: 0015705A
+msgctxt "00000028"
 msgid ""
 "ミーナ：２人とも落ち着いてください。"
 msgstr "Minna: Calm down, both of you!"
 
 #: 0015709B
+msgctxt "00000029"
 msgid ""
 "マクロード：そうだ。今はあなたが無事だったことを喜ぶべきでしょう。"
 msgstr "McLeod: Yes. We should be happy that everyone is safe."
 
 #: 001570E1
+msgctxt "00000030"
 msgid ""
 "１人もギセイが出なかったことが、一番大事なのですから。"
 msgstr "No one died today. That's what's important."
 
 #: 00157137
+msgctxt "00000031"
 msgid ""
 "カイ：そうか、マクロードさんは部下を・・・"
 msgstr "Kai: Right. McLeod's men..."
 
 #: 0015719A
+msgctxt "00000032"
 msgid ""
 "女剣士：・・・・・・"
 msgstr "Female Knight: ..."
 
 #: 001571C0
+msgctxt "00000033"
 msgid ""
 "そうだね。ごめん、つい意地になっちまった。"
 msgstr "You're right. Sorry, I got a little heated."
 
 #: 001571EE
+msgctxt "00000034"
 msgid ""
 "あたしの名前はサリナ。"
 msgstr "My name's Sarina."
 
 #: 00157208
+msgctxt "00000035"
 msgid ""
 "ここの親玉をぶっとばしてやるって、ここまで来たんだけど"
 msgstr "I came here to kick this boss's keister."
 
 #: 00157242
+msgctxt "00000036"
 msgid ""
 "逆につかまっちまってね。後は知っての通りってとこかな。"
 msgstr ""
@@ -199,227 +236,272 @@ msgstr ""
 "rest."
 
 #: 00157295
+msgctxt "00000037"
 msgid ""
 "ミーナ：ぶっとばす・・・？"
 msgstr "Minna: Kick its keister?"
 
 #: 001572C1
+msgctxt "00000038"
 msgid ""
 "バーク：倒すってことだよ。"
 msgstr "Burke: It means to defeat it."
 
 #: 001572ED
+msgctxt "00000039"
 msgid ""
 "ミーナ：それぐらいは知っています。"
 msgstr "Minna: I figured that much, thank you."
 
 #: 0015732C
+msgctxt "00000040"
 msgid ""
 "バーク：・・・・・・なんだよ。"
 msgstr "Burke: ...then why'd you ask...?"
 
 #: 0015736A
+msgctxt "00000041"
 msgid ""
 "カイ：けど、１人でてき地に乗りこむとは・・・"
 msgstr "Kai: You shouldn't barge into enemy territory alone like that."
 
 #: 0015739A
+msgctxt "00000042"
 msgid ""
 "ずいぶんムチャをするんだね。"
 msgstr "Things could have gone much worse."
 
 #: 001573D6
+msgctxt "00000043"
 msgid ""
 "サリナ：今までずっと１人だったからね・・・何とかなると思ったんだよ。"
 msgstr "Sarina: I've always acted alone, so I didn't think any different of it."
 
 #: 0015741E
+msgctxt "00000044"
 msgid ""
 "ちょっと読みが甘かったけど。"
 msgstr "I may have miscalculated the situation."
 
 #: 0015744C
+msgctxt "00000045"
 msgid ""
 "カイ：今度から仲間を探したほうがいいよ。１人じゃ限界がある。"
 msgstr ""
 "Kai: You should find some comrades. There's only so much you can do alone."
 
 #: 001574A8
+msgctxt "00000046"
 msgid ""
 "サリナ：そうだね・・・あんたんトコ、今、人手足りてる？"
 msgstr "Sarina: True. You recruiting?"
 
 #: 001574FE
+msgctxt "00000047"
 msgid ""
 "バーク：げ？！"
 msgstr "Burke: Geeh?"
 
 #: 00157546
+msgctxt "00000048"
 msgid ""
 "サリナ：なに？アンタ、文句あるの？"
 msgstr "Sarina: What? Got a problem?"
 
 #: 00157585
+msgctxt "00000049"
 msgid ""
 "マクロード：そうですね・・・これも何かのえんだと思えば、"
 msgstr "McLeod: I see. This must be some turn of fate."
 
 #: 001575C1
+msgctxt "00000050"
 msgid ""
 "彼女のためにも、いい考えかもしれません。カイ殿？"
 msgstr "I believe this is a good plan. What do you say, Lord Kai?"
 
 #: 0015760E
+msgctxt "00000051"
 msgid ""
 "カイ：うん、僕はいいと思う。"
 msgstr "Kai: Yeah, I'm okay with it."
 
 #: 0015764A
+msgctxt "00000052"
 msgid ""
 "バーク：トホホ・・・お前にそれを言われると・・・"
 msgstr "Burke: Uhuhu... If that's what you say..."
 
 #: 00157697
+msgctxt "00000053"
 msgid ""
 "サリナ：へへ、じゃ、よろしく頼むよ。"
 msgstr "Sarina: Hehe, well then! Glad to be part of the team!"
 
 #: 001DF990
+msgctxt "00000054"
 msgid ""
 "女剣士：なんでも、この村にすごい武器があるって聞いたんだけど、"
 msgstr "Female Knight: I heard there's an amazing weapon in this town."
 
 #: 001DF9D2
+msgctxt "00000055"
 msgid ""
 "それらしい物がないんだよねえ・・・"
 msgstr "I've yet to see any signs that the rumor is true, though."
 
 #: 001DF9F8
+msgctxt "00000056"
 msgid ""
 "あんた達、何か知らないかい？"
 msgstr "Do you guys know anything about that?"
 
 #: 001DFA26
+msgctxt "00000057"
 msgid ""
 "カイ：え・・・知りませんけど。"
 msgstr "Kai: Huh? ...can't say I do."
 
 #: 001DFA56
+msgctxt "00000058"
 msgid ""
 "女剣士：あ、そ・・・"
 msgstr "Female Knight: Ah, okay..."
 
 #: 0022416D
+msgctxt "00000059"
 msgid ""
 "ミーナ：・・・これはなんですか？"
 msgstr "Minna: ...what's this?"
 
 #: 0022419F
+msgctxt "00000060"
 msgid ""
 "サリナ：そっか、エルフの文化には、ちりとりがないんだね。"
 msgstr "Sarina: Ahh, elves must not need dust pans, I see."
 
 #: 002241DB
+msgctxt "00000061"
 msgid ""
 "これはね、盾だよ。うん、これはいい盾だ。"
 msgstr "This here? It's a... shield? Yup! A mighty fine shield."
 
 #: 00224207
+msgctxt "00000062"
 msgid ""
 "今からこいつを、ジェナトスちりとりと名づけ・・・"
 msgstr "This dub this little fella \"The Jenatos Dust Pan\"..."
 
 #: 00224249
+msgctxt "00000063"
 msgid ""
 "カイ＆ミシリア＆バーク＆バロア：やめろー！！"
 msgstr "Kai & Michelia & Burke & Baroa: STOP!!!"
 
 #: 00224287
+msgctxt "00000064"
 msgid ""
 "ミーナ：？"
 msgstr "Minna: ?"
 
 #: 002242A3
+msgctxt "00000065"
 msgid ""
 "ちりとりを手に入れた。"
 msgstr "You got a Dust Pan!"
 
 #: 002242EA
+msgctxt "00000066"
 msgid ""
 "マジックシールドを手に入れた。"
 msgstr "You got a Magic Shield!"
 
 #: 00224339
+msgctxt "00000067"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 0022436A
+msgctxt "00000068"
 msgid ""
 "ナイトシールドを手に入れた。"
 msgstr "You got a Knight Shield!"
 
 #: 002243B7
+msgctxt "00000069"
 msgid ""
 "これ以上もてない。"
 msgstr "You can't carry any more."
 
 #: 002243E8
+msgctxt "00000070"
 msgid ""
 "何も見つからない。"
 msgstr "There's nothing here."
 
 #: 002689B9
+msgctxt "00000071"
 msgid ""
 "バーク：あーあ、結局明日かよ。"
 msgstr "Burke: Ugh, gotta wait till tomorrow?"
 
 #: 002689F4
+msgctxt "00000072"
 msgid ""
 "カイ：本当は面会謝絶のところを、無理に会わせてもらうんだ。"
 msgstr "Kai: I'm just glad he's letting us see him at all."
 
 #: 00268A32
+msgctxt "00000073"
 msgid ""
 "しかたないさ。"
 msgstr "Since he's refusing visitors and all."
 
 #: 00268A5D
+msgctxt "00000074"
 msgid ""
 "バーク：それはそうだが・・・"
 msgstr "Burke: That's true..."
 
 #: 00268A94
+msgctxt "00000075"
 msgid ""
 "ぐううう"
 msgstr "Urk..."
 
 #: 00268ADB
+msgctxt "00000076"
 msgid ""
 "カイ：お、おなかすいたね？"
 msgstr "Kai: Y-you hungry?"
 
 #: 00268B15
+msgctxt "00000077"
 msgid ""
 "バーク：おう、いいものがあるぞ。"
 msgstr "Burke: Yup. Thankfully, I've found just the thing."
 
 #: 00268B80
+msgctxt "00000078"
 msgid ""
 "ミシリア：何ですか？それ。"
 msgstr "Michelia: What's that?"
 
 #: 00268BB7
+msgctxt "00000079"
 msgid ""
 "カイ：キノコみたいだけど、いったいどこから・・・"
 msgstr "Kai: Looks like a mushroom, but... where'd you find it?"
 
 #: 00268C0B
+msgctxt "00000080"
 msgid ""
 "バーク：へへ、鉱山の村にいた時にちょっとな・・・"
 msgstr "Burke: Hehe, I found them when we were in that digging camp earlier!"
 
 #: 00268C3F
+msgctxt "00000081"
 msgid ""
 "だいぶ前にやつらがうまそうに食ってたのを思い出してな"
 msgstr ""
@@ -427,41 +509,49 @@ msgstr ""
 "looked delicious."
 
 #: 00268C77
+msgctxt "00000082"
 msgid ""
 "後で食おうと、こっそりとっといたんだ。"
 msgstr "I stole a few, thinking I'd eat them later."
 
 #: 00268CBD
+msgctxt "00000083"
 msgid ""
 "宿の人にたのんで、こいつで何か作ってもらおうぜ。"
 msgstr "Let's see if the inn has a chef who can cook us something."
 
 #: 00268CF1
+msgctxt "00000084"
 msgid ""
 "きっと、すごいキノコ料理ができるはずだ。"
 msgstr "I'm sure they'd make a mighty fine stew."
 
 #: 00268D8A
+msgctxt "00000085"
 msgid ""
 "バーク：な、俺の言ったとおりだったろ？"
 msgstr "Burke: See? It's just like I said!"
 
 #: 00268DB4
+msgctxt "00000086"
 msgid ""
 "そらそら、エンリョすんなって。まだいくらでもあるんだからな！"
 msgstr "Don't hold back. There's plenty where that came from!"
 
 #: 00268E02
+msgctxt "00000087"
 msgid ""
 "カイ：も、もういいよ・・・・・・"
 msgstr "Kai: I-I'm stuffed..."
 
 #: 00268E34
+msgctxt "00000088"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
 msgstr ""
 
 #: 00268E6C
+msgctxt "00000089"
 msgid ""
 "バーク：だらしがないな。ミシリアちゃんなんか、もくもくと食ってるぞ。"
 msgstr ""
@@ -469,76 +559,91 @@ msgstr ""
 "anywhere."
 
 #: 00268EB4
+msgctxt "00000090"
 msgid ""
 "・・・なんか、リスみたいだがな。"
 msgstr "...she looks like a squirrel, eating that way."
 
 #: 00268EE6
+msgctxt "00000091"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
 msgstr ""
 
 #: 00268F1E
+msgctxt "00000092"
 msgid ""
 "カイ：・・・なんか様子が変だよ・・・"
 msgstr "Kai: Something's not right."
 
 #: 00268F54
+msgctxt "00000093"
 msgid ""
 "バーク：そうか？いつもと変わらんぞぉ！"
 msgstr "Burke: Really? She seems the same to me!"
 
 #: 00268F7E
+msgctxt "00000094"
 msgid ""
 "がっはっはっはっは！"
 msgstr "GAHAHAHAHA!"
 
 #: 00268FA4
+msgctxt "00000095"
 msgid ""
 "カイ：・・・バークも様子が変だ・・・"
 msgstr "Kai: ...Burke, you seem a little off too."
 
 #: 00268FDA
+msgctxt "00000096"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
 msgstr "Michelia: Nom, nom, nom, nom, nom..."
 
 #: 0026902B
+msgctxt "00000097"
 msgid ""
 "・・・・・・"
 msgstr "..."
 
 #: 0026903B
+msgctxt "00000098"
 msgid ""
 "クスクス"
 msgstr "Giggle, giggle!"
 
 #: 00269047
+msgctxt "00000099"
 msgid ""
 "クスクスクス・・・・・・"
 msgstr "Giggle, giggle, giggle!"
 
 #: 00269090
+msgctxt "00000100"
 msgid ""
 "バーク：ありゃ？ミシリアちゃん、出ていっちまったぞ。"
 msgstr "Burke: Huh? She ran off."
 
 #: 002690C8
+msgctxt "00000101"
 msgid ""
 "なんか悪いものでも食ったんかなぁ？"
 msgstr "Think she ate something bad?"
 
 #: 002690EE
+msgctxt "00000102"
 msgid ""
 "がっはっは！"
 msgstr "GAHAHA!"
 
 #: 0026916C
+msgctxt "00000103"
 msgid ""
 "カイ：明日も早いし、もう寝よう。"
 msgstr "Kai: It's late. Let's just get to bed."
 
 #: 0026919B
+msgctxt "00000104"
 msgid ""
 "ミシリア：ええ。"
 msgstr "Michelia: Yeah."

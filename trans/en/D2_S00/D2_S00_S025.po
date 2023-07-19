@@ -1,1194 +1,1445 @@
 ﻿#: 0000016B
+msgctxt "00000000"
 msgid ""
 "バロア：行きたいとこを言ってくれれば、船を出すぜ。"
 msgstr ""
 
 #: 000001A1
+msgctxt "00000001"
 msgid ""
 "今、船に乗ると新ハインローグにもどるぜ。"
 msgstr ""
 
 #: 000001CD
+msgctxt "00000002"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000216
+msgctxt "00000003"
 msgid ""
 "バロア：今、船に乗ると旧ハインローグ城へ向かうぜ。"
 msgstr ""
 
 #: 0000024C
+msgctxt "00000004"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000295
+msgctxt "00000005"
 msgid ""
 "バロア：今、船に乗るとメクアの港へ向かうぜ。"
 msgstr ""
 
 #: 000002C5
+msgctxt "00000006"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000030E
+msgctxt "00000007"
 msgid ""
 "バロア：今、船に乗ると新ハインローグ城へもどるぜ。"
 msgstr ""
 
 #: 00000344
+msgctxt "00000008"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000003D3
+msgctxt "00000009"
 msgid ""
 "バロア：行きたいとこを言ってくれれば、船を出すぜ。"
 msgstr ""
 
 #: 00000409
+msgctxt "00000010"
 msgid ""
 "今、船に乗ると新ハインローグにもどるぜ。"
 msgstr ""
 
 #: 00000435
+msgctxt "00000011"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000047E
+msgctxt "00000012"
 msgid ""
 "バロア：今、船に乗ると旧ハインローグ城へ向かうぜ。"
 msgstr ""
 
 #: 000004B4
+msgctxt "00000013"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000004FD
+msgctxt "00000014"
 msgid ""
 "バロア：今、船に乗るとメクアの港へ向かうぜ。"
 msgstr ""
 
 #: 0000052D
+msgctxt "00000015"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000057F
+msgctxt "00000016"
 msgid ""
 "バロア：今、船に乗るとへバーシスのはいきょにいくぜ。"
 msgstr ""
 
 #: 000005B7
+msgctxt "00000017"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000600
+msgctxt "00000018"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへ戻るぜ。"
 msgstr ""
 
 #: 00000632
+msgctxt "00000019"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000067B
+msgctxt "00000020"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへもどるぜ。"
 msgstr ""
 
 #: 000006AF
+msgctxt "00000021"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000073E
+msgctxt "00000022"
 msgid ""
 "バロア：行きたいとこを言ってくれれば、船を出すぜ。"
 msgstr ""
 
 #: 00000774
+msgctxt "00000023"
 msgid ""
 "今、船に乗ると新ハインローグにもどるぜ。"
 msgstr ""
 
 #: 000007A0
+msgctxt "00000024"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000007E9
+msgctxt "00000025"
 msgid ""
 "バロア：今、船に乗ると旧ハインローグ城へ向かうぜ。"
 msgstr ""
 
 #: 0000081F
+msgctxt "00000026"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000868
+msgctxt "00000027"
 msgid ""
 "バロア：今、船に乗るとメクアの港へ向かうぜ。"
 msgstr ""
 
 #: 00000898
+msgctxt "00000028"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000008EA
+msgctxt "00000029"
 msgid ""
 "バロア：今、船に乗るとへバーシスのはいきょにいくぜ。"
 msgstr ""
 
 #: 00000922
+msgctxt "00000030"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000096B
+msgctxt "00000031"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへ戻るぜ。"
 msgstr ""
 
 #: 0000099D
+msgctxt "00000032"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000009E6
+msgctxt "00000033"
 msgid ""
 "バロア：今、船に乗るとマーモ島へいくぜ。"
 msgstr ""
 
 #: 00000A12
+msgctxt "00000034"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000A5B
+msgctxt "00000035"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへもどるぜ。"
 msgstr ""
 
 #: 00000A8F
+msgctxt "00000036"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000B4B
+msgctxt "00000037"
 msgid ""
 "バロア：像も手に入れず行っても無駄だと思うぜ。"
 msgstr ""
 
 #: 00000BAC
+msgctxt "00000038"
 msgid ""
 "バロア：何度も行っても無駄だと思うぜ。"
 msgstr ""
 
 #: 00000C3C
+msgctxt "00000039"
 msgid ""
 "バロア：俺に行き先を言ってくれ。"
 msgstr ""
 
 #: 00156AC2
+msgctxt "00000040"
 msgid ""
 "剣士：いつの時代も、おろかな者は必ず現われる。"
 msgstr ""
 
 #: 00156AF4
+msgctxt "00000041"
 msgid ""
 "過去にハインローグの王、今は私の部下達、そしてお前達だ。"
 msgstr ""
 
 #: 00156B30
+msgctxt "00000042"
 msgid ""
 "おっと、お前の父を忘れていたな。ジェナトスの娘よ。"
 msgstr ""
 
 #: 00156B7F
+msgctxt "00000043"
 msgid ""
 "サリナ：なにぃっ？！てめえ！"
 msgstr ""
 
 #: 00156BE2
+msgctxt "00000044"
 msgid ""
 "カイ：お前がギゼフィルか。"
 msgstr ""
 
 #: 00156C2A
+msgctxt "00000045"
 msgid ""
 "ギゼフィル：お初にお目にかかる。おろかな生物の代表者達。"
 msgstr ""
 
 #: 00156C82
+msgctxt "00000046"
 msgid ""
 "バロア：けっ、ずいぶんと、人をバカにした言い方をするじゃないか。"
 msgstr ""
 
 #: 00156CDF
+msgctxt "00000047"
 msgid ""
 "ギゼフィル：くく、お前達は人間の総意を"
 msgstr ""
 
 #: 00156D09
+msgctxt "00000048"
 msgid ""
 "代表して来たつもりでいるのだろう？"
 msgstr ""
 
 #: 00156D2F
+msgctxt "00000049"
 msgid ""
 "このギゼフィルを倒し、世界を闇の影響から救わんと。"
 msgstr ""
 
 #: 00156D65
+msgctxt "00000050"
 msgid ""
 "そして、人間の好き勝手にできる世界を作り、平和と称する。"
 msgstr ""
 
 #: 00156DCB
+msgctxt "00000051"
 msgid ""
 "ミシリア：そ、そんな・・・・・・"
 msgstr ""
 
 #: 00156E0B
+msgctxt "00000052"
 msgid ""
 "ギゼフィル：私を倒したところで、世界にとっては何も変わらぬよ。"
 msgstr ""
 
 #: 00156E4D
+msgctxt "00000053"
 msgid ""
 "ただ、すべての生物の王になるのが、私か、お前かの違いだけだ。"
 msgstr ""
 
 #: 00156EA6
+msgctxt "00000054"
 msgid ""
 "カイ：やめろ・・・・・・っ！"
 msgstr ""
 
 #: 00156ED4
+msgctxt "00000055"
 msgid ""
 "ギゼフィル：私の言うことがまちがっていると言えるのか？"
 msgstr ""
 
 #: 00156F0E
+msgctxt "00000056"
 msgid ""
 "そこのエルフは、何か知っていると言いたげだぞ。人間についてな。"
 msgstr ""
 
 #: 00156F6C
+msgctxt "00000057"
 msgid ""
 "ミーナ：・・・・・・くっ。"
 msgstr ""
 
 #: 00156FA3
+msgctxt "00000058"
 msgid ""
 "カイ：やめろ・・・・・・！！"
 msgstr ""
 
 #: 00156FDF
+msgctxt "00000059"
 msgid ""
 "ギゼフィル：かつて人間でないからと"
 msgstr ""
 
 #: 00157005
+msgctxt "00000060"
 msgid ""
 "不当な仕打ちを受けた種族の話を知るまい。"
 msgstr ""
 
 #: 00157031
+msgctxt "00000061"
 msgid ""
 "人間にとって、つごうの悪い歴史は消されてしまったからな。"
 msgstr ""
 
 #: 00157086
+msgctxt "00000062"
 msgid ""
 "バーク：ふざけんな！だまって聞いてりゃ知った風な口ききやがって！"
 msgstr ""
 
 #: 001570CA
+msgctxt "00000063"
 msgid ""
 "てめえがどれだけ、俺達のことを知ってるってんだ？"
 msgstr ""
 
 #: 00157122
+msgctxt "00000064"
 msgid ""
 "バロア：カイは違うぜ。"
 msgstr ""
 
 #: 0015713C
+msgctxt "00000065"
 msgid ""
 "少なくとも、お前のようなやつとは出来が違うんだよ。"
 msgstr ""
 
 #: 00157172
+msgctxt "00000066"
 msgid ""
 "自分だけ、こそこそと安全な所に隠れて、せこいことをやっちゃいない。"
 msgstr ""
 
 #: 001571D1
+msgctxt "00000067"
 msgid ""
 "サリナ：カイはね、みんなにめいわくをかけたくないんだよ。"
 msgstr ""
 
 #: 0015720D
+msgctxt "00000068"
 msgid ""
 "ハインローグの王になって、国全部であんたと戦うことはできただろうさ。"
 msgstr ""
 
 #: 0015726E
+msgctxt "00000069"
 msgid ""
 "でもね、多くの人が死んでいくのを、安全な所から見てるだけじゃね。"
 msgstr ""
 
 #: 001572D9
+msgctxt "00000070"
 msgid ""
 "ミーナ：・・・あなたは、王としての何たるかを、分かっていない。"
 msgstr ""
 
 #: 0015731B
+msgctxt "00000071"
 msgid ""
 "人の上に立つ者の心得は、人を支配するだけでは成り立ちはしないのです。"
 msgstr ""
 
 #: 00157363
+msgctxt "00000072"
 msgid ""
 "確かに私は、全ての人間を信用することはできませんが、今、"
 msgstr ""
 
 #: 0015739F
+msgctxt "00000073"
 msgid ""
 "ここにいる人たちのためになら、いのちをかけることもためらわないでしょう。"
 msgstr ""
 
 #: 00157415
+msgctxt "00000074"
 msgid ""
 "ミシリア：私は・・・・・・"
 msgstr ""
 
 #: 00157436
+msgctxt "00000075"
 msgid ""
 "私・・・・・・"
 msgstr ""
 
 #: 0015744B
+msgctxt "00000076"
 msgid ""
 "・・・・・・"
 msgstr ""
 
 #: 00157477
+msgctxt "00000077"
 msgid ""
 "カイ：・・・ミシリア。"
 msgstr ""
 
 #: 001574AA
+msgctxt "00000078"
 msgid ""
 "ミシリア：カイのことを信じてる。絶対、いい世の中にしてくれるって思う。"
 msgstr ""
 
 #: 001574F4
+msgctxt "00000079"
 msgid ""
 "あなたに足りないのは、何かを信じることよ！"
 msgstr ""
 
 #: 00157522
+msgctxt "00000080"
 msgid ""
 "あなたはどうかは知らないけど、私達人間は１人では生きていけないの。"
 msgstr ""
 
 #: 00157568
+msgctxt "00000081"
 msgid ""
 "誰かを信じて、誰かに頼って、助け合って・・・どんなにうまくいかなくても、"
 msgstr ""
 
 #: 001575B4
+msgctxt "00000082"
 msgid ""
 "がんばっていれば、いつか必ずお互いに、より良く変わることができる。"
 msgstr ""
 
 #: 001575FA
+msgctxt "00000083"
 msgid ""
 "あなたのように、自分以外を信じられない、あわれな生き物とは違うわ！"
 msgstr ""
 
 #: 0015766A
+msgctxt "00000084"
 msgid ""
 "ギゼフィル：・・・貴様、私のことをあわれな生き物だと。"
 msgstr ""
 
 #: 001576A4
+msgctxt "00000085"
 msgid ""
 "貴様らのような、取るに足らぬ生物におとるというのか？"
 msgstr ""
 
 #: 001576DC
+msgctxt "00000086"
 msgid ""
 "ならば、示してみせよ！私と貴様らと、本当に違うのかを。"
 msgstr ""
 
 #: 00157716
+msgctxt "00000087"
 msgid ""
 "この私を倒して、より良い世界というものを作ってみせるがいい！"
 msgstr ""
 
 #: 0015776F
+msgctxt "00000088"
 msgid ""
 "カイ：・・・行くぞ！みんな！"
 msgstr ""
 
 #: 0019B1FB
+msgctxt "00000089"
 msgid ""
 "カイ：なんてことだ・・・"
 msgstr ""
 
 #: 0019B225
+msgctxt "00000090"
 msgid ""
 "僕は、自分の母親を、僕を捨てた母さんを、ずっとうらんできたのに。"
 msgstr ""
 
 #: 0019B269
+msgctxt "00000091"
 msgid ""
 "ずっとずっとうらんできたのに。"
 msgstr ""
 
 #: 0019B28B
+msgctxt "00000092"
 msgid ""
 "そうじゃないなんて。僕を守って死んでいたなんて。"
 msgstr ""
 
 #: 0019B2BF
+msgctxt "00000093"
 msgid ""
 "これじゃ、なにも言えないじゃないか・・・。"
 msgstr ""
 
 #: 0019B312
+msgctxt "00000094"
 msgid ""
 "バーク：・・・なあ、"
 msgstr ""
 
 #: 0019B3C8
+msgctxt "00000095"
 msgid ""
 "ミシリア：カイ・・・"
 msgstr ""
 
 #: 0019B3F1
+msgctxt "00000096"
 msgid ""
 "カイ：・・・ごめん、ミシリア。みっともない所を見せちゃったね。"
 msgstr ""
 
 #: 0019B441
+msgctxt "00000097"
 msgid ""
 "ミシリア：ううん、そんなことないよ。"
 msgstr ""
 
 #: 0019B47A
+msgctxt "00000098"
 msgid ""
 "カイ：ミシリア、僕はこの現実を受け入れるよ。もうみっともない所は見せない。"
 msgstr ""
 
 #: 0019B4C8
+msgctxt "00000099"
 msgid ""
 "母さんは魔物に殺された。そして、この国は魔物に苦しめられている。"
 msgstr ""
 
 #: 0019B50C
+msgctxt "00000100"
 msgid ""
 "だから、僕は絶対、やつらを・・・・・・"
 msgstr ""
 
 #: 0019B544
+msgctxt "00000101"
 msgid ""
 "ミシリア：待って、カイ。"
 msgstr ""
 
 #: 0019B58A
+msgctxt "00000102"
 msgid ""
 "カイは大事なことを忘れてる。"
 msgstr ""
 
 #: 0019B5B8
+msgctxt "00000103"
 msgid ""
 "カイ：・・・大事なこと？"
 msgstr ""
 
 #: 0019B5E2
+msgctxt "00000104"
 msgid ""
 "ミシリア：そう、今、カイがここにいること。"
 msgstr ""
 
 #: 0019B61E
+msgctxt "00000105"
 msgid ""
 "カイ：僕がここに・・・"
 msgstr ""
 
 #: 0019B646
+msgctxt "00000106"
 msgid ""
 "ミシリア：カイの温かさがここにあって、私がそれを感じてる。"
 msgstr ""
 
 #: 0019B684
+msgctxt "00000107"
 msgid ""
 "カイのお母さんは、確かにもういないけど、でもカイはここにいるんだって。"
 msgstr ""
 
 #: 0019B6CE
+msgctxt "00000108"
 msgid ""
 "・・・さっきのカイの言葉は、憎む相手を変えただけだったでしょ。"
 msgstr ""
 
 #: 0019B710
+msgctxt "00000109"
 msgid ""
 "王子としての責任でもなく、人としての正義を感じたわけでもなくて・・"
 msgstr ""
 
 #: 0019B756
+msgctxt "00000110"
 msgid ""
 "ただ、何かを憎むことで自分を支えてた。"
 msgstr ""
 
 #: 0019B780
+msgctxt "00000111"
 msgid ""
 "私はね、人が温かいってことはこんなにステキなのに、うらんだり"
 msgstr ""
 
 #: 0019B7C0
+msgctxt "00000112"
 msgid ""
 "憎んだりすることで、どんどん失われていくような、そんな気がしたの。"
 msgstr ""
 
 #: 0019B806
+msgctxt "00000113"
 msgid ""
 "カイがカイでなくなっちゃうような・・・なんだか怖くて・・・"
 msgstr ""
 
 #: 0019B852
+msgctxt "00000114"
 msgid ""
 "カイ：ミシリア、僕は・・・"
 msgstr ""
 
 #: 0019B87E
+msgctxt "00000115"
 msgid ""
 "ミシリア：カイはムリしてる。今、すごくムリしてると思う。"
 msgstr ""
 
 #: 0019B8BA
+msgctxt "00000116"
 msgid ""
 "たまには、休んでもいいと思うよ。私、どんなにカイが弱気になっても"
 msgstr ""
 
 #: 0019B8FE
+msgctxt "00000117"
 msgid ""
 "絶対嫌いにならない。だって、私・・・"
 msgstr ""
 
 #: 0019B926
+msgctxt "00000118"
 msgid ""
 "・・・・・・"
 msgstr ""
 
 #: 0019B9B1
+msgctxt "00000119"
 msgid ""
 "カイ：ありがとう、ミシリア。でも、やっぱり僕は、"
 msgstr ""
 
 #: 0019B9E5
+msgctxt "00000120"
 msgid ""
 "いや、だからこそ、やらなくちゃいけないことがあると思う。"
 msgstr ""
 
 #: 0019BA21
+msgctxt "00000121"
 msgid ""
 "・・・けど、君のおかげで、目が覚めたような気がするよ。"
 msgstr ""
 
 #: 0019BA69
+msgctxt "00000122"
 msgid ""
 "カイ：カイ・・・・・・うん、そうだよね。"
 msgstr ""
 
 #: 0019BAA3
+msgctxt "00000123"
 msgid ""
 "私が、ワガママ言っちゃったかもしれない。でも、忘れないでいて欲しいの。"
 msgstr ""
 
 #: 0019BAED
+msgctxt "00000124"
 msgid ""
 "私達みんな、カイが好きだから、役に立ちたいって思っていることを。"
 msgstr ""
 
 #: 0019BB4D
+msgctxt "00000125"
 msgid ""
 "カイ：大丈夫、もう忘れないよ・・・・・・"
 msgstr ""
 
 #: 0019BB95
+msgctxt "00000126"
 msgid ""
 "バーク：もういいか？"
 msgstr ""
 
 #: 0019BBC6
+msgctxt "00000127"
 msgid ""
 "ミーナ：あなたの出番はもうなさそうですね。"
 msgstr ""
 
 #: 0019BC0D
+msgctxt "00000128"
 msgid ""
 "バーク：トホホ・・・・・・"
 msgstr ""
 
 #: 00268A24
+msgctxt "00000129"
 msgid ""
 "いのちのみなもとたる大海原の力を求めるならば、我の試練を受け入れよ。"
 msgstr ""
 
 #: 00268AB0
+msgctxt "00000130"
 msgid ""
 "バロア：ようやく俺様の出番だな。軽く、やっちまってくるぜ。"
 msgstr ""
 
 #: 00268AFC
+msgctxt "00000131"
 msgid ""
 "カイ：がんばってよ。バロア。"
 msgstr ""
 
 #: 00268B2A
+msgctxt "00000132"
 msgid ""
 "バロア：よゆうの勝利ってやつを見せてやるよ。"
 msgstr ""
 
 #: 00268B5A
+msgctxt "00000133"
 msgid ""
 "女性の方々、俺様にほれるなよ。"
 msgstr ""
 
 #: 00268B8A
+msgctxt "00000134"
 msgid ""
 "サリナ：なーんか心配だなー。"
 msgstr ""
 
 #: 00268C33
+msgctxt "00000135"
 msgid ""
 "サリナ：どうだい、手応えは？"
 msgstr ""
 
 #: 00268C66
+msgctxt "00000136"
 msgid ""
 "バロア：ま、こんなもんだろうよ。"
 msgstr ""
 
 #: 00268CA3
+msgctxt "00000137"
 msgid ""
 "サリナ：もっとうれしそうにしなよ。見てて、歯切れが悪い。"
 msgstr ""
 
 #: 00268CF8
+msgctxt "00000138"
 msgid ""
 "バロア：男は、派手には喜ばないもんさ。"
 msgstr ""
 
 #: 00268D22
+msgctxt "00000139"
 msgid ""
 "どんなにうれしくても、苦しくてもな、"
 msgstr ""
 
 #: 00268D4A
+msgctxt "00000140"
 msgid ""
 "ニヤリと笑うところがいいのさ。"
 msgstr ""
 
 #: 00268D85
+msgctxt "00000141"
 msgid ""
 "バーク：そ、そうか？"
 msgstr ""
 
 #: 00268DB6
+msgctxt "00000142"
 msgid ""
 "バロア：お前さんだけは別だよ。"
 msgstr ""
 
 #: 00268DE6
+msgctxt "00000143"
 msgid ""
 "バロアは海王の力を手に入れた。"
 msgstr ""
 
 #: 002AD2E8
+msgctxt "00000144"
 msgid ""
 "ミーナ："
 msgstr ""
 
 #: 002AD2F4
+msgctxt "00000145"
 msgid ""
 msgstr ""
 
 #: 002AD2F8
+msgctxt "00000146"
 msgid ""
 msgstr ""
 
 #: 002AD2FC
+msgctxt "00000147"
 msgid ""
 msgstr ""
 
 #: 002AD300
+msgctxt "00000148"
 msgid ""
 msgstr ""
 
 #: 002AD304
+msgctxt "00000149"
 msgid ""
 msgstr ""
 
 #: 002AD323
+msgctxt "00000150"
 msgid ""
 "ミーナ："
 msgstr ""
 
 #: 002AD32F
+msgctxt "00000151"
 msgid ""
 msgstr ""
 
 #: 002AD333
+msgctxt "00000152"
 msgid ""
 msgstr ""
 
 #: 002AD337
+msgctxt "00000153"
 msgid ""
 msgstr ""
 
 #: 002AD33B
+msgctxt "00000154"
 msgid ""
 msgstr ""
 
 #: 002AD33F
+msgctxt "00000155"
 msgid ""
 msgstr ""
 
 #: 002AD364
+msgctxt "00000156"
 msgid ""
 "サリナ："
 msgstr ""
 
 #: 002AD370
+msgctxt "00000157"
 msgid ""
 msgstr ""
 
 #: 002AD374
+msgctxt "00000158"
 msgid ""
 msgstr ""
 
 #: 002AD378
+msgctxt "00000159"
 msgid ""
 msgstr ""
 
 #: 002AD37C
+msgctxt "00000160"
 msgid ""
 msgstr ""
 
 #: 002AD380
+msgctxt "00000161"
 msgid ""
 msgstr ""
 
 #: 002AD39F
+msgctxt "00000162"
 msgid ""
 "サリナ："
 msgstr ""
 
 #: 002AD3AB
+msgctxt "00000163"
 msgid ""
 msgstr ""
 
 #: 002AD3AF
+msgctxt "00000164"
 msgid ""
 msgstr ""
 
 #: 002AD3B3
+msgctxt "00000165"
 msgid ""
 msgstr ""
 
 #: 002AD3B7
+msgctxt "00000166"
 msgid ""
 msgstr ""
 
 #: 002AD3BB
+msgctxt "00000167"
 msgid ""
 msgstr ""
 
 #: 002AD3E0
+msgctxt "00000168"
 msgid ""
 "バーク："
 msgstr ""
 
 #: 002AD3EC
+msgctxt "00000169"
 msgid ""
 msgstr ""
 
 #: 002AD3F0
+msgctxt "00000170"
 msgid ""
 msgstr ""
 
 #: 002AD3F4
+msgctxt "00000171"
 msgid ""
 msgstr ""
 
 #: 002AD3F8
+msgctxt "00000172"
 msgid ""
 msgstr ""
 
 #: 002AD3FC
+msgctxt "00000173"
 msgid ""
 msgstr ""
 
 #: 002AD41B
+msgctxt "00000174"
 msgid ""
 "バーク："
 msgstr ""
 
 #: 002AD427
+msgctxt "00000175"
 msgid ""
 msgstr ""
 
 #: 002AD42B
+msgctxt "00000176"
 msgid ""
 msgstr ""
 
 #: 002AD42F
+msgctxt "00000177"
 msgid ""
 msgstr ""
 
 #: 002AD433
+msgctxt "00000178"
 msgid ""
 msgstr ""
 
 #: 002AD437
+msgctxt "00000179"
 msgid ""
 msgstr ""
 
 #: 002AD45C
+msgctxt "00000180"
 msgid ""
 "ミシリア："
 msgstr ""
 
 #: 002AD46A
+msgctxt "00000181"
 msgid ""
 msgstr ""
 
 #: 002AD46E
+msgctxt "00000182"
 msgid ""
 msgstr ""
 
 #: 002AD472
+msgctxt "00000183"
 msgid ""
 msgstr ""
 
 #: 002AD476
+msgctxt "00000184"
 msgid ""
 msgstr ""
 
 #: 002AD47A
+msgctxt "00000185"
 msgid ""
 msgstr ""
 
 #: 002AD499
+msgctxt "00000186"
 msgid ""
 "ミシリア："
 msgstr ""
 
 #: 002AD4A7
+msgctxt "00000187"
 msgid ""
 msgstr ""
 
 #: 002AD4AB
+msgctxt "00000188"
 msgid ""
 msgstr ""
 
 #: 002AD4AF
+msgctxt "00000189"
 msgid ""
 msgstr ""
 
 #: 002AD4B3
+msgctxt "00000190"
 msgid ""
 msgstr ""
 
 #: 002AD4B7
+msgctxt "00000191"
 msgid ""
 msgstr ""
 
 #: 002AD4DC
+msgctxt "00000192"
 msgid ""
 "バロア："
 msgstr ""
 
 #: 002AD4E8
+msgctxt "00000193"
 msgid ""
 msgstr ""
 
 #: 002AD4EC
+msgctxt "00000194"
 msgid ""
 msgstr ""
 
 #: 002AD4F0
+msgctxt "00000195"
 msgid ""
 msgstr ""
 
 #: 002AD4F4
+msgctxt "00000196"
 msgid ""
 msgstr ""
 
 #: 002AD4F8
+msgctxt "00000197"
 msgid ""
 msgstr ""
 
 #: 002AD517
+msgctxt "00000198"
 msgid ""
 "バロア："
 msgstr ""
 
 #: 002AD523
+msgctxt "00000199"
 msgid ""
 msgstr ""
 
 #: 002AD527
+msgctxt "00000200"
 msgid ""
 msgstr ""
 
 #: 002AD52B
+msgctxt "00000201"
 msgid ""
 msgstr ""
 
 #: 002AD52F
+msgctxt "00000202"
 msgid ""
 msgstr ""
 
 #: 002AD533
+msgctxt "00000203"
 msgid ""
 msgstr ""
 
 #: 002AD558
+msgctxt "00000204"
 msgid ""
 "ギゼフィル："
 msgstr ""
 
 #: 002AD568
+msgctxt "00000205"
 msgid ""
 msgstr ""
 
 #: 002AD56C
+msgctxt "00000206"
 msgid ""
 msgstr ""
 
 #: 002AD570
+msgctxt "00000207"
 msgid ""
 msgstr ""
 
 #: 002AD574
+msgctxt "00000208"
 msgid ""
 msgstr ""
 
 #: 002AD578
+msgctxt "00000209"
 msgid ""
 msgstr ""
 
 #: 002AD597
+msgctxt "00000210"
 msgid ""
 "ギゼフィル："
 msgstr ""
 
 #: 002AD5A7
+msgctxt "00000211"
 msgid ""
 msgstr ""
 
 #: 002AD5AB
+msgctxt "00000212"
 msgid ""
 msgstr ""
 
 #: 002AD5AF
+msgctxt "00000213"
 msgid ""
 msgstr ""
 
 #: 002AD5B3
+msgctxt "00000214"
 msgid ""
 msgstr ""
 
 #: 002AD5B7
+msgctxt "00000215"
 msgid ""
 msgstr ""
 
 #: 002AD5D2
+msgctxt "00000216"
 msgid ""
 "ギゼフィル：我が世界ここにあり。"
 msgstr ""
 
 #: 002AD5F6
+msgctxt "00000217"
 msgid ""
 "我が片腕達よ。"
 msgstr ""
 
 #: 002AD608
+msgctxt "00000218"
 msgid ""
 "うとましき肉のうつわを失っても、その力は失われることはない。"
 msgstr ""
 
 #: 002AD648
+msgctxt "00000219"
 msgid ""
 "さあ、おろかな人間どもに、絶望というものを教えてやれい！"
 msgstr ""
 
 #: 002AD684
+msgctxt "00000220"
 msgid ""
 "そして、やつらの最後の希望を打ちくだくのだ！"
 msgstr ""
 
 #: 002AD724
+msgctxt "00000221"
 msgid ""
 "お"
 msgstr ""
 
 #: 002AD738
+msgctxt "00000222"
 msgid ""
 "おおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお"
 msgstr ""
 
 #: 002AD7A0
+msgctxt "00000223"
 msgid ""
 "カイ：な、なんだ？！"
 msgstr ""
 
 #: 002AD7B8
+msgctxt "00000224"
 msgid ""
 "なにが起こって・・・・・・"
 msgstr ""
 
 #: 002AD7E4
+msgctxt "00000225"
 msgid ""
 "ギゼフィル：許さぬぞ！！"
 msgstr ""
 
 #: 002AD800
+msgctxt "00000226"
 msgid ""
 "貴様らの存在そのものを、この次元より消し去ってくれるわ！！"
 msgstr ""
 
 #: 002AD84C
+msgctxt "00000227"
 msgid ""
 "カイ：そんな・・・やっと倒したのに・・・"
 msgstr ""
 
 #: 002AD878
+msgctxt "00000228"
 msgid ""
 "このままじゃ・・・・・・"
 msgstr ""
 
 #: 002AD8A5
+msgctxt "00000229"
 msgid ""
 "カイ！！"
 msgstr ""
 
 #: 002AD8F4
+msgctxt "00000230"
 msgid ""
 "カイ：ファラ？！"
 msgstr ""
 
 #: 002AD916
+msgctxt "00000231"
 msgid ""
 "ファラ：助けに来たよ！！"
 msgstr ""
 
 #: 002AD932
+msgctxt "00000232"
 msgid ""
 "みんな、力を・・・！"
 msgstr ""
 
 #: 002AD958
+msgctxt "00000233"
 msgid ""
 "ＨＰ・ＭＰが回復した。"
 msgstr ""
 
 #: 002ADA65
+msgctxt "00000234"
 msgid ""
 "カイ：・・・・・・"
 msgstr ""
 
 #: 002ADA7B
+msgctxt "00000235"
 msgid ""
 "・・・・・・やった。"
 msgstr ""
 
 #: 002ADA93
+msgctxt "00000236"
 msgid ""
 "・・・・・・やったんだ。"
 msgstr ""
 
 #: 002ADAAF
+msgctxt "00000237"
 msgid ""
 "ありがとう、ファラ・・・"
 msgstr ""
 
 #: 002ADAEF
+msgctxt "00000238"
 msgid ""
 "ファラ：てへへっ！ちょろいちょろい！"
 msgstr ""
 
 #: 002ADB58
+msgctxt "00000239"
 msgid ""
 "ミシリア：ついにやりとげたのね・・・"
 msgstr ""
 
 #: 002ADB99
+msgctxt "00000240"
 msgid ""
 "ミーナ：ええ。"
 msgstr ""
 
 #: 002ADBC4
+msgctxt "00000241"
 msgid ""
 "バーク：俺も、これでとうとう有名人の仲間入りか。"
 msgstr ""
 
 #: 002ADBF8
+msgctxt "00000242"
 msgid ""
 "自由気ままな日々とも、おさらばだな。これからいそがしくなるぜ！"
 msgstr ""
 
 #: 002ADC5C
+msgctxt "00000243"
 msgid ""
 "バロア：おうよ。世界中の女性から、毎日ファンレターもらって、"
 msgstr ""
 
 #: 002ADC9C
+msgctxt "00000244"
 msgid ""
 "返事を書くだけで休むヒマもないだろうな。"
 msgstr ""
 
 #: 002ADCD6
+msgctxt "00000245"
 msgid ""
 "バーク＆バロア：わははははははははは！！"
 msgstr ""
 
 #: 002ADD21
+msgctxt "00000246"
 msgid ""
 "サリナ：・・・・・・男って、どうしてこうなんだろうね。"
 msgstr ""
 
 #: 002ADD69
+msgctxt "00000247"
 msgid ""
 "ま、いいか。本当にすごいこと、やっちまったんだしね。"
 msgstr ""
 
 #: 002ADDF5
+msgctxt "00000248"
 msgid ""
 "カイ：僕かい？"
 msgstr ""
 
 #: 002ADE07
+msgctxt "00000249"
 msgid ""
 "僕は・・・・・・"
 msgstr ""
 
 #: 002ADE1B
+msgctxt "00000250"
 msgid ""
 "・・・・・・"
 msgstr ""

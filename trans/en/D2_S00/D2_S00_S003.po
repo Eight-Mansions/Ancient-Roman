@@ -1,3638 +1,4366 @@
 ﻿#: 00000151
+msgctxt "00000000"
 msgid ""
 "バーク：温泉か。ほろ苦い思い出がよみがえるな。"
 msgstr ""
 
 #: 00000191
+msgctxt "00000001"
 msgid ""
 "カイ：バーク、誰のせいだと・・・！"
 msgstr ""
 
 #: 000001C5
+msgctxt "00000002"
 msgid ""
 "ミシリア：・・・もう忘れましょ・・・"
 msgstr ""
 
 #: 00000228
+msgctxt "00000003"
 msgid ""
 "ミシリア：うーん、すごく気持ちよさそう。"
 msgstr ""
 
 #: 00000262
+msgctxt "00000004"
 msgid ""
 "カイ：そうだね。"
 msgstr ""
 
 #: 00000284
+msgctxt "00000005"
 msgid ""
 "バーク：じゃあ、みんなで温泉に入るか！"
 msgstr ""
 
 #: 000002BC
+msgctxt "00000006"
 msgid ""
 "ミシリア：やっぱりエンリョします！"
 msgstr ""
 
 #: 0000031D
+msgctxt "00000007"
 msgid ""
 "バーク：気持ちよさそうだよな、温泉。な、カイ。"
 msgstr ""
 
 #: 0000035D
+msgctxt "00000008"
 msgid ""
 "カイ：バーク・・・・・・"
 msgstr ""
 
 #: 00000387
+msgctxt "00000009"
 msgid ""
 "バーク：気持ちよさそうだよな！温泉！！"
 msgstr ""
 
 #: 000003BF
+msgctxt "00000010"
 msgid ""
 "カイ：あ、そ、そうだね・・・"
 msgstr ""
 
 #: 000003ED
+msgctxt "00000011"
 msgid ""
 "バーク：じゃあ、みんなで温泉に入るか！"
 msgstr ""
 
 #: 00000425
+msgctxt "00000012"
 msgid ""
 "ミシリア：バークさん、いいかげんにしてください！"
 msgstr ""
 
 #: 00000467
+msgctxt "00000013"
 msgid ""
 "バーク：あ、こりゃスマン。"
 msgstr ""
 
 #: 000004CA
+msgctxt "00000014"
 msgid ""
 "ももひきを手に入れた。"
 msgstr ""
 
 #: 00000507
+msgctxt "00000015"
 msgid ""
 "ファラ：くさーい。"
 msgstr ""
 
 #: 0000052B
+msgctxt "00000016"
 msgid ""
 "バーク：おいおい。"
 msgstr ""
 
 #: 0000056E
+msgctxt "00000017"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 00044902
+msgctxt "00000018"
 msgid ""
 "装飾屋：いらっしゃいませ・・・"
 msgstr ""
 
 #: 00089102
+msgctxt "00000019"
 msgid ""
 "道具屋（男）：あらーん、リッパなか・ら・だ。"
 msgstr ""
 
 #: 00089132
+msgctxt "00000020"
 msgid ""
 "なんでも売っちゃうわよーん。"
 msgstr ""
 
 #: 000CD958
+msgctxt "00000021"
 msgid ""
 "宿屋の娘：あの・・・お連れの方が外に出て行かれましたけど・・・"
 msgstr ""
 
 #: 000CD99A
+msgctxt "00000022"
 msgid ""
 "・・・・・・"
 msgstr ""
 
 #: 000CD9AA
+msgctxt "00000023"
 msgid ""
 "お泊まりなら、右手のドアからお入りください。"
 msgstr ""
 
 #: 000CD9ED
+msgctxt "00000024"
 msgid ""
 "宿屋の娘：おや？お忘れ物ですか？"
 msgstr ""
 
 #: 000CDA3B
+msgctxt "00000025"
 msgid ""
 "宿屋の娘：いらっしゃいませ。"
 msgstr ""
 
 #: 000CDA5B
+msgctxt "00000026"
 msgid ""
 "お一人さま２０ガメになります。"
 msgstr ""
 
 #: 000CDA7D
+msgctxt "00000027"
 msgid ""
 "お泊まりですか？"
 msgstr ""
 
 #: 000CDA9F
+msgctxt "00000028"
 msgid ""
 "○ボタン＿泊る＿×ボタン＿やめる"
 msgstr ""
 
 #: 000CDAD9
+msgctxt "00000029"
 msgid ""
 "またのおこしをおまちしております。"
 msgstr ""
 
 #: 000CDB1F
+msgctxt "00000030"
 msgid ""
 "では、奥の部屋でごゆっくりどうぞ。"
 msgstr ""
 
 #: 000CDB91
+msgctxt "00000031"
 msgid ""
 "おはようございます。"
 msgstr ""
 
 #: 000CDBA9
+msgctxt "00000032"
 msgid ""
 "ゆうべはよくおやすみになれましたか？"
 msgstr ""
 
 #: 000CDBFB
+msgctxt "00000033"
 msgid ""
 "申しわけありませんが、お金が不足しておりまして・・・"
 msgstr ""
 
 #: 000CDC33
+msgctxt "00000034"
 msgid ""
 "またのおこしをおまちしております。"
 msgstr ""
 
 #: 000CDC84
+msgctxt "00000035"
 msgid ""
 "カイ：・・・・・・"
 msgstr ""
 
 #: 000CDCA8
+msgctxt "00000036"
 msgid ""
 "バーク：・・・・・・"
 msgstr ""
 
 #: 000CDCC0
+msgctxt "00000037"
 msgid ""
 "じつはな、ミシリアちゃんがいないから言うけど"
 msgstr ""
 
 #: 000CDCF0
+msgctxt "00000038"
 msgid ""
 "俺さ、ケツにデキモノができちゃっててさ。"
 msgstr ""
 
 #: 000CDD1C
+msgctxt "00000039"
 msgid ""
 "いてぇんだ・・・"
 msgstr ""
 
 #: 000CDD3E
+msgctxt "00000040"
 msgid ""
 "カイ：・・・やめてくれないかな、そういう話。"
 msgstr ""
 
 #: 000CDD7C
+msgctxt "00000041"
 msgid ""
 "バーク：・・・もう寝ようか。"
 msgstr ""
 
 #: 000CDDAD
+msgctxt "00000042"
 msgid ""
 "ただいまー。"
 msgstr ""
 
 #: 000CDDCB
+msgctxt "00000043"
 msgid ""
 "ゴソゴソ・・・"
 msgstr ""
 
 #: 000CDDEE
+msgctxt "00000044"
 msgid ""
 "カイ：うわあっ！"
 msgstr ""
 
 #: 000CDE5B
+msgctxt "00000045"
 msgid ""
 "ミシリア：・・・ふにゃ？"
 msgstr ""
 
 #: 000CDE85
+msgctxt "00000046"
 msgid ""
 "カイ：ミ、ミミミ、ミシリア！"
 msgstr ""
 
 #: 000CDEA5
+msgctxt "00000047"
 msgid ""
 "な、なんで僕と同じベッドに？！"
 msgstr ""
 
 #: 000CDED5
+msgctxt "00000048"
 msgid ""
 "ミシリア：あ、あれ？私ったら・・・"
 msgstr ""
 
 #: 000CDF09
+msgctxt "00000049"
 msgid ""
 "バーク：うるせーなー、ムニャムニャ。"
 msgstr ""
 
 #: 000CDF3F
+msgctxt "00000050"
 msgid ""
 "カイ：・・・き、君のベッドはあっち！"
 msgstr ""
 
 #: 000CDF67
+msgctxt "00000051"
 msgid ""
 "お、おお、お休み！"
 msgstr ""
 
 #: 000CDF8B
+msgctxt "00000052"
 msgid ""
 "ミシリア：お休み・・・"
 msgstr ""
 
 #: 000CE007
+msgctxt "00000053"
 msgid ""
 "バーク：よし、追いかけようぜ。"
 msgstr ""
 
 #: 000CE06F
+msgctxt "00000054"
 msgid ""
 "宿屋の娘：おはようございます。"
 msgstr ""
 
 #: 000CE091
+msgctxt "00000055"
 msgid ""
 "ゆうべはよくおやすみになれましたか？"
 msgstr ""
 
 #: 000CE0D0
+msgctxt "00000056"
 msgid ""
 "カイ：・・・・・・"
 msgstr ""
 
 #: 000CE0F4
+msgctxt "00000057"
 msgid ""
 "ミシリア：・・・頭痛い。"
 msgstr ""
 
 #: 000CE11E
+msgctxt "00000058"
 msgid ""
 "バーク：はは・・・さ、早く療養所に行こうゼ。"
 msgstr ""
 
 #: 000CE161
+msgctxt "00000059"
 msgid ""
 "バーク：さ、早く療養所に行こうゼ。"
 msgstr ""
 
 #: 00112163
+msgctxt "00000060"
 msgid ""
 "薬屋：ウィー、ヒック。"
 msgstr ""
 
 #: 0011217D
+msgctxt "00000061"
 msgid ""
 "なんだぁー？おまえらは。"
 msgstr ""
 
 #: 001121B5
+msgctxt "00000062"
 msgid ""
 "ミシリア：あの・・・薬を買いにきたんですけど。"
 msgstr ""
 
 #: 001121F5
+msgctxt "00000063"
 msgid ""
 "薬屋：くすりぃー？どうすんだよ、そんなもん。ウィー"
 msgstr ""
 
 #: 00112247
+msgctxt "00000064"
 msgid ""
 "ミシリア：いえ・・・それは・・・"
 msgstr ""
 
 #: 00112284
+msgctxt "00000065"
 msgid ""
 "バーク：おい、酔っぱらってんじゃねぇよ。さっさと出せって。"
 msgstr ""
 
 #: 001122D0
+msgctxt "00000066"
 msgid ""
 "薬屋：なにぃー！俺のどこが酔っぱらってるって言うんだぁー！"
 msgstr ""
 
 #: 0011230E
+msgctxt "00000067"
 msgid ""
 "ふんがー！ヒック。"
 msgstr ""
 
 #: 0011233D
+msgctxt "00000068"
 msgid ""
 "バーク：活心剤ってやつが欲しいんだよ。"
 msgstr ""
 
 #: 00112367
+msgctxt "00000069"
 msgid ""
 "この村の医者が持ってこいって言ってたんだ。"
 msgstr ""
 
 #: 001123A3
+msgctxt "00000070"
 msgid ""
 "薬屋：そんならそうと、はよ言えー！"
 msgstr ""
 
 #: 001123C9
+msgctxt "00000071"
 msgid ""
 "さっさと持ってけー！そらよ！"
 msgstr ""
 
 #: 00112410
+msgctxt "00000072"
 msgid ""
 "カイ：あ、ありがとう。おいくらでしょうか？"
 msgstr ""
 
 #: 0011244C
+msgctxt "00000073"
 msgid ""
 "薬屋：てめぇ！俺をバカにしてんだろ！"
 msgstr ""
 
 #: 00112474
+msgctxt "00000074"
 msgid ""
 "金で何でも買えると思うなよ！"
 msgstr ""
 
 #: 00112494
+msgctxt "00000075"
 msgid ""
 "金じゃねぇー！誠意だ！誠意を見せろ！"
 msgstr ""
 
 #: 001124D5
+msgctxt "00000076"
 msgid ""
 "カイ：ど、どうもありがとうございます。"
 msgstr ""
 
 #: 0011250D
+msgctxt "00000077"
 msgid ""
 "薬屋：よし！金はいらん！とっとと持っていけ！"
 msgstr ""
 
 #: 00112556
+msgctxt "00000078"
 msgid ""
 "バーク：カイ、気が変わらないうちに退散した方が良さそうだぜ。"
 msgstr ""
 
 #: 001125A4
+msgctxt "00000079"
 msgid ""
 "カイ：あ、そ、そうだね。"
 msgstr ""
 
 #: 00112600
+msgctxt "00000080"
 msgid ""
 "薬屋：ウィー"
 msgstr ""
 
 #: 0015699E
+msgctxt "00000081"
 msgid ""
 "医者：薬屋なら、南東に行けばあるぞ。"
 msgstr ""
 
 #: 001569C6
+msgctxt "00000082"
 msgid ""
 "早く行って来てくれんかね。"
 msgstr ""
 
 #: 00156A05
+msgctxt "00000083"
 msgid ""
 "医者：薬を持ってきたか。"
 msgstr ""
 
 #: 00156A21
+msgctxt "00000084"
 msgid ""
 "ちょっと待ってろ。"
 msgstr ""
 
 #: 00156ADC
+msgctxt "00000085"
 msgid ""
 "医者：薬は一時的な処置にすぎん。"
 msgstr ""
 
 #: 00156B00
+msgctxt "00000086"
 msgid ""
 "しかし、明日、一日ぐらいなら話ができるだろう。"
 msgstr ""
 
 #: 00156B32
+msgctxt "00000087"
 msgid ""
 "すまんが、明日出直してきてくれ。その頃には目を覚ますはずだ。"
 msgstr ""
 
 #: 00156B87
+msgctxt "00000088"
 msgid ""
 "ミシリア：カイ、仕方ないから、今日は宿で休みましょう。"
 msgstr ""
 
 #: 00156BC1
+msgctxt "00000089"
 msgid ""
 "カイ：あ、うん・・・"
 msgstr ""
 
 #: 00156BF4
+msgctxt "00000090"
 msgid ""
 "医者：カギはあけておいた。"
 msgstr ""
 
 #: 00156C12
+msgctxt "00000091"
 msgid ""
 "病室には勝手に入ってかまわない。"
 msgstr ""
 
 #: 00156C70
+msgctxt "00000092"
 msgid ""
 "医者：医者は何でも治せるわけではない。"
 msgstr ""
 
 #: 00156C9A
+msgctxt "00000093"
 msgid ""
 "治すとしても、魔法のようにパッとは治せんのだ。"
 msgstr ""
 
 #: 00156CCC
+msgctxt "00000094"
 msgid ""
 "もうからんのだよ。この仕事は・・・"
 msgstr ""
 
 #: 00156D44
+msgctxt "00000095"
 msgid ""
 "面会謝絶。"
 msgstr ""
 
 #: 00156D52
+msgctxt "00000096"
 msgid ""
 "医師の許可が必要。"
 msgstr ""
 
 #: 00156DB1
+msgctxt "00000097"
 msgid ""
 "バーク：・・・ったく、人がいいんだから・・・"
 msgstr ""
 
 #: 00156DEF
+msgctxt "00000098"
 msgid ""
 "ミシリア：そこがカイのイイところじゃない。"
 msgstr ""
 
 #: 00156E2B
+msgctxt "00000099"
 msgid ""
 "バーク：そうかぁ？"
 msgstr ""
 
 #: 00156EC8
+msgctxt "00000100"
 msgid ""
 "医者：ん？何か用か？"
 msgstr ""
 
 #: 00156EFC
+msgctxt "00000101"
 msgid ""
 "カイ：すみません。"
 msgstr ""
 
 #: 00156F12
+msgctxt "00000102"
 msgid ""
 "ここに魔導師らしい人が、来たことがありませんか？"
 msgstr ""
 
 #: 00156F54
+msgctxt "00000103"
 msgid ""
 "医者：ああ、マール殿のことだな。"
 msgstr ""
 
 #: 00156F94
+msgctxt "00000104"
 msgid ""
 "残念なことに、この村に来る途中で盗賊におそわれて・・"
 msgstr ""
 
 #: 00156FE5
+msgctxt "00000105"
 msgid ""
 "バーク：死んじまったのか？"
 msgstr ""
 
 #: 00157025
+msgctxt "00000106"
 msgid ""
 "カイ：バーク！"
 msgstr ""
 
 #: 00157050
+msgctxt "00000107"
 msgid ""
 "バーク：ああ、すまねぇ。"
 msgstr ""
 
 #: 001570B0
+msgctxt "00000108"
 msgid ""
 "医者：ハッハッハッハ。"
 msgstr ""
 
 #: 001570E6
+msgctxt "00000109"
 msgid ""
 "いや、すまん。"
 msgstr ""
 
 #: 001570F8
+msgctxt "00000110"
 msgid ""
 "傷はそんなにひどくないのだが、どうにも意識がもどらんのだ。"
 msgstr ""
 
 #: 00157158
+msgctxt "00000111"
 msgid ""
 "ミシリア：どうしよう、カイ。ここまで来たのに・・・"
 msgstr ""
 
 #: 001571B0
+msgctxt "00000112"
 msgid ""
 "医者：まぁ、そんなに心配する事はない。"
 msgstr ""
 
 #: 001571DA
+msgctxt "00000113"
 msgid ""
 "気付け薬を探すよう、薬屋にたのんである。"
 msgstr ""
 
 #: 00157206
+msgctxt "00000114"
 msgid ""
 "そろそろ見つけている頃だと思うんだが"
 msgstr ""
 
 #: 0015722E
+msgctxt "00000115"
 msgid ""
 "すまんが、君達、取りに行ってきてくれんかね。"
 msgstr ""
 
 #: 00157277
+msgctxt "00000116"
 msgid ""
 "バーク：なんで俺達が・・・"
 msgstr ""
 
 #: 001572BF
+msgctxt "00000117"
 msgid ""
 "カイ：何という薬をもらってくればいいんですか？"
 msgstr ""
 
 #: 001572FF
+msgctxt "00000118"
 msgid ""
 "医者：活心剤というやつだ。"
 msgstr ""
 
 #: 0015731D
+msgctxt "00000119"
 msgid ""
 "薬屋は、外に出て、ずっと南東にむかった所にある。"
 msgstr ""
 
 #: 001573C3
+msgctxt "00000120"
 msgid ""
 "バーク：どうしたんだよ、ずいぶんと遅かったじゃないか。"
 msgstr ""
 
 #: 0015742F
+msgctxt "00000121"
 msgid ""
 "カイ：・・・いや、その・・・ちょっとね。"
 msgstr ""
 
 #: 00157469
+msgctxt "00000122"
 msgid ""
 "ミシリア：これから、どうするの？"
 msgstr ""
 
 #: 0015749B
+msgctxt "00000123"
 msgid ""
 "カイ：このまま、メルーの町に行こう。"
 msgstr ""
 
 #: 001574C3
+msgctxt "00000124"
 msgid ""
 "ミシリアを知っている人がいるみたいだし、それに"
 msgstr ""
 
 #: 001574F5
+msgctxt "00000125"
 msgid ""
 "あのロケットの持ち主の家族に会えるかもしれないから・・・"
 msgstr ""
 
 #: 00157558
+msgctxt "00000126"
 msgid ""
 "ミシリア：・・・そうね。"
 msgstr ""
 
 #: 00157582
+msgctxt "00000127"
 msgid ""
 "バーク：そうだな、こっからなら、そんなに遠くないし。"
 msgstr ""
 
 #: 001575C8
+msgctxt "00000128"
 msgid ""
 "カイ：じゃあ、行こうか。"
 msgstr ""
 
 #: 00157600
+msgctxt "00000129"
 msgid ""
 "ミシリア：・・・うん。"
 msgstr ""
 
 #: 0019B1B5
+msgctxt "00000130"
 msgid ""
 "マール：・・・・・・"
 msgstr ""
 
 #: 0019B1E9
+msgctxt "00000131"
 msgid ""
 "カイ：お体の方はどうですか？"
 msgstr ""
 
 #: 0019B217
+msgctxt "00000132"
 msgid ""
 "マール：若い頃のように元気ではないからな。まあ、ぼちぼちだ。"
 msgstr ""
 
 #: 0019B257
+msgctxt "00000133"
 msgid ""
 "例の病気のことについて、何か分かったのか？"
 msgstr ""
 
 #: 0019B2A1
+msgctxt "00000134"
 msgid ""
 "カイ：残念ながら、まだ・・・"
 msgstr ""
 
 #: 0019B2DD
+msgctxt "00000135"
 msgid ""
 "マール：あせっても仕方がないからな。"
 msgstr ""
 
 #: 0019B305
+msgctxt "00000136"
 msgid ""
 "それで、こんな時期にサナトリの村に何の用だ？"
 msgstr ""
 
 #: 0019B335
+msgctxt "00000137"
 msgid ""
 "まさか、のんびりと温泉を楽しみに来たわけではあるまい。"
 msgstr ""
 
 #: 0019B37D
+msgctxt "00000138"
 msgid ""
 "カイ：聖獣のほこらに向かおうかと思っているんです。"
 msgstr ""
 
 #: 0019B3C1
+msgctxt "00000139"
 msgid ""
 "マール：ほう、なにゆえそんな所に行くのだ？"
 msgstr ""
 
 #: 0019B3EF
+msgctxt "00000140"
 msgid ""
 "魔物の巣になってしまっていて、物見ゆ山どころではないぞ。"
 msgstr ""
 
 #: 0019B439
+msgctxt "00000141"
 msgid ""
 "カイ：だから、それを確かめに行くんです。"
 msgstr ""
 
 #: 0019B473
+msgctxt "00000142"
 msgid ""
 "マール：そうか・・・・・・"
 msgstr ""
 
 #: 0019B4AD
+msgctxt "00000143"
 msgid ""
 "いいだろう、これを持って行け。"
 msgstr ""
 
 #: 0019B4EB
+msgctxt "00000144"
 msgid ""
 "カイ：これは・・・？"
 msgstr ""
 
 #: 0019B511
+msgctxt "00000145"
 msgid ""
 "マール：らせんの杖だ。"
 msgstr ""
 
 #: 0019B52B
+msgctxt "00000146"
 msgid ""
 "聖獣のほこらから、強い力の存在を感じる。"
 msgstr ""
 
 #: 0019B557
+msgctxt "00000147"
 msgid ""
 "こいつなら、それを中和してくれるだろう。"
 msgstr ""
 
 #: 0019B591
+msgctxt "00000148"
 msgid ""
 "カイ：あ、ありがとうございます。"
 msgstr ""
 
 #: 0019B5C3
+msgctxt "00000149"
 msgid ""
 "らせんの杖を手にいれた。"
 msgstr ""
 
 #: 0019B614
+msgctxt "00000150"
 msgid ""
 "マール：まあ、他にも言いたいことはいくらでもあるが、"
 msgstr ""
 
 #: 0019B64C
+msgctxt "00000151"
 msgid ""
 "帰ってきてからだ。"
 msgstr ""
 
 #: 0019B662
+msgctxt "00000152"
 msgid ""
 "まったく・・・お前のような、甘いやつも珍しいな。"
 msgstr ""
 
 #: 0019B6B2
+msgctxt "00000153"
 msgid ""
 "バーク：（おい、今、ほめられたのか？）"
 msgstr ""
 
 #: 0019B6EA
+msgctxt "00000154"
 msgid ""
 "ミーナ：（なぜ、私に聞く？）"
 msgstr ""
 
 #: 0019B70A
+msgctxt "00000155"
 msgid ""
 "（人間の意志伝達方法を、私がくわしく知るわけがないだろう）"
 msgstr ""
 
 #: 0019B756
+msgctxt "00000156"
 msgid ""
 "バーク：（いやー、なんとなく・・・）"
 msgstr ""
 
 #: 0019B78C
+msgctxt "00000157"
 msgid ""
 "カイ：それじゃ、また後で。"
 msgstr ""
 
 #: 0019B7F4
+msgctxt "00000158"
 msgid ""
 "マール：ハッハッハッハッハ、無事に帰ってきたか。"
 msgstr ""
 
 #: 0019B828
+msgctxt "00000159"
 msgid ""
 "これでは、年寄りには口をはさむ権利がないわい。"
 msgstr ""
 
 #: 0019B85A
+msgctxt "00000160"
 msgid ""
 "以前の忠告は忘れてくれ。わしの見当違いだった。"
 msgstr ""
 
 #: 0019B89A
+msgctxt "00000161"
 msgid ""
 "ミシリア：？"
 msgstr ""
 
 #: 0019B8C6
+msgctxt "00000162"
 msgid ""
 "カイ：気にしていませんよ。それよりも、ほこらの中にあった"
 msgstr ""
 
 #: 0019B902
+msgctxt "00000163"
 msgid ""
 "剣を引き抜いたら、島中の魔物達が消えたんです。"
 msgstr ""
 
 #: 0019B934
+msgctxt "00000164"
 msgid ""
 "それと、変なこえが・・・"
 msgstr ""
 
 #: 0019B95E
+msgctxt "00000165"
 msgid ""
 "マール：フン・・・ドラゴンソードの魔力は強力だからな。"
 msgstr ""
 
 #: 0019B998
+msgctxt "00000166"
 msgid ""
 "その封印されていた力が解放されたしゅんかんに、"
 msgstr ""
 
 #: 0019B9CA
+msgctxt "00000167"
 msgid ""
 "島をおおっていた力場が消し飛んだのだろう。"
 msgstr ""
 
 #: 0019BA14
+msgctxt "00000168"
 msgid ""
 "カイ：それじゃあ、誰かがこのドラゴンソードを"
 msgstr ""
 
 #: 0019BA44
+msgctxt "00000169"
 msgid ""
 "ねらっていたんでしょうか？"
 msgstr ""
 
 #: 0019BA70
+msgctxt "00000170"
 msgid ""
 "マール：さあな、それはまだ分からん。"
 msgstr ""
 
 #: 0019BA98
+msgctxt "00000171"
 msgid ""
 "力場の出来を考えると、けっこう実力のあるやつの仕事だろうがな・・・"
 msgstr ""
 
 #: 0019BAFA
+msgctxt "00000172"
 msgid ""
 "・・・らせんの杖は、まだ持っているか？"
 msgstr ""
 
 #: 0019BB24
+msgctxt "00000173"
 msgid ""
 "持っていたら返してもらおう。"
 msgstr ""
 
 #: 0019BB52
+msgctxt "00000174"
 msgid ""
 "カイ：あ、はい。"
 msgstr ""
 
 #: 0019BB90
+msgctxt "00000175"
 msgid ""
 "バーク：（うわっ、くれるんじゃなかったのかよ）"
 msgstr ""
 
 #: 0019BBD0
+msgctxt "00000176"
 msgid ""
 "マール：でかいの、なんか言ったか？"
 msgstr ""
 
 #: 0019BC04
+msgctxt "00000177"
 msgid ""
 "バーク：いいや、別に。"
 msgstr ""
 
 #: 0019BC2C
+msgctxt "00000178"
 msgid ""
 "カイ：どうも、ありがとうございました。"
 msgstr ""
 
 #: 0019BC72
+msgctxt "00000179"
 msgid ""
 "マール：気にするな。"
 msgstr ""
 
 #: 0019BC8A
+msgctxt "00000180"
 msgid ""
 "年寄りが勝手にやったことだ。"
 msgstr ""
 
 #: 0019BCE6
+msgctxt "00000181"
 msgid ""
 "マール：・・・すまんが、頼みがある。"
 msgstr ""
 
 #: 0019BD27
+msgctxt "00000182"
 msgid ""
 "カイ：なんでしょうか。"
 msgstr ""
 
 #: 0019BD4F
+msgctxt "00000183"
 msgid ""
 "マール：わしも入院生活が長い。でな、実は金に困っている。"
 msgstr ""
 
 #: 0019BD8B
+msgctxt "00000184"
 msgid ""
 "・・・つまりな、ここの支払いもできんのだ。"
 msgstr ""
 
 #: 0019BDB9
+msgctxt "00000185"
 msgid ""
 "お前、わしから魔法をかわんか？"
 msgstr ""
 
 #: 0019BE0C
+msgctxt "00000186"
 msgid ""
 "マール：すまんのう・・・うー、ゴホゴホ。"
 msgstr ""
 
 #: 0019BE38
+msgctxt "00000187"
 msgid ""
 "バーク：わざとらしいぜ。じいさん。"
 msgstr ""
 
 #: 0019BE71
+msgctxt "00000188"
 msgid ""
 "マール：年をとると、体にガタが来る。"
 msgstr ""
 
 #: 0019BE99
+msgctxt "00000189"
 msgid ""
 "若い内にやれることをやっておけ。"
 msgstr ""
 
 #: 0019BEDA
+msgctxt "00000190"
 msgid ""
 "老人：ん、ん・・・"
 msgstr ""
 
 #: 0019BEFE
+msgctxt "00000191"
 msgid ""
 "老人：・・・なんだ、お前らは。"
 msgstr ""
 
 #: 0019BF47
+msgctxt "00000192"
 msgid ""
 "ミシリア：良かった。気がついたみたい。"
 msgstr ""
 
 #: 0019BF7C
+msgctxt "00000193"
 msgid ""
 "おじいさん、気分はどうですか？"
 msgstr ""
 
 #: 0019BFAC
+msgctxt "00000194"
 msgid ""
 "フン、わしにはマールという名前がある。"
 msgstr ""
 
 #: 0019BFD6
+msgctxt "00000195"
 msgid ""
 "ちゃんと名前で呼んでもらおうか。"
 msgstr ""
 
 #: 0019C013
+msgctxt "00000196"
 msgid ""
 "カイ：え・・・と、マールさん。僕達、"
 msgstr ""
 
 #: 0019C03B
+msgctxt "00000197"
 msgid ""
 "「怪物になる病気」について、色々と聞きたいことがあるんです。"
 msgstr ""
 
 #: 0019C089
+msgctxt "00000198"
 msgid ""
 "マール：知ってどうする？"
 msgstr ""
 
 #: 0019C0BE
+msgctxt "00000199"
 msgid ""
 "バーク：助けるんだよ！当たり前だろ！"
 msgstr ""
 
 #: 0019C0F4
+msgctxt "00000200"
 msgid ""
 "マール：ハッハッハッハ"
 msgstr ""
 
 #: 0019C11C
+msgctxt "00000201"
 msgid ""
 "カイ：僕達は「ルーンマルナの町」で"
 msgstr ""
 
 #: 0019C142
+msgctxt "00000202"
 msgid ""
 "その病気で苦しんでいる人に会いました。"
 msgstr ""
 
 #: 0019C16C
+msgctxt "00000203"
 msgid ""
 "でも、僕達は何も・・・"
 msgstr ""
 
 #: 0019C1A2
+msgctxt "00000204"
 msgid ""
 "ミシリア：お願い、マールさん。"
 msgstr ""
 
 #: 0019C1C4
+msgctxt "00000205"
 msgid ""
 "あなたなら助けられるんでしょう？"
 msgstr ""
 
 #: 0019C204
+msgctxt "00000206"
 msgid ""
 "カイ：ミシリア・・・"
 msgstr ""
 
 #: 0019C235
+msgctxt "00000207"
 msgid ""
 "マール：まあ、無理だな。"
 msgstr ""
 
 #: 0019C251
+msgctxt "00000208"
 msgid ""
 "この件に関して、あまりに分からんことが多すぎる。"
 msgstr ""
 
 #: 0019C285
+msgctxt "00000209"
 msgid ""
 "わしに治せるわけがなかろう。"
 msgstr ""
 
 #: 0019C2C1
+msgctxt "00000210"
 msgid ""
 "バーク：なんだそりゃあ？！"
 msgstr ""
 
 #: 0019C2DF
+msgctxt "00000211"
 msgid ""
 "それじゃ、今まで何を研究してきたって言うんだよ！"
 msgstr ""
 
 #: 0019C321
+msgctxt "00000212"
 msgid ""
 "マール：そこの大男はうるさいな。"
 msgstr ""
 
 #: 0019C345
+msgctxt "00000213"
 msgid ""
 "誰か、つまみだしてくれんか？"
 msgstr ""
 
 #: 0019C37E
+msgctxt "00000214"
 msgid ""
 "バーク：このクソじじいっ！"
 msgstr ""
 
 #: 0019C3B8
+msgctxt "00000215"
 msgid ""
 "カイ：バーク！"
 msgstr ""
 
 #: 0019C3F4
+msgctxt "00000216"
 msgid ""
 "マール：そちらの若いのは、冷静だな。"
 msgstr ""
 
 #: 0019C41C
+msgctxt "00000217"
 msgid ""
 "とにかく、この病気は人智をこえている。"
 msgstr ""
 
 #: 0019C446
+msgctxt "00000218"
 msgid ""
 "そうだな・・・何かは分からないが、外からの力・・・"
 msgstr ""
 
 #: 0019C47C
+msgctxt "00000219"
 msgid ""
 "わしらの知らない、何か外からの影響力が働いている。"
 msgstr ""
 
 #: 0019C4B2
+msgctxt "00000220"
 msgid ""
 "せめて、その正体だけでもハッキリすれば、あるいは・・・"
 msgstr ""
 
 #: 0019C557
+msgctxt "00000221"
 msgid ""
 "カイ：僕達で調べます。"
 msgstr ""
 
 #: 0019C57F
+msgctxt "00000222"
 msgid ""
 "マール：ほう、途方もない話だぞ。"
 msgstr ""
 
 #: 0019C5B1
+msgctxt "00000223"
 msgid ""
 "カイ：僕達は、その病気に苦しんでいる人を目の前にして"
 msgstr ""
 
 #: 0019C5F7
+msgctxt "00000224"
 msgid ""
 "無力だった。"
 msgstr ""
 
 #: 0019C607
+msgctxt "00000225"
 msgid ""
 "もし、僕達の力でその手助けができるんだったら・・・"
 msgstr ""
 
 #: 0019C64B
+msgctxt "00000226"
 msgid ""
 "マール：フン・・・ずいぶん簡単に言うんだな。"
 msgstr ""
 
 #: 0019C67B
+msgctxt "00000227"
 msgid ""
 "まあ、いい。気が向いたら、旅のついでに調べてくれればいい。"
 msgstr ""
 
 #: 0019C6B9
+msgctxt "00000228"
 msgid ""
 "・・・そうだな。これはせんべつだ。持っていくといい。"
 msgstr ""
 
 #: 0019C6FF
+msgctxt "00000229"
 msgid ""
 "ヴァルガを憶えた。"
 msgstr ""
 
 #: 0019C723
+msgctxt "00000230"
 msgid ""
 "トール・ローを憶えた。"
 msgstr ""
 
 #: 0019C74B
+msgctxt "00000231"
 msgid ""
 "アイスロックを憶えた。"
 msgstr ""
 
 #: 0019C782
+msgctxt "00000232"
 msgid ""
 "マール：これらの呪文は、魔物にダメージを与えるものだ。"
 msgstr ""
 
 #: 0019C7BC
+msgctxt "00000233"
 msgid ""
 "うまく使いこなしてくれ。"
 msgstr ""
 
 #: 0019C7F4
+msgctxt "00000234"
 msgid ""
 "カイ：ありがとう。"
 msgstr ""
 
 #: 0019C80A
+msgctxt "00000235"
 msgid ""
 "それじゃあ、僕達はこれで・・・"
 msgstr ""
 
 #: 0019C8B4
+msgctxt "00000236"
 msgid ""
 "マール：待て、若造。"
 msgstr ""
 
 #: 0019C8E8
+msgctxt "00000237"
 msgid ""
 "マール：お前、何者だ？"
 msgstr ""
 
 #: 0019C94E
+msgctxt "00000238"
 msgid ""
 "カイ：何者って・・・"
 msgstr ""
 
 #: 0019C966
+msgctxt "00000239"
 msgid ""
 "僕は小さな頃に、親に捨てられたから・・・"
 msgstr ""
 
 #: 0019C992
+msgctxt "00000240"
 msgid ""
 "自分がどこの誰かだなんて、知りません。"
 msgstr ""
 
 #: 0019C9CA
+msgctxt "00000241"
 msgid ""
 "マール：そうか。"
 msgstr ""
 
 #: 0019C9DE
+msgctxt "00000242"
 msgid ""
 "いや、ちょっとな・・・そんなに気にするな。"
 msgstr ""
 
 #: 0019CA0C
+msgctxt "00000243"
 msgid ""
 "そうだ、一度新ハインローグ城に行ってみるといい。"
 msgstr ""
 
 #: 0019CA40
+msgctxt "00000244"
 msgid ""
 "そこの聖者とか呼ばれているやつとは、知り合いでな。"
 msgstr ""
 
 #: 0019CA76
+msgctxt "00000245"
 msgid ""
 "わしの名前を出せば無下にはされんだろう。"
 msgstr ""
 
 #: 0019CAB0
+msgctxt "00000246"
 msgid ""
 "それから"
 msgstr ""
 
 #: 0019CABC
+msgctxt "00000247"
 msgid ""
 "これはお前より長く生きてきた者からの忠告だ。"
 msgstr ""
 
 #: 0019CAEC
+msgctxt "00000248"
 msgid ""
 "あの娘を連れ回すようなマネはやめておけ。"
 msgstr ""
 
 #: 0019CB34
+msgctxt "00000249"
 msgid ""
 "カイ：ミシリアを？なぜ？"
 msgstr ""
 
 #: 0019CB5E
+msgctxt "00000250"
 msgid ""
 "マール：足手まといにしかならん。"
 msgstr ""
 
 #: 0019CB82
+msgctxt "00000251"
 msgid ""
 "わざわざ、危険と分かっている旅を続けさせる必要はない。"
 msgstr ""
 
 #: 0019CBBC
+msgctxt "00000252"
 msgid ""
 "もっと、安心して背中をまかせられる友を選べ。"
 msgstr ""
 
 #: 0019CBFA
+msgctxt "00000253"
 msgid ""
 "カイ：・・・お話が終わったのなら、失礼します。"
 msgstr ""
 
 #: 0019CC64
+msgctxt "00000254"
 msgid ""
 "マール：そういえば、お前の名前を聞いていなかったな。"
 msgstr ""
 
 #: 0019CCC6
+msgctxt "00000255"
 msgid ""
 "カイ：僕は・・・カイ。"
 msgstr ""
 
 #: 0019CCE0
+msgctxt "00000256"
 msgid ""
 "カイ＝オルフェアス。"
 msgstr ""
 
 #: 0019CD06
+msgctxt "00000257"
 msgid ""
 "マール：覚えておこう。"
 msgstr ""
 
 #: 001DF923
+msgctxt "00000258"
 msgid ""
 msgstr ""
 
 #: 001DFC7E
+msgctxt "00000259"
 msgid ""
 "バーク：カイ、おいてけぼりとはつめてぇじゃねーか。"
 msgstr ""
 
 #: 001DFCE8
+msgctxt "00000260"
 msgid ""
 "カイ：バーク！？"
 msgstr ""
 
 #: 001DFD0A
+msgctxt "00000261"
 msgid ""
 "バーク：へへっ、酒を飲みに行くんだろ？"
 msgstr ""
 
 #: 001DFD34
+msgctxt "00000262"
 msgid ""
 "俺も行くぜ。"
 msgstr ""
 
 #: 001DFD5D
+msgctxt "00000263"
 msgid ""
 "ファラ：およびじゃない！！"
 msgstr ""
 
 #: 001DFD94
+msgctxt "00000264"
 msgid ""
 "バーク：つめてぇこというなよ。なあ、カイ。"
 msgstr ""
 
 #: 001DFDD0
+msgctxt "00000265"
 msgid ""
 "カイ：いいじゃないか、ファラ。バークも一緒に行こう。"
 msgstr ""
 
 #: 001DFE16
+msgctxt "00000266"
 msgid ""
 "バーク：カイは話がわかるねぇ。"
 msgstr ""
 
 #: 001DFE46
+msgctxt "00000267"
 msgid ""
 "ファラ：ぶーぶー。"
 msgstr ""
 
 #: 001DFF80
+msgctxt "00000268"
 msgid ""
 " カイ：ミ、ミシリア・・・"
 msgstr ""
 
 #: 001DFF9D
+msgctxt "00000269"
 msgid ""
 "こ、こんな夜更けにどうしたの・・・"
 msgstr ""
 
 #: 001DFFD1
+msgctxt "00000270"
 msgid ""
 "ミシリア：ちょっと散歩に。"
 msgstr ""
 
 #: 001DFFEF
+msgctxt "00000271"
 msgid ""
 "カイこそどうしたの？こんな夜更けに。"
 msgstr ""
 
 #: 001E0025
+msgctxt "00000272"
 msgid ""
 "カイ：ぼ、僕もちょっと散歩に・・・"
 msgstr ""
 
 #: 001E004B
+msgctxt "00000273"
 msgid ""
 "ね、ねえ、バーク。"
 msgstr ""
 
 #: 001E007F
+msgctxt "00000274"
 msgid ""
 "バーク：あ、ああ。そうだよな。カイ。"
 msgstr ""
 
 #: 001E00B5
+msgctxt "00000275"
 msgid ""
 "ミシリア：ふーん。・・・もう終わったんでしょ？"
 msgstr ""
 
 #: 001E00F5
+msgctxt "00000276"
 msgid ""
 "カイ：え？そ、その・・・"
 msgstr ""
 
 #: 001E011F
+msgctxt "00000277"
 msgid ""
 "ミシリア：終わったんでしょ？"
 msgstr ""
 
 #: 001E0179
+msgctxt "00000278"
 msgid ""
 "カイ：う、うん。"
 msgstr ""
 
 #: 001E019B
+msgctxt "00000279"
 msgid ""
 "ミシリア：お２人も散歩は終わったんでしょ？"
 msgstr ""
 
 #: 001E01D7
+msgctxt "00000280"
 msgid ""
 "バーク＆ファラ：・・・・・・・・"
 msgstr ""
 
 #: 001E0221
+msgctxt "00000281"
 msgid ""
 "カイ：お、おやすみ。ミシリア。"
 msgstr ""
 
 #: 001E0361
+msgctxt "00000282"
 msgid ""
 "男：今、けいび兵のテストに向けて練習中なんだ。"
 msgstr ""
 
 #: 001E0393
+msgctxt "00000283"
 msgid ""
 "けいび兵についてはそこの宿屋前の看板を読むといいよ。"
 msgstr ""
 
 #: 001E0429
+msgctxt "00000284"
 msgid ""
 "１・２、１・２、がんばらないと"
 msgstr ""
 
 #: 001E0490
+msgctxt "00000285"
 msgid ""
 "男：今、けいび兵のテストに向けてくんれん中なんだ。"
 msgstr ""
 
 #: 001E0527
+msgctxt "00000286"
 msgid ""
 "男：最近みょうなしせんを感じるんだ・・・"
 msgstr ""
 
 #: 001E056F
+msgctxt "00000287"
 msgid ""
 "男：君もけいび兵のテストを受けるって？"
 msgstr ""
 
 #: 001E0599
+msgctxt "00000288"
 msgid ""
 "男：これはうかうかしてられないな。"
 msgstr ""
 
 #: 001E05F8
+msgctxt "00000289"
 msgid ""
 "男：まけられないな。"
 msgstr ""
 
 #: 001E0623
+msgctxt "00000290"
 msgid ""
 "男：今、けいび兵のテストに向けてくんれん中なんだ。"
 msgstr ""
 
 #: 001E06A8
+msgctxt "00000291"
 msgid ""
 "男：ここは新ハインローグ城の城下さ。"
 msgstr ""
 
 #: 001E06D0
+msgctxt "00000292"
 msgid ""
 "って、僕もさっき着いたばかりなんだけどね。"
 msgstr ""
 
 #: 001E0711
+msgctxt "00000293"
 msgid ""
 "男：王子様が発見されたせいで、けいび兵の話"
 msgstr ""
 
 #: 001E073F
+msgctxt "00000294"
 msgid ""
 "がうやむやになってしまった。"
 msgstr ""
 
 #: 001E075F
+msgctxt "00000295"
 msgid ""
 "僕の練習は何だったのだろう？むなしい・・・"
 msgstr ""
 
 #: 001E07B0
+msgctxt "00000296"
 msgid ""
 "女：私の彼がけいび兵になるんだと言って聞かないの。"
 msgstr ""
 
 #: 001E07E6
+msgctxt "00000297"
 msgid ""
 "女：怪我しなければ良いのだけど・・・"
 msgstr ""
 
 #: 001E0833
+msgctxt "00000298"
 msgid ""
 "女：心配だからここでこうやって見ているの。"
 msgstr ""
 
 #: 001E0861
+msgctxt "00000299"
 msgid ""
 "じぃーーーーーー"
 msgstr ""
 
 #: 001E0875
+msgctxt "00000300"
 msgid ""
 "ああ、愛してる。愛してる。愛してる。"
 msgstr ""
 
 #: 001E089D
+msgctxt "00000301"
 msgid ""
 "ぶつぶつ・・・・・"
 msgstr ""
 
 #: 001E08C1
+msgctxt "00000302"
 msgid ""
 "バーク：おい。カイ、この女なんかあぶなくないか？"
 msgstr ""
 
 #: 001E0903
+msgctxt "00000303"
 msgid ""
 "女：彼はわたしを愛してる・・・愛してる・・・"
 msgstr ""
 
 #: 001E0933
+msgctxt "00000304"
 msgid ""
 "ぶつぶつ・・・・・・・"
 msgstr ""
 
 #: 001E095B
+msgctxt "00000305"
 msgid ""
 "ミシリア：これ、魔法だわ！？"
 msgstr ""
 
 #: 001E0989
+msgctxt "00000306"
 msgid ""
 "カイ達はリトルラヴァを憶えた。"
 msgstr ""
 
 #: 001E09CB
+msgctxt "00000307"
 msgid ""
 "女：彼はわたしを愛してる・・・愛してる・・・"
 msgstr ""
 
 #: 001E09FB
+msgctxt "00000308"
 msgid ""
 "ぶつぶつ・・・・・・・"
 msgstr ""
 
 #: 001E0A32
+msgctxt "00000309"
 msgid ""
 "女：がんばっている彼が大好き。"
 msgstr ""
 
 #: 001E0A54
+msgctxt "00000310"
 msgid ""
 "女：でも私の事を愛してくれる彼が一番好きよ。"
 msgstr ""
 
 #: 001E0AA9
+msgctxt "00000311"
 msgid ""
 "女：ああ、愛してる。愛してる。愛してる。"
 msgstr ""
 
 #: 001E0AD5
+msgctxt "00000312"
 msgid ""
 "ぶつぶつ・・・・・"
 msgstr ""
 
 #: 001E0AF9
+msgctxt "00000313"
 msgid ""
 "バーク：おい。カイ、この女なんかあぶなくないか？"
 msgstr ""
 
 #: 001E0B3B
+msgctxt "00000314"
 msgid ""
 "女：彼はわたしを愛してる・・・愛してる・・・"
 msgstr ""
 
 #: 001E0B6B
+msgctxt "00000315"
 msgid ""
 "ぶつぶつ・・・・・・・"
 msgstr ""
 
 #: 001E0B93
+msgctxt "00000316"
 msgid ""
 "ミシリア：これ、魔法だわ！？"
 msgstr ""
 
 #: 001E0BC1
+msgctxt "00000317"
 msgid ""
 "カイ達はリトルラヴァを憶えた。"
 msgstr ""
 
 #: 001E0C03
+msgctxt "00000318"
 msgid ""
 "女：彼はわたしを愛してる・・・愛してる・・・"
 msgstr ""
 
 #: 001E0C33
+msgctxt "00000319"
 msgid ""
 "ぶつぶつ・・・・・・・"
 msgstr ""
 
 #: 001E0C94
+msgctxt "00000320"
 msgid ""
 "女：あそこにいるのが私の彼なの。"
 msgstr ""
 
 #: 001E0CCB
+msgctxt "00000321"
 msgid ""
 "女：落ちこんでいる彼も大好きよ。"
 msgstr ""
 
 #: 001E0D20
+msgctxt "00000322"
 msgid ""
 "告知：けいび兵募集のお知らせ"
 msgstr ""
 
 #: 001E0D40
+msgctxt "00000323"
 msgid ""
 "新ハインローグ城内、および周辺けいびの増強のため"
 msgstr ""
 
 #: 001E0D74
+msgctxt "00000324"
 msgid ""
 "けいび兵を募集します。くわしくは下記をごらんください。"
 msgstr ""
 
 #: 001E0DE3
+msgctxt "00000325"
 msgid ""
 "告知：けいび兵募集のお知らせ"
 msgstr ""
 
 #: 001E0E03
+msgctxt "00000326"
 msgid ""
 "新ハインローグ城内、および周辺けいびの増強のためけいび兵を募集します。"
 msgstr ""
 
 #: 001E0E4D
+msgctxt "00000327"
 msgid ""
 "くわしくは下記をごらんください。"
 msgstr ""
 
 #: 001E0E7F
+msgctxt "00000328"
 msgid ""
 "ミシリア：カイ、早く兵舎に行かないと"
 msgstr ""
 
 #: 001E0EA7
+msgctxt "00000329"
 msgid ""
 "ミシリア：間に合わないわ。急ぎましょう。"
 msgstr ""
 
 #: 001E0EE6
+msgctxt "00000330"
 msgid ""
 "告知：けいび兵募集のお知らせ"
 msgstr ""
 
 #: 001E0F06
+msgctxt "00000331"
 msgid ""
 "新ハインローグ城内、および周辺けいびの増強のためけいび兵を募集します。"
 msgstr ""
 
 #: 001E0F50
+msgctxt "00000332"
 msgid ""
 "くわしくは下記をごらんください。"
 msgstr ""
 
 #: 001E0F82
+msgctxt "00000333"
 msgid ""
 "カイ：明日、テストがあるとかいっていたな・・・"
 msgstr ""
 
 #: 001E0FC2
+msgctxt "00000334"
 msgid ""
 "ファラ：カイ、明日はがんばって！！わたし、応援してるよ！！"
 msgstr ""
 
 #: 001E100E
+msgctxt "00000335"
 msgid ""
 "バーク：俺も出るんだけどな・・・"
 msgstr ""
 
 #: 001E1052
+msgctxt "00000336"
 msgid ""
 "カイ：王国からのお知らせが書かれているようだ。"
 msgstr ""
 
 #: 001E1084
+msgctxt "00000337"
 msgid ""
 "王国がけいび兵を募集をしているとかかれている。"
 msgstr ""
 
 #: 001E10B6
+msgctxt "00000338"
 msgid ""
 "別にくわしく読む必要も無いだろう。"
 msgstr ""
 
 #: 001E10EF
+msgctxt "00000339"
 msgid ""
 "告知：王子発見の祝報"
 msgstr ""
 
 #: 001E1107
+msgctxt "00000340"
 msgid ""
 "くわしくは下記をごらんください。"
 msgstr ""
 
 #: 001E118D
+msgctxt "00000341"
 msgid ""
 "ミシリア：もう少し町で考えましょう？"
 msgstr ""
 
 #: 001E11E3
+msgctxt "00000342"
 msgid ""
 "ミシリア：もう少し町で考えましょう？"
 msgstr ""
 
 #: 001E12DB
+msgctxt "00000343"
 msgid ""
 "バーク：こいつだっ！！"
 msgstr ""
 
 #: 001E1335
+msgctxt "00000344"
 msgid ""
 "カイ：ど、どうしたんだい、バーク。"
 msgstr ""
 
 #: 001E138B
+msgctxt "00000345"
 msgid ""
 "バーク：これだよ、これ、この城のけいび兵になりゃ、"
 msgstr ""
 
 #: 001E13C4
+msgctxt "00000346"
 msgid ""
 "バーク：聖者とやらにも会えるかもしれねーだろ？"
 msgstr ""
 
 #: 001E1428
+msgctxt "00000347"
 msgid ""
 "カイ：本気かい！？バーク？"
 msgstr ""
 
 #: 001E1462
+msgctxt "00000348"
 msgid ""
 "バーク：もちろん、本気だぜ。"
 msgstr ""
 
 #: 001E149E
+msgctxt "00000349"
 msgid ""
 "カイ：・・・"
 msgstr ""
 
 #: 001E14CA
+msgctxt "00000350"
 msgid ""
 "カイ：よし、やってみよう。"
 msgstr ""
 
 #: 001E150D
+msgctxt "00000351"
 msgid ""
 "ミシリア：２人とも本気なの？"
 msgstr ""
 
 #: 001E1530
+msgctxt "00000352"
 msgid ""
 "ミシリア：そこまでして聖者様に会わなければならないの？"
 msgstr ""
 
 #: 001E15AD
+msgctxt "00000353"
 msgid ""
 "カイ：これからの旅はいままで以上に危険になるし、つらくなるからね。"
 msgstr ""
 
 #: 001E15F6
+msgctxt "00000354"
 msgid ""
 "カイ：何か後ろ盾になる人がいて欲しいんだ。"
 msgstr ""
 
 #: 001E1635
+msgctxt "00000355"
 msgid ""
 "カイ：それに何か助言でもいただけるかもしれないしね。"
 msgstr ""
 
 #: 001E1689
+msgctxt "00000356"
 msgid ""
 "ミシリア：・・・"
 msgstr ""
 
 #: 001E16A0
+msgctxt "00000357"
 msgid ""
 "ミシリア：わかったわ、カイ。"
 msgstr ""
 
 #: 001E16D1
+msgctxt "00000358"
 msgid ""
 "ミシリア：私も参加した方がいいかしら？"
 msgstr ""
 
 #: 001E1728
+msgctxt "00000359"
 msgid ""
 "カイ：いや、僕とバークでいいと思うよ。"
 msgstr ""
 
 #: 001E176B
+msgctxt "00000360"
 msgid ""
 "ファラ：わたしもけいび兵になりたーい！！"
 msgstr ""
 
 #: 001E17C7
+msgctxt "00000361"
 msgid ""
 "カイ：無理言わないでくれよ・・・"
 msgstr ""
 
 #: 001E180E
+msgctxt "00000362"
 msgid ""
 "ファラ：ぶーぶー、つまぁんない。"
 msgstr ""
 
 #: 001E184E
+msgctxt "00000363"
 msgid ""
 "ミシリア：ねぇ、カイ、募集のしめ切りは今日までって書いてあるわ。"
 msgstr ""
 
 #: 001E18B7
+msgctxt "00000364"
 msgid ""
 "バーク：なに？カイ、急がないと間にあわねぇぜ。"
 msgstr ""
 
 #: 001E190E
+msgctxt "00000365"
 msgid ""
 "ミシリア：「申しこみは、看板右手の兵舎にて」ですって。"
 msgstr ""
 
 #: 001E1967
+msgctxt "00000366"
 msgid ""
 "カイ：よし、兵舎へ向かおう。"
 msgstr ""
 
 #: 00224377
+msgctxt "00000367"
 msgid ""
 "門番：城内へ入れるわけにはいかん！"
 msgstr ""
 
 #: 002243BB
+msgctxt "00000368"
 msgid ""
 "門番：しんさは明日だ。"
 msgstr ""
 
 #: 0022441A
+msgctxt "00000369"
 msgid ""
 "門番：カイ様、ご自由にお通り下さい。"
 msgstr ""
 
 #: 00224466
+msgctxt "00000370"
 msgid ""
 "門番：城内へ入れるわけにはいかん！"
 msgstr ""
 
 #: 002244AA
+msgctxt "00000371"
 msgid ""
 "門番：しんさは明日だ。"
 msgstr ""
 
 #: 00224509
+msgctxt "00000372"
 msgid ""
 "門番：カイ様、ご自由にお通り下さい。"
 msgstr ""
 
 #: 0022455F
+msgctxt "00000373"
 msgid ""
 "男：うぃーーーー、何か用か？そこの酒場の酒はさいこうだぜ。"
 msgstr ""
 
 #: 0022459D
+msgctxt "00000374"
 msgid ""
 "男：おめーさん達も飲んでいくといいぜ。"
 msgstr ""
 
 #: 002245CA
+msgctxt "00000375"
 msgid ""
 "男：ひっく。"
 msgstr ""
 
 #: 002245F5
+msgctxt "00000376"
 msgid ""
 "男：今日も酒がうまいとくらー。"
 msgstr ""
 
 #: 00224625
+msgctxt "00000377"
 msgid ""
 "バーク：だめだ、こりゃ完全に酔ってやがる。"
 msgstr ""
 
 #: 00224661
+msgctxt "00000378"
 msgid ""
 "男：そーなんです、私酔ってるんです。わははははははっ。"
 msgstr ""
 
 #: 002246C0
+msgctxt "00000379"
 msgid ""
 "男：どうだい、旅の方、あんたも一杯？"
 msgstr ""
 
 #: 002246F6
+msgctxt "00000380"
 msgid ""
 "ファラ：わたし、お酒飲みたーい。行こうよ、カイ。"
 msgstr ""
 
 #: 00224738
+msgctxt "00000381"
 msgid ""
 "カイ：どうしようか、バーク？"
 msgstr ""
 
 #: 00224766
+msgctxt "00000382"
 msgid ""
 "ミシリア：カイ、登録をすませてからのほうが・・・"
 msgstr ""
 
 #: 002247A8
+msgctxt "00000383"
 msgid ""
 "カイ：そうだね。"
 msgstr ""
 
 #: 002247CA
+msgctxt "00000384"
 msgid ""
 "ファラ：ぶー、つまんない。"
 msgstr ""
 
 #: 002247F6
+msgctxt "00000385"
 msgid ""
 "バーク：ぼやくな、ぼやくな。"
 msgstr ""
 
 #: 00224831
+msgctxt "00000386"
 msgid ""
 "男：おいしいのになぁ、お酒。"
 msgstr ""
 
 #: 0022485F
+msgctxt "00000387"
 msgid ""
 "ファラ：ううぅ、飲みたいよー。"
 msgstr ""
 
 #: 0022489E
+msgctxt "00000388"
 msgid ""
 "男：どうだい、旅の方、あんた達も一杯？"
 msgstr ""
 
 #: 002248D6
+msgctxt "00000389"
 msgid ""
 "ファラ：飲みに行くぅ。"
 msgstr ""
 
 #: 002248FE
+msgctxt "00000390"
 msgid ""
 "カイ：よし飲みに行こうか。"
 msgstr ""
 
 #: 0022492A
+msgctxt "00000391"
 msgid ""
 "ファラ：わーい、やったぁ！！"
 msgstr ""
 
 #: 00224958
+msgctxt "00000392"
 msgid ""
 "ミシリア：カイ、明日は早いからよしたほうが・・・"
 msgstr ""
 
 #: 0022499A
+msgctxt "00000393"
 msgid ""
 "カイ：・・・そうだね。"
 msgstr ""
 
 #: 002249C2
+msgctxt "00000394"
 msgid ""
 "ファラ：えー、行こうよ、行こうよ。"
 msgstr ""
 
 #: 002249F6
+msgctxt "00000395"
 msgid ""
 "ミシリア：ファラ・・・・"
 msgstr ""
 
 #: 00224A20
+msgctxt "00000396"
 msgid ""
 "ファラ：ぶー、つまんない。"
 msgstr ""
 
 #: 00224A4C
+msgctxt "00000397"
 msgid ""
 "バーク：ぼやくな、ぼやくな。"
 msgstr ""
 
 #: 00224A87
+msgctxt "00000398"
 msgid ""
 "男：いい気分なんだから話かけんなよ。"
 msgstr ""
 
 #: 00224AEE
+msgctxt "00000399"
 msgid ""
 "男：ぷはーー今日も酒がうまいとくらぁ。"
 msgstr ""
 
 #: 00224B2B
+msgctxt "00000400"
 msgid ""
 "男：王子様が見つかったとかで、きのうはただ酒が飲めたぜ。"
 msgstr ""
 
 #: 00224B67
+msgctxt "00000401"
 msgid ""
 "男：王子様ばんざーい！！ってか？"
 msgstr ""
 
 #: 00224BAE
+msgctxt "00000402"
 msgid ""
 "老人：最近、この付近もぶっそうになりました。"
 msgstr ""
 
 #: 00224BF9
+msgctxt "00000403"
 msgid ""
 "老人：今度、この城のけいびが強化されるそうです。"
 msgstr ""
 
 #: 00224C2D
+msgctxt "00000404"
 msgid ""
 "老人：うれしいことですじゃ。"
 msgstr ""
 
 #: 00224C94
+msgctxt "00000405"
 msgid ""
 "老人：最近、この付近もぶっそうになりました。"
 msgstr ""
 
 #: 00224CD7
+msgctxt "00000406"
 msgid ""
 "老人：王子様が見つかって町に活気がもどってきました。"
 msgstr ""
 
 #: 00224D0F
+msgctxt "00000407"
 msgid ""
 "老人：うれしいことですじゃ。"
 msgstr ""
 
 #: 00224D4D
+msgctxt "00000408"
 msgid ""
 "こっこ、こっこ、ここぉぉーーーーー"
 msgstr ""
 
 #: 00224D89
+msgctxt "00000409"
 msgid ""
 "こけこっこ"
 msgstr ""
 
 #: 00224DC5
+msgctxt "00000410"
 msgid ""
 "こけ？"
 msgstr ""
 
 #: 00224DEA
+msgctxt "00000411"
 msgid ""
 "こけこっこ"
 msgstr ""
 
 #: 00224E13
+msgctxt "00000412"
 msgid ""
 "こっこっこっこ、こけこぉー"
 msgstr ""
 
 #: 00224E3F
+msgctxt "00000413"
 msgid ""
 "バーク：えらいリズミカルなニワトリだな。"
 msgstr ""
 
 #: 00224E79
+msgctxt "00000414"
 msgid ""
 "ミシリア：・・・・？こっこっこっこ、こけこぉー？"
 msgstr ""
 
 #: 00224EBB
+msgctxt "00000415"
 msgid ""
 "カイ：ど、どうしたんだい？ミシリア。"
 msgstr ""
 
 #: 00224EF1
+msgctxt "00000416"
 msgid ""
 "ミシリア：これ魔法のリズムよ。"
 msgstr ""
 
 #: 00224F21
+msgctxt "00000417"
 msgid ""
 "ディアノーゼを憶えた。"
 msgstr ""
 
 #: 00224F7A
+msgctxt "00000418"
 msgid ""
 "こけ？"
 msgstr ""
 
 #: 00224FA5
+msgctxt "00000419"
 msgid ""
 "門番：城に近寄っちゃいかん！"
 msgstr ""
 
 #: 00225050
+msgctxt "00000420"
 msgid ""
 "ミシリア：登録をすませてからのほうが・・・"
 msgstr ""
 
 #: 0022509A
+msgctxt "00000421"
 msgid ""
 "バーク：おい、さっきミシリアちゃんに注意されたばかりだぜ？"
 msgstr ""
 
 #: 002250EB
+msgctxt "00000422"
 msgid ""
 "ミシリア：明日は早いからやめましょう？"
 msgstr ""
 
 #: 00268906
+msgctxt "00000423"
 msgid ""
 "＿＿＿＿＿明朝＿＿＿＿＿"
 msgstr ""
 
 #: 0026896E
+msgctxt "00000424"
 msgid ""
 "ミシリア：カイ、明日は早いからもう泊まりましょう？"
 msgstr ""
 
 #: 002689B2
+msgctxt "00000425"
 msgid ""
 "カイ：そうしよう。"
 msgstr ""
 
 #: 002689D6
+msgctxt "00000426"
 msgid ""
 "おばさん：いらっしゃいませ、お泊まりかい？"
 msgstr ""
 
 #: 00268A2A
+msgctxt "00000427"
 msgid ""
 "・・・・・・・その夜・・・・・・・"
 msgstr ""
 
 #: 00268A5E
+msgctxt "00000428"
 msgid ""
 "＿＿＿＿＿ごそごそ＿＿＿＿＿＿＿＿"
 msgstr ""
 
 #: 00268A92
+msgctxt "00000429"
 msgid ""
 "カイ、カイってば！！"
 msgstr ""
 
 #: 00268AB8
+msgctxt "00000430"
 msgid ""
 "カイ：ん・・・ん"
 msgstr ""
 
 #: 00268ADA
+msgctxt "00000431"
 msgid ""
 "ファラ：カイ、カイ、起きてよ。"
 msgstr ""
 
 #: 00268B0A
+msgctxt "00000432"
 msgid ""
 "カイ：ん・・・あれっ？ファラ、どうしたんだい？"
 msgstr ""
 
 #: 00268B4D
+msgctxt "00000433"
 msgid ""
 "ファラ：カイ、お酒飲みに行こうよ。"
 msgstr ""
 
 #: 00268B81
+msgctxt "00000434"
 msgid ""
 "カイ：でも明日ははやいし・・・"
 msgstr ""
 
 #: 00268BB1
+msgctxt "00000435"
 msgid ""
 "ファラ：ちょっとだけ、ね、ね、行こうよ、行こうよ。"
 msgstr ""
 
 #: 00268BF5
+msgctxt "00000436"
 msgid ""
 "カイ：・・・・そうだね、行こうか。"
 msgstr ""
 
 #: 00268C29
+msgctxt "00000437"
 msgid ""
 "ファラ：わーい、わーい。"
 msgstr ""
 
 #: 00268C53
+msgctxt "00000438"
 msgid ""
 "カイ：じゃあ行こうか。"
 msgstr ""
 
 #: 00268C8D
+msgctxt "00000439"
 msgid ""
 "＿＿＿＿＿明朝＿＿＿＿＿"
 msgstr ""
 
 #: 00268D03
+msgctxt "00000440"
 msgid ""
 "おばさん：ごめんよ、まだ準備中でさ。また後から来てくれるかい？"
 msgstr ""
 
 #: 00268D58
+msgctxt "00000441"
 msgid ""
 "おばさん：ごめんよ、まだ準備中でさ。"
 msgstr ""
 
 #: 00268D80
+msgctxt "00000442"
 msgid ""
 "おや、あんたたちのかっこう・・・"
 msgstr ""
 
 #: 00268DA4
+msgctxt "00000443"
 msgid ""
 "あんた達もけいび兵になりたいのかい？"
 msgstr ""
 
 #: 00268DDA
+msgctxt "00000444"
 msgid ""
 "カイ：けいび兵？"
 msgstr ""
 
 #: 00268DFC
+msgctxt "00000445"
 msgid ""
 "おばさん：違うのかい？"
 msgstr ""
 
 #: 00268E16
+msgctxt "00000446"
 msgid ""
 "店の前のかんばんに、お城からの告知が張ってあるから読んでみたら？"
 msgstr ""
 
 #: 00268E6D
+msgctxt "00000447"
 msgid ""
 "おばさん：ごめんよ、今、準備中でさ。もう少し後から来てくれるかい？"
 msgstr ""
 
 #: 00268EE5
+msgctxt "00000448"
 msgid ""
 "おばさん：いらっしゃい。"
 msgstr ""
 
 #: 00268F01
+msgctxt "00000449"
 msgid ""
 "お泊まりかい？"
 msgstr ""
 
 #: 00268F13
+msgctxt "00000450"
 msgid ""
 "お一人様、５０ガメいただくよ。"
 msgstr ""
 
 #: 00268F43
+msgctxt "00000451"
 msgid ""
 "○ボタン＿泊る＿×ボタン＿やめる"
 msgstr ""
 
 #: 00268F7D
+msgctxt "00000452"
 msgid ""
 "そうかい、残念だね。今度は泊まっておくれよ。"
 msgstr ""
 
 #: 00268FC9
+msgctxt "00000453"
 msgid ""
 "おはよう。"
 msgstr ""
 
 #: 00268FD7
+msgctxt "00000454"
 msgid ""
 "ゆうべはよく眠れたかい？"
 msgstr ""
 
 #: 0026901D
+msgctxt "00000455"
 msgid ""
 "泊めてあげたいんだけど、お金がないんじゃだめだよ。"
 msgstr ""
 
 #: 00269053
+msgctxt "00000456"
 msgid ""
 "またお願いしますよ。"
 msgstr ""
 
 #: 002AD180
+msgctxt "00000457"
 msgid ""
 "＿＿新ハインローグ城＿王の間＿"
 msgstr ""
 
 #: 002AD1D5
+msgctxt "00000458"
 msgid ""
 "兵士：カイ＝オルフェアス様をお連れいたしました"
 msgstr ""
 
 #: 002AD223
+msgctxt "00000459"
 msgid ""
 "大臣：うむ、ご苦労、さがってよいぞ"
 msgstr ""
 
 #: 002AD262
+msgctxt "00000460"
 msgid ""
 "兵士：はっ！"
 msgstr ""
 
 #: 002AD2B0
+msgctxt "00000461"
 msgid ""
 "大臣：もう少しちこう。"
 msgstr ""
 
 #: 002AD320
+msgctxt "00000462"
 msgid ""
 "大臣：このロケットはおぬしの物か？"
 msgstr ""
 
 #: 002AD371
+msgctxt "00000463"
 msgid ""
 "カイ：はい。"
 msgstr ""
 
 #: 002AD3A8
+msgctxt "00000464"
 msgid ""
 "大臣：なぜ、おぬしがこれを持っているのだ？"
 msgstr ""
 
 #: 002AD3EF
+msgctxt "00000465"
 msgid ""
 "カイ：なぜって言われても・・・"
 msgstr ""
 
 #: 002AD422
+msgctxt "00000466"
 msgid ""
 "カイ：そのロケットは、僕が物心付く前からもっていたから・・・"
 msgstr ""
 
 #: 002AD47E
+msgctxt "00000467"
 msgid ""
 "大臣：そうか・・・"
 msgstr ""
 
 #: 002AD4B0
+msgctxt "00000468"
 msgid ""
 "大臣：カイよ、２人だけで話がしたい"
 msgstr ""
 
 #: 002AD4D9
+msgctxt "00000469"
 msgid ""
 "大臣：わしと来てくれ"
 msgstr ""
 
 #: 002AD53B
+msgctxt "00000470"
 msgid ""
 "カイ：は、"
 msgstr ""
 
 #: 002AD557
+msgctxt "00000471"
 msgid ""
 "カイ：はい・・・"
 msgstr ""
 
 #: 002AD663
+msgctxt "00000472"
 msgid ""
 "＿＿新ハインローグ城＿王の間"
 msgstr ""
 
 #: 002AD6B5
+msgctxt "00000473"
 msgid ""
 "ファラ：大変っ！大変だよう！！"
 msgstr ""
 
 #: 002AD714
+msgctxt "00000474"
 msgid ""
 "バーク：どうした！？"
 msgstr ""
 
 #: 002AD73A
+msgctxt "00000475"
 msgid ""
 "ファラ：あのねあのね、カイってこの国の王子様なんだって！！"
 msgstr ""
 
 #: 002AD7A9
+msgctxt "00000476"
 msgid ""
 "バーク：はあ？"
 msgstr ""
 
 #: 002AD7C9
+msgctxt "00000477"
 msgid ""
 "バーク：なんだって？"
 msgstr ""
 
 #: 002AD7EF
+msgctxt "00000478"
 msgid ""
 "バーク：どういうことだ、そりゃ？"
 msgstr ""
 
 #: 002AD82F
+msgctxt "00000479"
 msgid ""
 "ミシリア：王子・・・様？"
 msgstr ""
 
 #: 002AD875
+msgctxt "00000480"
 msgid ""
 "バーク：なあ"
 msgstr ""
 
 #: 002AD8A4
+msgctxt "00000481"
 msgid ""
 "バーク：聞き間違いじゃねぇのか？"
 msgstr ""
 
 #: 002AD90E
+msgctxt "00000482"
 msgid ""
 "ファラ：ホントだもん！！あの大臣とかいう人がそう言ってたんだから！！"
 msgstr ""
 
 #: 002AD959
+msgctxt "00000483"
 msgid ""
 "ファラ：ホントだもん！！"
 msgstr ""
 
 #: 002AD9A7
+msgctxt "00000484"
 msgid ""
 "バーク：わ、わかったよ。"
 msgstr ""
 
 #: 002ADA45
+msgctxt "00000485"
 msgid ""
 "ミシリア：・・・あの人が王子様・・・"
 msgstr ""
 
 #: 002ADAEB
+msgctxt "00000486"
 msgid ""
 "＿＿新ハインローグ城＿王の間＿＿"
 msgstr ""
 
 #: 002ADB20
+msgctxt "00000487"
 msgid ""
 "大臣：お呼びでしょうか、王子。"
 msgstr ""
 
 #: 002ADB6A
+msgctxt "00000488"
 msgid ""
 "カイ：うん、ちょっと話があるんだ。"
 msgstr ""
 
 #: 002ADBA1
+msgctxt "00000489"
 msgid ""
 "聖者：何でございましょう。"
 msgstr ""
 
 #: 002ADBD6
+msgctxt "00000490"
 msgid ""
 "カイ：きのうは、あんなにあたたかく出迎えてくれて"
 msgstr ""
 
 #: 002ADC18
+msgctxt "00000491"
 msgid ""
 "ありがとう。"
 msgstr ""
 
 #: 002ADC41
+msgctxt "00000492"
 msgid ""
 "まだ王子っていう実感はわかないけど・・・"
 msgstr ""
 
 #: 002ADC7B
+msgctxt "00000493"
 msgid ""
 "だけど・・・"
 msgstr ""
 
 #: 002ADC99
+msgctxt "00000494"
 msgid ""
 "僕にはまだやらなくてはいけない事が残ってるんだ。"
 msgstr ""
 
 #: 002ADCD8
+msgctxt "00000495"
 msgid ""
 "この城に残るわけにはいかない。"
 msgstr ""
 
 #: 002ADD13
+msgctxt "00000496"
 msgid ""
 "大臣：お、王子・・・"
 msgstr ""
 
 #: 002ADD5B
+msgctxt "00000497"
 msgid ""
 "そのような・・・"
 msgstr ""
 
 #: 002ADDAB
+msgctxt "00000498"
 msgid ""
 "聖者：・・・・・・"
 msgstr ""
 
 #: 002ADDDD
+msgctxt "00000499"
 msgid ""
 "カイ：僕は、バークやミシリア達と一緒に"
 msgstr ""
 
 #: 002ADE07
+msgctxt "00000500"
 msgid ""
 "「怪物になってしまう病気」の原因を探る旅をしているんだ。"
 msgstr ""
 
 #: 002ADE51
+msgctxt "00000501"
 msgid ""
 "まあ、元々特に目的の無い旅だったんだけど、"
 msgstr ""
 
 #: 002ADE82
+msgctxt "00000502"
 msgid ""
 "マールっていう魔導師に頼まれて・・・"
 msgstr ""
 
 #: 002ADED4
+msgctxt "00000503"
 msgid ""
 "聖者：マール？"
 msgstr ""
 
 #: 002ADEFF
+msgctxt "00000504"
 msgid ""
 "カイ：そして、そのマールに「新ハインローグ城にいる聖者に"
 msgstr ""
 
 #: 002ADF3B
+msgctxt "00000505"
 msgid ""
 "力になってもらえ」って言われてここまできたんだ。"
 msgstr ""
 
 #: 002ADF8B
+msgctxt "00000506"
 msgid ""
 "聖者：そうでしたか・・・"
 msgstr ""
 
 #: 002ADFCD
+msgctxt "00000507"
 msgid ""
 "大臣：知り合いなのか？"
 msgstr ""
 
 #: 002AE001
+msgctxt "00000508"
 msgid ""
 "聖者：ええ、まあ・・・"
 msgstr ""
 
 #: 002AE029
+msgctxt "00000509"
 msgid ""
 "カイ：僕は"
 msgstr ""
 
 #: 002AE066
+msgctxt "00000510"
 msgid ""
 "このまま旅にでる。"
 msgstr ""
 
 #: 002AE07F
+msgctxt "00000511"
 msgid ""
 "誰に何と言われようと、この気持ちを変えるつもりはないよ。"
 msgstr ""
 
 #: 002AE0D4
+msgctxt "00000512"
 msgid ""
 "大臣：王子・・・"
 msgstr ""
 
 #: 002AE101
+msgctxt "00000513"
 msgid ""
 "カイ：王子って言うのもやめてくれないかな。"
 msgstr ""
 
 #: 002AE132
+msgctxt "00000514"
 msgid ""
 "今はまだカイでいいよ。"
 msgstr ""
 
 #: 002AE168
+msgctxt "00000515"
 msgid ""
 "聖者：・・・・・・"
 msgstr ""
 
 #: 002AE197
+msgctxt "00000516"
 msgid ""
 "聖者：やれやれ。"
 msgstr ""
 
 #: 002AE1AE
+msgctxt "00000517"
 msgid ""
 "やっと王子が見つかったと思ったのもつかの間。旅に出るとは。"
 msgstr ""
 
 #: 002AE22A
+msgctxt "00000518"
 msgid ""
 "大臣：聖者よ、おぬし・・・"
 msgstr ""
 
 #: 002AE26D
+msgctxt "00000519"
 msgid ""
 "聖者：仕方ないでしょう。カイ殿の気持ちが変わるとは思えないですし。"
 msgstr ""
 
 #: 002AE2DD
+msgctxt "00000520"
 msgid ""
 "大臣：むう・・・"
 msgstr ""
 
 #: 002AE30A
+msgctxt "00000521"
 msgid ""
 "カイ：そんなに気にしないでよ。"
 msgstr ""
 
 #: 002AE369
+msgctxt "00000522"
 msgid ""
 "カイ：旅が終わったらここにもどって来るから。"
 msgstr ""
 
 #: 002AE3B5
+msgctxt "00000523"
 msgid ""
 "大臣：・・・ふう・・・"
 msgstr ""
 
 #: 002AE3DD
+msgctxt "00000524"
 msgid ""
 "わかりました。旅に出る事を許可しましょう。"
 msgstr ""
 
 #: 002AE416
+msgctxt "00000525"
 msgid ""
 "ただし、旅が終わったら必ずもどって来るのですよ。"
 msgstr ""
 
 #: 002AE466
+msgctxt "00000526"
 msgid ""
 "カイ：うん、わかっているよ。"
 msgstr ""
 
 #: 002AE4B0
+msgctxt "00000527"
 msgid ""
 "大臣：やれやれ・・・"
 msgstr ""
 
 #: 002AE4EC
+msgctxt "00000528"
 msgid ""
 "聖者：［怪物になってしまう病気］ですか・・・"
 msgstr ""
 
 #: 002AE55D
+msgctxt "00000529"
 msgid ""
 "やっかいなものに首をつっこんだものですね。"
 msgstr ""
 
 #: 002AE5A7
+msgctxt "00000530"
 msgid ""
 "カイ：うん・・・でもほっとけなくて。"
 msgstr ""
 
 #: 002AE5E8
+msgctxt "00000531"
 msgid ""
 "聖者：では、旅に出る前に、我々聖者の修行の場である"
 msgstr ""
 
 #: 002AE61E
+msgctxt "00000532"
 msgid ""
 "［聖者の島］へ行って来ると良いでしょう。"
 msgstr ""
 
 #: 002AE666
+msgctxt "00000533"
 msgid ""
 "カイ：聖者の島？"
 msgstr ""
 
 #: 002AE6A7
+msgctxt "00000534"
 msgid ""
 "聖者：そうです。"
 msgstr ""
 
 #: 002AE6BE
+msgctxt "00000535"
 msgid ""
 "私としては、そこでの試練を終えた後、旅に出る事をお勧めします。"
 msgstr ""
 
 #: 002AE71C
+msgctxt "00000536"
 msgid ""
 "カイ：うん、わかったよ。"
 msgstr ""
 
 #: 002AE746
+msgctxt "00000537"
 msgid ""
 "聖者：聖者の島には大聖者様がいます。"
 msgstr ""
 
 #: 002AE771
+msgctxt "00000538"
 msgid ""
 "その方への手紙を書きましょう。"
 msgstr ""
 
 #: 002AE7A1
+msgctxt "00000539"
 msgid ""
 "・・・・・・・・・・・・・"
 msgstr ""
 
 #: 002AE7C2
+msgctxt "00000540"
 msgid ""
 "・・・・・・・・・・・・・・・・・・・"
 msgstr ""
 
 #: 002AE83A
+msgctxt "00000541"
 msgid ""
 "できました。これを大聖者様に見せてください"
 msgstr ""
 
 #: 002AE884
+msgctxt "00000542"
 msgid ""
 "カイ：ありがとう。"
 msgstr ""
 
 #: 002AE8F1
+msgctxt "00000543"
 msgid ""
 "大臣：・・・ではカイ様、体にはくれぐれもお気をつけて。"
 msgstr ""
 
 #: 002AE964
+msgctxt "00000544"
 msgid ""
 "うん"
 msgstr ""
 
 #: 002AE97A
+msgctxt "00000545"
 msgid ""
 "じゃあ、行って来るよ。"
 msgstr ""
 
 #: 002AEA8E
+msgctxt "00000546"
 msgid ""
 "大臣：カイ様。"
 msgstr ""
 
 #: 002AEAA0
+msgctxt "00000547"
 msgid ""
 "少ないですがこれで旅の準備をととのえてください。"
 msgstr ""
 
 #: 002AEAE2
+msgctxt "00000548"
 msgid ""
 "３０００ガメを手に入れた。"
 msgstr ""
 
 #: 002AEB19
+msgctxt "00000549"
 msgid ""
 "聖者：大臣殿・・・"
 msgstr ""
 
 #: 002AEB40
+msgctxt "00000550"
 msgid ""
 "大臣：よ、よいではないか・・・"
 msgstr ""
 
 #: 002AEB70
+msgctxt "00000551"
 msgid ""
 "聖者：そのようなこういは一度きりにしてください。"
 msgstr ""
 
 #: 002AEBA4
+msgctxt "00000552"
 msgid ""
 "カイ殿のためになりませぬぞ。"
 msgstr ""
 
 #: 002AEBD2
+msgctxt "00000553"
 msgid ""
 "大臣：わ、わかっておる。それではカイ様、お気をつけて。"
 msgstr ""
 
 #: 002AEC1F
+msgctxt "00000554"
 msgid ""
 "大臣：どうか、道中お気をつけて。"
 msgstr ""
 
 #: 002AEC7E
+msgctxt "00000555"
 msgid ""
 "聖者：おや、どうなされました？"
 msgstr ""
 
 #: 002AECBC
+msgctxt "00000556"
 msgid ""
 "カイ：じつは・・・・・・"
 msgstr ""
 
 #: 002AECFC
+msgctxt "00000557"
 msgid ""
 "聖者：ふむふむ、なるほど。"
 msgstr ""
 
 #: 002AED33
+msgctxt "00000558"
 msgid ""
 "聖者：聖者の島には聖者の道を通って行きます。"
 msgstr ""
 
 #: 002AED66
+msgctxt "00000559"
 msgid ""
 "聖者の道はこの城を出て東の所にあります。"
 msgstr ""
 
 #: 002AEDD2
+msgctxt "00000560"
 msgid ""
 "聖者：では、ご武運をお祈りしております。"
 msgstr ""
 
 #: 002AEE24
+msgctxt "00000561"
 msgid ""
 "聖者：では、ご武運をお祈りしております。"
 msgstr ""
 
 #: 002AEE83
+msgctxt "00000562"
 msgid ""
 "聖者：聖者の島には聖者の道を通って行きます。"
 msgstr ""
 
 #: 002AEEB6
+msgctxt "00000563"
 msgid ""
 "聖者：聖者の道はこの城を出て東の所にあります。"
 msgstr ""
 
 #: 002AEF1D
+msgctxt "00000564"
 msgid ""
 "聖者：では、ご武運をお祈りしております。"
 msgstr ""
 
 #: 002AEF6F
+msgctxt "00000565"
 msgid ""
 "聖者：では、ご武運をお祈りしております。"
 msgstr ""
 
 #: 002AEFC8
+msgctxt "00000566"
 msgid ""
 "カイ：道を聞きにきたんだった・・・・"
 msgstr ""
 
 #: 002F1A27
+msgctxt "00000567"
 msgid ""
 "＿＿＿新ハインローグ城広場＿＿＿"
 msgstr ""
 
 #: 002F1A67
+msgctxt "00000568"
 msgid ""
 "大臣：本日はよく集まってくれた。これより選抜テストを行う。"
 msgstr ""
 
 #: 002F1AA8
+msgctxt "00000569"
 msgid ""
 "指定の組み合わせにしたがって戦い、"
 msgstr ""
 
 #: 002F1AD1
+msgctxt "00000570"
 msgid ""
 "上位まで勝ち残った者をけいび兵としてやとう。"
 msgstr ""
 
 #: 002F1B04
+msgctxt "00000571"
 msgid ""
 "みんな、がんばって上位を目指してくれ。"
 msgstr ""
 
 #: 002F1B4A
+msgctxt "00000572"
 msgid ""
 "大臣：それでは第一試合をおこなう。"
 msgstr ""
 
 #: 002F1B73
+msgctxt "00000573"
 msgid ""
 "バーク＝シュワルツ、前へ。"
 msgstr ""
 
 #: 002F1BAA
+msgctxt "00000574"
 msgid ""
 "バーク：よっしゃ！！じゃあ、行って来るぜ！！"
 msgstr ""
 
 #: 002F1C29
+msgctxt "00000575"
 msgid ""
 "カイ：バーク、たのむ。"
 msgstr ""
 
 #: 002F1C6A
+msgctxt "00000576"
 msgid ""
 "バーク：まかせておけって！！"
 msgstr ""
 
 #: 002F1DD1
+msgctxt "00000577"
 msgid ""
 "大臣：始めっ！！"
 msgstr ""
 
 #: 002F1DF3
+msgctxt "00000578"
 msgid ""
 "バーク：うおしゃあーー！！いくぜ！！"
 msgstr ""
 
 #: 002F1EDB
+msgctxt "00000579"
 msgid ""
 "大臣：それまで！！バーク＝シュワルツの勝ち"
 msgstr ""
 
 #: 002F1FC6
+msgctxt "00000580"
 msgid ""
 "カイ：やったな、バーク。"
 msgstr ""
 
 #: 002F1FFE
+msgctxt "00000581"
 msgid ""
 "バーク：はあ、つまんねえ試合だったぜ。"
 msgstr ""
 
 #: 002F2064
+msgctxt "00000582"
 msgid ""
 "大臣：次、カイ＝オルフェアス、前へ。"
 msgstr ""
 
 #: 002F20D0
+msgctxt "00000583"
 msgid ""
 "バーク：お。カイ、出番だぜ。"
 msgstr ""
 
 #: 002F20FE
+msgctxt "00000584"
 msgid ""
 "カイ：じゃあ、行って来るよ。"
 msgstr ""
 
 #: 002F213A
+msgctxt "00000585"
 msgid ""
 "ミシリア：がんばって！カイ！"
 msgstr ""
 
 #: 002F2182
+msgctxt "00000586"
 msgid ""
 "ファラ：がんばれー！！"
 msgstr ""
 
 #: 002F2210
+msgctxt "00000587"
 msgid ""
 "カイ：うん！！"
 msgstr ""
 
 #: 002F223B
+msgctxt "00000588"
 msgid ""
 "バーク：・・・・・俺んときとだいぶ違うじゃねーか（ぼそっ）"
 msgstr ""
 
 #: 002F227C
+msgctxt "00000589"
 msgid ""
 "なんか面白くねぇーな。まけちめぇー。（ぼそぼそっ）"
 msgstr ""
 
 #: 002F22CC
+msgctxt "00000590"
 msgid ""
 "ファラ：なにか言った？（ぎろり）"
 msgstr ""
 
 #: 002F232C
+msgctxt "00000591"
 msgid ""
 "バーク：いえいえ、ぜんぜん、めっそうもございません。"
 msgstr ""
 
 #: 002F2372
+msgctxt "00000592"
 msgid ""
 "カイ：じゃあ、行って来るよ"
 msgstr ""
 
 #: 002F247E
+msgctxt "00000593"
 msgid ""
 "ミシリア：あの人は城下町でみかけた人だわ。"
 msgstr ""
 
 #: 002F24C8
+msgctxt "00000594"
 msgid ""
 "大臣：始め！！"
 msgstr ""
 
 #: 002F2583
+msgctxt "00000595"
 msgid ""
 "ミシリア：カイ！！"
 msgstr ""
 
 #: 002F25B2
+msgctxt "00000596"
 msgid ""
 "ファラ：あっ！！カイのペンダントが・・・・"
 msgstr ""
 
 #: 002F267B
+msgctxt "00000597"
 msgid ""
 "カイ：ごめん、みんな・・・"
 msgstr ""
 
 #: 002F26BF
+msgctxt "00000598"
 msgid ""
 "ミシリア：カイ、そんなにおちこまないで。"
 msgstr ""
 
 #: 002F2724
+msgctxt "00000599"
 msgid ""
 "バーク：そうだぜ、今回は相手が悪かった。"
 msgstr ""
 
 #: 002F2793
+msgctxt "00000600"
 msgid ""
 "バーク：強すぎだぜ、あいつは。"
 msgstr ""
 
 #: 002F27CE
+msgctxt "00000601"
 msgid ""
 "ミシリア：あ、次バークさんの試合じゃないの？"
 msgstr ""
 
 #: 002F2825
+msgctxt "00000602"
 msgid ""
 "バーク：今、そいつにまけてきたところだよ。"
 msgstr ""
 
 #: 002F286C
+msgctxt "00000603"
 msgid ""
 "カイ：・・・そうか、バークでもだめか・・・"
 msgstr ""
 
 #: 002F28BD
+msgctxt "00000604"
 msgid ""
 "カイ：しょうがない。ほかの手を考えよう。"
 msgstr ""
 
 #: 002F2902
+msgctxt "00000605"
 msgid ""
 "カイ：ところでファラはどうしたんだい？"
 msgstr ""
 
 #: 002F296F
+msgctxt "00000606"
 msgid ""
 "バーク：ん？俺はてっきりミシリアちゃんと一緒だと。"
 msgstr ""
 
 #: 002F29C1
+msgctxt "00000607"
 msgid ""
 "ミシリア：え？私はバークさんと一緒だとばかり。"
 msgstr ""
 
 #: 002F2A33
+msgctxt "00000608"
 msgid ""
 "カイ：ということは・・・・"
 msgstr ""
 
 #: 002F2A6A
+msgctxt "00000609"
 msgid ""
 "ミシリア：大変、探さないと。"
 msgstr ""
 
 #: 002F2A98
+msgctxt "00000610"
 msgid ""
 "３人：おーい、ファラー。"
 msgstr ""
 
 #: 002F2B97
+msgctxt "00000611"
 msgid ""
 "ファラ：カイーーーー！！"
 msgstr ""
 
 #: 002F2C2A
+msgctxt "00000612"
 msgid ""
 "ファラ：カイーーーー！！"
 msgstr ""
 
 #: 002F2C62
+msgctxt "00000613"
 msgid ""
 "カイ：ファラ、探したんだよ。"
 msgstr ""
 
 #: 002F2C9E
+msgctxt "00000614"
 msgid ""
 "ファラ：カイ、あのね、あのね。"
 msgstr ""
 
 #: 002F2CD9
+msgctxt "00000615"
 msgid ""
 "ミシリア：ファラ、探したのよ。"
 msgstr ""
 
 #: 002F2D0C
+msgctxt "00000616"
 msgid ""
 "ファラ：カイ、あのね・・・・・"
 msgstr ""
 
 #: 002F2D47
+msgctxt "00000617"
 msgid ""
 "バーク：まあいいじゃねか、こうして無事なわけだし。"
 msgstr ""
 
 #: 002F2DA4
+msgctxt "00000618"
 msgid ""
 "ファラ：カイ、あの・・・"
 msgstr ""
 
 #: 002F2E0E
+msgctxt "00000619"
 msgid ""
 "カイ：そうだね、じゃあいったん帰ろう。"
 msgstr ""
 
 #: 002F2E81
+msgctxt "00000620"
 msgid ""
 "ミシリア：そうしましょう、カイ。"
 msgstr ""
 
 #: 002F2F18
+msgctxt "00000621"
 msgid ""
 "ファラ：・・・・"
 msgstr ""
 
 #: 002F2F6A
+msgctxt "00000622"
 msgid ""
 "カイ：どうしたんだい、ファラ？"
 msgstr ""
 
 #: 002F2FAB
+msgctxt "00000623"
 msgid ""
 "ファラ：なんでもないですよーだ！！"
 msgstr ""
 
 #: 002F303F
+msgctxt "00000624"
 msgid ""
 "男：ついてなかったね。"
 msgstr ""
 
 #: 002F3059
+msgctxt "00000625"
 msgid ""
 "彼は強いと町でひょうばんの人なんだよ。"
 msgstr ""
 
 #: 002F309E
+msgctxt "00000626"
 msgid ""
 "男：僕も彼にまけてしまったよ。"
 msgstr ""
 
 #: 003361DB
+msgctxt "00000627"
 msgid ""
 "騎士：この先は王の間になっている。通すわけにはいかない。"
 msgstr ""
 
 #: 00336239
+msgctxt "00000628"
 msgid ""
 "騎士：これはカイ様、何ようでありますか？"
 msgstr ""
 
 #: 003362A1
+msgctxt "00000629"
 msgid ""
 "＿＿お待ちください！！"
 msgstr ""
 
 #: 00336337
+msgctxt "00000630"
 msgid ""
 "兵士：カイ＝オルフェアス様ですね？"
 msgstr ""
 
 #: 00336379
+msgctxt "00000631"
 msgid ""
 "カイ：うん・・・そうだけど・・・・"
 msgstr ""
 
 #: 003363BB
+msgctxt "00000632"
 msgid ""
 "兵士：どうぞ、王の間においでください。大臣様と聖者様がお待ちです。"
 msgstr ""
 
 #: 0033641A
+msgctxt "00000633"
 msgid ""
 "カイ：ええ！？大臣と聖者・・・"
 msgstr ""
 
 #: 00336458
+msgctxt "00000634"
 msgid ""
 "兵士：では、ご案内いたします。"
 msgstr ""
 
 #: 00336530
+msgctxt "00000635"
 msgid ""
 "カイ：この部屋には用はないな。"
 msgstr ""
 
 #: 00336597
+msgctxt "00000636"
 msgid ""
 "騎士：出口はむこうだ。こっちには近づくな。"
 msgstr ""
 
 #: 00336615
+msgctxt "00000637"
 msgid ""
 "バーク：もどる必要はないぜ？"
 msgstr ""
 
 #: 00336708
+msgctxt "00000638"
 msgid ""
 "ファラ：あっ！カイだ！！"
 msgstr ""
 
 #: 003367F7
+msgctxt "00000639"
 msgid ""
 "＿＿今までの事を話した"
 msgstr ""
 
 #: 0033686F
+msgctxt "00000640"
 msgid ""
 "バーク：聖者の島ねぇ。まあ、いいや"
 msgstr ""
 
 #: 00336898
+msgctxt "00000641"
 msgid ""
 "要はそこに行って修行してくればいいんだろ？"
 msgstr ""
 
 #: 003368ED
+msgctxt "00000642"
 msgid ""
 "カイ：うん、そういう事。"
 msgstr ""
 
 #: 00336917
+msgctxt "00000643"
 msgid ""
 "「聖者の島」に行くには"
 msgstr ""
 
 #: 00336931
+msgctxt "00000644"
 msgid ""
 "「聖者の道」という所を通って行くらしいんだ。"
 msgstr ""
 
 #: 0033697D
+msgctxt "00000645"
 msgid ""
 "バーク：なんだっていいさ、またみんなで旅が出来るんだからよ。"
 msgstr ""
 
 #: 003369D9
+msgctxt "00000646"
 msgid ""
 "ミシリア：・・・・・・・"
 msgstr ""
 
 #: 00336A1A
+msgctxt "00000647"
 msgid ""
 "カイ：どうしたんだい、ミシリア？"
 msgstr ""
 
 #: 00336A5A
+msgctxt "00000648"
 msgid ""
 "ミシリア：え？"
 msgstr ""
 
 #: 00336A7A
+msgctxt "00000649"
 msgid ""
 "ミシリア：ううん、なんでもない・・・"
 msgstr ""
 
 #: 00336AD3
+msgctxt "00000650"
 msgid ""
 "バーク：ははぁ"
 msgstr ""
 
 #: 00336B24
+msgctxt "00000651"
 msgid ""
 "バーク：まだ、とまどってるんだろ？ミシリアちゃん。"
 msgstr ""
 
 #: 00336B68
+msgctxt "00000652"
 msgid ""
 "ミシリア：え！？"
 msgstr ""
 
 #: 00336BB0
+msgctxt "00000653"
 msgid ""
 "バーク：カイが王子様だって知ってさ。"
 msgstr ""
 
 #: 00336C02
+msgctxt "00000654"
 msgid ""
 "ミシリア：・・・・・・"
 msgstr ""
 
 #: 00336C3E
+msgctxt "00000655"
 msgid ""
 "カイ：そんなの気にする事ないよ。"
 msgstr ""
 
 #: 00336C73
+msgctxt "00000656"
 msgid ""
 "カイ：僕だってまだあまり実感が無いんだから。"
 msgstr ""
 
 #: 00336CD0
+msgctxt "00000657"
 msgid ""
 "カイ：呼び方だって今まで通りカイでいいよ。"
 msgstr ""
 
 #: 00336D30
+msgctxt "00000658"
 msgid ""
 "バーク：だってよ、ミシリアちゃん。"
 msgstr ""
 
 #: 00336D72
+msgctxt "00000659"
 msgid ""
 "ミシリア：うん・・・・"
 msgstr ""
 
 #: 00336DB0
+msgctxt "00000660"
 msgid ""
 "ファラ：みんな！！"
 msgstr ""
 
 #: 00336E1F
+msgctxt "00000661"
 msgid ""
 "ファラ：早く行こうよ！！早く！！"
 msgstr ""
 
 #: 00336EA6
+msgctxt "00000662"
 msgid ""
 "カイ：よし、みんな行こう！！"
 msgstr ""
 
 #: 00336FF1
+msgctxt "00000663"
 msgid ""
 "ファラ：あっ！カイだ！！"
 msgstr ""
 
 #: 003370E0
+msgctxt "00000664"
 msgid ""
 "＿＿今までの事を話した"
 msgstr ""
 
 #: 00337158
+msgctxt "00000665"
 msgid ""
 "バーク：聖者の島ねぇ。で、どうやって行くんだい？"
 msgstr ""
 
 #: 003371AB
+msgctxt "00000666"
 msgid ""
 "カイ：え？"
 msgstr ""
 
 #: 003371C7
+msgctxt "00000667"
 msgid ""
 "バーク：だから、どうやって行くんだい？"
 msgstr ""
 
 #: 00337223
+msgctxt "00000668"
 msgid ""
 "カイ：えっと、それは・・・・"
 msgstr ""
 
 #: 00337251
+msgctxt "00000669"
 msgid ""
 "バーク：それは？"
 msgstr ""
 
 #: 003372B5
+msgctxt "00000670"
 msgid ""
 "カイ：いまきいてくる！！！"
 msgstr ""
 
 #: 00337321
+msgctxt "00000671"
 msgid ""
 "・・・・・・・・・・・・・・・"
 msgstr ""
 
 #: 00337402
+msgctxt "00000672"
 msgid ""
 "ファラ：あっもどってきた。"
 msgstr ""
 
 #: 003374F6
+msgctxt "00000673"
 msgid ""
 "バーク：で、どうだった？"
 msgstr ""
 
 #: 00337539
+msgctxt "00000674"
 msgid ""
 "カイ：うん、聞いてきたよ。"
 msgstr ""
 
 #: 00337565
+msgctxt "00000675"
 msgid ""
 "「聖者の島」に行くには"
 msgstr ""
 
 #: 0033757F
+msgctxt "00000676"
 msgid ""
 "「聖者の道」という所を通って行くらしいんだ。"
 msgstr ""
 
 #: 003375B2
+msgctxt "00000677"
 msgid ""
 "カイ：聖者の道はこの城から東の方向にあるらしいよ。"
 msgstr ""
 
 #: 00337607
+msgctxt "00000678"
 msgid ""
 "バーク：なんだっていいさ、またみんなで旅が出来るんだからよ。"
 msgstr ""
 
 #: 00337663
+msgctxt "00000679"
 msgid ""
 "ミシリア：・・・・・・・"
 msgstr ""
 
 #: 003376A4
+msgctxt "00000680"
 msgid ""
 "カイ：どうしたんだい、ミシリア？"
 msgstr ""
 
 #: 003376E4
+msgctxt "00000681"
 msgid ""
 "ミシリア：え？"
 msgstr ""
 
 #: 00337704
+msgctxt "00000682"
 msgid ""
 "ミシリア：ううん、なんでもない・・・"
 msgstr ""
 
 #: 0033775D
+msgctxt "00000683"
 msgid ""
 "バーク：ははぁ"
 msgstr ""
 
 #: 003377AE
+msgctxt "00000684"
 msgid ""
 "バーク：まだ、とまどってるんだろ？ミシリアちゃん。"
 msgstr ""
 
 #: 003377F2
+msgctxt "00000685"
 msgid ""
 "ミシリア：え！？"
 msgstr ""
 
 #: 0033783A
+msgctxt "00000686"
 msgid ""
 "バーク：カイが王子様だって知ってさ。"
 msgstr ""
 
 #: 0033788C
+msgctxt "00000687"
 msgid ""
 "ミシリア：・・・・・・"
 msgstr ""
 
 #: 003378C8
+msgctxt "00000688"
 msgid ""
 "カイ：そんなの気にする事ないよ。"
 msgstr ""
 
 #: 003378FD
+msgctxt "00000689"
 msgid ""
 "カイ：僕だってまだあまり実感が無いんだから。"
 msgstr ""
 
 #: 0033795A
+msgctxt "00000690"
 msgid ""
 "カイ：呼び方だって今まで通り「カイ」でいいよ。"
 msgstr ""
 
 #: 003379BE
+msgctxt "00000691"
 msgid ""
 "バーク：だってよ、ミシリアちゃん。"
 msgstr ""
 
 #: 003379E7
+msgctxt "00000692"
 msgid ""
 "それによ、こんなおっちょこちょいが王子様ってがらか？"
 msgstr ""
 
 #: 00337A3B
+msgctxt "00000693"
 msgid ""
 "ミシリア：・・・・"
 msgstr ""
 
 #: 00337A85
+msgctxt "00000694"
 msgid ""
 "カイ：ひどいな、バーク、そこまでいうかい？"
 msgstr ""
 
 #: 00337AD8
+msgctxt "00000695"
 msgid ""
 "バーク：ん？違うというのか、道を聞き忘れたカイ王子様？"
 msgstr ""
 
 #: 00337B23
+msgctxt "00000696"
 msgid ""
 "カイ：・・・・・・・・・・・・"
 msgstr ""
 
 #: 00337B53
+msgctxt "00000697"
 msgid ""
 "ファラ：カイは王子様だよ。私のね。"
 msgstr ""
 
 #: 00337BAF
+msgctxt "00000698"
 msgid ""
 "カイ：・・・・・・・・・・・・・・・"
 msgstr ""
 
 #: 00337BE5
+msgctxt "00000699"
 msgid ""
 "バーク：おっ、いっちょまえにてれてやがるぜ。"
 msgstr ""
 
 #: 00337C3F
+msgctxt "00000700"
 msgid ""
 "カイ：う、うるさいな！！"
 msgstr ""
 
 #: 00337C7F
+msgctxt "00000701"
 msgid ""
 "ファラ：カイ！！"
 msgstr ""
 
 #: 00337CF5
+msgctxt "00000702"
 msgid ""
 "ファラ：早く行こうよ！！早くぅ！！"
 msgstr ""
 
 #: 00337D7E
+msgctxt "00000703"
 msgid ""
 "カイ：よし、みんな行こう！！"
 msgstr ""
 
 #: 0037A95B
+msgctxt "00000704"
 msgid ""
 "いぬら屋本舗にようこそ▽世界はひろしといえど"
 msgstr ""
 
 #: 0037A98B
+msgctxt "00000705"
 msgid ""
 "いぬら屋とくせいまんじゅうが買えるのはここだけよ▽"
 msgstr ""
 
 #: 0037A9F1
+msgctxt "00000706"
 msgid ""
 "うちの商品についてせつめいするわね。"
 msgstr ""
 
 #: 0037AA19
+msgctxt "00000707"
 msgid ""
 "１回しかいわないからよーくきいてね。"
 msgstr ""
 
 #: 0037AA41
+msgctxt "00000708"
 msgid ""
 "タフまんを食べるとタフになるし"
 msgstr ""
 
 #: 0037AA63
+msgctxt "00000709"
 msgid ""
 "パワーまんを食べると力が強くなるし"
 msgstr ""
 
 #: 0037AA89
+msgctxt "00000710"
 msgid ""
 "ココアまんを食べると速くなるし"
 msgstr ""
 
 #: 0037AAAB
+msgctxt "00000711"
 msgid ""
 "オムレツまんを食べると頭がよくなるし"
 msgstr ""
 
 #: 0037AAD3
+msgctxt "00000712"
 msgid ""
 "ナッツまんを食べると魔法を防ぐ力がつくし"
 msgstr ""
 
 #: 0037AAFF
+msgctxt "00000713"
 msgid ""
 "ヘカまんを食べると体力が回復して"
 msgstr ""
 
 #: 0037AB23
+msgctxt "00000714"
 msgid ""
 "マカまんを食べると魔力が回復して"
 msgstr ""
 
 #: 0037AB47
+msgctxt "00000715"
 msgid ""
 "それはそれは、すっごいまんじゅうなんだから！"
 msgstr ""
 
 #: 0037ABC7
+msgctxt "00000716"
 msgid ""
 "聖者：ややっ、カイ殿ではありませんか？"
 msgstr ""
 
 #: 0037ABF1
+msgctxt "00000717"
 msgid ""
 "カイ殿もおまんじゅうを買いにこられたのですか？"
 msgstr ""
 
 #: 0037AC23
+msgctxt "00000718"
 msgid ""
 "ここのおまんじゅうはおいしいですからね。"
 msgstr ""
 
 #: 0037AC60
+msgctxt "00000719"
 msgid ""
 "娘：聖者様にはいつもひいきにしてもらっています▽"
 msgstr ""
 
 #: 0037ACA2
+msgctxt "00000720"
 msgid ""
 "聖者：そうそう、先ほどわたしそこねたものがありまして・・・"
 msgstr ""
 
 #: 0037ACE0
+msgctxt "00000721"
 msgid ""
 "ごそごそ・・・・"
 msgstr ""
 
 #: 0037ACF4
+msgctxt "00000722"
 msgid ""
 "これをどうぞお持ち下さい。"
 msgstr ""
 
 #: 0037AD20
+msgctxt "00000723"
 msgid ""
 "トール・ハイを憶えた。"
 msgstr ""
 
 #: 0037AD4D
+msgctxt "00000724"
 msgid ""
 "聖者：それではご武運をおいのりしております。"
 msgstr ""
 
 #: 0037AD98
+msgctxt "00000725"
 msgid ""
 "聖者：ご武運を。"
 msgstr ""
 
 #: 003BF115
+msgctxt "00000726"
 msgid ""
 "おやじ：いらっしゃい。"
 msgstr ""
 
 #: 003BF12F
+msgctxt "00000727"
 msgid ""
 "うちの商品はいいものばかりだよ。"
 msgstr ""

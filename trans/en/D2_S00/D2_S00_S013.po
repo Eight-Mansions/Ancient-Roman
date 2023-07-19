@@ -1,89 +1,107 @@
 ﻿#: 00044915
+msgctxt "00000000"
 msgid ""
 "バーテン：いらっしゃいませ。"
 msgstr ""
 
 #: 00044935
+msgctxt "00000001"
 msgid ""
 "うーん。子供にお酒は売れないね。一応決まりだからね。"
 msgstr ""
 
 #: 0004496D
+msgctxt "00000002"
 msgid ""
 "つまみぐらいなら売ってもいいかな？"
 msgstr ""
 
 #: 00044993
+msgctxt "00000003"
 msgid ""
 "買っていくかい？"
 msgstr ""
 
 #: 00089155
+msgctxt "00000004"
 msgid ""
 "大臣：これはこれはカイ様。"
 msgstr ""
 
 #: 00089173
+msgctxt "00000005"
 msgid ""
 "このような所に何ようですかな？"
 msgstr ""
 
 #: 000891A3
+msgctxt "00000006"
 msgid ""
 "カイ：特に用事はないよ。たまたま寄っただけ。"
 msgstr ""
 
 #: 000891E1
+msgctxt "00000007"
 msgid ""
 "大臣：さようですか。お体に気をつけて、旅をお続けください。"
 msgstr ""
 
 #: 00089238
+msgctxt "00000008"
 msgid ""
 "大臣：あと、これは少ないですが、これで何かおいしい物でも食べて下さい。"
 msgstr ""
 
 #: 0008929B
+msgctxt "00000009"
 msgid ""
 "１０００ガメを手に入れた。"
 msgstr ""
 
 #: 000892CA
+msgctxt "00000010"
 msgid ""
 "大臣：それではどうかお気をつけて。"
 msgstr ""
 
 #: 0008930B
+msgctxt "00000011"
 msgid ""
 "大臣：どうかお気をつけて。"
 msgstr ""
 
 #: 000CD922
+msgctxt "00000012"
 msgid ""
 "じじい：魔法はいらんかね？"
 msgstr ""
 
 #: 000CD982
+msgctxt "00000013"
 msgid ""
 "じじい：こんど新しい魔法を仕入れるよていだよ。"
 msgstr ""
 
 #: 000CD9B4
+msgctxt "00000014"
 msgid ""
 "楽しみにしててくれよ。"
 msgstr ""
 
 #: 000CD9E1
+msgctxt "00000015"
 msgid ""
 "じじい：魔法はいらんかね？"
 msgstr ""
 
 #: 000CDA5A
+msgctxt "00000016"
 msgid ""
 "じじい：そういえば・・・"
 msgstr ""
 
 #: 000CDA76
+msgctxt "00000017"
 msgid ""
 "高いところにすむ人が最強の魔法を売っているそうだ。"
 msgstr ""

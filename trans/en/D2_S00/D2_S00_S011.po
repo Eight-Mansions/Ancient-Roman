@@ -1,504 +1,605 @@
 ﻿#: 00044986
+msgctxt "00000000"
 msgid ""
 "スニーカーを手に入れた。"
 msgstr ""
 
 #: 000449CF
+msgctxt "00000001"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 000449E5
+msgctxt "00000002"
 msgid ""
 "宝箱にもどした。"
 msgstr ""
 
 #: 00044A14
+msgctxt "00000003"
 msgid ""
 "何も見つからない。"
 msgstr ""
 
 #: 00112186
+msgctxt "00000004"
 msgid ""
 "ふえを手に入れた。"
 msgstr ""
 
 #: 001121C9
+msgctxt "00000005"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 001121DF
+msgctxt "00000006"
 msgid ""
 "宝箱にもどした。"
 msgstr ""
 
 #: 0011220E
+msgctxt "00000007"
 msgid ""
 "何も見つからない。"
 msgstr ""
 
 #: 00156A1E
+msgctxt "00000008"
 msgid ""
 "バーク：がっはっはっはっはっはっはっは！"
 msgstr ""
 
 #: 00156A4A
+msgctxt "00000009"
 msgid ""
 "このバーク様が、この町に巣くうワル者を退治にしきてやったぜ！"
 msgstr ""
 
 #: 00156A98
+msgctxt "00000010"
 msgid ""
 "ミシリア：あの、バークさん・・・"
 msgstr ""
 
 #: 00156ACA
+msgctxt "00000011"
 msgid ""
 "ミーナ：どうやら、何か悪いモノでも食べたようですね。"
 msgstr ""
 
 #: 00156B10
+msgctxt "00000012"
 msgid ""
 "マクロード：いつもこうなのですか？"
 msgstr ""
 
 #: 00156B52
+msgctxt "00000013"
 msgid ""
 "カイ：今日は特別だと思います・・・"
 msgstr ""
 
 #: 00156B91
+msgctxt "00000014"
 msgid ""
 "怪物：ええーい！私をムシして、何を盛り上がっているんだ！"
 msgstr ""
 
 #: 00156BCD
+msgctxt "00000015"
 msgid ""
 "こっちには人質がいるのだ！少しは危機を感じろ！"
 msgstr ""
 
 #: 00156C0D
+msgctxt "00000016"
 msgid ""
 "マクロード：・・・フム、確かに女性が１人いるようだが・・・"
 msgstr ""
 
 #: 00156C67
+msgctxt "00000017"
 msgid ""
 "女剣士：ちくしょう！お前ら何しにきやがった！"
 msgstr ""
 
 #: 00156C97
+msgctxt "00000018"
 msgid ""
 "ここは、あたし１人でやれるんだ！ほっといてくれよ！"
 msgstr ""
 
 #: 00156CE9
+msgctxt "00000019"
 msgid ""
 "バーク：とか言ってるぜ。どうする？"
 msgstr ""
 
 #: 00156D2B
+msgctxt "00000020"
 msgid ""
 "カイ：ほっとくわけにはいかないよ。助けなくちゃ。"
 msgstr ""
 
 #: 00156D89
+msgctxt "00000021"
 msgid ""
 "バーク：というわけだ。怪物め、おとなしく俺に倒されろ。"
 msgstr ""
 
 #: 00156DEA
+msgctxt "00000022"
 msgid ""
 "怪物：ふ、ふざけるなー！貴様らごとき、蹴散らしてくれる！"
 msgstr ""
 
 #: 00156F2F
+msgctxt "00000023"
 msgid ""
 "女剣士：なんで助けたんだよ！あたし１人でも倒せたんだ！"
 msgstr ""
 
 #: 00156F85
+msgctxt "00000024"
 msgid ""
 "バーク：なんだよ、せっかく助けてやったのに、その言い方は。"
 msgstr ""
 
 #: 00156FDC
+msgctxt "00000025"
 msgid ""
 "女剣士：誰も助けてくれなんて、頼みはしなかったよ。"
 msgstr ""
 
 #: 0015702B
+msgctxt "00000026"
 msgid ""
 "バーク：んだとぉ！"
 msgstr ""
 
 #: 0015705A
+msgctxt "00000027"
 msgid ""
 "ミーナ：２人とも落ち着いてください。"
 msgstr ""
 
 #: 0015709B
+msgctxt "00000028"
 msgid ""
 "マクロード：そうだ。今はあなたが無事だったことを喜ぶべきでしょう。"
 msgstr ""
 
 #: 001570E1
+msgctxt "00000029"
 msgid ""
 "１人もギセイが出なかったことが、一番大事なのですから。"
 msgstr ""
 
 #: 00157137
+msgctxt "00000030"
 msgid ""
 "カイ：そうか、マクロードさんは部下を・・・"
 msgstr ""
 
 #: 0015719A
+msgctxt "00000031"
 msgid ""
 "女剣士：・・・・・・"
 msgstr ""
 
 #: 001571C0
+msgctxt "00000032"
 msgid ""
 "そうだね。ごめん、つい意地になっちまった。"
 msgstr ""
 
 #: 001571EE
+msgctxt "00000033"
 msgid ""
 "あたしの名前はサリナ。"
 msgstr ""
 
 #: 00157208
+msgctxt "00000034"
 msgid ""
 "ここの親玉をぶっとばしてやるって、ここまで来たんだけど"
 msgstr ""
 
 #: 00157242
+msgctxt "00000035"
 msgid ""
 "逆につかまっちまってね。後は知っての通りってとこかな。"
 msgstr ""
 
 #: 00157295
+msgctxt "00000036"
 msgid ""
 "ミーナ：ぶっとばす・・・？"
 msgstr ""
 
 #: 001572C1
+msgctxt "00000037"
 msgid ""
 "バーク：倒すってことだよ。"
 msgstr ""
 
 #: 001572ED
+msgctxt "00000038"
 msgid ""
 "ミーナ：それぐらいは知っています。"
 msgstr ""
 
 #: 0015732C
+msgctxt "00000039"
 msgid ""
 "バーク：・・・・・・なんだよ。"
 msgstr ""
 
 #: 0015736A
+msgctxt "00000040"
 msgid ""
 "カイ：けど、１人でてき地に乗りこむとは・・・"
 msgstr ""
 
 #: 0015739A
+msgctxt "00000041"
 msgid ""
 "ずいぶんムチャをするんだね。"
 msgstr ""
 
 #: 001573D6
+msgctxt "00000042"
 msgid ""
 "サリナ：今までずっと１人だったからね・・・何とかなると思ったんだよ。"
 msgstr ""
 
 #: 0015741E
+msgctxt "00000043"
 msgid ""
 "ちょっと読みが甘かったけど。"
 msgstr ""
 
 #: 0015744C
+msgctxt "00000044"
 msgid ""
 "カイ：今度から仲間を探したほうがいいよ。１人じゃ限界がある。"
 msgstr ""
 
 #: 001574A8
+msgctxt "00000045"
 msgid ""
 "サリナ：そうだね・・・あんたんトコ、今、人手足りてる？"
 msgstr ""
 
 #: 001574FE
+msgctxt "00000046"
 msgid ""
 "バーク：げ？！"
 msgstr ""
 
 #: 00157546
+msgctxt "00000047"
 msgid ""
 "サリナ：なに？アンタ、文句あるの？"
 msgstr ""
 
 #: 00157585
+msgctxt "00000048"
 msgid ""
 "マクロード：そうですね・・・これも何かのえんだと思えば、"
 msgstr ""
 
 #: 001575C1
+msgctxt "00000049"
 msgid ""
 "彼女のためにも、いい考えかもしれません。カイ殿？"
 msgstr ""
 
 #: 0015760E
+msgctxt "00000050"
 msgid ""
 "カイ：うん、僕はいいと思う。"
 msgstr ""
 
 #: 0015764A
+msgctxt "00000051"
 msgid ""
 "バーク：トホホ・・・お前にそれを言われると・・・"
 msgstr ""
 
 #: 00157697
+msgctxt "00000052"
 msgid ""
 "サリナ：へへ、じゃ、よろしく頼むよ。"
 msgstr ""
 
 #: 001DF990
+msgctxt "00000053"
 msgid ""
 "女剣士：なんでも、この村にすごい武器があるって聞いたんだけど、"
 msgstr ""
 
 #: 001DF9D2
+msgctxt "00000054"
 msgid ""
 "それらしい物がないんだよねえ・・・"
 msgstr ""
 
 #: 001DF9F8
+msgctxt "00000055"
 msgid ""
 "あんた達、何か知らないかい？"
 msgstr ""
 
 #: 001DFA26
+msgctxt "00000056"
 msgid ""
 "カイ：え・・・知りませんけど。"
 msgstr ""
 
 #: 001DFA56
+msgctxt "00000057"
 msgid ""
 "女剣士：あ、そ・・・"
 msgstr ""
 
 #: 0022416D
+msgctxt "00000058"
 msgid ""
 "ミーナ：・・・これはなんですか？"
 msgstr ""
 
 #: 0022419F
+msgctxt "00000059"
 msgid ""
 "サリナ：そっか、エルフの文化には、ちりとりがないんだね。"
 msgstr ""
 
 #: 002241DB
+msgctxt "00000060"
 msgid ""
 "これはね、盾だよ。うん、これはいい盾だ。"
 msgstr ""
 
 #: 00224207
+msgctxt "00000061"
 msgid ""
 "今からこいつを、ジェナトスちりとりと名づけ・・・"
 msgstr ""
 
 #: 00224249
+msgctxt "00000062"
 msgid ""
 "カイ＆ミシリア＆バーク＆バロア：やめろー！！"
 msgstr ""
 
 #: 00224287
+msgctxt "00000063"
 msgid ""
 "ミーナ：？"
 msgstr ""
 
 #: 002242A3
+msgctxt "00000064"
 msgid ""
 "ちりとりを手に入れた。"
 msgstr ""
 
 #: 002242EA
+msgctxt "00000065"
 msgid ""
 "マジックシールドを手に入れた。"
 msgstr ""
 
 #: 00224339
+msgctxt "00000066"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 0022436A
+msgctxt "00000067"
 msgid ""
 "ナイトシールドを手に入れた。"
 msgstr ""
 
 #: 002243B7
+msgctxt "00000068"
 msgid ""
 "これ以上もてない。"
 msgstr ""
 
 #: 002243E8
+msgctxt "00000069"
 msgid ""
 "何も見つからない。"
 msgstr ""
 
 #: 002689AE
+msgctxt "00000070"
 msgid ""
 "バーク：あーあ、結局明日かよ。"
 msgstr ""
 
 #: 002689E9
+msgctxt "00000071"
 msgid ""
 "カイ：本当は面会謝絶のところを、無理に会わせてもらうんだ。"
 msgstr ""
 
 #: 00268A27
+msgctxt "00000072"
 msgid ""
 "しかたないさ。"
 msgstr ""
 
 #: 00268A52
+msgctxt "00000073"
 msgid ""
 "バーク：それはそうだが・・・"
 msgstr ""
 
 #: 00268A89
+msgctxt "00000074"
 msgid ""
 "ぐううう"
 msgstr ""
 
 #: 00268AD0
+msgctxt "00000075"
 msgid ""
 "カイ：お、おなかすいたね？"
 msgstr ""
 
 #: 00268B0A
+msgctxt "00000076"
 msgid ""
 "バーク：おう、いいものがあるぞ。"
 msgstr ""
 
 #: 00268B75
+msgctxt "00000077"
 msgid ""
 "ミシリア：何ですか？それ。"
 msgstr ""
 
 #: 00268BAC
+msgctxt "00000078"
 msgid ""
 "カイ：キノコみたいだけど、いったいどこから・・・"
 msgstr ""
 
 #: 00268C00
+msgctxt "00000079"
 msgid ""
 "バーク：へへ、鉱山の村にいた時にちょっとな・・・"
 msgstr ""
 
 #: 00268C34
+msgctxt "00000080"
 msgid ""
 "だいぶ前にやつらがうまそうに食ってたのを思い出してな"
 msgstr ""
 
 #: 00268C6C
+msgctxt "00000081"
 msgid ""
 "後で食おうと、こっそりとっといたんだ。"
 msgstr ""
 
 #: 00268CB2
+msgctxt "00000082"
 msgid ""
 "宿の人にたのんで、こいつで何か作ってもらおうぜ。"
 msgstr ""
 
 #: 00268CE6
+msgctxt "00000083"
 msgid ""
 "きっと、すごいキノコ料理ができるはずだ。"
 msgstr ""
 
 #: 00268D78
+msgctxt "00000084"
 msgid ""
 "バーク：な、俺の言ったとおりだったろ？"
 msgstr ""
 
 #: 00268DA2
+msgctxt "00000085"
 msgid ""
 "そらそら、エンリョすんなって。まだいくらでもあるんだからな！"
 msgstr ""
 
 #: 00268DF0
+msgctxt "00000086"
 msgid ""
 "カイ：も、もういいよ・・・・・・"
 msgstr ""
 
 #: 00268E22
+msgctxt "00000087"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
 msgstr ""
 
 #: 00268E5A
+msgctxt "00000088"
 msgid ""
 "バーク：だらしがないな。ミシリアちゃんなんか、もくもくと食ってるぞ。"
 msgstr ""
 
 #: 00268EA2
+msgctxt "00000089"
 msgid ""
 "・・・なんか、リスみたいだな。"
 msgstr ""
 
 #: 00268ED2
+msgctxt "00000090"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
 msgstr ""
 
 #: 00268F0A
+msgctxt "00000091"
 msgid ""
 "カイ：・・・なんか様子が変だよ・・・"
 msgstr ""
 
 #: 00268F40
+msgctxt "00000092"
 msgid ""
 "バーク：そうか？いつもと変わらないと思うが・・・"
 msgstr ""
 
 #: 00268F82
+msgctxt "00000093"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
 msgstr ""
 
 #: 00268FD3
+msgctxt "00000094"
 msgid ""
 "・・・・・・"
 msgstr ""
 
 #: 00268FE3
+msgctxt "00000095"
 msgid ""
 "クスクス"
 msgstr ""
 
 #: 00268FEF
+msgctxt "00000096"
 msgid ""
 "クスクスクス・・・・・・"
 msgstr ""
 
 #: 00269038
+msgctxt "00000097"
 msgid ""
 "バーク：ありゃ？ミシリアちゃん、出ていっちまったぞ。"
 msgstr ""
 
 #: 00269070
+msgctxt "00000098"
 msgid ""
 "なんか悪いものでも食ったんかなぁ？がっはっは！"
 msgstr ""
 
 #: 00269110
+msgctxt "00000099"
 msgid ""
 "カイ：明日も早いし、もう寝よう。"
 msgstr ""
 
 #: 0026913F
+msgctxt "00000100"
 msgid ""
 "ミシリア：ええ。"
 msgstr ""

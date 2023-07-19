@@ -1,3 +1,4 @@
+﻿msgctxt "00000000"
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -15,196 +16,235 @@ msgstr ""
 "X-Generator: Weblate 4.12.2\n"
 
 #: 0000016B
+msgctxt "00000001"
 msgid ""
 "バロア：行きたいとこを言ってくれれば、船を出すぜ。"
 msgstr ""
 
 #: 000001A1
+msgctxt "00000002"
 msgid ""
 "今、船に乗ると新ハインローグにもどるぜ。"
 msgstr ""
 
 #: 000001CD
+msgctxt "00000003"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000216
+msgctxt "00000004"
 msgid ""
 "バロア：今、船に乗ると旧ハインローグ城へ向かうぜ。"
 msgstr ""
 
 #: 0000024C
+msgctxt "00000005"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000295
+msgctxt "00000006"
 msgid ""
 "バロア：今、船に乗るとメクアの港へ向かうぜ。"
 msgstr ""
 
 #: 000002C5
+msgctxt "00000007"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000030E
+msgctxt "00000008"
 msgid ""
 "バロア：今、船に乗ると新ハインローグ城へもどるぜ。"
 msgstr "Baroa: This boat's on its way back to New Heinrogue Castle."
 
 #: 00000344
+msgctxt "00000009"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000003D3
+msgctxt "00000010"
 msgid ""
 "バロア：行きたいとこを言ってくれれば、船を出すぜ。"
 msgstr ""
 
 #: 00000409
+msgctxt "00000011"
 msgid ""
 "今、船に乗ると新ハインローグにもどるぜ。"
 msgstr ""
 
 #: 00000435
+msgctxt "00000012"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000047E
+msgctxt "00000013"
 msgid ""
 "バロア：今、船に乗ると旧ハインローグ城へ向かうぜ。"
 msgstr ""
 
 #: 000004B4
+msgctxt "00000014"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000004FD
+msgctxt "00000015"
 msgid ""
 "バロア：今、船に乗るとメクアの港へ向かうぜ。"
 msgstr ""
 
 #: 0000052D
+msgctxt "00000016"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000057F
+msgctxt "00000017"
 msgid ""
 "バロア：今、船に乗るとへバーシスのはいきょにいくぜ。"
 msgstr ""
 
 #: 000005B7
+msgctxt "00000018"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000600
+msgctxt "00000019"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへ戻るぜ。"
 msgstr ""
 
 #: 00000632
+msgctxt "00000020"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000067B
+msgctxt "00000021"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへもどるぜ。"
 msgstr ""
 
 #: 000006AF
+msgctxt "00000022"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000073E
+msgctxt "00000023"
 msgid ""
 "バロア：行きたいとこを言ってくれれば、船を出すぜ。"
 msgstr "Baroa: Just let me know where to go, and I'll take us there."
 
 #: 00000774
+msgctxt "00000024"
 msgid ""
 "今、船に乗ると新ハインローグにもどるぜ。"
 msgstr "This boat's on its way back to New Heinrogue Castle."
 
 #: 000007A0
+msgctxt "00000025"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000007E9
+msgctxt "00000026"
 msgid ""
 "バロア：今、船に乗ると旧ハインローグ城へ向かうぜ。"
 msgstr "Baroa: This boat's on its way back to New Heinrogue Castle."
 
 #: 0000081F
+msgctxt "00000027"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000868
+msgctxt "00000028"
 msgid ""
 "バロア：今、船に乗るとメクアの港へ向かうぜ。"
 msgstr "Baroa: This boat's on its way to Mekua Port."
 
 #: 00000898
+msgctxt "00000029"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000008EA
+msgctxt "00000030"
 msgid ""
 "バロア：今、船に乗るとへバーシスのはいきょにいくぜ。"
 msgstr "Baroa: This boat's on its way to the Ruins of Bahsis."
 
 #: 00000922
+msgctxt "00000031"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 0000096B
+msgctxt "00000032"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへ戻るぜ。"
 msgstr "Baroa: This boat's on its way back to New Heinrogue."
 
 #: 0000099D
+msgctxt "00000033"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 000009E6
+msgctxt "00000034"
 msgid ""
 "バロア：今、船に乗るとマーモ島へいくぜ。"
 msgstr "Baroa: This boat's on its way to Marmo Island."
 
 #: 00000A12
+msgctxt "00000035"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr ""
 
 #: 00000A5B
+msgctxt "00000036"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへもどるぜ。"
 msgstr "Baroa: This boat's on its way back to New Heinrogue."
 
 #: 00000A8F
+msgctxt "00000037"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
 msgstr "If you want me to change course, just say so."
 
 #: 00000B4B
+msgctxt "00000038"
 msgid ""
 "バロア：像も手に入れず行っても無駄だと思うぜ。"
 msgstr "Baroa: I don't think there's any point in going without the statue."
 
 #: 00000BAC
+msgctxt "00000039"
 msgid ""
 "バロア：何度も行っても無駄だと思うぜ。"
 msgstr ""
@@ -212,36 +252,43 @@ msgstr ""
 "over."
 
 #: 00000C3C
+msgctxt "00000040"
 msgid ""
 "バロア：俺に行き先を言ってくれ。"
 msgstr "Baroa: Tell me where you want to go."
 
 #: 00156AC2
+msgctxt "00000041"
 msgid ""
 "剣士：いつの時代も、おろかな者は必ず現われる。"
 msgstr "Swordsman: No matter the era, fools never fail to make an appearance."
 
 #: 00156AF4
+msgctxt "00000042"
 msgid ""
 "過去にハインローグの王、今は私の部下達、そしてお前達だ。"
 msgstr "First it was the King of Heinrogue. Now, it's your lot and my men."
 
 #: 00156B30
+msgctxt "00000043"
 msgid ""
 "おっと、お前の父を忘れていたな。ジェナトスの娘よ。"
 msgstr "Ah, wait. I forgot about your father, Daughter of Jenatos."
 
 #: 00156B7F
+msgctxt "00000044"
 msgid ""
 "サリナ：なにぃっ？！てめえ！"
 msgstr "Sarina: What did you--?! You wretch!"
 
 #: 00156BE2
+msgctxt "00000045"
 msgid ""
 "カイ：お前がギゼフィルか。"
 msgstr "Kai: You must be Gizafeal."
 
 #: 00156C2A
+msgctxt "00000046"
 msgid ""
 "剣士：お初にお目にかかる。おろかな生物の代表者達。"
 msgstr ""
@@ -249,11 +296,13 @@ msgstr ""
 "foolish creatures known as man."
 
 #: 00156C7C
+msgctxt "00000047"
 msgid ""
 "バロア：けっ、ずいぶんと、人をバカにした言い方をするじゃないか。"
 msgstr "Baroa: Jeez, does this guy hate mankind or something?"
 
 #: 00156CD9
+msgctxt "00000048"
 msgid ""
 "剣士：くく、お前達は人間の総意を代表して来たつもりでいるのだろう？"
 msgstr ""
@@ -261,11 +310,13 @@ msgstr ""
 "will of man?"
 
 #: 00156D1F
+msgctxt "00000049"
 msgid ""
 "このギゼフィルを倒し、世界を闇の影響から救わんと。"
 msgstr "Man wishes to defeat me, Gizafeal, and save the world from darkness."
 
 #: 00156D55
+msgctxt "00000050"
 msgid ""
 "そして、人間の好き勝手にできる世界を作り、平和と称する。"
 msgstr ""
@@ -273,16 +324,19 @@ msgstr ""
 "peace throughout to other men."
 
 #: 00156DBB
+msgctxt "00000051"
 msgid ""
 "ミシリア：そ、そんな・・・・・・"
 msgstr "Michelia: That's, umm..."
 
 #: 00156DFB
+msgctxt "00000052"
 msgid ""
 "剣士：私を倒したところで、世界にとっては何も変わらぬよ。"
 msgstr "Swordsman: Even if you defeat me, the world shall not change."
 
 #: 00156E37
+msgctxt "00000053"
 msgid ""
 "ただ、すべての生物の王になるのが、私か、お前かの違いだけだ。"
 msgstr ""
@@ -290,16 +344,19 @@ msgstr ""
 "you?\""
 
 #: 00156E90
+msgctxt "00000054"
 msgid ""
 "カイ：やめろ・・・・・・っ！"
 msgstr "Kai: That's enough!"
 
 #: 00156EBE
+msgctxt "00000055"
 msgid ""
 "剣士：私の言うことがまちがっていると言えるのか？"
 msgstr "Swordsman: Can you refute these words of mine, I wonder."
 
 #: 00156EF2
+msgctxt "00000056"
 msgid ""
 "そこのエルフは、何か知っていると言いたげだぞ。人間についてな。"
 msgstr ""
@@ -307,43 +364,51 @@ msgstr ""
 "\""
 
 #: 00156F50
+msgctxt "00000057"
 msgid ""
 "ミーナ：・・・・・・くっ。"
 msgstr "Minna: ...hmph."
 
 #: 00156F87
+msgctxt "00000058"
 msgid ""
 "カイ：やめろ・・・・・・！！"
 msgstr "Kai: SHUT UP!"
 
 #: 00156FC3
+msgctxt "00000059"
 msgid ""
 "剣士：かつて人間でないからと、不当な仕打ちを受けた種族の話を知るまい。"
 msgstr "Swordsman: Those who aren't man know well their transgressions."
 
 #: 0015700D
+msgctxt "00000060"
 msgid ""
 "人間にとって、つごうの悪い歴史は消されてしまったからな。"
 msgstr ""
 "Mankind, however, has a way of forgetting these dark moments of history."
 
 #: 00157062
+msgctxt "00000061"
 msgid ""
 "バーク：ふざけんな！だまって聞いてりゃ知った風な口ききやがって！"
 msgstr ""
 "Burke: Don't give us this garbage, lecturing us like you know who we are!"
 
 #: 001570A6
+msgctxt "00000062"
 msgid ""
 "てめえがどれだけ、俺達のことを知ってるってんだ？"
 msgstr "What do you even know about us?!"
 
 #: 001570FE
+msgctxt "00000063"
 msgid ""
 "バロア：カイは違うぜ。少なくとも、お前のようなやつとは出来が違うんだよ。"
 msgstr "Baroa: Kai is different. At least, he's leagues better than you!"
 
 #: 0015714A
+msgctxt "00000064"
 msgid ""
 "自分だけ、こそこそと安全な所に隠れて、せこいことをやっちゃいない。"
 msgstr ""
@@ -351,77 +416,92 @@ msgstr ""
 "words for the people."
 
 #: 001571A9
+msgctxt "00000065"
 msgid ""
 "サリナ：カイはね、みんなにめいわくをかけたくないんだよ。"
 msgstr "Sarina: Kai doesn't want to hurt anyone in this world."
 
 #: 001571E5
+msgctxt "00000066"
 msgid ""
 "ハインローグの王になって、国全部であんたと戦うことはできただろうさ。"
 msgstr "And yet he fought anyway, all to put a stop to you!"
 
 #: 00157246
+msgctxt "00000067"
 msgid ""
 "でもね、多くの人が死んでいくのを、安全な所から見てるだけじゃね。"
 msgstr "He won't just watch from afar as others die around him!"
 
 #: 001572B1
+msgctxt "00000068"
 msgid ""
 "ミーナ：・・・あなたは、王としての何たるかを、分かっていない。"
 msgstr "Minna: ...you don't know what it takes to be a king."
 
 #: 001572F3
+msgctxt "00000069"
 msgid ""
 "人の上に立つ者の心得は、人を支配するだけでは成り立ちはしないのです。"
 msgstr "Those who seek to lead cannot be trusted to rule over everyone."
 
 #: 0015733B
+msgctxt "00000070"
 msgid ""
 "確かに私は、全ての人間を信用することはできませんが、今、"
 msgstr "I may not trust all of mankind, but now,"
 
 #: 00157377
+msgctxt "00000071"
 msgid ""
 "ここにいる人たちのためになら、いのちをかけることもためらわないでしょう。"
 msgstr "here and now, I'd gladly give my life for my friends."
 
 #: 001573ED
+msgctxt "00000072"
 msgid ""
 "ミシリア：私は・・・・・・"
 msgstr "Michelia: I..."
 
 #: 0015740E
+msgctxt "00000073"
 msgid ""
 "私・・・・・・"
 msgstr "I..."
 
 #: 00157423
+msgctxt "00000074"
 msgid ""
 "・・・・・・"
 msgstr ""
 
 #: 0015744F
+msgctxt "00000075"
 msgid ""
 "カイ：・・・ミシリア。"
 msgstr "Kai: ...Michelia."
 
 #: 00157482
+msgctxt "00000076"
 msgid ""
 "ミシリア：カイのことを信じてる。絶対、いい世の中にしてくれるって思う。"
 msgstr ""
 "Michelia: I believe in Kai. I believe he will make the world a better place."
 
 #: 001574CC
+msgctxt "00000077"
 msgid ""
 "あなたに足りないのは、何かを信じることよ！"
 msgstr "You lack the conviction to believe in anything!"
 
 #: 001574FA
+msgctxt "00000078"
 msgid ""
 "あなたはどうかは知らないけど、私達人間は１人では生きていけないの。"
 msgstr "I don't know about you, but humans cannot live alone."
 
 #: 00157540
+msgctxt "00000079"
 msgid ""
 "誰かを信じて、誰かに頼って、助け合って・・・どんなにうまくいかなくても、"
 msgstr ""
@@ -429,26 +509,31 @@ msgstr ""
 "weak,"
 
 #: 0015758C
+msgctxt "00000080"
 msgid ""
 "がんばっていれば、いつか必ずお互いに、より良く変わることができる。"
 msgstr "but if we do our best together, we can change the world for the better."
 
 #: 001575D2
+msgctxt "00000081"
 msgid ""
 "あなたのように、自分以外を信じられない、あわれな生き物とは違うわ！"
 msgstr "Unlike you, who only believes in yourself, you pitiful creature!"
 
 #: 00157642
+msgctxt "00000082"
 msgid ""
 "剣士：・・・貴様、私のことをあわれな生き物だと。"
 msgstr "Swordsman: ...you dare call me a pitiful creature?"
 
 #: 00157676
+msgctxt "00000083"
 msgid ""
 "貴様らのような、取るに足らぬ生物におとるというのか？"
 msgstr "You say I'm beneath pathetic insects like yourselves?"
 
 #: 001576AE
+msgctxt "00000084"
 msgid ""
 "ならば、示してみせよ！私と貴様らと、本当に違うのかを。"
 msgstr ""
@@ -456,61 +541,73 @@ msgstr ""
 "the victor!"
 
 #: 001576E8
+msgctxt "00000085"
 msgid ""
 "この私を倒して、より良い世界というものを作ってみせるがいい！"
 msgstr "Dare yourselves to defeat me and create your ideal world!!"
 
 #: 00157741
+msgctxt "00000086"
 msgid ""
 "カイ：・・・行くぞ！みんな！"
 msgstr "Kai: ...let's go, everyone!"
 
 #: 0019B1FB
+msgctxt "00000087"
 msgid ""
 "カイ：なんてことだ・・・"
 msgstr "Kai: How could this happen...?"
 
 #: 0019B225
+msgctxt "00000088"
 msgid ""
 "僕は、自分の母親を、僕を捨てた母さんを、ずっとうらんできたのに。"
 msgstr "I resented my mother... for abandoning me..."
 
 #: 0019B269
+msgctxt "00000089"
 msgid ""
 "ずっとずっとうらんできたのに。"
 msgstr "I always hated her..."
 
 #: 0019B28B
+msgctxt "00000090"
 msgid ""
 "そうじゃないなんて。僕を守って死んでいたなんて。"
 msgstr "Only, I had it all wrong. She died protecting me."
 
 #: 0019B2BF
+msgctxt "00000091"
 msgid ""
 "これじゃ、なにも言えないじゃないか・・・。"
 msgstr "I don't know what to believe anymore!"
 
 #: 0019B312
+msgctxt "00000092"
 msgid ""
 "バーク：・・・なあ、"
 msgstr "Burke: You doing okay, buddy?"
 
 #: 0019B3C8
+msgctxt "00000093"
 msgid ""
 "ミシリア：カイ・・・"
 msgstr "Michelia: Kai..."
 
 #: 0019B3F1
+msgctxt "00000094"
 msgid ""
 "カイ：・・・ごめん、ミシリア。みっともない所を見せちゃったね。"
 msgstr "Kai: ...sorry, Michelia. I must look like a fool."
 
 #: 0019B441
+msgctxt "00000095"
 msgid ""
 "ミシリア：ううん、そんなことないよ。"
 msgstr "Michelia: No. It's nothing to be ashamed of."
 
 #: 0019B47A
+msgctxt "00000096"
 msgid ""
 "カイ：ミシリア、僕はこの現実を受け入れるよ。もうみっともない所は見せない。"
 msgstr ""
@@ -518,6 +615,7 @@ msgstr ""
 "that again."
 
 #: 0019B4C8
+msgctxt "00000097"
 msgid ""
 "母さんは魔物に殺された。そして、この国は魔物に苦しめられている。"
 msgstr ""
@@ -525,46 +623,55 @@ msgstr ""
 "country."
 
 #: 0019B50C
+msgctxt "00000098"
 msgid ""
 "だから、僕は絶対、やつらを・・・・・・"
 msgstr "There's only one thing for me to do."
 
 #: 0019B544
+msgctxt "00000099"
 msgid ""
 "ミシリア：待って、カイ。"
 msgstr "Michelia: Kai, wait!"
 
 #: 0019B58A
+msgctxt "00000100"
 msgid ""
 "カイは大事なことを忘れてる。"
 msgstr "You're forgetting something important!"
 
 #: 0019B5B8
+msgctxt "00000101"
 msgid ""
 "カイ：・・・大事なこと？"
 msgstr "Kai: Something important?"
 
 #: 0019B5E2
+msgctxt "00000102"
 msgid ""
 "ミシリア：そう、今、カイがここにいること。"
 msgstr "Michelia: The fact that you're here, Kai! Right now!"
 
 #: 0019B61E
+msgctxt "00000103"
 msgid ""
 "カイ：僕がここに・・・"
 msgstr "Kai: That I'm..."
 
 #: 0019B646
+msgctxt "00000104"
 msgid ""
 "ミシリア：カイの温かさがここにあって、私がそれを感じてる。"
 msgstr "Michelia: I can feel your warmth, here and now."
 
 #: 0019B684
+msgctxt "00000105"
 msgid ""
 "カイのお母さんは、確かにもういないけど、でもカイはここにいるんだって。"
 msgstr "Your mother may no longer be here, but you are."
 
 #: 0019B6CE
+msgctxt "00000106"
 msgid ""
 "・・・さっきのカイの言葉は、憎む相手を変えただけだったでしょ。"
 msgstr ""
@@ -572,6 +679,7 @@ msgstr ""
 "others."
 
 #: 0019B710
+msgctxt "00000107"
 msgid ""
 "王子としての責任でもなく、人としての正義を感じたわけでもなくて・・"
 msgstr ""
@@ -579,31 +687,37 @@ msgstr ""
 "as a human..."
 
 #: 0019B756
+msgctxt "00000108"
 msgid ""
 "ただ、何かを憎むことで自分を支えてた。"
 msgstr "It's just... You shouldn't spread more hate in the world!"
 
 #: 0019B780
+msgctxt "00000109"
 msgid ""
 "私はね、人が温かいってことはこんなにステキなのに、うらんだり"
 msgstr "Humans are most beautiful when they're warm."
 
 #: 0019B7C0
+msgctxt "00000110"
 msgid ""
 "憎んだりすることで、どんどん失われていくような、そんな気がしたの。"
 msgstr "When hatred and grudges grip their hearts, that warmth is slowly lost."
 
 #: 0019B806
+msgctxt "00000111"
 msgid ""
 "カイがカイでなくなっちゃうような・・・なんだか怖くて・・・"
 msgstr "I'm scared of losing the Kai... whom I call my friend..."
 
 #: 0019B852
+msgctxt "00000112"
 msgid ""
 "カイ：ミシリア、僕は・・・"
 msgstr "Kai: Michelia, I..."
 
 #: 0019B87E
+msgctxt "00000113"
 msgid ""
 "ミシリア：カイはムリしてる。今、すごくムリしてると思う。"
 msgstr ""
@@ -611,73 +725,87 @@ msgstr ""
 "everything."
 
 #: 0019B8BA
+msgctxt "00000114"
 msgid ""
 "たまには、休んでもいいと思うよ。私、どんなにカイが弱気になっても"
 msgstr ""
 "You should really rest now and then. It's okay to not be strong sometimes."
 
 #: 0019B8FE
+msgctxt "00000115"
 msgid ""
 "絶対嫌いにならない。だって、私・・・"
 msgstr "I'll never hate you for looking weak, because I... I..."
 
 #: 0019B926
+msgctxt "00000116"
 msgid ""
 "・・・・・・"
 msgstr ""
 
 #: 0019B9B1
+msgctxt "00000117"
 msgid ""
 "カイ：ありがとう、ミシリア。でも、やっぱり僕は、"
 msgstr "Kai: Thank you, Michelia. But I want to--"
 
 #: 0019B9E5
+msgctxt "00000118"
 msgid ""
 "いや、だからこそ、やらなくちゃいけないことがあると思う。"
 msgstr "no, I need to do this."
 
 #: 0019BA21
+msgctxt "00000119"
 msgid ""
 "・・・けど、君のおかげで、目が覚めたような気がするよ。"
 msgstr "Still, I feel like I've been woken up now, thanks to you."
 
 #: 0019BA69
+msgctxt "00000120"
 msgid ""
 "カイ：カイ・・・・・・うん、そうだよね。"
 msgstr "Kai: Kai, I... All right."
 
 #: 0019BAA3
+msgctxt "00000121"
 msgid ""
 "私が、ワガママ言っちゃったかもしれない。でも、忘れないでいて欲しいの。"
 msgstr ""
 "I might be acting pushy, but I just don't want you to forget this moment."
 
 #: 0019BAED
+msgctxt "00000122"
 msgid ""
 "私達みんな、カイが好きだから、役に立ちたいって思っていることを。"
 msgstr "We all love you, Kai, and we want to be helpful to you."
 
 #: 0019BB4D
+msgctxt "00000123"
 msgid ""
 "カイ：大丈夫、もう忘れないよ・・・・・・"
 msgstr "Kai: Don't worry. I won't forget your feelings."
 
 #: 0019BB95
+msgctxt "00000124"
 msgid ""
 "バーク：もういいか？"
 msgstr "Burke: You good now?"
 
 #: 0019BBC6
+msgctxt "00000125"
 msgid ""
 "ミーナ：あなたの出番はもうなさそうですね。"
 msgstr "Minna: Talk about a completely natural stage entrance."
 
 #: 0019BC0D
+msgctxt "00000126"
 msgid ""
 "バーク：トホホ・・・・・・"
 msgstr "Burke: Hahaha!"
 
 #: 00268A24
+msgctxt "00000127"
 msgid ""
 "いのちのみなもとたる大海原の力を求めるならば、我の試練を受け入れよ。"
 msgstr ""
@@ -685,507 +813,620 @@ msgstr ""
 "challenge."
 
 #: 00268A81
+msgctxt "00000128"
 msgid ""
 "バロア：ようやく俺様の出番だな。軽く、やっちまってくるぜ。"
 msgstr "Baroa: All right, it's finally my turn! This'll be a walk in the park!"
 
 #: 00268ACD
+msgctxt "00000129"
 msgid ""
 "カイ：がんばってよ。バロア。"
 msgstr "Kai: Good luck, Baroa!"
 
 #: 00268AFB
+msgctxt "00000130"
 msgid ""
 "バロア：よゆうの勝利ってやつを見せてやるよ。"
 msgstr "Baroa: Don't blink, or you'll miss me!"
 
 #: 00268B2B
+msgctxt "00000131"
 msgid ""
 "女性の方々、俺様にほれるなよ。"
 msgstr "Ladies, ladies! Don't fall for me so soon now, okay?"
 
 #: 00268B5B
+msgctxt "00000132"
 msgid ""
 "サリナ：なーんか心配だなー。"
 msgstr "Sarina: He's about to get his butt beat."
 
 #: 00268C04
+msgctxt "00000133"
 msgid ""
 "サリナ：どうだい、手応えは？"
 msgstr "Sarina: How's it feel?"
 
 #: 00268C37
+msgctxt "00000134"
 msgid ""
 "バロア：ま、こんなもんだろうよ。"
 msgstr "Baroa: Eh, it's about what I expected."
 
 #: 00268C74
+msgctxt "00000135"
 msgid ""
 "サリナ：もっとうれしそうにしなよ。見てて、歯切れが悪い。"
 msgstr "Sarina: Come on, be more excited! Show some emotion, will you!"
 
 #: 00268CC9
+msgctxt "00000136"
 msgid ""
 "バロア：男は、派手には喜ばないもんさ。"
 msgstr "Baroa: A man is to contain his emotions."
 
 #: 00268CF3
+msgctxt "00000137"
 msgid ""
 "どんなにうれしくても、苦しくてもな、"
 msgstr "Whether they're happy or sad,"
 
 #: 00268D1B
+msgctxt "00000138"
 msgid ""
 "ニヤリと笑うところがいいのさ。"
 msgstr "a smile or a laugh won't kill you."
 
 #: 00268D56
+msgctxt "00000139"
 msgid ""
 "バーク：そ、そうか？"
 msgstr "Burke: R-really?"
 
 #: 00268D87
+msgctxt "00000140"
 msgid ""
 "バロア：お前さんだけは別だよ。"
 msgstr "Baroa: You're the only exception."
 
 #: 00268DB7
+msgctxt "00000141"
 msgid ""
 "バロアは海王の力を手に入れた。"
 msgstr "Baroa obtained Poseidon's power!"
 
 #: 002AD2E8
+msgctxt "00000142"
 msgid ""
 "ミーナ："
 msgstr ""
 
 #: 002AD2F4
+msgctxt "00000143"
 msgid ""
 msgstr ""
 
 #: 002AD2F8
+msgctxt "00000144"
 msgid ""
 msgstr ""
 
 #: 002AD2FC
+msgctxt "00000145"
 msgid ""
 msgstr ""
 
 #: 002AD300
+msgctxt "00000146"
 msgid ""
 msgstr ""
 
 #: 002AD304
+msgctxt "00000147"
 msgid ""
 msgstr ""
 
 #: 002AD323
+msgctxt "00000148"
 msgid ""
 "ミーナ："
 msgstr "Minna:"
 
 #: 002AD32F
+msgctxt "00000149"
 msgid ""
 msgstr ""
 
 #: 002AD333
+msgctxt "00000150"
 msgid ""
 msgstr ""
 
 #: 002AD337
+msgctxt "00000151"
 msgid ""
 msgstr ""
 
 #: 002AD33B
+msgctxt "00000152"
 msgid ""
 msgstr ""
 
 #: 002AD33F
+msgctxt "00000153"
 msgid ""
 msgstr ""
 
 #: 002AD364
+msgctxt "00000154"
 msgid ""
 "サリナ："
 msgstr ""
 
 #: 002AD370
+msgctxt "00000155"
 msgid ""
 msgstr ""
 
 #: 002AD374
+msgctxt "00000156"
 msgid ""
 msgstr ""
 
 #: 002AD378
+msgctxt "00000157"
 msgid ""
 msgstr ""
 
 #: 002AD37C
+msgctxt "00000158"
 msgid ""
 msgstr ""
 
 #: 002AD380
+msgctxt "00000159"
 msgid ""
 msgstr ""
 
 #: 002AD39F
+msgctxt "00000160"
 msgid ""
 "サリナ："
 msgstr "Sarina:"
 
 #: 002AD3AB
+msgctxt "00000161"
 msgid ""
 msgstr ""
 
 #: 002AD3AF
+msgctxt "00000162"
 msgid ""
 msgstr ""
 
 #: 002AD3B3
+msgctxt "00000163"
 msgid ""
 msgstr ""
 
 #: 002AD3B7
+msgctxt "00000164"
 msgid ""
 msgstr ""
 
 #: 002AD3BB
+msgctxt "00000165"
 msgid ""
 msgstr ""
 
 #: 002AD3E0
+msgctxt "00000166"
 msgid ""
 "バーク："
 msgstr ""
 
 #: 002AD3EC
+msgctxt "00000167"
 msgid ""
 msgstr ""
 
 #: 002AD3F0
+msgctxt "00000168"
 msgid ""
 msgstr ""
 
 #: 002AD3F4
+msgctxt "00000169"
 msgid ""
 msgstr ""
 
 #: 002AD3F8
+msgctxt "00000170"
 msgid ""
 msgstr ""
 
 #: 002AD3FC
+msgctxt "00000171"
 msgid ""
 msgstr ""
 
 #: 002AD41B
+msgctxt "00000172"
 msgid ""
 "バーク："
 msgstr "Burke:"
 
 #: 002AD427
+msgctxt "00000173"
 msgid ""
 msgstr ""
 
 #: 002AD42B
+msgctxt "00000174"
 msgid ""
 msgstr ""
 
 #: 002AD42F
+msgctxt "00000175"
 msgid ""
 msgstr ""
 
 #: 002AD433
+msgctxt "00000176"
 msgid ""
 msgstr ""
 
 #: 002AD437
+msgctxt "00000177"
 msgid ""
 msgstr ""
 
 #: 002AD45C
+msgctxt "00000178"
 msgid ""
 "ミシリア："
 msgstr ""
 
 #: 002AD46A
+msgctxt "00000179"
 msgid ""
 msgstr ""
 
 #: 002AD46E
+msgctxt "00000180"
 msgid ""
 msgstr ""
 
 #: 002AD472
+msgctxt "00000181"
 msgid ""
 msgstr ""
 
 #: 002AD476
+msgctxt "00000182"
 msgid ""
 msgstr ""
 
 #: 002AD47A
+msgctxt "00000183"
 msgid ""
 msgstr ""
 
 #: 002AD499
+msgctxt "00000184"
 msgid ""
 "ミシリア："
 msgstr "Michelia:"
 
 #: 002AD4A7
+msgctxt "00000185"
 msgid ""
 msgstr ""
 
 #: 002AD4AB
+msgctxt "00000186"
 msgid ""
 msgstr ""
 
 #: 002AD4AF
+msgctxt "00000187"
 msgid ""
 msgstr ""
 
 #: 002AD4B3
+msgctxt "00000188"
 msgid ""
 msgstr ""
 
 #: 002AD4B7
+msgctxt "00000189"
 msgid ""
 msgstr ""
 
 #: 002AD4DC
+msgctxt "00000190"
 msgid ""
 "バロア："
 msgstr ""
 
 #: 002AD4E8
+msgctxt "00000191"
 msgid ""
 msgstr ""
 
 #: 002AD4EC
+msgctxt "00000192"
 msgid ""
 msgstr ""
 
 #: 002AD4F0
+msgctxt "00000193"
 msgid ""
 msgstr ""
 
 #: 002AD4F4
+msgctxt "00000194"
 msgid ""
 msgstr ""
 
 #: 002AD4F8
+msgctxt "00000195"
 msgid ""
 msgstr ""
 
 #: 002AD517
+msgctxt "00000196"
 msgid ""
 "バロア："
 msgstr "Baroa:"
 
 #: 002AD523
+msgctxt "00000197"
 msgid ""
 msgstr ""
 
 #: 002AD527
+msgctxt "00000198"
 msgid ""
 msgstr ""
 
 #: 002AD52B
+msgctxt "00000199"
 msgid ""
 msgstr ""
 
 #: 002AD52F
+msgctxt "00000200"
 msgid ""
 msgstr ""
 
 #: 002AD533
+msgctxt "00000201"
 msgid ""
 msgstr ""
 
 #: 002AD558
+msgctxt "00000202"
 msgid ""
 "ギゼフィル："
 msgstr ""
 
 #: 002AD568
+msgctxt "00000203"
 msgid ""
 msgstr ""
 
 #: 002AD56C
+msgctxt "00000204"
 msgid ""
 msgstr ""
 
 #: 002AD570
+msgctxt "00000205"
 msgid ""
 msgstr ""
 
 #: 002AD574
+msgctxt "00000206"
 msgid ""
 msgstr ""
 
 #: 002AD578
+msgctxt "00000207"
 msgid ""
 msgstr ""
 
 #: 002AD597
+msgctxt "00000208"
 msgid ""
 "ギゼフィル："
 msgstr "Gizafeal:"
 
 #: 002AD5A7
+msgctxt "00000209"
 msgid ""
 msgstr ""
 
 #: 002AD5AB
+msgctxt "00000210"
 msgid ""
 msgstr ""
 
 #: 002AD5AF
+msgctxt "00000211"
 msgid ""
 msgstr ""
 
 #: 002AD5B3
+msgctxt "00000212"
 msgid ""
 msgstr ""
 
 #: 002AD5B7
+msgctxt "00000213"
 msgid ""
 msgstr ""
 
 #: 002AD5D2
+msgctxt "00000214"
 msgid ""
 "ギゼフィル：我が世界ここにあり。"
 msgstr "Gizafeal: Welcome to my realm."
 
 #: 002AD5F6
+msgctxt "00000215"
 msgid ""
 "我が片腕達よ。"
 msgstr "You pitiful humans."
 
 #: 002AD608
+msgctxt "00000216"
 msgid ""
 "うとましき肉のうつわを失っても、その力は失われることはない。"
 msgstr "Even if I've lost my weak vessel of flesh, my power is everlasting."
 
 #: 002AD648
+msgctxt "00000217"
 msgid ""
 "さあ、おろかな人間どもに、絶望というものを教えてやれい！"
 msgstr ""
 "Now, you foolish humans, you shall understand the true meaning of despair!"
 
 #: 002AD684
+msgctxt "00000218"
 msgid ""
 "そして、やつらの最後の希望を打ちくだくのだ！"
 msgstr "I'll smash the last remaining hope this world has!"
 
 #: 002AD724
+msgctxt "00000219"
 msgid ""
 "お"
 msgstr "UWA--"
 
 #: 002AD738
+msgctxt "00000220"
 msgid ""
 "おおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお"
 msgstr "UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUGH!"
 
 #: 002AD7A0
+msgctxt "00000221"
 msgid ""
 "カイ：な、なんだ？！"
 msgstr "Kai: W-what the--?!"
 
 #: 002AD7B8
+msgctxt "00000222"
 msgid ""
 "なにが起こって・・・・・・"
 msgstr "What happened?"
 
 #: 002AD7E4
+msgctxt "00000223"
 msgid ""
 "ギゼフィル：許さぬぞ！！"
 msgstr "Gizafeal: YOU WILL PERISH!"
 
 #: 002AD800
+msgctxt "00000224"
 msgid ""
 "貴様らの存在そのものを、この次元より消し去ってくれるわ！！"
 msgstr "YOUR EXISTENCE WILL BE SCATTERED THROUGHOUT THIS DIMENSION!!!"
 
 #: 002AD84C
+msgctxt "00000225"
 msgid ""
 "カイ：そんな・・・やっと倒したのに・・・"
 msgstr "Kai: No... We should have beaten him...!"
 
 #: 002AD878
+msgctxt "00000226"
 msgid ""
 "このままじゃ・・・・・・"
 msgstr "We can't hold out at this rate..."
 
 #: 002AD8A5
+msgctxt "00000227"
 msgid ""
 "カイ！！"
 msgstr "Kai!"
 
 #: 002AD8F4
+msgctxt "00000228"
 msgid ""
 "カイ：ファラ？！"
 msgstr "Kai: Fara?!"
 
 #: 002AD916
+msgctxt "00000229"
 msgid ""
 "ファラ：助けに来たよ！！"
 msgstr "Fara: I came to help!"
 
 #: 002AD932
+msgctxt "00000230"
 msgid ""
 "みんな、力を・・・！"
 msgstr "Everyone, take my power!"
 
 #: 002ADA3D
+msgctxt "00000231"
 msgid ""
 "カイ：・・・・・・"
 msgstr "Kai: ..."
 
 #: 002ADA53
+msgctxt "00000232"
 msgid ""
 "・・・・・・やった。"
 msgstr "...we did it?"
 
 #: 002ADA6B
+msgctxt "00000233"
 msgid ""
 "・・・・・・やったんだ。"
 msgstr "...we did it!"
 
 #: 002ADA87
+msgctxt "00000234"
 msgid ""
 "ありがとう、ファラ・・・"
 msgstr "Thank you, Fara..."
 
 #: 002ADAC7
+msgctxt "00000235"
 msgid ""
 "ファラ：てへへっ！ちょろいちょろい！"
 msgstr "Fara: Teehee! It was my pleasure!"
 
 #: 002ADB30
+msgctxt "00000236"
 msgid ""
 "ミシリア：ついにやりとげたのね・・・"
 msgstr "Michelia: We finally did it."
 
 #: 002ADB71
+msgctxt "00000237"
 msgid ""
 "ミーナ：ええ。"
 msgstr "Minna: Indeed."
 
 #: 002ADB9C
+msgctxt "00000238"
 msgid ""
 "バーク：俺も、これでとうとう有名人の仲間入りか。"
 msgstr "Burke: Oh man, we're gonna be so famous after this!"
 
 #: 002ADBD0
+msgctxt "00000239"
 msgid ""
 "自由気ままな日々とも、おさらばだな。これからいそがしくなるぜ！"
 msgstr "Say farewell to the quiet life, kids. It's gonna get busy from now on!"
 
 #: 002ADC34
+msgctxt "00000240"
 msgid ""
 "バロア：おうよ。世界中の女性から、毎日ファンレターもらって、"
 msgstr ""
@@ -1193,41 +1434,49 @@ msgstr ""
 "ladies in the world!"
 
 #: 002ADC74
+msgctxt "00000241"
 msgid ""
 "返事を書くだけで休むヒマもないだろうな。"
 msgstr "My arm will cramp from all the replies I'll have to write!"
 
 #: 002ADCAE
+msgctxt "00000242"
 msgid ""
 "バーク＆バロア：わははははははははは！！"
 msgstr "Burke & Baroa: WAHAHAHAHAA!"
 
 #: 002ADCF9
+msgctxt "00000243"
 msgid ""
 "サリナ：・・・・・・男って、どうしてこうなんだろうね。"
 msgstr "Sarina: ...why are men like this?"
 
 #: 002ADD41
+msgctxt "00000244"
 msgid ""
 "ま、いいか。本当にすごいこと、やっちまったんだしね。"
 msgstr "Oh well. We really did something unbelievable, didn't we?"
 
 #: 002ADD8D
+msgctxt "00000245"
 msgid ""
 "ねえ、カイ。あんたは、これからどうするんだい？"
 msgstr "Tell me, Kai. What're you going to do now?"
 
 #: 002ADDD8
+msgctxt "00000246"
 msgid ""
 "カイ：僕かい？"
 msgstr "Kai: Me?"
 
 #: 002ADDEA
+msgctxt "00000247"
 msgid ""
 "僕は・・・・・・"
 msgstr "I..."
 
 #: 002ADDFE
+msgctxt "00000248"
 msgid ""
 "・・・・・・"
 msgstr "..."

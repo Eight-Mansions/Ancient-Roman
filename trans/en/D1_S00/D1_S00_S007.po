@@ -1,3 +1,4 @@
+﻿msgctxt "00000000"
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -15,26 +16,31 @@ msgstr ""
 "X-Generator: Weblate 4.12.2\n"
 
 #: 00000166
+msgctxt "00000001"
 msgid ""
 "カイ：今、逃げ出すわけにはいかない。"
 msgstr "Kai: We can't just run away."
 
 #: 000001BC
+msgctxt "00000002"
 msgid ""
 "塔の聖者：まて、説明するべきことがある。"
 msgstr "Tower Sage: Wait. I must explain your task."
 
 #: 000001E8
+msgctxt "00000003"
 msgid ""
 "こちらにまいられよ。"
 msgstr "This way."
 
 #: 0000022E
+msgctxt "00000004"
 msgid ""
 "塔の聖者：帰らずの港はここから北に行ったところにあります。"
 msgstr "Tower Sage: The Port of No Return is to the north of here."
 
 #: 0000028F
+msgctxt "00000005"
 msgid ""
 "塔の聖者：なぜ、ここにいる。なんじらの今いる場所ではない。"
 msgstr ""
@@ -42,282 +48,338 @@ msgstr ""
 "this moment."
 
 #: 000002E8
+msgctxt "00000006"
 msgid ""
 "塔の聖者：来たか。では今よりこの塔で最後の試練を行う。"
 msgstr "Tower Sage: You've come. Now, it's time for the tower's final trial."
 
 #: 00000330
+msgctxt "00000007"
 msgid ""
 "バーク：な、なにー！？。"
 msgstr "Burke: What?"
 
 #: 0000035A
+msgctxt "00000008"
 msgid ""
 "ファラ：やっぱり・・・わたしね、よそうしてたもん。"
 msgstr "Fara: I knew it... I totally saw this coming."
 
 #: 0000039E
+msgctxt "00000009"
 msgid ""
 "塔の聖者：この試練を行ないたくないのならば、それでもよい。"
 msgstr "Tower Sage: If you do not wish to undertake this trial, you may leave."
 
 #: 000003EA
+msgctxt "00000010"
 msgid ""
 "カイ：うけます。強くなりたいから。"
 msgstr "Kai: We'll take it. We want to become stronger."
 
 #: 0000041E
+msgctxt "00000011"
 msgid ""
 "バーク：まあ、お前ならそう言うと思ったぜ。"
 msgstr "Burke: Can't imagine you saying anything else."
 
 #: 0000045A
+msgctxt "00000012"
 msgid ""
 "塔の聖者：試練といっても簡単である。"
 msgstr "Tower Sage: The trial is a simple one."
 
 #: 00000482
+msgctxt "00000013"
 msgid ""
 "最上階におられる大聖者様の"
 msgstr "The Grand Sage awaits on the highest floor."
 
 #: 000004A0
+msgctxt "00000014"
 msgid ""
 "もとにいって巻き物をさずかるだけである。"
 msgstr "The trial is over when you receive his scroll."
 
 #: 000004CF
+msgctxt "00000015"
 msgid ""
 "では、なんじらにしゅくふくあれ！！"
 msgstr "Now, blessings be upon ye!"
 
 #: 00000562
+msgctxt "00000016"
 msgid ""
 "＿＿ＨＰとＭＰが回復した。＿＿"
 msgstr "__HP and MP recovered.__"
 
 #: 000005AC
+msgctxt "00000017"
 msgid ""
 "塔の聖者：さぁ先に進まれよ。"
 msgstr "Tower Sage: Now, go!"
 
 #: 000005DF
+msgctxt "00000018"
 msgid ""
 "塔の聖者：ここは聖者の塔です。"
 msgstr "Tower Sage: This is the Sage's Tower."
 
 #: 00000601
+msgctxt "00000019"
 msgid ""
 "塔の聖者：大聖者様はこの塔の最上階におられます。"
 msgstr "Tower Sage: The Grand Sage is at the top of the tower."
 
 #: 00089290
+msgctxt "00000020"
 msgid ""
 "聖者：私はこの塔で武術を教えているものです。"
 msgstr "Sage: I teach martial arts at this tower."
 
 #: 000892C0
+msgctxt "00000021"
 msgid ""
 "何をするにしても、まず肉体ありきです。"
 msgstr "To train for anything, you must first train your body."
 
 #: 00089305
+msgctxt "00000022"
 msgid ""
 "聖者：見事です。どうぞ先に進んでください。"
 msgstr "Sage: Well done. Please, continue ahead."
 
 #: 0008934F
+msgctxt "00000023"
 msgid ""
 "修行僧：ここで肉体をきたえています。"
 msgstr "Monk: We're training our bodies here."
 
 #: 00089377
+msgctxt "00000024"
 msgid ""
 "どうです。このきたえあげられた肉体。うつくしいと思いませんか？"
 msgstr "What do you think? Don't you think this well-toned body is beautiful?"
 
 #: 000893D4
+msgctxt "00000025"
 msgid ""
 "修行僧：うーん、参りました。また修行し直しです。"
 msgstr "Monk: Whew, you beat us. We've got more training to do."
 
 #: 00089424
+msgctxt "00000026"
 msgid ""
 "修行僧：心の前に体をきたえないとね。"
 msgstr "Monk: You've gotta train your body before your mind."
 
 #: 0008945A
+msgctxt "00000027"
 msgid ""
 "ふん。どうですこのきたえあげられた肉体。うつくしいと思いませんか？"
 msgstr "Hmm. Don't you think this well-toned body is beautiful?"
 
 #: 000894BB
+msgctxt "00000028"
 msgid ""
 "修行僧：うーん、参りました。"
 msgstr "Monk: Well, you beat us."
 
 #: 00089511
+msgctxt "00000029"
 msgid ""
 "聖者：よく参られました。それでは、"
 msgstr "Sage: Well done. Now..."
 
 #: 00089558
+msgctxt "00000030"
 msgid ""
 "聖者：まいりますっ！！"
 msgstr "Sage: It's time to fight!!!"
 
 #: 000CDA7A
+msgctxt "00000031"
 msgid ""
 "聖者：ここは精神の間ともうします。"
 msgstr "Sage: This is called \"the Spirit Chamber\"."
 
 #: 000CDAA0
+msgctxt "00000032"
 msgid ""
 "我々３人はここで修行をしております。"
 msgstr "The three of us train hard here."
 
 #: 000CDAE8
+msgctxt "00000033"
 msgid ""
 "聖者：参りました。さすが、大聖者様が目をつけられたお方。"
 msgstr ""
 "Sage: I've been beaten, and can see why you were summoned by the Grand Sage."
 
 #: 000CDB24
+msgctxt "00000034"
 msgid ""
 "どうぞ５階にお進みください。大聖者様がお待ちです。"
 msgstr "Please, continue to the 5th floor. The Grand Sage awaits."
 
 #: 000CDB6D
+msgctxt "00000035"
 msgid ""
 "聖者：私の修行の道はまだまだ続いているようです。"
 msgstr "Sage: It seems my training has much more to go."
 
 #: 000CDBBD
+msgctxt "00000036"
 msgid ""
 "聖者：ここは精神をきたえる間です。"
 msgstr ""
 
 #: 000CDBE3
+msgctxt "00000037"
 msgid ""
 "我々兄弟３人はここで修行をしております。"
 msgstr "The three of us brothers train hard here."
 
 #: 000CDC2F
+msgctxt "00000038"
 msgid ""
 "聖者：まいった。"
 msgstr "Sage: I'm beaten."
 
 #: 000CDC43
+msgctxt "00000039"
 msgid ""
 "見事です。どうぞ５階にお進みください。"
 msgstr "Well done. Please, continue to the 5th floor."
 
 #: 000CDC80
+msgctxt "00000040"
 msgid ""
 "聖者：私もまだまだ修行がたりません。"
 msgstr "Sage: It seems my training is lacking."
 
 #: 000CDCC4
+msgctxt "00000041"
 msgid ""
 "聖者：ここは精神をきたえる間です。"
 msgstr "Sage: This is the chamber for training your spirit."
 
 #: 000CDCEA
+msgctxt "00000042"
 msgid ""
 "私は兄じゃ達とここで修行をしておるものです。"
 msgstr "My brothers and I train here to get stronger."
 
 #: 000CDD3A
+msgctxt "00000043"
 msgid ""
 "聖者：・・・・・・・・・"
 msgstr "Sage: ..."
 
 #: 000CDD56
+msgctxt "00000044"
 msgid ""
 "われら３兄弟よりかたいきずなをおもちとは・・・・"
 msgstr "To think, you'd outpace us brothers..."
 
 #: 000CDD9D
+msgctxt "00000045"
 msgid ""
 "聖者：人の和とは血がつながってなくても強くなるものですな・・・"
 msgstr "Sage: It seems a connection by blood does not make you stronger..."
 
 #: 000CDDEE
+msgctxt "00000046"
 msgid ""
 "おまちしておりました。"
 msgstr "We've been waiting."
 
 #: 000CDE58
+msgctxt "00000047"
 msgid ""
 "聖者：どこをみておいでですか。"
 msgstr "Sage: Where are you looking?"
 
 #: 000CDE7A
+msgctxt "00000048"
 msgid ""
 "ここですよ。"
 msgstr "Here."
 
 #: 000CDED7
+msgctxt "00000049"
 msgid ""
 "聖者：いえいえ、こちらですよ。"
 msgstr "Sage: No, no. Over here."
 
 #: 000CDF4C
+msgctxt "00000050"
 msgid ""
 "聖者：いやいや、こちらです。"
 msgstr "Sage: No, no. Here."
 
 #: 000CDFC1
+msgctxt "00000051"
 msgid ""
 "聖者：ようこそ"
 msgstr "Sage: Welcome"
 
 #: 000CDFEC
+msgctxt "00000052"
 msgid ""
 "聖者：それでは"
 msgstr "Sage: Now then."
 
 #: 000CE017
+msgctxt "00000053"
 msgid ""
 "聖者：まいります"
 msgstr "Sage: Let us fight."
 
 #: 0011223D
+msgctxt "00000054"
 msgid ""
 "大聖者：道はきつくけわしい。"
 msgstr ""
 
 #: 00112260
+msgctxt "00000055"
 msgid ""
 "が、乗りこえればきっとお主達の力となるだろう。"
 msgstr "But, succeeding at it will grant you much more."
 
 #: 001122B5
+msgctxt "00000056"
 msgid ""
 "大聖者：帰らずの港から船にのるといい。"
 msgstr "Grand Sage: You shall take the boat at the Port of No Return."
 
 #: 00112336
+msgctxt "00000057"
 msgid ""
 "大聖者：道はきつくけわしい。"
 msgstr "Grand Sage: Your road will be perilous and painful."
 
 #: 00112369
+msgctxt "00000058"
 msgid ""
 "大聖者：お前達の持っている呪文書に呪文をかきこんでやろう。"
 msgstr "Grand Sage: I will write down a spell into the grimoire you hold."
 
 #: 001123A7
+msgctxt "00000059"
 msgid ""
 "ただし、ただではないがな。"
 msgstr "But, it won't be for free."
 
 #: 00112433
+msgctxt "00000060"
 msgid ""
 "聖者：あちらにおられますのが、大聖者様です"
 msgstr "Sage: The Grand Sage awaits over there."
 
 #: 00112492
+msgctxt "00000061"
 msgid ""
 "聖者：あきらめずにがんばれば、きっと道は開けるはずです。"
 msgstr ""
@@ -325,78 +387,93 @@ msgstr ""
 "surely open for you."
 
 #: 001125B0
+msgctxt "00000062"
 msgid ""
 "カイ：お初にお目にかかります、大聖者様。"
 msgstr "Kai: It is a pleasure to meet you, Grand Sage."
 
 #: 001125DF
+msgctxt "00000063"
 msgid ""
 "僕はカイ＝オルフェアスといいます。"
 msgstr "My name is Kai Orpheus."
 
 #: 00112616
+msgctxt "00000064"
 msgid ""
 "大聖者：・・・・・・"
 msgstr ""
 
 #: 0011263C
+msgctxt "00000065"
 msgid ""
 "カイ：新ハインローグ城の聖者から手紙をあずかって来ました。"
 msgstr ""
 "Kai: I came here to deliver a letter from the sage at New Heinrogue Castle."
 
 #: 001126F6
+msgctxt "00000066"
 msgid ""
 "大聖者：おぬしらには、［精神］と［肉体］の両方をきたえてもらう。"
 msgstr ""
 "Grand Sage: I will have you all train both your \"spirit\" and \"strength.\""
 
 #: 0011273A
+msgctxt "00000067"
 msgid ""
 "試練は試練の島で行う。"
 msgstr "The trials will be at the Island of Trials."
 
 #: 00112754
+msgctxt "00000068"
 msgid ""
 "くわしい事はそこにいる聖者に説明させる。"
 msgstr "The Sage over there will explain further."
 
 #: 00112817
+msgctxt "00000069"
 msgid ""
 "聖者：試練の島の試練は常人にはつらくかこくなものだ。"
 msgstr "Sage: The trials of the Island of Trials are no easy trials."
 
 #: 00112852
+msgctxt "00000070"
 msgid ""
 "あきらめるなら今ですぞ。"
 msgstr "If you're going to give up, please do so now."
 
 #: 0011288A
+msgctxt "00000071"
 msgid ""
 "カイ：僕は大丈夫です。"
 msgstr "Kai: I'm fine."
 
 #: 001128CC
+msgctxt "00000072"
 msgid ""
 "バーク：俺も大丈夫だぜ。"
 msgstr "Burke: No chickening out here."
 
 #: 00112912
+msgctxt "00000073"
 msgid ""
 "ミシリア：私も・・・平気です。"
 msgstr "Michelia: I'm... fine."
 
 #: 0011294D
+msgctxt "00000074"
 msgid ""
 "ファラ：わたしは何があっても、絶対ぜーったい、カイに付いていくからね。"
 msgstr "Fara: No matter what happens, I'm sticking with Kai to the end!"
 
 #: 001129C8
+msgctxt "00000075"
 msgid ""
 "聖者：わかった。"
 msgstr "Sage: Good."
 
 #: 001129DF
+msgctxt "00000076"
 msgid ""
 "試練の島へは、帰らずの港から船でいく事ができる。"
 msgstr ""
@@ -404,84 +481,100 @@ msgstr ""
 "Return."
 
 #: 00112A13
+msgctxt "00000077"
 msgid ""
 "帰らずの港の船着き場の男に話せば船を出してくれる。"
 msgstr "There's a man at the dock there who will take you."
 
 #: 00112A57
+msgctxt "00000078"
 msgid ""
 "試練についてのくわしい事は"
 msgstr "As for the trials themselves,"
 
 #: 00112A75
+msgctxt "00000079"
 msgid ""
 "試練の島にある修練の村で教えてもらえる。"
 msgstr ""
 "there's a small village on the Island of Trials where you'll be trained."
 
 #: 00112AA1
+msgctxt "00000080"
 msgid ""
 "そして、その試練を終えたらまた、ここへもどってくることだ。"
 msgstr "Once you finish your training, you will return here."
 
 #: 00112AFB
+msgctxt "00000081"
 msgid ""
 "カイ：わかった。ありがとう。"
 msgstr "Kai: I understand. Thank you."
 
 #: 00112C85
+msgctxt "00000082"
 msgid ""
 "大聖者：・・・・・・"
 msgstr "Grand Sage: ..."
 
 #: 00112CAB
+msgctxt "00000083"
 msgid ""
 "何年ぶりだろうか・・・"
 msgstr "How many years has it been..."
 
 #: 00112CC8
+msgctxt "00000084"
 msgid ""
 "ここまで来た者は・・・"
 msgstr "Since someone made it this far...?"
 
 #: 00112CE2
+msgctxt "00000085"
 msgid ""
 "これより、最終試練を行う。"
 msgstr "Now commences your final trial."
 
 #: 00112D0B
+msgctxt "00000086"
 msgid ""
 "見事乗りこえてみせよ！！"
 msgstr "Show me you can reach the end!"
 
 #: 00112E17
+msgctxt "00000087"
 msgid ""
 "大聖者：見事・・・"
 msgstr "Grand Sage: Well done..."
 
 #: 00112E6B
+msgctxt "00000088"
 msgid ""
 "大聖者：これを受け取るがよい。"
 msgstr "Grand Sage: Take this."
 
 #: 00112EB9
+msgctxt "00000089"
 msgid ""
 "「試練の位」の巻物を手に入れた。"
 msgstr "You received a rolled-up Trial Certificate!"
 
 #: 00112F0E
+msgctxt "00000090"
 msgid ""
 "大聖者：その巻物は、試練の位をさすものだ。"
 msgstr ""
 "Grand Sage: That Trial Certificate proves you've overcome difficult trials."
 
 #: 00112F3F
+msgctxt "00000091"
 msgid ""
 "ただし、これからも日々試練であることを忘れることないように。"
 msgstr ""
 "But, that does not mean you can forget what you learned on this journey."
 
 #: 00112F7F
+msgctxt "00000092"
 msgid ""
 "試練をつんでここへ来れば、また新しい力をさずけよう。"
 msgstr ""
@@ -489,97 +582,116 @@ msgstr ""
 "experience."
 
 #: 00112FD3
+msgctxt "00000093"
 msgid ""
 "カイ：ありがとう、大聖者様。"
 msgstr "Kai: Thank you, Grand Sage."
 
 #: 001130A8
+msgctxt "00000094"
 msgid ""
 "兵士：カイ様！！"
 msgstr "Soldier: Lord Kai!"
 
 #: 001130F0
+msgctxt "00000095"
 msgid ""
 "兵士：大臣様より急ぎの知らせにございます。"
 msgstr "Soldier: The Minister has an urgent message for you."
 
 #: 0011313A
+msgctxt "00000096"
 msgid ""
 "カイ：いったいどうしたんだい？"
 msgstr "Kai: What happened?"
 
 #: 00113180
+msgctxt "00000097"
 msgid ""
 "兵士：急いで新ハインローグ城へもどられたし、とのことです。"
 msgstr "Soldier: Please return to New Heinrogue Castle at once!"
 
 #: 001131DD
+msgctxt "00000098"
 msgid ""
 "カイ：なにかあったの？"
 msgstr "Kai: Did something happen while we were away?"
 
 #: 00113210
+msgctxt "00000099"
 msgid ""
 "兵士：私もくわしいことは・・・"
 msgstr "Soldier: I wasn't informed the specifics myself..."
 
 #: 0011324E
+msgctxt "00000100"
 msgid ""
 "カイ：わかったよ。みんな、すぐ城にもどろう。"
 msgstr "Kai: Understood. Everyone, let's hurry back."
 
 #: 00113299
+msgctxt "00000101"
 msgid ""
 "日々これ試練である。"
 msgstr "Everyday is a good day to train."
 
 #: 001132C0
+msgctxt "00000102"
 msgid ""
 "兵士：くわしいことは私にも。"
 msgstr "Soldier: I don't know the details."
 
 #: 001132E0
+msgctxt "00000103"
 msgid ""
 "なるべくはやくおかえりください。"
 msgstr "Please hurry back."
 
 #: 00113313
+msgctxt "00000104"
 msgid ""
 "大聖者：しばらくみぬうちにずいぶんとたくましくなったな・・・"
 msgstr "Grand Sage: You've grown greatly in a short time..."
 
 #: 00113361
+msgctxt "00000105"
 msgid ""
 "カイ：大聖者様、今日は聞きたいことがあってきました。"
 msgstr "Kai: Grand Sage, I've come here today to ask something of you."
 
 #: 001133A7
+msgctxt "00000106"
 msgid ""
 "大聖者：なにかな？"
 msgstr "Grand Sage: What is that?"
 
 #: 001133CB
+msgctxt "00000107"
 msgid ""
 "バーク：「神の力」ってのをしりたくてな。"
 msgstr "Burke: What's up with \"divine power\" and all that?"
 
 #: 00113405
+msgctxt "00000108"
 msgid ""
 "大聖者：・・・神とは、「山神」「海王」「勇士の神」「女神」「精霊の神」"
 msgstr ""
 "Grand Sage: ...the Mountain God, the Sea God, the God of Heroes, the Goddess,"
 
 #: 00113452
+msgctxt "00000109"
 msgid ""
 "大聖者：そして「龍」のことをさす・・・"
 msgstr "Grand Sage: the God of Spirits and the Dragon God..."
 
 #: 0011347C
+msgctxt "00000110"
 msgid ""
 "力とはその神々からさずかる力・・・"
 msgstr "The Gods' Power refers to power granted by them..."
 
 #: 001134A2
+msgctxt "00000111"
 msgid ""
 "くわしくは帰らずの港から「隠者の島」に行くといい。"
 msgstr ""
@@ -587,176 +699,211 @@ msgstr ""
 "Return."
 
 #: 001134D8
+msgctxt "00000112"
 msgid ""
 "そこにくわしく書き記された古文書が保管してある。"
 msgstr "The ancient archives there will tell more."
 
 #: 0011351A
+msgctxt "00000113"
 msgid ""
 "カイ：ありがとう、大聖者様。さっそくいってみるよ。"
 msgstr "Kai: Thank you, Grand Sage. Let's go right away."
 
 #: 00156ABE
+msgctxt "00000114"
 msgid ""
 "男：魔導師のレイヨンを探してんのか？"
 msgstr "Man: You're searching for Leon, the magician?"
 
 #: 00156AE6
+msgctxt "00000115"
 msgid ""
 "止めとけ。"
 msgstr "I'd stop if I were ya."
 
 #: 00156B10
+msgctxt "00000116"
 msgid ""
 "やつに会っても、あんたらのためにはならないよ。"
 msgstr "Even if ya find 'im, he's not gonna lift a finger for ya."
 
 #: 00156B55
+msgctxt "00000117"
 msgid ""
 "男：スバノフなら・・・"
 msgstr "Man: If you need Subahnoff..."
 
 #: 00156B94
+msgctxt "00000118"
 msgid ""
 "ほらっ、そこの作業場で働いてる。"
 msgstr "See that workshop over there? That's where he works."
 
 #: 00156BED
+msgctxt "00000119"
 msgid ""
 "男：他に何か聞きたいことはないの？"
 msgstr "Man: Umm, didn't you need something else?"
 
 #: 00156C2F
+msgctxt "00000120"
 msgid ""
 "・・・近頃の若いもんはつれないねえ。"
 msgstr "...no? Just talking to me again? Okay..."
 
 #: 00156C89
+msgctxt "00000121"
 msgid ""
 "女：ゆっくりしていってくださいね。"
 msgstr "Woman: Please relax and take your time."
 
 #: 00156CC8
+msgctxt "00000122"
 msgid ""
 "え？スバノフさんですか？"
 msgstr "Huh? Subahnoff?"
 
 #: 00156CFD
+msgctxt "00000123"
 msgid ""
 "仕事をしているんじゃないかなぁ・・・"
 msgstr "He should be working right about now..."
 
 #: 00156D47
+msgctxt "00000124"
 msgid ""
 "女：ようこそ、マウタスの町へ！"
 msgstr "Women: Welcome to Mahtas!"
 
 #: 00156D82
+msgctxt "00000125"
 msgid ""
 "ゆっくりしていってくださいね。"
 msgstr "Enjoy your stay here."
 
 #: 00156DEF
+msgctxt "00000126"
 msgid ""
 "ファラ：カイ！やくそくの夜だよ！酒場に行かなくちゃ！"
 msgstr ""
 
 #: 00156E5D
+msgctxt "00000127"
 msgid ""
 "ファラ：カイ！やくそくの夜だよ！酒場に行かなくちゃ！"
 msgstr "Fara: Kai! It's finally night! Let's go to the bar like you promised!"
 
 #: 00156EC3
+msgctxt "00000128"
 msgid ""
 "バーク：スバノフってぇ大工はあんたか？"
 msgstr "Burke: Are you Subahnoff, the carpenter?"
 
 #: 00156EFB
+msgctxt "00000129"
 msgid ""
 "男：そうですけど・・・何か用ですか？"
 msgstr "Man: That's me. What can I do for you?"
 
 #: 00156F31
+msgctxt "00000130"
 msgid ""
 "カイ：僕達、あなたがエルフに会ったことがあるって"
 msgstr "Kai: We heard that you've met the elves,"
 
 #: 00156F65
+msgctxt "00000131"
 msgid ""
 "聞いてきたんです。"
 msgstr "so we wanted to ask you about that."
 
 #: 00156F89
+msgctxt "00000132"
 msgid ""
 "スバノフ：ああ、その話ですか。"
 msgstr "Subahnoff: Ahh, I see. I see."
 
 #: 00156FB6
+msgctxt "00000133"
 msgid ""
 "・・・すみませんが、今、いそがしいので、・・・・"
 msgstr "...I'm sorry, but right now's not a great time."
 
 #: 00157003
+msgctxt "00000134"
 msgid ""
 "カイ：そうですか・・・"
 msgstr "Kai: Ah, that's too bad."
 
 #: 0015702B
+msgctxt "00000135"
 msgid ""
 "スバノフ：・・・それじゃ"
 msgstr "Subahnoff: ...how about meeting me at the bar tonight?"
 
 #: 00157047
+msgctxt "00000136"
 msgid ""
 "夜になったら酒場に来てくれませんか？そこで話を聞きましょう。"
 msgstr "I can tell you everything then."
 
 #: 001570A0
+msgctxt "00000137"
 msgid ""
 "カイ：分かりました。酒場ですね。"
 msgstr "Kai: That would be great! We'll meet you at the bar."
 
 #: 001570D2
+msgctxt "00000138"
 msgid ""
 "スバノフ：それじゃ、また後で。"
 msgstr "Subahnoff: See you then."
 
 #: 00157114
+msgctxt "00000139"
 msgid ""
 "ファラ：ねえねえ、これからどうするの？"
 msgstr "Fara: Hey, hey! What're we gonna do now?"
 
 #: 0015713E
+msgctxt "00000140"
 msgid ""
 "暗くなるまで、まだ時間があるよ。"
 msgstr "We have time to kill before it gets dark."
 
 #: 00157170
+msgctxt "00000141"
 msgid ""
 "カイ：そうだな・・・もう少しこの町を回ってみよう。"
 msgstr "Kai: True... Let's walk around the town a bit more."
 
 #: 001571A6
+msgctxt "00000142"
 msgid ""
 "何か新しいものが、見つかるかもしれないから。"
 msgstr "Maybe we'll find something new."
 
 #: 00157207
+msgctxt "00000143"
 msgid ""
 "スバノフ：夜に酒場です。忘れないでくださいよ。"
 msgstr "Subahnoff: Let's meet at the bar tonight. Don't forget, please!"
 
 #: 00157275
+msgctxt "00000144"
 msgid ""
 "スバノフ：そうそう、この間、また森に行ったんですけど、"
 msgstr "Subahnoff: Oh yes, at that time, I went to the forest."
 
 #: 001572AF
+msgctxt "00000145"
 msgid ""
 "大事な斧を湖に落としちゃいまして。そしたら、"
 msgstr "I messed up and dropped my precious hatchet in the lake."
 
 #: 001572DF
+msgctxt "00000146"
 msgid ""
 "湖から女の人が出てきて、「アナタが落としたのはこの斧ですか」って"
 msgstr ""
@@ -764,76 +911,91 @@ msgstr ""
 "hatchet?\""
 
 #: 00157323
+msgctxt "00000147"
 msgid ""
 "僕のと違っていたので、そう言ったら"
 msgstr "She held up a different one, so I said that wasn't it."
 
 #: 00157349
+msgctxt "00000148"
 msgid ""
 "「アナタは正直者ですね」って、別の斧を置いていきまして。"
 msgstr "\"You're an honest man,\" she said, then gave me a different hatchet."
 
 #: 00157385
+msgctxt "00000149"
 msgid ""
 "なんだか、立派な斧なんですが、あまりしっくりこないんです。"
 msgstr "I mean, it's a fine hatchet, sure, but it's not the same to me."
 
 #: 001573C3
+msgctxt "00000150"
 msgid ""
 "これ、もう使わないんで、差し上げます。"
 msgstr "It just doesn't work for me. Here. You take it."
 
 #: 00157403
+msgctxt "00000151"
 msgid ""
 "すいしょうのおのを手に入れた。"
 msgstr "You got the Crystal Hatchet!"
 
 #: 0015744A
+msgctxt "00000152"
 msgid ""
 "スバノフ：僕はこの町をリッパにしたいんだ。"
 msgstr "Subahnoff: I want to turn this village into a beautiful place."
 
 #: 00157478
+msgctxt "00000153"
 msgid ""
 "そのために日夜働いています。"
 msgstr "I work day and night to make that a reality."
 
 #: 001574AB
+msgctxt "00000154"
 msgid ""
 "男：そろそろ材木を探しに行こうかな。"
 msgstr "Man: I should go search for lumbar soon."
 
 #: 001574D3
+msgctxt "00000155"
 msgid ""
 "まだまだ、この町を大きくしないとね。"
 msgstr "Gotta keep expanding the town!"
 
 #: 0019B243
+msgctxt "00000156"
 msgid ""
 "男：魔導師？"
 msgstr "Man: A magician?"
 
 #: 0019B253
+msgctxt "00000157"
 msgid ""
 "すぐそこに住んでいるやつに会いたいのか？"
 msgstr "Do you mean the guy who lives just over there?"
 
 #: 0019B27F
+msgctxt "00000158"
 msgid ""
 "よせよせ、呪われちまうぞ。"
 msgstr "I wouldn't, if I were you. You're gonna get yourself cursed."
 
 #: 0019B2B0
+msgctxt "00000159"
 msgid ""
 "男：最近、エルフとかに会った事があるっていってるやつか。"
 msgstr "Man: The guy who met the elves recently?"
 
 #: 0019B2EC
+msgctxt "00000160"
 msgid ""
 "そりゃ、大工のスバノフだ。"
 msgstr "That's the carpenter Subahnoff."
 
 #: 0019B30A
+msgctxt "00000161"
 msgid ""
 "確か、酒場の横の材木置き場で日夜働いているはずだが。"
 msgstr ""
@@ -841,36 +1003,43 @@ msgstr ""
 "clock, so you can't miss him."
 
 #: 0019B37E
+msgctxt "00000162"
 msgid ""
 "男：俺のおふくろがさ、早くに死んじまって。"
 msgstr "Man: My mother suddenly died."
 
 #: 0019B3AC
+msgctxt "00000163"
 msgid ""
 "生きている内に、親孝行しときゃ良かったと思うんだ。"
 msgstr "I really should have been nicer to her when she was alive."
 
 #: 0019B3E2
+msgctxt "00000164"
 msgid ""
 "お前も、親は大切にしろよ。"
 msgstr "Be kind to your parents while you can, okay?"
 
 #: 0019B41B
+msgctxt "00000165"
 msgid ""
 "男：この先にチンケなほこらがあんだけどよ。"
 msgstr "Man: Up ahead is an old, beaten-up shrine"
 
 #: 0019B449
+msgctxt "00000166"
 msgid ""
 "そこにさびしげなばあさんがいんだよ。"
 msgstr "with an old lady living inside."
 
 #: 0019B471
+msgctxt "00000167"
 msgid ""
 "なんか気になってよ。"
 msgstr "What's her deal?"
 
 #: 0019B4AA
+msgctxt "00000168"
 msgid ""
 "おばさん：魔導師だなんて、名前を聞いただけでふるえちゃうわ。"
 msgstr ""
@@ -878,223 +1047,267 @@ msgstr ""
 "spine."
 
 #: 0019B4EA
+msgctxt "00000169"
 msgid ""
 "カエルとかヘビとか、食べてるんでしょう？"
 msgstr "He eats anything from frogs to snakes, you know!"
 
 #: 0019B516
+msgctxt "00000170"
 msgid ""
 "あら、違ったかしら。"
 msgstr "Or so the rumors say."
 
 #: 0019B541
+msgctxt "00000171"
 msgid ""
 "おばさん：スバノフさんには、お世話になっているわ。"
 msgstr "Older Lady: Ah, yes. Subahnoff is a kind man."
 
 #: 0019B577
+msgctxt "00000172"
 msgid ""
 "一日でも早く、この町をいい所にしようと、"
 msgstr "He's working tirelessly to make this village even better."
 
 #: 0019B5A3
+msgctxt "00000173"
 msgid ""
 "日夜働いているのよ。いつ休んでるのかしら？"
 msgstr "He's always working when I walk by. Does that man ever rest?"
 
 #: 0019B605
+msgctxt "00000174"
 msgid ""
 "おばさん：うちの人ってやたら飲むのよね。"
 msgstr "Older Lady: My man, however, just drinks."
 
 #: 0019B631
+msgctxt "00000175"
 msgid ""
 "お酒。"
 msgstr "All the time."
 
 #: 0019B63B
+msgctxt "00000176"
 msgid ""
 "そんな大人になっちゃ、ダメよ。"
 msgstr "Don't become an adult like that, okay?"
 
 #: 0019B678
+msgctxt "00000177"
 msgid ""
 "おばさん：うちの人にも困ったものよね。"
 msgstr "Older Lady: My dear's such a pain."
 
 #: 0019B6A2
+msgctxt "00000178"
 msgid ""
 "今夜、お酒のおつまみに、カエルを食べさせちゃおうかしら。"
 msgstr "Maybe I should feed him a frog as a beer snack tonight..."
 
 #: 0019B6DE
+msgctxt "00000179"
 msgid ""
 "ふふふ、冗談よ。"
 msgstr "Hahaha, I'm just kidding!"
 
 #: 0019B751
+msgctxt "00000180"
 msgid ""
 "カギがかかっている。"
 msgstr "It's locked."
 
 #: 001DFA0D
+msgctxt "00000181"
 msgid ""
 "老女：・・・むにゃむにゃ。"
 msgstr "Elderly Woman: Snore, snore..."
 
 #: 001DFA39
+msgctxt "00000182"
 msgid ""
 "気持ち良さそうに寝ている。"
 msgstr "She seems to be sleeping soundly."
 
 #: 001DFA83
+msgctxt "00000183"
 msgid ""
 "ファラ：ねーねー、この汚い家、なあにー？"
 msgstr "Fara: Hey, hey, what's with this dirty house?"
 
 #: 001DFABD
+msgctxt "00000184"
 msgid ""
 "ミシリア：これはね、ほこらって言うものよ。"
 msgstr "Michelia: This is a small shrine."
 
 #: 001DFAEB
+msgctxt "00000185"
 msgid ""
 "みんなにとって大事なものをしまって置く場所なの。"
 msgstr "It's a place where people store things that are important to them."
 
 #: 001DFB2D
+msgctxt "00000186"
 msgid ""
 "ファラ：だいじなもの・・・？"
 msgstr "Fara: Important things...?"
 
 #: 001DFB4D
+msgctxt "00000187"
 msgid ""
 "大変、大変、カイをしまっておかなくちゃ。"
 msgstr "Oh no, oh no! We can't lock Kai inside!"
 
 #: 001DFB87
+msgctxt "00000188"
 msgid ""
 "バーク：なーに、言ってんだよ。"
 msgstr "Burke: What the heck are you talking about?"
 
 #: 001DFBA9
+msgctxt "00000189"
 msgid ""
 "ほこらが小さくて入らないだろ？"
 msgstr "He'd never fit inside that tiny thing!"
 
 #: 001DFBD9
+msgctxt "00000190"
 msgid ""
 "カイ：おいおい。"
 msgstr "Kai: Guys, quit it!"
 
 #: 001DFBFB
+msgctxt "00000191"
 msgid ""
 "ファラ：じゃあ、何をしまっておくの？"
 msgstr "Fara: Then, what should we put inside?"
 
 #: 001DFC31
+msgctxt "00000192"
 msgid ""
 "バーク：んー、そうだな・・・"
 msgstr "Burke: Hmm..."
 
 #: 001DFC51
+msgctxt "00000193"
 msgid ""
 "そこのばあさんに聞いてみようぜ。"
 msgstr "Let's try asking that woman over there."
 
 #: 001DFC75
+msgctxt "00000194"
 msgid ""
 "何か知ってるんじゃねえの？"
 msgstr "Maybe she's got a clue."
 
 #: 001DFCCE
+msgctxt "00000195"
 msgid ""
 "うすぎたないほこらがある。"
 msgstr "There's a filthy shrine here."
 
 #: 001DFD07
+msgctxt "00000196"
 msgid ""
 "ファラ：うわっ、きったなーい家！"
 msgstr "Fara: Ugh, what a filthy house!"
 
 #: 001DFD39
+msgctxt "00000197"
 msgid ""
 "ミシリア：そういうことは言っちゃダメでしょ。"
 msgstr "Michelia: That's rude, Fara."
 
 #: 001DFD77
+msgctxt "00000198"
 msgid ""
 "バーク：そうそう、後でこっそりみんなで話し合うんだ。"
 msgstr "Burke: That's right. You have to say it quietly, out of earshot."
 
 #: 001DFDBD
+msgctxt "00000199"
 msgid ""
 "カイ：・・・そうか？"
 msgstr "Kai: ...I guess?"
 
 #: 001DFE49
+msgctxt "00000200"
 msgid ""
 "バーク：ばあさん、ばあさん、起きなよ。"
 msgstr "Burke: Hey, you! Wake up, old timer!"
 
 #: 001DFE81
+msgctxt "00000201"
 msgid ""
 "老女：・・・ほえ？"
 msgstr "Elderly Woman: ...huh?"
 
 #: 001DFE97
+msgctxt "00000202"
 msgid ""
 "いたいけな老人の昼寝をジャマするのは誰かえ？"
 msgstr "Who's getting in the way of this innocent women's afternoon nap?"
 
 #: 001DFED5
+msgctxt "00000203"
 msgid ""
 "ミシリア：あ、あの・・・"
 msgstr "Michelia: U-umm...!"
 
 #: 001DFEFF
+msgctxt "00000204"
 msgid ""
 "バーク：なあ、このほこらって、いったい何をまつってんだ？"
 msgstr "Burke: What's being held in that shrine over there?"
 
 #: 001DFF49
+msgctxt "00000205"
 msgid ""
 "老女：そんなに知りたいのかい？"
 msgstr "Elderly Woman: You really want to know?"
 
 #: 001DFF79
+msgctxt "00000206"
 msgid ""
 "バーク：そりゃあ、知りたいさ！"
 msgstr "Burke: Of course, that's why I asked!"
 
 #: 001DFFA9
+msgctxt "00000207"
 msgid ""
 "老女：これはいましめさね。"
 msgstr "Elderly Woman: If I were you, I'd be more cautious."
 
 #: 001DFFD5
+msgctxt "00000208"
 msgid ""
 "ミシリア：いましめ？"
 msgstr "Michelia: Cautious?"
 
 #: 001DFFFB
+msgctxt "00000209"
 msgid ""
 "老女：あのな、昔は人とピクシーは共存しとった。"
 msgstr ""
 "Elderly Woman: In the past, our village and the pixies used to live as one."
 
 #: 001E002D
+msgctxt "00000210"
 msgid ""
 "じゃが、人が増えて町は大きくなり、森を"
 msgstr "But we kept expanding our town by tearing down the forest for lumber."
 
 #: 001E0057
+msgctxt "00000211"
 msgid ""
 "どんどん切り開いていったために住む所を追われたピクシー達は"
 msgstr ""
 "As their homes fell, the pixies were pushed back farther, farther, farther..."
 
 #: 001E0095
+msgctxt "00000212"
 msgid ""
 "１本の小さな杖だけを残して人の前から姿を消したんじゃ。"
 msgstr ""
@@ -1102,116 +1315,139 @@ msgstr ""
 "again."
 
 #: 001E00CF
+msgctxt "00000213"
 msgid ""
 "後に自分たちがしたことに気づいた人々が"
 msgstr "Then, after realizing the terrible thing they did,"
 
 #: 001E00F9
+msgctxt "00000214"
 msgid ""
 "必死にピクシーを探したが、結局見つからんかった。"
 msgstr "the villagers desperately searched for the pixies, but to no avail."
 
 #: 001E012D
+msgctxt "00000215"
 msgid ""
 "それで、その杖をこのほこらにまつって"
 msgstr "That final stick lies in that shrine."
 
 #: 001E0155
+msgctxt "00000216"
 msgid ""
 "自分たちの罪を忘れないように、いましめたんじゃ。"
 msgstr "It's a reminder for us not to forget our sins."
 
 #: 001E0189
+msgctxt "00000217"
 msgid ""
 "古いおとぎ話じゃよ。"
 msgstr "It's an old fable."
 
 #: 001E01CE
+msgctxt "00000218"
 msgid ""
 "ファラ：とっても悲しいお話だね・・・"
 msgstr "Fara: What a sad story..."
 
 #: 001E0204
+msgctxt "00000219"
 msgid ""
 "カイ：ファラッ・・・"
 msgstr "Kai: Fara..."
 
 #: 001E022A
+msgctxt "00000220"
 msgid ""
 "老女：お、おお、おお、お前さんは・・・！"
 msgstr "Elderly Woman: W-w-w-w-wait, you!"
 
 #: 001E0264
+msgctxt "00000221"
 msgid ""
 "ファラ：なあにー？"
 msgstr "Fara: What?"
 
 #: 001E0288
+msgctxt "00000222"
 msgid ""
 "老女：なんと・・・まだピクシーが・・・"
 msgstr "Elderly Women: A p-p-p-pixie... came back..."
 
 #: 001E02B2
+msgctxt "00000223"
 msgid ""
 "しかも、人に心をひらいておるとは。"
 msgstr "And is on good terms with humans..."
 
 #: 001E02E6
+msgctxt "00000224"
 msgid ""
 "ファラ：ねえ、カイ、この人、目がかゆいのかな？"
 msgstr "Fara: Hey, Kai. Are her eyes itchy or something?"
 
 #: 001E0326
+msgctxt "00000225"
 msgid ""
 "ミシリア：ファラ、違うのよ・・・"
 msgstr "Michelia: Fara, that's not it..."
 
 #: 001E0358
+msgctxt "00000226"
 msgid ""
 "老女：いや、何でもないよ。"
 msgstr "Elderly Woman: N-no, it's nothing."
 
 #: 001E0376
+msgctxt "00000227"
 msgid ""
 "あんた、ファラとか言ったね。"
 msgstr "You're called \"Fara\", yes?"
 
 #: 001E03A4
+msgctxt "00000228"
 msgid ""
 "ファラ：うん！"
 msgstr "Fara: Yup!"
 
 #: 001E0423
+msgctxt "00000229"
 msgid ""
 "老女：これをもらってはくれないかい？"
 msgstr "Elderly Woman: I believe you should take this."
 
 #: 001E0459
+msgctxt "00000230"
 msgid ""
 "ピクシーの杖を手に入れた。"
 msgstr "You got the Pixie Stick!"
 
 #: 001E0485
+msgctxt "00000231"
 msgid ""
 "ファラ：いいの？大事な物なんでしょ？"
 msgstr "Fara: You sure? This is like, super important, isn't it?"
 
 #: 001E04BB
+msgctxt "00000232"
 msgid ""
 "やったぁ！見て見て！この杖、わたしにぴったりだー！"
 msgstr "Yay! Look, look! This stick is just the perfect size!"
 
 #: 001E04FF
+msgctxt "00000233"
 msgid ""
 "バーク：やったじゃんか。"
 msgstr "Burke: Good for you!"
 
 #: 001E0529
+msgctxt "00000234"
 msgid ""
 "カイ：ありがとう、おばあさん。"
 msgstr "Kai: Thank you."
 
 #: 001E0559
+msgctxt "00000235"
 msgid ""
 "老女：いいんだよ。その杖もあるべき所に帰っただけのこと。"
 msgstr ""
@@ -1219,379 +1455,454 @@ msgstr ""
 "belongs."
 
 #: 001E0595
+msgctxt "00000236"
 msgid ""
 "それよりも、お前さん方、小さなお友達を大切にするんじゃよ。"
 msgstr "Be sure to take special care of your tiny friend here, okay?"
 
 #: 001E05D3
+msgctxt "00000237"
 msgid ""
 "わしらと同じ過ちをくり返さんように"
 msgstr "I wouldn't want you to repeat our mistake"
 
 #: 001E05F9
+msgctxt "00000238"
 msgid ""
 "かけがえのない友達を失わないようにな。"
 msgstr "and lose your friend."
 
 #: 001E06B5
+msgctxt "00000239"
 msgid ""
 "カイ：あれ？もうこんな時間か。"
 msgstr "Kai: Oh, look at the time."
 
 #: 001E06D7
+msgctxt "00000240"
 msgid ""
 "そろそろ酒場に行こう。"
 msgstr "We should get to the bar soon."
 
 #: 002241E0
+msgctxt "00000241"
 msgid ""
 "レイヨン：フン、礼は１度しかせんぞ。"
 msgstr "Leon: Hmph, never showed a hint of gratitude."
 
 #: 00224228
+msgctxt "00000242"
 msgid ""
 "レイヨン：本当にエルフを連れてきやがった。"
 msgstr "Leon: They really had the nerve to bring an elf."
 
 #: 00224256
+msgctxt "00000243"
 msgid ""
 "信じられんやつだな。"
 msgstr "I can't believe them."
 
 #: 00224281
+msgctxt "00000244"
 msgid ""
 "レイヨン：ジャマだ。うろちょろするな。"
 msgstr "Leon: You're an eyesore. Don't loiter around here."
 
 #: 002242AB
+msgctxt "00000245"
 msgid ""
 "気が散る。"
 msgstr "You're distracting me."
 
 #: 002242D7
+msgctxt "00000246"
 msgid ""
 "ユータ：おじさんね、口は悪いけど、けっこうやさしいんだよ。"
 msgstr "Yuuta: He's got a foul mouth, but he's surprisingly gentle."
 
 #: 00224315
+msgctxt "00000247"
 msgid ""
 "バーク：そうかぁ？"
 msgstr "Burke: Really now?"
 
 #: 00224346
+msgctxt "00000248"
 msgid ""
 "ユータ：この間もね・・・"
 msgstr "Yuuta: Just the other day..."
 
 #: 00224362
+msgctxt "00000249"
 msgid ""
 "レイヨン：ユータ、よけいな事は言わなくてもいい。"
 msgstr "Leon: Yuuta, zip it."
 
 #: 002243AE
+msgctxt "00000250"
 msgid ""
 "ユータ：ばいばーい！"
 msgstr "Yuuta: Bye bye!"
 
 #: 002243E2
+msgctxt "00000251"
 msgid ""
 "カイ：あの・・・魔導師のレイヨンさんですか？"
 msgstr "Kai: Umm... Are you Leon, the magician?"
 
 #: 00224420
+msgctxt "00000252"
 msgid ""
 "魔導師：人の名前を聞くときは、まず自分から名乗るもんだ。"
 msgstr ""
 "Magician: One should introduce themselves before asking names from others."
 
 #: 0022446A
+msgctxt "00000253"
 msgid ""
 "カイ：あ、す、すみません。"
 msgstr "Kai: A-ah, I'm sorry."
 
 #: 00224488
+msgctxt "00000254"
 msgid ""
 "僕はカイ。カイ＝オルフェアスです。"
 msgstr "My name is Kai. Kai Orpheus."
 
 #: 002244BC
+msgctxt "00000255"
 msgid ""
 "バーク：俺はバ・・・"
 msgstr "Burke: I'm Bur--"
 
 #: 002244D4
+msgctxt "00000256"
 msgid ""
 "レイヨン：まあいい。で、俺に何の用だ。"
 msgstr "Leon: All right, that's enough. What do you want?"
 
 #: 0022450C
+msgctxt "00000257"
 msgid ""
 "カイ：新ハインローグ城の聖者よりあずかってきた手紙があります。"
 msgstr "Kai: We have a letter for you from the Sage at New Heinrogue Castle."
 
 #: 0022454E
+msgctxt "00000258"
 msgid ""
 "それを読んでもらえますか？"
 msgstr "Will you read this?"
 
 #: 0022457A
+msgctxt "00000259"
 msgid ""
 "レイヨン：読んでいただけますか、だ。"
 msgstr "Leon: I suppose I can do that much."
 
 #: 002245B0
+msgctxt "00000260"
 msgid ""
 "フン・・・お前ら、何か勘違いしているらしいな。"
 msgstr "Hmm... I think you guys have the wrong idea."
 
 #: 002245E2
+msgctxt "00000261"
 msgid ""
 "確かに、怪物になる病気が広まっていると教えたのは、この俺だ。"
 msgstr "I indeed told them about the People Becoming Monsters Disease."
 
 #: 00224622
+msgctxt "00000262"
 msgid ""
 "しかし、この病気については何も知らんし、知りたいとも思わん。"
 msgstr "But, I don't know anything, nor do I wish to know about about it."
 
 #: 00224662
+msgctxt "00000263"
 msgid ""
 "まったくの見当違いだ。"
 msgstr "You're completely out of luck."
 
 #: 0022468A
+msgctxt "00000264"
 msgid ""
 "カイ：そ、そうですか・・・"
 msgstr "Kai: O-oh, I see..."
 
 #: 002246B6
+msgctxt "00000265"
 msgid ""
 "レイヨン：そうだな、どうせ怪物になる病気だってんなら"
 msgstr "Leon: If you really want to learn more,"
 
 #: 002246EE
+msgctxt "00000266"
 msgid ""
 "人間よりエルフの方がくわしいかもな。"
 msgstr "the elves may know more than we do."
 
 #: 00224716
+msgctxt "00000267"
 msgid ""
 "見た目はともかく、存在は怪物みたいなもんだし"
 msgstr "They're closer to nature and beasts than we are."
 
 #: 00224746
+msgctxt "00000268"
 msgid ""
 "案外、連中がこの病気を広めてるのかもしれん。"
 msgstr "Perhaps they've had some experience with this disease as well."
 
 #: 00224784
+msgctxt "00000269"
 msgid ""
 "ミシリア：エルフって・・・？"
 msgstr "Michelia: ...what's an elf?"
 
 #: 002247B2
+msgctxt "00000270"
 msgid ""
 "レイヨン：エルフも知らねえのか。"
 msgstr "Leon: You've never even heard of elves?"
 
 #: 002247D6
+msgctxt "00000271"
 msgid ""
 "何にも知らねえ、おじょうちゃんだな。あのな、エルフってえのは・・・"
 msgstr "Really not a bright girl, are you? An elf is..."
 
 #: 0022482A
+msgctxt "00000272"
 msgid ""
 "・・・止めた。いちいち説明してられるか。"
 msgstr "...no, I've got no obligation to explain the world to you."
 
 #: 00224856
+msgctxt "00000273"
 msgid ""
 "この町にエルフに会ったやつがいるらしいから、そいつから聞きな。"
 msgstr ""
 "There's some folks in this village who have met elves. Ask them instead."
 
 #: 00224898
+msgctxt "00000274"
 msgid ""
 "そっから先はお前らの仕事だ。"
 msgstr "From then on, do as you please."
 
 #: 002248C6
+msgctxt "00000275"
 msgid ""
 "カイ：ハア・・・どうもありがとうございます。"
 msgstr "Kai: Sigh... Thank you very much."
 
 #: 00224965
+msgctxt "00000276"
 msgid ""
 "ユータ：・・・おじさん！"
 msgstr "Yuuta: ...Leon!"
 
 #: 00224998
+msgctxt "00000277"
 msgid ""
 "レイヨン：・・・ああ？"
 msgstr "Leon: ...what?"
 
 #: 002249B2
+msgctxt "00000278"
 msgid ""
 "・・・・・・"
 msgstr ""
 
 #: 002249C2
+msgctxt "00000279"
 msgid ""
 "ユータか？確か、お前はケーブの町に・・・"
 msgstr "Wait, Yuuta. In Keb, you..."
 
 #: 002249FC
+msgctxt "00000280"
 msgid ""
 "バーク：（・・・本当に親戚みたいだな・・・マジかよ）"
 msgstr "Burke: (They seem really close. Almost like... family?)"
 
 #: 00224A4D
+msgctxt "00000281"
 msgid ""
 "ユータ：町が魔物におそわれたんだ！パパもママも・・・"
 msgstr "Yuuta: The city was attacked by monsters! My mother and father both...!"
 
 #: 00224A85
+msgctxt "00000282"
 msgid ""
 "・・・・・・"
 msgstr "..."
 
 #: 00224AA3
+msgctxt "00000283"
 msgid ""
 "レイヨン：・・・そうか、それは大変だったな。"
 msgstr "Leon: ...I see, how truly unfortunate."
 
 #: 00224ADE
+msgctxt "00000284"
 msgid ""
 "あ？・・・お前らは・・・"
 msgstr "Umm, you guys..."
 
 #: 00224B1C
+msgctxt "00000285"
 msgid ""
 "ユータ：このお兄ちゃん達が助けてくれたんだ。"
 msgstr "Yuuta: These people here saved me."
 
 #: 00224B65
+msgctxt "00000286"
 msgid ""
 "レイヨン：・・・フン、そうか。"
 msgstr "Leon: ...hmph, I see."
 
 #: 00224B87
+msgctxt "00000287"
 msgid ""
 "お前らは気にくわんが、ユータを助けてくれたみたいだしな。"
 msgstr "I might not like you, but I can't deny you saved Yuuta."
 
 #: 00224BC3
+msgctxt "00000288"
 msgid ""
 "礼の１つぐらいはしておこう。"
 msgstr "I'll give you one thing as thanks."
 
 #: 00224C6A
+msgctxt "00000289"
 msgid ""
 "たけぼうきを手に入れた。"
 msgstr "You got a Bamboo Broom!"
 
 #: 00224C99
+msgctxt "00000290"
 msgid ""
 "バーク：（なんだこりゃ？）"
 msgstr "Burke: (The heck's this for?)"
 
 #: 00224CC5
+msgctxt "00000291"
 msgid ""
 "レイヨン：使い方は自分で考えろ。"
 msgstr "Leon: Figure out how to use it yourself."
 
 #: 00224CE9
+msgctxt "00000292"
 msgid ""
 "言っておくが、のって使う物ではないぞ。"
 msgstr "I'll just warn you now that it's not your ordinary broom."
 
 #: 00224D2C
+msgctxt "00000293"
 msgid ""
 "カイ：あ・・・はい・・・"
 msgstr "Kai: Uh... okay..."
 
 #: 00224D61
+msgctxt "00000294"
 msgid ""
 "レイヨン：もういいだろう。"
 msgstr "Leon: That's good enough, right?"
 
 #: 00224D7F
+msgctxt "00000295"
 msgid ""
 "この子は俺が面倒見るから、さっさと自分のやることをやってこい。"
 msgstr "I'll look after this one, so go on with your lives, okay?"
 
 #: 00268902
+msgctxt "00000296"
 msgid ""
 "道具屋：あ・・・"
 msgstr "Item Shop: Ah..."
 
 #: 002AD153
+msgctxt "00000297"
 msgid ""
 "マスター：スバノフさんですか？"
 msgstr "Master: Subahnoff?"
 
 #: 002AD175
+msgctxt "00000298"
 msgid ""
 "もう材木を探しに森へ行きましたよ。"
 msgstr "He left to go look for more lumber."
 
 #: 002AD1AE
+msgctxt "00000299"
 msgid ""
 "マスター：お客さん、ウチはツケがききませんよ。"
 msgstr "Master: Sir, we don't open tabs here."
 
 #: 002AD1E0
+msgctxt "00000300"
 msgid ""
 "いつもニコニコ、現金払いでお願いします。"
 msgstr "Please give us the money and a smile when you order."
 
 #: 002AD237
+msgctxt "00000301"
 msgid ""
 "お疲れー。"
 msgstr "Thank you."
 
 #: 002AD261
+msgctxt "00000302"
 msgid ""
 "スバノフ：ピクシアンの森の奥にある老木ですよ。"
 msgstr ""
 "Subahnoff: There's an ancient tree in the deepest part of the Pixian Forest."
 
 #: 002AD293
+msgctxt "00000303"
 msgid ""
 "いかにもっていう感じのやつを探すんです。"
 msgstr "Just look for the most grand, inspiring tree imaginable."
 
 #: 002AD2BF
+msgctxt "00000304"
 msgid ""
 "・・・ああ、また材木を探しに行きたくなったな。"
 msgstr "...ahh, just thinking about it makes me want to chop down trees."
 
 #: 002AD304
+msgctxt "00000305"
 msgid ""
 "スバノフ：ああ、すみません。お手数かけます。"
 msgstr "Subahnoff: Ahh, sorry. The head went to the clouds there."
 
 #: 002AD342
+msgctxt "00000306"
 msgid ""
 "カイ：いえ、仕事でいそがしい時に、すみませんでした。"
 msgstr "Kai: Not at all! We bothered you while you were busy working."
 
 #: 002AD396
+msgctxt "00000307"
 msgid ""
 "スバノフ：昼間は、いつもあんな感じですよ。"
 msgstr "Subahnoff: It's always like this around noon."
 
 #: 002AD3C4
+msgctxt "00000308"
 msgid ""
 "仕事をしていないと、落ち着かない性分ですから。"
 msgstr "I can't calm down if I'm not working."
 
 #: 002AD404
+msgctxt "00000309"
 msgid ""
 "カイ：ところで、エルフの事を聞きたいんですけど・・・"
 msgstr "Kai: By the way, we wanted to ask you about the elves..."
 
 #: 002AD458
+msgctxt "00000310"
 msgid ""
 "スバノフ：そうでした。あれはピクシアンの森で、手頃な材木を探していたとき、"
 msgstr ""
@@ -1599,21 +1910,25 @@ msgstr ""
 "lumber."
 
 #: 002AD4A6
+msgctxt "00000311"
 msgid ""
 "いかにもって感じの老木を見つけたんです。ちょっときょうみを引かれましてね。"
 msgstr "I found the most magnificent tree. It really caught my eye."
 
 #: 002AD4F4
+msgctxt "00000312"
 msgid ""
 "なんとか使えないかと調べていたんです。そしたら、"
 msgstr "I thought about how I could use it, when..."
 
 #: 002AD544
+msgctxt "00000313"
 msgid ""
 "カイ：そしたら？"
 msgstr "Kai: When?"
 
 #: 002AD574
+msgctxt "00000314"
 msgid ""
 "スバノフ：突然、辺りが光につつまれて、気がついたらエルフがそこにいました。"
 msgstr ""
@@ -1621,48 +1936,57 @@ msgstr ""
 "surrounded by elves."
 
 #: 002AD5DE
+msgctxt "00000315"
 msgid ""
 "カイ：エルフはどうしたんです？"
 msgstr "Kai: What were the elves doing there?"
 
 #: 002AD61C
+msgctxt "00000316"
 msgid ""
 "スバノフ：「今見たことは忘れて、誰にも言うな」って言われました。"
 msgstr "Subahnoff: \"Forget what you saw here. Don't tell anyone.\""
 
 #: 002AD660
+msgctxt "00000317"
 msgid ""
 "で、さっさと、どこかへ行っちゃいました。"
 msgstr "After that, they left into the forest."
 
 #: 002AD69A
+msgctxt "00000318"
 msgid ""
 "カイ：それを言いふらしてたんですか・・・？"
 msgstr "Kai: Did you tell anyone?"
 
 #: 002AD6D6
+msgctxt "00000319"
 msgid ""
 "スバノフ：だれも信じないと思ったんですがね・・・"
 msgstr ""
 "Subahnoff: I figured no one would believe me, even if I tried telling them."
 
 #: 002AD715
+msgctxt "00000320"
 msgid ""
 "まあ、世の中にはアナタのような人もいたんですねえ。"
 msgstr ""
 "Although, I suppose there's people like yourselves asking, aren't there."
 
 #: 002AD759
+msgctxt "00000321"
 msgid ""
 "カイ：ははは・・・・・・"
 msgstr "Kai: Hahaha..."
 
 #: 002AD791
+msgctxt "00000322"
 msgid ""
 "スバノフ：少しはお役に立てましたか？"
 msgstr "Subahnoff: I hope that was useful to you."
 
 #: 002AD7D5
+msgctxt "00000323"
 msgid ""
 "カイ：ええ、十分です。ありがとうございました。"
 msgstr "Kai: It was. Thank you very much!"
