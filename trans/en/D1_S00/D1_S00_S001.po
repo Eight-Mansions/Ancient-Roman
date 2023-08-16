@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-07-19 04:46+0000\n"
-"Last-Translator: EsperKnight <douglas.e.steele@gmail.com>\n"
+"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s001/en/>\n"
 "Language: en\n"
@@ -16,31 +16,31 @@ msgstr ""
 
 msgctxt "00000000"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 0004496A
 msgctxt "00000001"
 msgid ""
 "ヘカの木を見つけた。"
-msgstr ""
+msgstr "You found a Heka Tree."
 
 #: 00044982
 msgctxt "00000002"
 msgid ""
 "ヘカの実を手に入れた。"
-msgstr ""
+msgstr "You got a Heka Fruit!"
 
 #: 000449C9
 msgctxt "00000003"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 00044A10
 msgctxt "00000004"
 msgid ""
 "もう一個も実がなっていない。"
-msgstr ""
+msgstr "There's not a single fruit left."
 
 #: 00044A71
 msgctxt "00000005"
@@ -58,7 +58,7 @@ msgstr "You got a Big Heka!"
 msgctxt "00000007"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 00044B03
 msgctxt "00000008"
@@ -76,13 +76,13 @@ msgstr "You found a Heka Tree."
 msgctxt "00000010"
 msgid ""
 "ヘカの実を手に入れた。"
-msgstr ""
+msgstr "You got a Heka Fruit!"
 
 #: 00044B9D
 msgctxt "00000011"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 00089191
 msgctxt "00000012"
@@ -94,7 +94,7 @@ msgstr "You got a Maka Fruit!"
 msgctxt "00000013"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 0008923F
 msgctxt "00000014"
@@ -243,7 +243,7 @@ msgstr "Kai: Yeah."
 #: 001640C7
 msgctxt "00000038"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 0019B193
 msgctxt "00000039"
@@ -383,7 +383,7 @@ msgstr "You got Cloth Armor!"
 msgctxt "00000061"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 001DF9F3
 msgctxt "00000062"
@@ -539,7 +539,7 @@ msgstr "McLeod: I'm trying my best to help out these fine people."
 msgctxt "00000087"
 msgid ""
 "もうしばらく、ここを頼みたい。"
-msgstr ""
+msgstr "I'd like for you to handle things here for a little longer."
 
 #: 001E0039
 msgctxt "00000088"
@@ -595,7 +595,7 @@ msgstr "Kai: ...Michelia, what's wrong?"
 msgctxt "00000096"
 msgid ""
 "ミシリア：うん・・・"
-msgstr ""
+msgstr "Michelia: Well..."
 
 #: 002244D8
 msgctxt "00000097"
@@ -700,19 +700,19 @@ msgstr "I'm sure we can find something."
 msgctxt "00000113"
 msgid ""
 "隊長：おや、君達はあのときの・・・"
-msgstr ""
+msgstr "Captain: Oh, you guys are from back then..."
 
 #: 00268C1F
 msgctxt "00000114"
 msgid ""
 "ここにいては危険だ。早く帰りなさい。"
-msgstr ""
+msgstr "It's dangerous here. Please leave right away."
 
 #: 00268C62
 msgctxt "00000115"
 msgid ""
 "隊長：メルーの件、どうかよろしくお願いいたします。"
-msgstr ""
+msgstr "Captain: I'm leaving Mell in your hands."
 
 #: 00268CB5
 msgctxt "00000116"
@@ -742,13 +742,13 @@ msgstr "Captain: I'm counting on you guys to check out the matter in Mell."
 msgctxt "00000120"
 msgid ""
 "兵士：ここは危険です。早く帰りなさい。"
-msgstr ""
+msgstr "Soldier: It's dangerous here. Please leave posthaste."
 
 #: 00268DF2
 msgctxt "00000121"
 msgid ""
 "兵士：いのちを落としても知りませんよ。"
-msgstr ""
+msgstr "Soldier: You've been warned. Your deaths are not our fault."
 
 #: 00268E39
 msgctxt "00000122"
@@ -1240,7 +1240,7 @@ msgstr "Kai: Ah, it's coming around!"
 msgctxt "00000202"
 msgid ""
 "怪物：・・・・・・"
-msgstr ""
+msgstr "Monster: ......"
 
 #: 0037AAF4
 msgctxt "00000203"
@@ -1686,13 +1686,13 @@ msgstr "Kai: Okay, let's head off to Lake Mount!"
 msgctxt "00000276"
 msgid ""
 "兵士：今、ルーンマルナの町の復興作業中です。"
-msgstr ""
+msgstr "Soldier: We're in the middle of restoring Rune Malna."
 
 #: 003BF3F0
 msgctxt "00000277"
 msgid ""
 "ここの責任者はマクロード隊長ですが、今はルーンの関の方に出られております。"
-msgstr ""
+msgstr "Captain McLeod is in charge, but he's currently over at the Rune Gate."
 
 #: 003BF459
 msgctxt "00000278"
@@ -1724,7 +1724,7 @@ msgstr "Soldier: Understood. Be careful, sir."
 msgctxt "00000282"
 msgid ""
 "兵士：今、ルーンマルナの町の復興作業中です。"
-msgstr "Soldier: We're in the middle of reconstruction work here."
+msgstr "Soldier: We're in the middle of restoring Rune Malna."
 
 #: 003BF596
 msgctxt "00000283"
@@ -1846,31 +1846,31 @@ msgstr "I'm working here as a soldier these days."
 msgctxt "00000302"
 msgid ""
 "彼女を迎えにいくんだ。"
-msgstr ""
+msgstr "This way, I can see my girlfriend."
 
 #: 003BFA8E
 msgctxt "00000303"
 msgid ""
 "男：これはマクロード隊長。なにかごようでしょうか？"
-msgstr ""
+msgstr "Man: Captain McLeod, sir. What business do you have today?"
 
 #: 003BFAD2
 msgctxt "00000304"
 msgid ""
 "マクロード：いやべつにこれといった用はない。"
-msgstr ""
+msgstr "McLeod: No no, I don't have any urgent matters."
 
 #: 003BFB02
 msgctxt "00000305"
 msgid ""
 "気にせず仕事を続けてくれ。"
-msgstr ""
+msgstr "Don't mind me and continue your work."
 
 #: 003BFB2E
 msgctxt "00000306"
 msgid ""
 "男：わかりました。"
-msgstr ""
+msgstr "Man: Understood."
 
 #: 003BFB69
 msgctxt "00000307"
