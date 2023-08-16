@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-07-19 15:00+0000\n"
-"Last-Translator: EsperKnight <douglas.e.steele@gmail.com>\n"
+"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s003/en/>\n"
 "Language: en\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "00000000"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 00000151
 msgctxt "00000001"
@@ -52,7 +52,7 @@ msgstr "Kai: Mhmm."
 msgctxt "00000006"
 msgid ""
 "バーク：じゃあ、みんなで温泉に入るか！"
-msgstr ""
+msgstr "Burke: Alright, let's all get in the hot springs!"
 
 #: 000002BC
 msgctxt "00000007"
@@ -190,13 +190,13 @@ msgstr "Will you be staying the night?"
 msgctxt "00000029"
 msgid ""
 "○ボタン＿泊る＿×ボタン＿やめる"
-msgstr ""
+msgstr "○: Stay the night ×: Leave"
 
 #: 000CDAD9
 msgctxt "00000030"
 msgid ""
 "またのおこしをおまちしております。"
-msgstr ""
+msgstr "Come again!"
 
 #: 000CDB1F
 msgctxt "00000031"
@@ -214,7 +214,7 @@ msgstr "Good morning."
 msgctxt "00000033"
 msgid ""
 "ゆうべはよくおやすみになれましたか？"
-msgstr ""
+msgstr "Did you sleep well last night?"
 
 #: 000CDBFB
 msgctxt "00000034"
@@ -610,7 +610,7 @@ msgstr "Doctor's Permission Required"
 msgctxt "00000099"
 msgid ""
 "バーク：・・・ったく、人がいいんだから・・・"
-msgstr "Burke: ...tsk, tsk. Kai's too nice to everyone."
+msgstr "Burke: ...*tsk tsk*. Kai's too nice to everyone."
 
 #: 00156DEF
 msgctxt "00000100"
@@ -1580,7 +1580,7 @@ msgstr "Marl: I'll remember it."
 #: 001DF923
 msgctxt "00000260"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 001DFC7E
 msgctxt "00000261"
@@ -1843,49 +1843,49 @@ msgstr "Ahh, I'm in love! I'm in love! I'm in love!"
 msgctxt "00000303"
 msgid ""
 "ぶつぶつ・・・・・"
-msgstr ""
+msgstr "(Mutter, mutter, mutter...)"
 
 #: 001E08F0
 msgctxt "00000304"
 msgid ""
 "バーク：おい。カイ、この女なんかあぶなくないか？"
-msgstr ""
+msgstr "Burke: Hey Kai, doesn't this girl seem off her rocker to you?"
 
 #: 001E0932
 msgctxt "00000305"
 msgid ""
 "女：彼はわたしを愛してる・・・愛してる・・・"
-msgstr ""
+msgstr "Woman: He loves me... Loves me..."
 
 #: 001E0962
 msgctxt "00000306"
 msgid ""
 "ぶつぶつ・・・・・・・"
-msgstr ""
+msgstr "(Mutter, mutter, mutter...)"
 
 #: 001E098A
 msgctxt "00000307"
 msgid ""
 "ミシリア：これ、魔法だわ！？"
-msgstr ""
+msgstr "Michelia: Is this... magic!?"
 
 #: 001E09B8
 msgctxt "00000308"
 msgid ""
 "カイ達はリトルラヴァを憶えた。"
-msgstr ""
+msgstr "The party learned Little Lover!"
 
 #: 001E09FA
 msgctxt "00000309"
 msgid ""
 "女：彼はわたしを愛してる・・・愛してる・・・"
-msgstr ""
+msgstr "Woman: He loves me... Loves me..."
 
 #: 001E0A2A
 msgctxt "00000310"
 msgid ""
 "ぶつぶつ・・・・・・・"
-msgstr ""
+msgstr "(Mutter, mutter, mutter...)"
 
 #: 001E0A61
 msgctxt "00000311"
@@ -1921,13 +1921,13 @@ msgstr "Burke: Hey Kai, doesn't this girl seem off her rocker to you?"
 msgctxt "00000316"
 msgid ""
 "女：彼はわたしを愛してる・・・愛してる・・・"
-msgstr ""
+msgstr "Woman: He loves me... Loves me..."
 
 #: 001E0B9A
 msgctxt "00000317"
 msgid ""
 "ぶつぶつ・・・・・・・"
-msgstr ""
+msgstr "(Mutter, mutter, mutter...)"
 
 #: 001E0BC2
 msgctxt "00000318"
@@ -1945,7 +1945,7 @@ msgstr "The party learned Little Lover!"
 msgctxt "00000320"
 msgid ""
 "女：彼はわたしを愛してる・・・愛してる・・・"
-msgstr "Woman: He loves me! He loves meee!"
+msgstr "Woman: He loves me... Loves me..."
 
 #: 001E0C62
 msgctxt "00000321"
@@ -2255,7 +2255,7 @@ msgstr "Gatekeeper: The test is tomorrow."
 msgctxt "00000371"
 msgid ""
 "門番：カイ様、ご自由にお通り下さい。"
-msgstr ""
+msgstr "Gatekeeper: Prince Kai, you may come and go as you wish."
 
 #: 00224466
 msgctxt "00000372"
@@ -2334,13 +2334,13 @@ msgstr "Kai: No, we can't let ourselves get drunk right now."
 msgctxt "00000384"
 msgid ""
 "ファラ：ぶー、つまんない。"
-msgstr ""
+msgstr "Fara: Booo, you're so boring!"
 
 #: 002247A8
 msgctxt "00000385"
 msgid ""
 "バーク：ぼやくな、ぼやくな。"
-msgstr ""
+msgstr "Burke: Come on, no complaining."
 
 #: 002247E3
 msgctxt "00000386"
@@ -2456,7 +2456,7 @@ msgstr "Man: Long live the prince! Wooo!!!"
 msgctxt "00000404"
 msgid ""
 "老人：最近、この付近もぶっそうになりました。"
-msgstr ""
+msgstr "Old person: Things have gotten rather dangerous in this area lately."
 
 #: 00224C3F
 msgctxt "00000405"
@@ -2468,7 +2468,7 @@ msgstr "Old person: Seems like they're increasing the guard as a response."
 msgctxt "00000406"
 msgid ""
 "老人：うれしいことですじゃ。"
-msgstr ""
+msgstr "Old person: I'm glad they're taking this seriously."
 
 #: 00224CDA
 msgctxt "00000407"
@@ -3460,7 +3460,7 @@ msgstr "Kai: How'd he know I'd ask the way there...?"
 msgctxt "00000571"
 msgid ""
 "＿＿新ハインローグ城とうぎ場＿＿＿"
-msgstr "___New Heinrogue Castle_Training Grounds___"
+msgstr "___ New Heinrogue Castle - Training Grounds ___"
 
 #: 002F1A69
 msgctxt "00000572"
@@ -3726,7 +3726,7 @@ msgstr "Everyone: Fara! Where are you?"
 msgctxt "00000615"
 msgid ""
 "ファラ：カイーーーー！！"
-msgstr ""
+msgstr "Fara: Kai!"
 
 #: 002F2C2C
 msgctxt "00000616"
@@ -3891,7 +3891,7 @@ msgstr "Burke: Don't we need to head back?"
 msgctxt "00000642"
 msgid ""
 "ファラ：あっ！カイだ！！"
-msgstr ""
+msgstr "Fara: Ahh! Kai!"
 
 #: 003367F7
 msgctxt "00000643"
@@ -3969,13 +3969,13 @@ msgstr "Burke: Hahaha!"
 msgctxt "00000655"
 msgid ""
 "バーク：まだ、とまどってるんだろ？ミシリアちゃん。"
-msgstr ""
+msgstr "Burke: Still a bit shocked, Michelia?"
 
 #: 00336B68
 msgctxt "00000656"
 msgid ""
 "ミシリア：え！？"
-msgstr ""
+msgstr "Michelia: Huh?!"
 
 #: 00336BB0
 msgctxt "00000657"
@@ -4035,7 +4035,7 @@ msgstr "Fara: Come on, let's go already!"
 msgctxt "00000666"
 msgid ""
 "カイ：よし、みんな行こう！！"
-msgstr ""
+msgstr "Kai: Okay, let's go everyone!"
 
 #: 00336FF1
 msgctxt "00000667"
