@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-07-19 04:46+0000\n"
-"Last-Translator: EsperKnight <douglas.e.steele@gmail.com>\n"
+"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s002/en/>\n"
 "Language: en\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "00000000"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 0000034D
 msgctxt "00000001"
@@ -58,7 +58,7 @@ msgstr "McLeod: Good work. Wait for further orders."
 msgctxt "00000007"
 msgid ""
 "兵士：わかりました。"
-msgstr ""
+msgstr "Soldier: Understood."
 
 #: 00000535
 msgctxt "00000008"
@@ -95,6 +95,7 @@ msgctxt "00000013"
 msgid ""
 "兵士：これはマクロード隊長。復興作業は順調に進んでおります。"
 msgstr ""
+"Soldier: Captain McLeod, sir. Reconstruction efforts are proceeding smoothly."
 
 #: 000006E3
 msgctxt "00000014"
@@ -233,13 +234,13 @@ msgstr "Soldier: It's good, but it feels like something's missing."
 msgctxt "00000035"
 msgid ""
 "ブー＝レイ：ボクハ、キミヲシンジルヨ。"
-msgstr ""
+msgstr "Boo Rei: I BELIEVE YOU."
 
 #: 00000D3F
 msgctxt "00000036"
 msgid ""
 "デモ、ジカンガ、タリナイカモシレナイ・・・"
-msgstr ""
+msgstr "BUT, I MIGHT NOT LAST MUCH LONGER..."
 
 #: 00000D9F
 msgctxt "00000037"
@@ -262,13 +263,13 @@ msgstr "Kai: What's this? Something seems strange about it."
 #: 00044943
 msgctxt "00000040"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 00044B76
 msgctxt "00000041"
 msgid ""
 "カイ：カギがかかってるみたいだ・・・"
-msgstr ""
+msgstr "Kai: Seems to be locked..."
 
 #: 00044BFB
 msgctxt "00000042"
@@ -475,7 +476,7 @@ msgstr "I've got a friend there, but I haven't been able to contact them..."
 msgctxt "00000075"
 msgid ""
 "カイ：カギがかかってるみたいだ・・・"
-msgstr ""
+msgstr "Kai: Seems to be locked..."
 
 #: 0008928D
 msgctxt "00000076"
@@ -487,7 +488,7 @@ msgstr "Kai: Looks like it's locked..."
 msgctxt "00000077"
 msgid ""
 "男：向こうに見える大きいたて物は、兵舎だよ。"
-msgstr ""
+msgstr "Man: That large building over there is the barracks."
 
 #: 0008933C
 msgctxt "00000078"
@@ -922,7 +923,7 @@ msgstr "I don't have a clue. We're off to go find out now, though."
 msgctxt "00000148"
 msgid ""
 "店主：いらっしゃいませ。"
-msgstr ""
+msgstr "Shopkeeper: Welcome."
 
 #: 0019B115
 msgctxt "00000149"
@@ -1070,7 +1071,7 @@ msgstr "Kai: All right. We'll deliver it to her."
 msgctxt "00000172"
 msgid ""
 "男：すみません。よろしくお願いいたします。"
-msgstr ""
+msgstr "Man: Sorry. Thank you very much."
 
 #: 00224688
 msgctxt "00000173"
@@ -1088,7 +1089,7 @@ msgstr "Man: Thank you very much!"
 msgctxt "00000175"
 msgid ""
 "男：ありがとうございました。"
-msgstr ""
+msgstr "Man: Thank you very much."
 
 #: 0022473D
 msgctxt "00000176"
@@ -1142,7 +1143,7 @@ msgstr "How do I possibly apologize for this...?"
 msgctxt "00000184"
 msgid ""
 "マスター、おかわりもらえるかしら？"
-msgstr ""
+msgstr "Barkeep, give me another."
 
 #: 00268AF2
 msgctxt "00000185"
@@ -1340,7 +1341,7 @@ msgstr "Burke: Hahaha... I'm just messing with you guys."
 msgctxt "00000217"
 msgid ""
 "女：温泉には行かれました？"
-msgstr ""
+msgstr "Woman: Have you been to the hot springs?"
 
 #: 002F1C7F
 msgctxt "00000218"
@@ -1534,7 +1535,7 @@ msgstr "that turns people into monsters has been spreading."
 msgctxt "00000249"
 msgid ""
 "くわばら、くわばら。"
-msgstr ""
+msgstr "God help us!"
 
 #: 00336452
 msgctxt "00000250"
@@ -1805,13 +1806,14 @@ msgstr "Kai: ..."
 msgctxt "00000294"
 msgid ""
 "船主：ここはラーセント湖と言ってね。"
-msgstr ""
+msgstr "Ferryman: This is called Lacent Lake."
 
 #: 0037A9C1
 msgctxt "00000295"
 msgid ""
 "真ん中のちっちゃい島に、聖獣のほこらってやつがあるんだ。"
 msgstr ""
+"Right there on that small island in the center is the Sacred Beast Shrine."
 
 #: 0037A9FD
 msgctxt "00000296"
