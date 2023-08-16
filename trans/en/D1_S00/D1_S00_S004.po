@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-07-19 04:46+0000\n"
-"Last-Translator: EsperKnight <douglas.e.steele@gmail.com>\n"
+"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s004/en/>\n"
 "Language: en\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "00000000"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 00000134
 msgctxt "00000001"
@@ -836,7 +836,7 @@ msgstr "Burke: H-hey, wait up!"
 msgctxt "00000136"
 msgid ""
 "まてっていってんだろ。カイ。"
-msgstr "I said \"wait\", gosh dangit!"
+msgstr "I said \"wait,\" gosh dangit!"
 
 #: 00268BB8
 msgctxt "00000137"
@@ -1091,7 +1091,7 @@ msgstr "Kai: ...our journey is only going to get more perilous."
 msgctxt "00000178"
 msgid ""
 "だから・・・"
-msgstr ""
+msgstr "So..."
 
 #: 002AD5A8
 msgctxt "00000179"
