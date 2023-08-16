@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:33-0400\n"
-"PO-Revision-Date: 2023-07-19 04:46+0000\n"
-"Last-Translator: EsperKnight <douglas.e.steele@gmail.com>\n"
+"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s000/en/>\n"
 "Language: en\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "00000000"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 0000020C
 msgctxt "00000001"
@@ -804,7 +804,7 @@ msgstr "You can't carry any more."
 #: 000CD973
 msgctxt "00000129"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 000CDD19
 msgctxt "00000130"
@@ -1117,7 +1117,7 @@ msgstr "Dining Hall Girl: Go show them who's boss!"
 msgctxt "00000181"
 msgid ""
 "大男：むしゃむしゃむしゃ・・・"
-msgstr "Big Man: Nom, nom, nom!"
+msgstr "Big Man: Nom, nom, nom..."
 
 #: 00156996
 msgctxt "00000182"
@@ -1274,7 +1274,7 @@ msgstr "You found a Leather Hat!"
 msgctxt "00000207"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 002241DA
 msgctxt "00000208"
@@ -1286,7 +1286,7 @@ msgstr "You got a Knife!"
 msgctxt "00000209"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 00224266
 msgctxt "00000210"
@@ -1298,7 +1298,7 @@ msgstr "Nothing here that looks useful."
 msgctxt "00000211"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 0022432B
 msgctxt "00000212"
@@ -1322,7 +1322,7 @@ msgstr "You got a Heka Fruit!"
 msgctxt "00000215"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 002AD24A
 msgctxt "00000216"
@@ -1557,7 +1557,7 @@ msgstr "Michelia: ........."
 msgctxt "00000253"
 msgid ""
 "ミシリア：・・・・・・・・・・"
-msgstr ""
+msgstr "Michelia: ........."
 
 #: 0033634A
 msgctxt "00000254"
