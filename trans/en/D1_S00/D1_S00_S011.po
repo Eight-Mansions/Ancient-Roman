@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s011/en/>\n"
@@ -28,19 +28,19 @@ msgstr "You found Sneakers!"
 msgctxt "00000002"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 000449E5
 msgctxt "00000003"
 msgid ""
 "宝箱にもどした。"
-msgstr ""
+msgstr "You put it back."
 
 #: 00044A14
 msgctxt "00000004"
 msgid ""
 "何も見つからない。"
-msgstr ""
+msgstr "There's nothing here."
 
 #: 00112186
 msgctxt "00000005"
@@ -52,7 +52,7 @@ msgstr "You got a Flute!"
 msgctxt "00000006"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 001121DF
 msgctxt "00000007"
@@ -64,7 +64,7 @@ msgstr "You put it back."
 msgctxt "00000008"
 msgid ""
 "何も見つからない。"
-msgstr ""
+msgstr "There's nothing here."
 
 #: 00156A1E
 msgctxt "00000009"
@@ -423,7 +423,7 @@ msgstr "You got a Magic Shield!"
 msgctxt "00000067"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 0022436A
 msgctxt "00000068"
@@ -551,7 +551,7 @@ msgstr "Kai: I-I'm stuffed..."
 msgctxt "00000088"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
-msgstr ""
+msgstr "Michelia: Nom, nom, nom, nom, nom..."
 
 #: 00268E6C
 msgctxt "00000089"
@@ -571,7 +571,7 @@ msgstr "...she looks like a squirrel, eating that way."
 msgctxt "00000091"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
-msgstr ""
+msgstr "Michelia: Nom, nom, nom, nom, nom..."
 
 #: 00268F1E
 msgctxt "00000092"
@@ -619,7 +619,7 @@ msgstr "Giggle, giggle!"
 msgctxt "00000099"
 msgid ""
 "クスクスクス・・・・・・"
-msgstr "Giggle, giggle, giggle!"
+msgstr "*giggle, giggle, giggle*...!"
 
 #: 00269090
 msgctxt "00000100"
