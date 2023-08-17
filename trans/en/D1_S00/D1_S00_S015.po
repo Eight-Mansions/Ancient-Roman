@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:41-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s015/en/>\n"
@@ -172,13 +172,13 @@ msgstr "You got the Ointment!"
 msgctxt "00000026"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 001DFA2D
 msgctxt "00000027"
 msgid ""
 "何も見つからない。"
-msgstr ""
+msgstr "There's nothing here."
 
 #: 001DFA92
 msgctxt "00000028"
@@ -388,7 +388,7 @@ msgstr "Are you the watchman of the Warrior Shrine?"
 msgctxt "00000061"
 msgid ""
 "番人：ああ、そうだが・・・。この老いぼれに何の用かね。"
-msgstr ""
+msgstr "Watchman: Yes, that's correct. What can this old man do for you?"
 
 #: 0037A9F7
 msgctxt "00000062"
@@ -400,7 +400,7 @@ msgstr "Kai: Watchman, please teach us how to get to the Warrior Shrine."
 msgctxt "00000063"
 msgid ""
 "番人：その番人さんというのはよしてくれんかの？"
-msgstr ""
+msgstr "Watchman: You can start by not calling me \"Watchman.\""
 
 #: 0037AA77
 msgctxt "00000064"
@@ -484,13 +484,13 @@ msgstr "Kai: Watchman, please teach us how to get to the Warrior Shrine."
 msgctxt "00000077"
 msgid ""
 "番人：その番人さんというのはよしてくれんかの？"
-msgstr ""
+msgstr "Watchman: You can start by not calling me \"Watchman.\""
 
 #: 0037ADAC
 msgctxt "00000078"
 msgid ""
 "わしにはシェリルという、親からもらった名前があるんじゃ。"
-msgstr ""
+msgstr "I received the name \"Sheryl\" from my parents."
 
 #: 0037ADE8
 msgctxt "00000079"
@@ -520,7 +520,7 @@ msgstr "Ready? Listen up."
 msgctxt "00000083"
 msgid ""
 "ルナの浅瀬の北にアルナという関がある。"
-msgstr ""
+msgstr "There's a dam to the north of Luna Shoal, named \"Alna Dam.\""
 
 #: 0037AEE6
 msgctxt "00000084"
@@ -551,7 +551,7 @@ msgstr "That's the first step."
 msgctxt "00000088"
 msgid ""
 "カイ：はい。わかりました。"
-msgstr ""
+msgstr "Kai: Okay, I understand."
 
 #: 0037AFEB
 msgctxt "00000089"
@@ -563,7 +563,7 @@ msgstr "Kai: Watchman, please teach us how to get to the Warrior Shrine."
 msgctxt "00000090"
 msgid ""
 "番人：その番人さんというのはよしてくれんかの？"
-msgstr "Watchman: You can start by not calling me \"Watchman\"."
+msgstr "Watchman: You can start by not calling me \"Watchman.\""
 
 #: 0037B06B
 msgctxt "00000091"
@@ -588,7 +588,7 @@ msgstr "Ready? Listen up."
 msgctxt "00000094"
 msgid ""
 "ルナの浅瀬の北にアルナという関がある。"
-msgstr "There's a dam to the north of Luna Shoal, named \"Alna Dam\"."
+msgstr "There's a dam to the north of Luna Shoal, named \"Alna Dam.\""
 
 #: 0037B137
 msgctxt "00000095"
