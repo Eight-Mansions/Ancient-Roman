@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:34-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s025/en/>\n"
@@ -28,37 +28,37 @@ msgstr "Baroa: Just let me know where to go, and I'll take us there."
 msgctxt "00000002"
 msgid ""
 "今、船に乗ると新ハインローグにもどるぜ。"
-msgstr ""
+msgstr "This boat's on its way back to New Heinrogue Castle."
 
 #: 000001CD
 msgctxt "00000003"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 00000216
 msgctxt "00000004"
 msgid ""
 "バロア：今、船に乗ると旧ハインローグ城へ向かうぜ。"
-msgstr ""
+msgstr "Baroa: This boat's on its way back to Old Heinrogue Castle."
 
 #: 0000024C
 msgctxt "00000005"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 00000295
 msgctxt "00000006"
 msgid ""
 "バロア：今、船に乗るとメクアの港へ向かうぜ。"
-msgstr ""
+msgstr "Baroa: This boat's on its way to Mekua Port."
 
 #: 000002C5
 msgctxt "00000007"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 0000030E
 msgctxt "00000008"
@@ -70,85 +70,85 @@ msgstr "Baroa: This boat's on its way back to New Heinrogue Castle."
 msgctxt "00000009"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 000003D3
 msgctxt "00000010"
 msgid ""
 "バロア：行きたいとこを言ってくれれば、船を出すぜ。"
-msgstr ""
+msgstr "Baroa: Just let me know where to go, and I'll take us there."
 
 #: 00000409
 msgctxt "00000011"
 msgid ""
 "今、船に乗ると新ハインローグにもどるぜ。"
-msgstr ""
+msgstr "This boat's on its way back to New Heinrogue Castle."
 
 #: 00000435
 msgctxt "00000012"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 0000047E
 msgctxt "00000013"
 msgid ""
 "バロア：今、船に乗ると旧ハインローグ城へ向かうぜ。"
-msgstr ""
+msgstr "Baroa: This boat's on its way back to Old Heinrogue Castle."
 
 #: 000004B4
 msgctxt "00000014"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 000004FD
 msgctxt "00000015"
 msgid ""
 "バロア：今、船に乗るとメクアの港へ向かうぜ。"
-msgstr ""
+msgstr "Baroa: This boat's on its way to Mekua Port."
 
 #: 0000052D
 msgctxt "00000016"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 0000057F
 msgctxt "00000017"
 msgid ""
 "バロア：今、船に乗るとへバーシスのはいきょにいくぜ。"
-msgstr ""
+msgstr "Baroa: This boat's on its way to the Ruins of Bahsis."
 
 #: 000005B7
 msgctxt "00000018"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 00000600
 msgctxt "00000019"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへ戻るぜ。"
-msgstr ""
+msgstr "Baroa: This boat's on its way back to New Heinrogue."
 
 #: 00000632
 msgctxt "00000020"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 0000067B
 msgctxt "00000021"
 msgid ""
 "バロア：今、船に乗ると新ハインローグへもどるぜ。"
-msgstr ""
+msgstr "Baroa: This boat's on its way back to New Heinrogue."
 
 #: 000006AF
 msgctxt "00000022"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 0000073E
 msgctxt "00000023"
@@ -166,19 +166,19 @@ msgstr "This boat's on its way back to New Heinrogue Castle."
 msgctxt "00000025"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 000007E9
 msgctxt "00000026"
 msgid ""
 "バロア：今、船に乗ると旧ハインローグ城へ向かうぜ。"
-msgstr "Baroa: This boat's on its way back to New Heinrogue Castle."
+msgstr "Baroa: This boat's on its way back to Old Heinrogue Castle."
 
 #: 0000081F
 msgctxt "00000027"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 00000868
 msgctxt "00000028"
@@ -190,7 +190,7 @@ msgstr "Baroa: This boat's on its way to Mekua Port."
 msgctxt "00000029"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 000008EA
 msgctxt "00000030"
@@ -202,7 +202,7 @@ msgstr "Baroa: This boat's on its way to the Ruins of Bahsis."
 msgctxt "00000031"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 0000096B
 msgctxt "00000032"
@@ -214,7 +214,7 @@ msgstr "Baroa: This boat's on its way back to New Heinrogue."
 msgctxt "00000033"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 000009E6
 msgctxt "00000034"
@@ -226,7 +226,7 @@ msgstr "Baroa: This boat's on its way to Marmo Island."
 msgctxt "00000035"
 msgid ""
 "話し掛けると行き先が変わるから注意しろよ。"
-msgstr ""
+msgstr "If you want me to change course, just say so."
 
 #: 00000A5B
 msgctxt "00000036"
@@ -476,7 +476,7 @@ msgstr "I..."
 msgctxt "00000074"
 msgid ""
 "・・・・・・"
-msgstr ""
+msgstr "..."
 
 #: 0015744F
 msgctxt "00000075"
@@ -744,7 +744,7 @@ msgstr "I'll never hate you for looking weak, because I... I..."
 msgctxt "00000116"
 msgid ""
 "・・・・・・"
-msgstr ""
+msgstr "..."
 
 #: 0019B9B1
 msgctxt "00000117"
@@ -903,32 +903,32 @@ msgstr "Baroa obtained Poseidon's power!"
 msgctxt "00000142"
 msgid ""
 "ミーナ："
-msgstr ""
+msgstr "Minna:"
 
 #: 002AD2F4
 msgctxt "00000143"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD2F8
 msgctxt "00000144"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD2FC
 msgctxt "00000145"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD300
 msgctxt "00000146"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD304
 msgctxt "00000147"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD323
 msgctxt "00000148"
@@ -939,58 +939,58 @@ msgstr "Minna:"
 #: 002AD32F
 msgctxt "00000149"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD333
 msgctxt "00000150"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD337
 msgctxt "00000151"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD33B
 msgctxt "00000152"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD33F
 msgctxt "00000153"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD364
 msgctxt "00000154"
 msgid ""
 "サリナ："
-msgstr ""
+msgstr "Sarina:"
 
 #: 002AD370
 msgctxt "00000155"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD374
 msgctxt "00000156"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD378
 msgctxt "00000157"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD37C
 msgctxt "00000158"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD380
 msgctxt "00000159"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD39F
 msgctxt "00000160"
@@ -1001,58 +1001,58 @@ msgstr "Sarina:"
 #: 002AD3AB
 msgctxt "00000161"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD3AF
 msgctxt "00000162"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD3B3
 msgctxt "00000163"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD3B7
 msgctxt "00000164"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD3BB
 msgctxt "00000165"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD3E0
 msgctxt "00000166"
 msgid ""
 "バーク："
-msgstr ""
+msgstr "Burke:"
 
 #: 002AD3EC
 msgctxt "00000167"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD3F0
 msgctxt "00000168"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD3F4
 msgctxt "00000169"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD3F8
 msgctxt "00000170"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD3FC
 msgctxt "00000171"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD41B
 msgctxt "00000172"
@@ -1063,58 +1063,58 @@ msgstr "Burke:"
 #: 002AD427
 msgctxt "00000173"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD42B
 msgctxt "00000174"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD42F
 msgctxt "00000175"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD433
 msgctxt "00000176"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD437
 msgctxt "00000177"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD45C
 msgctxt "00000178"
 msgid ""
 "ミシリア："
-msgstr ""
+msgstr "Michelia:"
 
 #: 002AD46A
 msgctxt "00000179"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD46E
 msgctxt "00000180"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD472
 msgctxt "00000181"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD476
 msgctxt "00000182"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD47A
 msgctxt "00000183"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD499
 msgctxt "00000184"
@@ -1125,58 +1125,58 @@ msgstr "Michelia:"
 #: 002AD4A7
 msgctxt "00000185"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD4AB
 msgctxt "00000186"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD4AF
 msgctxt "00000187"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD4B3
 msgctxt "00000188"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD4B7
 msgctxt "00000189"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD4DC
 msgctxt "00000190"
 msgid ""
 "バロア："
-msgstr ""
+msgstr "Baroa:"
 
 #: 002AD4E8
 msgctxt "00000191"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD4EC
 msgctxt "00000192"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD4F0
 msgctxt "00000193"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD4F4
 msgctxt "00000194"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD4F8
 msgctxt "00000195"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD517
 msgctxt "00000196"
@@ -1187,58 +1187,58 @@ msgstr "Baroa:"
 #: 002AD523
 msgctxt "00000197"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD527
 msgctxt "00000198"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD52B
 msgctxt "00000199"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD52F
 msgctxt "00000200"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD533
 msgctxt "00000201"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD558
 msgctxt "00000202"
 msgid ""
 "ギゼフィル："
-msgstr ""
+msgstr "Gizafeal:"
 
 #: 002AD568
 msgctxt "00000203"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD56C
 msgctxt "00000204"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD570
 msgctxt "00000205"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD574
 msgctxt "00000206"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD578
 msgctxt "00000207"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD597
 msgctxt "00000208"
@@ -1249,27 +1249,27 @@ msgstr "Gizafeal:"
 #: 002AD5A7
 msgctxt "00000209"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD5AB
 msgctxt "00000210"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD5AF
 msgctxt "00000211"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD5B3
 msgctxt "00000212"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD5B7
 msgctxt "00000213"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 002AD5D2
 msgctxt "00000214"
