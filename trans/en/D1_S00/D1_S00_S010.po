@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s010/en/>\n"
@@ -238,7 +238,7 @@ msgstr "Kai: The pleasure's all ours."
 msgctxt "00000037"
 msgid ""
 "カイ：よし、新ハインローグ城に帰ろう。"
-msgstr ""
+msgstr "Kai: Okay, let's return to New Heinrogue Castle."
 
 #: 00044991
 msgctxt "00000038"
@@ -250,7 +250,7 @@ msgstr "McLeod: That means we're off to the Rune Gate."
 msgctxt "00000039"
 msgid ""
 "ルーンの関"
-msgstr ""
+msgstr "Rune Gate"
 
 #: 00044A20
 msgctxt "00000040"
@@ -401,31 +401,31 @@ msgstr ""
 msgctxt "00000064"
 msgid ""
 "面白いものが見つかりましてな。"
-msgstr ""
+msgstr "We found something quite amusing."
 
 #: 000897EA
 msgctxt "00000065"
 msgid ""
 "カイ：面白いもの？"
-msgstr ""
+msgstr "Kai: Amusing?"
 
 #: 0008980E
 msgctxt "00000066"
 msgid ""
 "大臣：はい。一冊の古文書なのですが、その本によりますと"
-msgstr ""
+msgstr "Minister: Yes. A lone, ancient book."
 
 #: 00089848
 msgctxt "00000067"
 msgid ""
 "古代、文明の栄えたバーシスの都に"
-msgstr ""
+msgstr "The book talks about the flourishing capital of Bahsis"
 
 #: 0008986C
 msgctxt "00000068"
 msgid ""
 "２つの禁呪と呼ばれた魔法があったそうです。"
-msgstr ""
+msgstr "and of two forbidden spells that existed there."
 
 #: 000898B3
 msgctxt "00000069"
@@ -437,19 +437,21 @@ msgstr "Burke: Hey, what part of that is \"amusing\"?"
 msgctxt "00000070"
 msgid ""
 "ミーナ：人の話は最後まで聞け。"
-msgstr ""
+msgstr "Minna: Listen to people when they're talking!"
 
 #: 00089936
 msgctxt "00000071"
 msgid ""
 "すみませんでした。続けてください。"
-msgstr ""
+msgstr "Sorry about that. Please, continue."
 
 #: 0008996A
 msgctxt "00000072"
 msgid ""
 "大臣：はい。その禁呪を封印してある場所が、しるされていました。"
 msgstr ""
+"Minister: Yes. The location of the sealed spells was also written in the "
+"book."
 
 #: 000899AC
 msgctxt "00000073"
@@ -468,13 +470,13 @@ msgstr "When the seal is released, two caves shall be opened."
 msgctxt "00000075"
 msgid ""
 "その奥になんじらの求める究極の魔法があるだろう。"
-msgstr ""
+msgstr "Inside of each lies one of the ultimate magic spells you seek."
 
 #: 00089A52
 msgctxt "00000076"
 msgid ""
 "以上です。"
-msgstr ""
+msgstr "That's it."
 
 #: 00089A77
 msgctxt "00000077"
@@ -776,7 +778,7 @@ msgstr "Michelia: S-Sarina, umm..."
 msgctxt "00000126"
 msgid ""
 "・・・・・・"
-msgstr ""
+msgstr "..."
 
 #: 001571B5
 msgctxt "00000127"
@@ -1147,37 +1149,37 @@ msgstr "What a waste of time. Why can't we just take it out back, ya know?"
 msgctxt "00000186"
 msgid ""
 "カイ：ブー＝レイ！なんで、こんな所に？！"
-msgstr ""
+msgstr "Kai: Boo Rei! What're you doing here?"
 
 #: 002AD265
 msgctxt "00000187"
 msgid ""
 "ブー＝レイ：ボクハ、マモノダカラ・・・"
-msgstr ""
+msgstr "Boo Rei: BECAUSE I'M A MONSTER..."
 
 #: 002AD2A8
 msgctxt "00000188"
 msgid ""
 "カイ：だからって！"
-msgstr ""
+msgstr "Kai: But--!"
 
 #: 002AD2E5
 msgctxt "00000189"
 msgid ""
 "ブー＝レイ：イインダヨ。"
-msgstr ""
+msgstr "Boo Rei: IT'S OKAY."
 
 #: 002AD301
 msgctxt "00000190"
 msgid ""
 "ココニイレバ、ダレモ、コロサナイデイイ。"
-msgstr ""
+msgstr "IF I'M HERE, NO ONE ELSE WILL BE IN DANGER BECAUSE OF ME."
 
 #: 002AD346
 msgctxt "00000191"
 msgid ""
 "カイ：君がそんなことをするわけが無いじゃないか！"
-msgstr ""
+msgstr "Kai: You'd never hurt anyone. I know it!"
 
 #: 002AD37A
 msgctxt "00000192"
@@ -1189,7 +1191,7 @@ msgstr "Just hang on, I'll get them to let you out..."
 msgctxt "00000193"
 msgid ""
 "ブー＝レイ：ヤメテクレ！"
-msgstr ""
+msgstr "Boo Rei: NO, STOP!"
 
 #: 002AD3E1
 msgctxt "00000194"
@@ -1201,61 +1203,61 @@ msgstr "THIS IS THE SAFEST PLACE FOR ME."
 msgctxt "00000195"
 msgid ""
 "ソレニ・・・"
-msgstr ""
+msgstr "AND..."
 
 #: 002AD435
 msgctxt "00000196"
 msgid ""
 "カイ：それに？"
-msgstr ""
+msgstr "Kai: And?"
 
 #: 002AD455
 msgctxt "00000197"
 msgid ""
 "ブー＝レイ：ジブンノナカデ、ナニカガサケブンダ。"
-msgstr ""
+msgstr "Boo Rei: I CAN FEEL THE SCREAMS INSIDE OF ME."
 
 #: 002AD489
 msgctxt "00000198"
 msgid ""
 "ニンゲンヲコロセ！コロセ！ッテ。"
-msgstr ""
+msgstr "\"KILL THE HUMANS! KILL THEM ALL,\" IT BELLOWS."
 
 #: 002AD4BB
 msgctxt "00000199"
 msgid ""
 "カイ：・・・ブー＝レイ、僕はあきらめないよ。"
-msgstr ""
+msgstr "Kai: ...no, Boo Rei. We won't give up on you!"
 
 #: 002AD4EB
 msgctxt "00000200"
 msgid ""
 "絶対、君を助ける。だから、くじけちゃいけないよ。"
-msgstr ""
+msgstr "We'll save you, I swear! Don't lose hope now!"
 
 #: 002AD530
 msgctxt "00000201"
 msgid ""
 "ブー＝レイ：ウン、アリガトウ・・・"
-msgstr ""
+msgstr "Boo Rei: OKAY. THANKS."
 
 #: 002AD59D
 msgctxt "00000202"
 msgid ""
 "カイ：・・・ブー＝レイ、僕はあきらめないよ。"
-msgstr ""
+msgstr "Kai: ...no, Boo Rei. We won't give up on you!"
 
 #: 002AD5CD
 msgctxt "00000203"
 msgid ""
 "絶対、君を助ける。だから、くじけちゃいけないよ。"
-msgstr ""
+msgstr "We'll save you, I swear! Don't lose hope now!"
 
 #: 002AD612
 msgctxt "00000204"
 msgid ""
 "ブー＝レイ：ウン、アリガトウ・・・"
-msgstr ""
+msgstr "Boo Rei: OKAY. THANKS."
 
 #: 002AD68A
 msgctxt "00000205"
@@ -1345,7 +1347,7 @@ msgstr "\"KILL THE HUMANS! KILL THEM ALL,\" IT BELLOWS."
 msgctxt "00000219"
 msgid ""
 "カイ：・・・ブー＝レイ、僕はあきらめないよ。"
-msgstr "Kai: ...No, Boo Rei. We won't give up on you!"
+msgstr "Kai: ...no, Boo Rei. We won't give up on you!"
 
 #: 002AD985
 msgctxt "00000220"
@@ -1375,67 +1377,67 @@ msgstr "He's just very sick."
 msgctxt "00000224"
 msgid ""
 "だから、だから・・・"
-msgstr ""
+msgstr "So... So..."
 
 #: 002ADA9B
 msgctxt "00000225"
 msgid ""
 "マクロード：彼をオリから出すことはできません。"
-msgstr ""
+msgstr "McLeod: I can't let him out of that cell."
 
 #: 002ADADB
 msgctxt "00000226"
 msgid ""
 "カイ：マクロードさん！！"
-msgstr ""
+msgstr "Kai: McLeod!"
 
 #: 002ADB10
 msgctxt "00000227"
 msgid ""
 "マクロード：部下の安全を考えるとそれが最良なのです。"
-msgstr ""
+msgstr "McLeod: I must consider the safety of my men."
 
 #: 002ADB48
 msgctxt "00000228"
 msgid ""
 "もう私は私のせいで部下を死なせたくはない。"
-msgstr ""
+msgstr "I don't want any more of my men to die because I felt pity."
 
 #: 002ADB76
 msgctxt "00000229"
 msgid ""
 "わかってください、カイ殿。"
-msgstr ""
+msgstr "You must understand, Lord Kai."
 
 #: 002ADBAD
 msgctxt "00000230"
 msgid ""
 "カイ：・・・・・・・・・・・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 002ADBF3
 msgctxt "00000231"
 msgid ""
 "マクロード：ですが・・・"
-msgstr ""
+msgstr "McLeod: However..."
 
 #: 002ADC1D
 msgctxt "00000232"
 msgid ""
 "マクロード：彼をここで保護することはできます。"
-msgstr ""
+msgstr "McLeod: I can at least keep him safe here."
 
 #: 002ADC4F
 msgctxt "00000233"
 msgid ""
 "彼をていちょうに保護するよう部下にめいじましょう。"
-msgstr ""
+msgstr "I'll instruct my men to treat him well."
 
 #: 002ADC93
 msgctxt "00000234"
 msgid ""
 "カイ：マクロードさん、ありがとう。"
-msgstr ""
+msgstr "Kai: Thank you, McLeod."
 
 #: 002ADCD2
 msgctxt "00000235"
@@ -1531,7 +1533,7 @@ msgstr "McLeod: No, no. I've done nothing to earn your praise."
 msgctxt "00000250"
 msgid ""
 "＿＿新ハインローグ城 城門前"
-msgstr "___New Heinrogue Castle Entrance"
+msgstr "___ New Heinrogue Castle Entrance"
 
 #: 002F1A1D
 msgctxt "00000251"
@@ -1615,7 +1617,7 @@ msgstr "Kai: No idea. I thought Burke knew the way!"
 msgctxt "00000264"
 msgid ""
 "そのバークが何もいわないから大丈夫なんじゃないかな？"
-msgstr "He hasn't said anything, so I took that as we're doing fine."
+msgstr "He hasn't said anything, so I took that as us doing fine."
 
 #: 0037AAD0
 msgctxt "00000265"
