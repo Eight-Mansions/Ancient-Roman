@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:41-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s008/en/>\n"
@@ -82,7 +82,7 @@ msgstr "Swordsman: Do you still require something from me?"
 msgctxt "00000011"
 msgid ""
 "男：やあ、君たち、試練の塔にむかうんだね？"
-msgstr ""
+msgstr "Man: Hey, hey! Going to the Tower of Trials?"
 
 #: 00044963
 msgctxt "00000012"
@@ -657,7 +657,7 @@ msgstr "Minna: Just gotta stroke his ego a bit and away he goes..."
 msgctxt "00000104"
 msgid ""
 "バーク：何か言ったか？"
-msgstr ""
+msgstr "Burke: Say something?"
 
 #: 0033644E
 msgctxt "00000105"
@@ -817,7 +817,7 @@ msgstr "Fara: Took us for idiots..."
 msgctxt "00000130"
 msgid ""
 "バーク：何か言ったか？"
-msgstr ""
+msgstr "Burke: Say something?"
 
 #: 0037AFA1
 msgctxt "00000131"
@@ -1343,7 +1343,7 @@ msgstr "Michelia: ..."
 msgctxt "00000216"
 msgid ""
 "バーク：そんなことじゃ、ファラにカイを取られちまうぜ。"
-msgstr "Burke: Keep thinking like that and Fara will take him."
+msgstr "Burke: Keep thinking like that, and Fara will take him."
 
 #: 0037C5B3
 msgctxt "00000217"
@@ -1471,7 +1471,7 @@ msgstr "Michelia: ..."
 msgctxt "00000237"
 msgid ""
 "カイ＆ミシリア：あ、あの・・・・"
-msgstr ""
+msgstr "Kai & Michelia: U-umm..."
 
 #: 0037CC3E
 msgctxt "00000238"
@@ -1615,37 +1615,37 @@ msgstr "Kai: ..."
 msgctxt "00000261"
 msgid ""
 "＿＿＿カイ達はねむった＿＿"
-msgstr ""
+msgstr "___The party went to sleep.___"
 
 #: 003BF193
 msgctxt "00000262"
 msgid ""
 "＿＿＿カイ達はねむった＿＿"
-msgstr ""
+msgstr "___The party went to sleep.___"
 
 #: 003BF244
 msgctxt "00000263"
 msgid ""
 "＿＿＿カイ達はねむった＿＿"
-msgstr ""
+msgstr "___The party went to sleep.___"
 
 #: 003BF2C9
 msgctxt "00000264"
 msgid ""
 "＿＿＿カイ達はねむった＿＿"
-msgstr ""
+msgstr "___The party went to sleep.___"
 
 #: 003BF357
 msgctxt "00000265"
 msgid ""
 "＿＿＿カイ達はねむった＿＿"
-msgstr ""
+msgstr "___The party went to sleep.___"
 
 #: 003BF3DC
 msgctxt "00000266"
 msgid ""
 "＿＿＿カイ達はねむった＿＿"
-msgstr ""
+msgstr "___The party went to sleep.___"
 
 #: 003BF490
 msgctxt "00000267"
