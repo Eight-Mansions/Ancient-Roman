@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s023/en/>\n"
@@ -34,7 +34,7 @@ msgstr "You got the Hermit Guard!"
 msgctxt "00000003"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 000CDA33
 msgctxt "00000004"
@@ -46,7 +46,7 @@ msgstr "Nothing here."
 msgctxt "00000005"
 msgid ""
 "カイ：な、なんだ！？"
-msgstr ""
+msgstr "Kai: Huh?!"
 
 #: 001121A6
 msgctxt "00000006"
@@ -292,7 +292,7 @@ msgstr "Monster: Don't think you'll escape with your lives!"
 msgctxt "00000046"
 msgid ""
 "ミシリア：あまくみないでね。"
-msgstr ""
+msgstr "Michelia: Don't underestimate us!"
 
 #: 00156E86
 msgctxt "00000047"
@@ -322,7 +322,7 @@ msgstr "Kai: Probably the..."
 msgctxt "00000051"
 msgid ""
 "・・・・・・"
-msgstr ""
+msgstr "..."
 
 #: 0019B251
 msgctxt "00000052"
@@ -455,7 +455,7 @@ msgstr "Yuuta: Well..."
 msgctxt "00000073"
 msgid ""
 "・・・・・・"
-msgstr ""
+msgstr "..."
 
 #: 0019B733
 msgctxt "00000074"
@@ -725,13 +725,13 @@ msgstr "We wish to claim the divine power that may help us."
 msgctxt "00000118"
 msgid ""
 "フィスコさん。女神神殿の扉を開くカギ、"
-msgstr ""
+msgstr "Fisco, we would like the key to the Goddess Shrine."
 
 #: 002247CD
 msgctxt "00000119"
 msgid ""
 "「指輪」と「ブレスレット」を僕達にかしてほしいんだ。"
-msgstr ""
+msgstr "We would like the bracelet and ring."
 
 #: 00224823
 msgctxt "00000120"
@@ -933,7 +933,7 @@ msgstr "Kai: Let's go!"
 msgctxt "00000152"
 msgid ""
 "怪物：ぎゃーー！！"
-msgstr ""
+msgstr "Monster: Gyargh!"
 
 #: 003365AF
 msgctxt "00000153"
@@ -986,7 +986,7 @@ msgstr "Monster: Gyargh!"
 #: 0034736C
 msgctxt "00000161"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 0037A91F
 msgctxt "00000162"
