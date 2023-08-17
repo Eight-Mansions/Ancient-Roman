@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s012/en/>\n"
@@ -21,12 +21,12 @@ msgstr " "
 #: 000520C7
 msgctxt "00000001"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 000CD923
 msgctxt "00000002"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: 000CDC06
 msgctxt "00000003"
@@ -265,7 +265,7 @@ msgstr "Kai: Let's hurry to Mahtas."
 msgctxt "00000041"
 msgid ""
 "門番：カイ様、ご自由にお通り下さい。"
-msgstr ""
+msgstr "Gatekeeper: Prince Kai, you may come and go as you wish."
 
 #: 00112358
 msgctxt "00000042"
@@ -573,7 +573,7 @@ msgstr "Kai: Okay. Let's go, everyone."
 msgctxt "00000091"
 msgid ""
 "大臣：おお、カイ様。よくご無事でもどられました。"
-msgstr ""
+msgstr "Minister: Oh, Lord Kai! I'm glad to see you safe."
 
 #: 0019C0BD
 msgctxt "00000092"
@@ -651,7 +651,7 @@ msgstr "Kai: Yeah, we met her at Barrows May."
 msgctxt "00000104"
 msgid ""
 "サリナ：・・・・・・"
-msgstr ""
+msgstr "Sarina: ..."
 
 #: 0019C41A
 msgctxt "00000105"
@@ -747,7 +747,7 @@ msgstr "...found Sarina's father, the knight commander."
 msgctxt "00000120"
 msgid ""
 "大臣：・・・・・・"
-msgstr ""
+msgstr "Minister: ..."
 
 #: 0019C87E
 msgctxt "00000121"
@@ -771,7 +771,7 @@ msgstr "He perished in the fight."
 msgctxt "00000124"
 msgid ""
 "大臣：・・・・・・"
-msgstr ""
+msgstr "Minister: ..."
 
 #: 0019C950
 msgctxt "00000125"
@@ -795,7 +795,7 @@ msgstr "Kai: What?!"
 msgctxt "00000128"
 msgid ""
 "サリナ：・・・・・・"
-msgstr ""
+msgstr "Sarina: ..."
 
 #: 0019C9F8
 msgctxt "00000129"
@@ -855,7 +855,7 @@ msgstr "Minister: Sarina. You've become so beautiful...!"
 msgctxt "00000138"
 msgid ""
 "サリナ：・・・・・・"
-msgstr ""
+msgstr "Sarina: ..."
 
 #: 0019CCA8
 msgctxt "00000139"
@@ -1686,7 +1686,7 @@ msgstr "Sage: That's too bad, you don't seem to have room."
 msgctxt "00000274"
 msgid ""
 "聖者：大臣様には内緒にしておいてください。"
-msgstr ""
+msgstr "Sage: Please don't tell the Minister about this."
 
 #: 001DFB9A
 msgctxt "00000275"
@@ -1718,13 +1718,13 @@ msgstr ""
 msgctxt "00000279"
 msgid ""
 "おやじ：いらっしゃい。"
-msgstr ""
+msgstr "Old Man: Welcome."
 
 #: 002AD13C
 msgctxt "00000280"
 msgid ""
 "うちの商品はいいものばかりだよ。"
-msgstr ""
+msgstr "We only sell the finest!"
 
 #: 002AD1A0
 msgctxt "00000281"
@@ -1959,7 +1959,7 @@ msgstr "Minna: Hahaha!"
 msgctxt "00000319"
 msgid ""
 "ミシリア：くすくすくす・・・"
-msgstr "Michelia: Giggle, giggle, giggle!"
+msgstr "Michelia: *giggle, giggle, giggle*..."
 
 #: 003BF931
 msgctxt "00000320"
