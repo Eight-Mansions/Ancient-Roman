@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s006/en/>\n"
@@ -178,7 +178,7 @@ msgstr "They give me the creeps."
 msgctxt "00000027"
 msgid ""
 "ミーナ：すみません。"
-msgstr ""
+msgstr "Minna: Sorry."
 
 #: 0011273F
 msgctxt "00000028"
@@ -276,7 +276,7 @@ msgstr "Let her do as she wants. It's called \"having empathy\"."
 msgctxt "00000043"
 msgid ""
 "ミーナ：すみません。"
-msgstr ""
+msgstr "Minna: Sorry."
 
 #: 00156DC0
 msgctxt "00000044"
@@ -312,7 +312,7 @@ msgstr "Now and then, you're shown how powerless you truly are."
 msgctxt "00000049"
 msgid ""
 "カイ：ファラ、元気かい？"
-msgstr ""
+msgstr "Kai: Fara, how're you feeling?"
 
 #: 0019B2B3
 msgctxt "00000050"
@@ -332,13 +332,13 @@ msgstr ""
 msgctxt "00000052"
 msgid ""
 "ファラ：うん・・・・・・"
-msgstr ""
+msgstr "Fara: Okay..."
 
 #: 0019B374
 msgctxt "00000053"
 msgid ""
 "ファラ：カイも体に気をつけてね。"
-msgstr ""
+msgstr "Fara: Kai, be careful not to get hurt."
 
 #: 0019B398
 msgctxt "00000054"
@@ -368,7 +368,7 @@ msgstr "Kai: You're welcome back with us once you've fully rested up."
 msgctxt "00000058"
 msgid ""
 "ファラ：うん・・・・・・"
-msgstr ""
+msgstr "Fara: Okay..."
 
 #: 0019B4D4
 msgctxt "00000059"
@@ -435,7 +435,7 @@ msgstr "Fara: I wanna be done healing already..."
 msgctxt "00000069"
 msgid ""
 "カイ：ファラ、調子はどうだい？"
-msgstr ""
+msgstr "Kai: Fara, how're you doing?"
 
 #: 0019B759
 msgctxt "00000070"
@@ -538,7 +538,7 @@ msgstr "If she was found any later, she could have died."
 msgctxt "00000086"
 msgid ""
 "カイ：・・・・・・・・・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 0019BAB9
 msgctxt "00000087"
@@ -550,7 +550,7 @@ msgstr "Doctor: You must rest now."
 msgctxt "00000088"
 msgid ""
 "カイ：ファラ、行ってくるよ・・・"
-msgstr ""
+msgstr "Kai: Fara, we'll be back."
 
 #: 0019BB41
 msgctxt "00000089"
@@ -592,7 +592,7 @@ msgstr "Kai: Fara!"
 msgctxt "00000095"
 msgid ""
 "ファラ：カイ・・・"
-msgstr ""
+msgstr "Fara: Kai..."
 
 #: 0019BCB1
 msgctxt "00000096"
@@ -622,19 +622,19 @@ msgstr "Please, don't push yourself, okay?"
 msgctxt "00000100"
 msgid ""
 "ファラ：うん。ごめんね。カイ、心配かけちゃって。"
-msgstr ""
+msgstr "Fara: Okay. I'm sorry for worrying you, Kai."
 
 #: 0019BDC5
 msgctxt "00000101"
 msgid ""
 "今度はちゃんとなおすから。"
-msgstr ""
+msgstr "I'll be a good girl this time."
 
 #: 0019BDF1
 msgctxt "00000102"
 msgid ""
 "カイ：ああ待ってるよ。はやくなおすんだよ。"
-msgstr ""
+msgstr "Kai: We'll wait for you, no matter how long it takes."
 
 #: 0019BE42
 msgctxt "00000103"
@@ -646,7 +646,7 @@ msgstr "Fara: Kai, be careful."
 msgctxt "00000104"
 msgid ""
 "ファラ：カイ・・・"
-msgstr ""
+msgstr "Fara: Kai..."
 
 #: 0019BF08
 msgctxt "00000105"
@@ -749,7 +749,7 @@ msgstr ""
 msgctxt "00000121"
 msgid ""
 "カイ：マウタスの町で、おばあさんに"
-msgstr "Kai: We told the old woman in in Mahtas"
+msgstr "Kai: We told the old woman in Mahtas"
 
 #: 0019C400
 msgctxt "00000122"
@@ -889,7 +889,7 @@ msgstr "You should stay here and rest."
 msgctxt "00000144"
 msgid ""
 "ファラ：うん・・・"
-msgstr ""
+msgstr "Fara: Okay..."
 
 #: 0019C9EC
 msgctxt "00000145"
@@ -913,7 +913,7 @@ msgstr "Kai: Fara, we'll be back, okay?"
 msgctxt "00000148"
 msgid ""
 "ファラ：うん・・・"
-msgstr ""
+msgstr "Fara: Okay..."
 
 #: 0019CAB5
 msgctxt "00000149"
@@ -967,7 +967,7 @@ msgstr "○: Stay the night ×: Leave"
 msgctxt "00000157"
 msgid ""
 "またのおこしをおまちしております。"
-msgstr ""
+msgstr "Come again!"
 
 #: 001DFA0B
 msgctxt "00000158"
@@ -1427,7 +1427,7 @@ msgstr "Without you, I'd never be here like this."
 msgctxt "00000233"
 msgid ""
 "とってもかんしゃしているわ▽"
-msgstr ""
+msgstr "I'm very grateful for everything. ▽"
 
 #: 003362F8
 msgctxt "00000234"
