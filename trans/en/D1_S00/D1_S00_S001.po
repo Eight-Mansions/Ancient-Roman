@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s001/en/>\n"
@@ -34,7 +34,7 @@ msgstr "You got a Heka Fruit!"
 msgctxt "00000003"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 00044A10
 msgctxt "00000004"
@@ -58,7 +58,7 @@ msgstr "You got a Big Heka!"
 msgctxt "00000007"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 00044B03
 msgctxt "00000008"
@@ -82,7 +82,7 @@ msgstr "You got a Heka Fruit!"
 msgctxt "00000011"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 00089191
 msgctxt "00000012"
@@ -94,7 +94,7 @@ msgstr "You got a Maka Fruit!"
 msgctxt "00000013"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 0008923F
 msgctxt "00000014"
@@ -383,7 +383,7 @@ msgstr "You got Cloth Armor!"
 msgctxt "00000061"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 001DF9F3
 msgctxt "00000062"
