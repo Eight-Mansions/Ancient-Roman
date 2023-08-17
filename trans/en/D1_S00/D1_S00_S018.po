@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s018/en/>\n"
@@ -34,7 +34,7 @@ msgstr "You got the Beast Helmet!"
 msgctxt "00000003"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 0000028A
 msgctxt "00000004"
@@ -142,7 +142,7 @@ msgstr "We can't just leave them behind!"
 msgctxt "00000021"
 msgid ""
 "ミシリア：カイ・・・"
-msgstr ""
+msgstr "Michelia: Kai..."
 
 #: 000894B5
 msgctxt "00000022"
@@ -314,31 +314,31 @@ msgstr "Kai: Well then, let's go."
 msgctxt "00000049"
 msgid ""
 "老人：ワシのことはいいから他の人達をたのむ・・・"
-msgstr ""
+msgstr "Old Man: Don't worry about me. Help everyone else..."
 
 #: 00089C10
 msgctxt "00000050"
 msgid ""
 "老人：ワシのことはもういいから・・・"
-msgstr ""
+msgstr "Old Man: I said, \"Don't worry about me!\""
 
 #: 00089C61
 msgctxt "00000051"
 msgid ""
 "老人：い、今から大量の水が流れ込んでくるんじゃろ。"
-msgstr ""
+msgstr "Old Man: Y-you said water will be rushing through here?"
 
 #: 00089C97
 msgctxt "00000052"
 msgid ""
 "ワシもがんばるから、お前さんたちもがんばっておくれ。"
-msgstr ""
+msgstr "I'll do my best here, so you lot better do your best too."
 
 #: 00089D1F
 msgctxt "00000053"
 msgid ""
 "老人：生きてここから出れるようになるとは・・・。ありがとう。"
-msgstr ""
+msgstr "Old Man: I didn't think I'd live to get out of here... Thank you."
 
 #: 00089D83
 msgctxt "00000054"
@@ -650,13 +650,13 @@ msgstr "You got the Speed Cocoa!"
 msgctxt "00000105"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 0019B2E5
 msgctxt "00000106"
 msgid ""
 "もうなにもはいってない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 0019B35B
 msgctxt "00000107"
@@ -668,7 +668,7 @@ msgstr "You got 8,000 gahme!"
 msgctxt "00000108"
 msgid ""
 "もうなにもはいってない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 0019B44E
 msgctxt "00000109"
@@ -680,7 +680,7 @@ msgstr "You found a Magic Robe!"
 msgctxt "00000110"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 0019B510
 msgctxt "00000111"
@@ -698,13 +698,13 @@ msgstr "You learned Every Light!"
 msgctxt "00000113"
 msgid ""
 "もうなにもはいってない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 0019B63C
 msgctxt "00000114"
 msgid ""
 "もうなにもはいってない。"
-msgstr ""
+msgstr "There's nothing else here."
 
 #: 0019B6C3
 msgctxt "00000115"
@@ -728,7 +728,7 @@ msgstr "There's nothing else here."
 msgctxt "00000118"
 msgid ""
 "石版の上に文字がきざまれている。"
-msgstr ""
+msgstr "There are some letters above the lithograph."
 
 #: 0019B80C
 msgctxt "00000119"
