@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:33-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s000/en/>\n"
@@ -472,7 +472,7 @@ msgstr "Make sure to equip it. It won't help you otherwise."
 msgctxt "00000075"
 msgid ""
 "ナイフを手に入れた。"
-msgstr "You got a Knife."
+msgstr "You got a Knife!"
 
 #: 000015CC
 msgctxt "00000076"
@@ -1238,7 +1238,7 @@ msgstr "You took the axe head off. You got a Staff!"
 msgctxt "00000201"
 msgid ""
 "これ以上もてない。"
-msgstr "You can't carry anymore."
+msgstr "You can't carry any more."
 
 #: 001DFAEC
 msgctxt "00000202"
@@ -1256,7 +1256,7 @@ msgstr "You got a Knife!"
 msgctxt "00000204"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 001DFBCF
 msgctxt "00000205"
@@ -1274,7 +1274,7 @@ msgstr "You found a Leather Hat!"
 msgctxt "00000207"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 002241DA
 msgctxt "00000208"
@@ -1286,7 +1286,7 @@ msgstr "You got a Knife!"
 msgctxt "00000209"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 00224266
 msgctxt "00000210"
@@ -1298,7 +1298,7 @@ msgstr "Nothing here that looks useful."
 msgctxt "00000211"
 msgid ""
 "これ以上もてない。"
-msgstr "There's nothing else here."
+msgstr "You can't carry any more."
 
 #: 0022432B
 msgctxt "00000212"
