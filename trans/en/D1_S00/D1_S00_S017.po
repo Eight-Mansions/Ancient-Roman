@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s017/en/>\n"
@@ -255,85 +255,86 @@ msgstr "Burke: Hahaha! Not a problem at all!"
 msgctxt "00000039"
 msgid ""
 "老女：おーおー、本当に取ってきたのは、お前らが初めてじゃ。"
-msgstr ""
+msgstr "Old Woman: My, my! You're the first to actually get this!"
 
 #: 00045310
 msgctxt "00000040"
 msgid ""
 "バロア：ばあさん、早く教えなよ。どうやったら、ここに入れるんだい？"
-msgstr ""
+msgstr "Baroa: Your turn, lady. Hurry up and tell us how to get inside."
 
 #: 00045364
 msgctxt "00000041"
 msgid ""
 "老女：あわてなさんな。今、お前らが持ってきた宝玉がカギになっとるんじゃ。"
-msgstr ""
+msgstr "Old Woman: No need to rush. The gem you hold is the key."
 
 #: 000453C9
 msgctxt "00000042"
 msgid ""
 "カイ：ええ？"
-msgstr ""
+msgstr "Kai: Huh?"
 
 #: 000453E7
 msgctxt "00000043"
 msgid ""
 "老女：昔、この塔はドロア城の所有物だったんじゃ。"
-msgstr ""
+msgstr "Old Woman: This tower used to belong to Castle Droa."
 
 #: 0004541B
 msgctxt "00000044"
 msgid ""
 "ワシが絶世の美女と、呼ばれていた頃の話じゃがな。"
-msgstr ""
+msgstr "Back when I used to be known as a peerless beauty."
 
 #: 00045468
 msgctxt "00000045"
 msgid ""
 "バーク：５００年前ぐらいか？"
-msgstr ""
+msgstr "Burke: So, what, 500 years ago?"
 
 #: 00045496
 msgctxt "00000046"
 msgid ""
 "サリナ：おいおい。"
-msgstr ""
+msgstr "Sarina: Quit it."
 
 #: 000454BA
 msgctxt "00000047"
 msgid ""
 "ミーナ：エルフなら、多分それぐらいですね。"
-msgstr ""
+msgstr "Minna: That sounds about right, in elf years."
 
 #: 000454F6
 msgctxt "00000048"
 msgid ""
 "サリナ：フォローになってねえよ・・・"
-msgstr ""
+msgstr "Sarina: Don't help him!"
 
 #: 0004552C
 msgctxt "00000049"
 msgid ""
 "老女：だから、ドロア城にカギがあっても不思議ではなかろ。"
 msgstr ""
+"Old Woman: Castle Droa having the key shouldn't come as a surprise then."
 
 #: 00045568
 msgctxt "00000050"
 msgid ""
 "そういうこっちゃ。"
-msgstr ""
+msgstr "Simple as that."
 
 #: 00045597
 msgctxt "00000051"
 msgid ""
 "カイ：では、これを使えば中に入れるんですね。"
-msgstr ""
+msgstr "Kai: Then, we can use this to get inside?"
 
 #: 000455D5
 msgctxt "00000052"
 msgid ""
 "老女：そういうこっちゃ。"
-msgstr ""
+msgstr "Old Woman: That's what I said, yes."
 
 #: 00045669
 msgctxt "00000053"
@@ -622,13 +623,13 @@ msgstr "Burke & Sarina & Baroa: Hehehe..."
 msgctxt "00000100"
 msgid ""
 "＿＿ただいま読書中＿＿"
-msgstr ""
+msgstr "___(Reading ensues.)___"
 
 #: 002245CE
 msgctxt "00000101"
 msgid ""
 "＿＿ただいま読書中＿＿"
-msgstr ""
+msgstr "___(Reading ensues.)___"
 
 #: 00224641
 msgctxt "00000102"
@@ -1020,7 +1021,7 @@ msgstr "Can you not answer?"
 msgctxt "00000166"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 00268CFC
 msgctxt "00000167"
@@ -1062,7 +1063,7 @@ msgstr "You must think carefully and not blindly seek such power..."
 msgctxt "00000173"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 00268E78
 msgctxt "00000174"
@@ -1122,7 +1123,7 @@ msgstr "Michelia: But, danger is no reason to dissuade us."
 msgctxt "00000183"
 msgid ""
 "老人：・・・・・・"
-msgstr ""
+msgstr "Old Man: ..."
 
 #: 00269124
 msgctxt "00000184"
@@ -1147,7 +1148,7 @@ msgstr ""
 msgctxt "00000187"
 msgid ""
 "老人：・・・・・・"
-msgstr ""
+msgstr "Old Man: ..."
 
 #: 002691FD
 msgctxt "00000188"
@@ -1165,7 +1166,7 @@ msgstr "Kai: Michelia..."
 msgctxt "00000190"
 msgid ""
 "老人：・・・・・・"
-msgstr ""
+msgstr "Old Man: ..."
 
 #: 002692A4
 msgctxt "00000191"
@@ -1201,7 +1202,7 @@ msgstr "Minna: Michelia..."
 msgctxt "00000196"
 msgid ""
 "老人：・・・・・・"
-msgstr ""
+msgstr "Old Man: ..."
 
 #: 002693D0
 msgctxt "00000197"
@@ -1257,7 +1258,7 @@ msgstr "Old Man: Did you find what you needed?"
 msgctxt "00000205"
 msgid ""
 "老人：今後の旅の無事をお祈りしております。"
-msgstr ""
+msgstr "Old Man: I'll pray that your journey keeps you safe."
 
 #: 0026966E
 msgctxt "00000206"
