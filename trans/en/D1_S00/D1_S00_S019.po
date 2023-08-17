@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s019/en/>\n"
@@ -22,19 +22,20 @@ msgstr " "
 msgctxt "00000001"
 msgid ""
 "カイ：これは人形だ・・・"
-msgstr ""
+msgstr "Kai: What's a doll doing here?"
 
 #: 0019B1DE
 msgctxt "00000002"
 msgid ""
 "ミーナ：おそらくここを守るために、古代に設置されたものでしょう。"
 msgstr ""
+"Minna: This must have been placed here to protect this place many years ago."
 
 #: 0019B230
 msgctxt "00000003"
 msgid ""
 "バーク：おっ、いいもんもってるぜ。"
-msgstr ""
+msgstr "Burke: Hey, check out what it's holding!"
 
 #: 0019B26C
 msgctxt "00000004"
@@ -46,13 +47,13 @@ msgstr "You found a Wind Sword in the broken doll's hands!"
 msgctxt "00000005"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 0019B2FF
 msgctxt "00000006"
 msgid ""
 "カイ：もうなにもないな。"
-msgstr ""
+msgstr "Kai: There's nothing else here."
 
 #: 0019B33A
 msgctxt "00000007"
@@ -64,7 +65,7 @@ msgstr "Burke: What're you looking at?"
 msgctxt "00000008"
 msgid ""
 "ミシリア：カイ、どうしたの？"
-msgstr ""
+msgstr "Michelia: Kai, what's up?"
 
 #: 0019B3B6
 msgctxt "00000009"
@@ -88,7 +89,7 @@ msgstr "Aw, it's just trash..."
 msgctxt "00000012"
 msgid ""
 "カイ：もうなにもないよ・・・あっ！！"
-msgstr ""
+msgstr "Kai: There's nothing else-- Woah!"
 
 #: 0019B476
 msgctxt "00000013"
@@ -112,7 +113,7 @@ msgstr "Kai: There can't be anything else here."
 msgctxt "00000016"
 msgid ""
 "カイ：もうなにもない・・・"
-msgstr ""
+msgstr "Kai: There's nothing else here..."
 
 #: 0019B5D3
 msgctxt "00000017"
@@ -143,7 +144,7 @@ msgstr "You found an Ice Axe inside of the broken doll!"
 msgctxt "00000021"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 0019B71E
 msgctxt "00000022"
@@ -221,7 +222,7 @@ msgstr "We will not ask again!"
 msgctxt "00000034"
 msgid ""
 "警告をまもらぬおろかものどもに死を！！"
-msgstr ""
+msgstr "Fools who do not heed our warning shall perish!"
 
 #: 0019BAFE
 msgctxt "00000035"
@@ -401,7 +402,7 @@ msgstr "What could they be for?"
 msgctxt "00000064"
 msgid ""
 "ミシリア：・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 003BF249
 msgctxt "00000065"
@@ -431,7 +432,7 @@ msgstr "Kai: ..."
 msgctxt "00000069"
 msgid ""
 "ミシリア：・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 003BF344
 msgctxt "00000070"
