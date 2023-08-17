@@ -1,108 +1,126 @@
-﻿#: 00044915
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-17 19:45-0400\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d1_s00_s013/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00044915
 msgctxt "00000000"
 msgid ""
 "バーテン：いらっしゃいませ。"
-msgstr ""
+msgstr "Bartender: Welcome."
 
 #: 00044935
 msgctxt "00000001"
 msgid ""
 "うーん。子供にお酒は売れないね。一応決まりだからね。"
-msgstr ""
+msgstr "Sorry, but I can't serve alcohol to minors. Those are the rules."
 
 #: 0004496D
 msgctxt "00000002"
 msgid ""
 "つまみぐらいなら売ってもいいかな？"
-msgstr ""
+msgstr "I don't mind serving you anything else though if you'd like."
 
 #: 00044993
 msgctxt "00000003"
 msgid ""
 "買っていくかい？"
-msgstr ""
+msgstr "Want anything?"
 
 #: 00089155
 msgctxt "00000004"
 msgid ""
 "大臣：これはこれはカイ様。"
-msgstr ""
+msgstr "Minister: Oh, Lord Kai, always a pleasure."
 
 #: 00089173
 msgctxt "00000005"
 msgid ""
 "このような所に何ようですかな？"
-msgstr ""
+msgstr "What business do you have in a place like this?"
 
 #: 000891A3
 msgctxt "00000006"
 msgid ""
 "カイ：特に用事はないよ。たまたま寄っただけ。"
-msgstr ""
+msgstr "Kai: Nothing in particular. I just happened to be passing through."
 
 #: 000891E1
 msgctxt "00000007"
 msgid ""
 "大臣：さようですか。お体に気をつけて、旅をお続けください。"
 msgstr ""
+"Minister: Very well. Please watch your health as you continue your journey."
 
 #: 00089238
 msgctxt "00000008"
 msgid ""
 "大臣：あと、これは少ないですが、これで何かおいしい物でも食べて下さい。"
 msgstr ""
+"Minister: And also, this isn't much, but treat yourself to something tasty."
 
 #: 0008929B
 msgctxt "00000009"
 msgid ""
 "１０００ガメを手に入れた。"
-msgstr ""
+msgstr "You got 1,000 Gahme!"
 
 #: 000892CA
 msgctxt "00000010"
 msgid ""
 "大臣：それではどうかお気をつけて。"
-msgstr ""
+msgstr "Minister: Safe travels!"
 
 #: 0008930B
 msgctxt "00000011"
 msgid ""
 "大臣：どうかお気をつけて。"
-msgstr ""
+msgstr "Minister: Please be careful."
 
 #: 000CD922
 msgctxt "00000012"
 msgid ""
 "じじい：魔法はいらんかね？"
-msgstr ""
+msgstr "Old Man: Need some magic?"
 
 #: 000CD982
 msgctxt "00000013"
 msgid ""
 "じじい：こんど新しい魔法を仕入れるよていだよ。"
-msgstr ""
+msgstr "Old Man: I hope to get some new spells in soon."
 
 #: 000CD9B4
 msgctxt "00000014"
 msgid ""
 "楽しみにしててくれよ。"
-msgstr ""
+msgstr "Come by again soon."
 
 #: 000CD9E1
 msgctxt "00000015"
 msgid ""
 "じじい：魔法はいらんかね？"
-msgstr ""
+msgstr "Old Man: Need some magic?"
 
 #: 000CDA5A
 msgctxt "00000016"
 msgid ""
 "じじい：そういえば・・・"
-msgstr ""
+msgstr "Old Man: I've heard a rumor..."
 
 #: 000CDA76
 msgctxt "00000017"
 msgid ""
 "高いところにすむ人が最強の魔法を売っているそうだ。"
 msgstr ""
-
+"They say a man who lives in a high place sells the most powerful of spells."
