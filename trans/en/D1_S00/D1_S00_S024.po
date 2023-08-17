@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:34-0400\n"
-"PO-Revision-Date: 2023-08-17 17:29+0000\n"
+"PO-Revision-Date: 2023-08-17 23:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s024/en/>\n"
@@ -46,7 +46,7 @@ msgstr "Kai: It won't open. What do we need to do to open it?"
 msgctxt "00000005"
 msgid ""
 "男：何か用か？"
-msgstr ""
+msgstr "Man: Do you need something?"
 
 #: 00156988
 msgctxt "00000006"
@@ -58,13 +58,13 @@ msgstr "Kai: We want to get into the Goddess Shrine. Do you know how to enter?"
 msgctxt "00000007"
 msgid ""
 "何だ？女神の力でも手に入れようってのか？"
-msgstr ""
+msgstr "Huh? Are you're trying to claim the Goddess's divine power?"
 
 #: 00156A26
 msgctxt "00000008"
 msgid ""
 "カイ：ああ、そうだよ。"
-msgstr ""
+msgstr "Kai: Yes, that's right."
 
 #: 00156A59
 msgctxt "00000009"
@@ -94,7 +94,7 @@ msgstr "Kai: Of course I am."
 msgctxt "00000013"
 msgid ""
 "男：・・・へへ、まあいいだろう。"
-msgstr ""
+msgstr "Man: ...hah! Well, I can't argue with your resolve."
 
 #: 00156B71
 msgctxt "00000014"
@@ -132,25 +132,25 @@ msgstr "Man: No."
 msgctxt "00000019"
 msgid ""
 "男：最近は魔物の数が増えてるからな。"
-msgstr ""
+msgstr "Man: Because monster attacks in this area have been on the rise,"
 
 #: 00156CCB
 msgctxt "00000020"
 msgid ""
 "用心のために「カギ」は「ケーブの町」のやつにわたしてあるんだ。"
-msgstr ""
+msgstr "I handed them to someone in Keb Village for safekeeping."
 
 #: 00156D0D
 msgctxt "00000021"
 msgid ""
 "「フィスコ＝アルタ」って名前のじいさんだ。"
-msgstr ""
+msgstr "Look for an old man named \"Fisco Alter.\""
 
 #: 00156D54
 msgctxt "00000022"
 msgid ""
 "カイ：よし、ケーブの町へ行こう！！"
-msgstr ""
+msgstr "Kai: Okay, we're off to Keb Village!"
 
 #: 00156D8D
 msgctxt "00000023"
@@ -266,7 +266,7 @@ msgstr "I handed them to someone in Keb Village for safekeeping."
 msgctxt "00000041"
 msgid ""
 "「フィスコ＝アルタ」って名前のじいさんだ。"
-msgstr "Look for an old man named \"Fisco Alter\"."
+msgstr "Look for an old man named \"Fisco Alter.\""
 
 #: 001571D5
 msgctxt "00000042"
@@ -754,7 +754,7 @@ msgctxt "00000120"
 msgid ""
 "カイ：僕達の調べていた、怪物になる病気とは、何の関係もないのですね。"
 msgstr ""
-"Kai: Is this haven not affected by the the People Becoming Monsters Disease?"
+"Kai: Is this haven not affected by the People Becoming Monsters Disease?"
 
 #: 00268C40
 msgctxt "00000121"
