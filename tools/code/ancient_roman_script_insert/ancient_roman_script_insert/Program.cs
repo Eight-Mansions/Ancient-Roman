@@ -167,7 +167,7 @@ namespace ancient_roman_script_insert
                     {
                         pos = pos,
                         japanese = japanese,
-                        english = english.Replace("<$00>", "")
+                        english = english
                     });
 
                     pos = "";
