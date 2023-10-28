@@ -20,7 +20,7 @@ LINKOOPTS = /psx /p /c /li $(RELMODE)
 #MENU_SRC   = menu.c root.c item.c ability.c equip.c status.c bestiary.c config.c save.c
 #BATTLE_SRC = battle.c
 FONT_SRC = font.cpp
-
+TEXT_SRC = text.cpp
 
 ## build object names from types ##
 #CORE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obj, ${CORE_SRC})
@@ -29,6 +29,7 @@ FONT_SRC = font.cpp
 #MENU_OBJ	= $(patsubst %.c, $(RELMODE)/%.obm, ${MENU_SRC})
 #BATTLE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obb, ${BATTLE_SRC})
 FONT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${FONT_SRC})
+TEXT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${TEXT_SRC})
 
 
 ## list of objects to use for linking ##
@@ -36,7 +37,7 @@ FONT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${FONT_SRC})
 ## .lk file or they will not be linked at all! ##
 #ALL_SRC = $(CORE_OBJ) $(MENU_OBJ) $(BATTLE_OBJ) $(FIELD_OBJ)
 #ALL_ASM = $(CORE_ASM)
-ALL_SRC = $(FONT_OBJ)
+ALL_SRC = $(FONT_OBJ) $(TEXT_OBJ)
 
 
 #ALL_OBJ = $(ALL_SRC) $(ALL_ASM)
