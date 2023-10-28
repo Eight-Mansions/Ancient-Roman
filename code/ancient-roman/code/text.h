@@ -5,9 +5,9 @@
 
 extern "C" {
 
-	void LoadText(char* src, char* dest);
+	void LoadText(char* dest, char* src);
 
-	extern void CopyString(char* src, char* dest);
+	extern void CopyString(char* dest, char* src);
 }
 
 #endif
