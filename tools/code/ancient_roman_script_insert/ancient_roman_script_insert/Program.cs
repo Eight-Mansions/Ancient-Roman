@@ -67,10 +67,9 @@ namespace ancient_roman_script_insert
             return myLine;
         }
 
-        static byte[] EncodeToHex(string text, Dictionary<string, string> table)
+        static int longestEntry = 1;
+        static byte[] Encode(string text, Dictionary<string, string> table)
         {
-            int longestEntry = table.Keys.OrderByDescending(x => x.ToString().Length).First().Length / 2;
-
             List<byte> encoding = new List<byte>();
             for (int i = 0; i < text.Length; i++)
             {
@@ -84,7 +83,7 @@ namespace ancient_roman_script_insert
                 {
                     for (int j = longestEntry; j >= 1; j--)
                     {
-                        if (i + (j - 1) < text.Length)
+                        if (i + j < text.Length)
                         {
                             string piece = text.Substring(i, j);
                             if (table.ContainsKey(piece))
@@ -182,9 +181,13 @@ namespace ancient_roman_script_insert
 
         class PoEntry
         {
+            public uint origPos;
+            public uint insPos;
             public string pos;
             public string japanese;
             public string english;
+            public byte[] encoded;
+            public bool found;
         }
 
         static void Main(string[] args)
@@ -209,6 +212,7 @@ namespace ancient_roman_script_insert
                 if (table_entry.Length > 0)
                 {
                     encodingTable[table_entry.Split('=')[1]] = table_entry.Split('=')[0].ToUpper();
+                    longestEntry = (longestEntry < (table_entry.Split('=')[1]).Length) ? (table_entry.Split('=')[1]).Length : longestEntry;
                 }
             }
             
@@ -227,12 +231,38 @@ namespace ancient_roman_script_insert
                 string[] files = Directory.GetFiles(datFolder, "*.bin");
                 foreach(string file in files)
                 {
+                    for (int i = 0; i < poEntries.Count; i++)
+                    {
+                        poEntries[i].found = false;
+                    }
+
                     FileInfo fi = new FileInfo(file);
 
 
                     BinaryReader inBin = new BinaryReader(File.OpenRead(file));
+                    inBin.BaseStream.Seek(4, SeekOrigin.Begin);
+                    uint nextFilePos = inBin.ReadUInt32();
 
-                    MemoryStream outBin = new MemoryStream();
+
+                    long insTextPos = 0;
+                    inBin.BaseStream.Seek(nextFilePos - 0x10, SeekOrigin.Begin);
+                    while(true)
+                    {
+                        UInt64 isZero1 = inBin.ReadUInt64();
+                        UInt64 isZero2 = inBin.ReadUInt64();
+                        if (isZero1 == 0 && isZero2 == 0)
+                        {
+                            insTextPos = inBin.BaseStream.Position - 0x10;
+                            inBin.BaseStream.Seek(-0x20, SeekOrigin.Current);
+                        }
+                        else
+                            break;
+                    }
+
+                    int boopme = 0;
+
+
+                    inBin.BaseStream.Seek(0, SeekOrigin.Begin);
                     uint evfhStart = inBin.ReadUInt32();
                     uint nextFileStart = inBin.ReadUInt32();
 
@@ -242,33 +272,13 @@ namespace ancient_roman_script_insert
                     uint evidtblStart = inBin.ReadUInt32() + evfhStart;
                     uint evtofsStart = inBin.ReadUInt32() + evfhStart;
                     uint evtextStart = inBin.ReadUInt32() + evfhStart;
-                    uint evtofsNumEntries = inBin.ReadUInt32();
 
-                    List<uint> evtofsEntries = new List<uint>();
 
-                    inBin.BaseStream.Seek(evtofsStart, SeekOrigin.Begin);
-                    for (int i = 0; i < evtofsNumEntries; i++)
-                    {
-                        evtofsEntries.Add(inBin.ReadUInt32() + evtextStart);
-                    }
-                    List<uint> newEvtofsEntries = new List<uint>(evtofsEntries);
 
-                    inBin.BaseStream.Seek(0, SeekOrigin.Begin);
-                    outBin.Write(inBin.ReadBytes((int)evtextStart), 0, (int)evtextStart);
-
-                    while(true)
+                    while (true)
                     {
                         if (inBin.BaseStream.Position >= nextFileStart)
                             break;
-
-                        if (inBin.BaseStream.Position == (0x1F21 + evtextStart))
-                        {
-                            int boopme = 0;
-                        }
-                        if (evtofsEntries.Contains((uint)inBin.BaseStream.Position))
-                        {
-                            newEvtofsEntries[evtofsEntries.IndexOf((uint)inBin.BaseStream.Position)] = (uint)outBin.Position;
-                        }
 
                         byte aByte1 = inBin.ReadByte();
                         byte aByte2 = inBin.ReadByte();
@@ -276,11 +286,7 @@ namespace ancient_roman_script_insert
                         byte aByte4 = inBin.ReadByte();
                         if (aByte1 == 0x00 && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00)
                         {
-                            outBin.WriteByte(aByte1);
-                            outBin.WriteByte(aByte2);
-                            outBin.WriteByte(aByte3);
-                            outBin.WriteByte(aByte4);
-
+                            uint origPos = (uint)inBin.BaseStream.Position;
                             List<byte> letters = new List<byte>();
                             while (inBin.BaseStream.Position < inBin.BaseStream.Length)
                             {
@@ -288,32 +294,27 @@ namespace ancient_roman_script_insert
                                 letters.Add(aLetterByte);
                                 if (aLetterByte == 0)
                                 {
-                                    if (inBin.BaseStream.Position == 0x18E5)
-                                    {
-                                        int boopme = 0;
-                                    }
-
                                     inBin.BaseStream.Seek(-1, SeekOrigin.Current);
                                     break;
                                 }
                             }
                             string myLine = GetEncodedLine(letters.ToArray(), table).Replace("//", "").Replace("\n<$00>", "");
-                            PoEntry poEntry = poEntries.Where(p => (p.japanese == myLine || p.japanese.Replace("＿", "　") == myLine) && !String.IsNullOrEmpty(p.english)).FirstOrDefault();
-                            if (poEntry != null)
+                            //PoEntry poEntry = poEntries.Where(p => (p.japanese == myLine || p.japanese.Replace("＿", "　") == myLine) && !String.IsNullOrEmpty(p.english)).FirstOrDefault();
+                            for (int i = 0; i < poEntries.Count; i++)
                             {
-                                byte[] encoded = EncodeToHex(poEntry.english.ToUpper(), encodingTable);
-                                outBin.Write(encoded, 0, encoded.Length);
+                                PoEntry poEntry = poEntries[i];
+                                if (!String.IsNullOrEmpty(poEntry.english) && (poEntry.japanese == myLine || poEntry.japanese.Replace("＿", "　") == myLine))
+                                {
+                                    poEntry.origPos = origPos;
+                                    poEntry.encoded = Encode(poEntry.english.ToUpper(), encodingTable);
+                                    poEntry.found = true;
+                                    poEntries[i] = poEntry;
+                                    break;
+                                }
                             }
-                            else
-                            {
-                                byte[] encoded = EncodeToHex(myLine, encodingTable);
-                                outBin.Write(encoded, 0, encoded.Length);
-                            }
-
                         }
                         else
                         {
-                            outBin.WriteByte(aByte1);
                             inBin.BaseStream.Seek(-3, SeekOrigin.Current);
                         }
                     }
@@ -326,19 +327,34 @@ namespace ancient_roman_script_insert
                     inBin.BaseStream.Seek(0, SeekOrigin.Begin);
                     newBin.Write(inBin.ReadBytes((int)inBin.BaseStream.Length));
 
-                    
-                    newBin.Seek(0, SeekOrigin.Begin);
-
-                    int outLen = (outBin.Position > nextFileStart) ? (int)nextFileStart : (int)outBin.Position;
-                    byte[] scriptBytes = new byte[outLen];
-                    Array.Copy(outBin.ToArray(), scriptBytes, outLen);
-                    newBin.Write(scriptBytes);
-
-
-                    newBin.BaseStream.Seek(evtofsStart, SeekOrigin.Begin);
-                    for (int i = 0; i < evtofsNumEntries; i++)
+                    newBin.BaseStream.Seek(insTextPos, SeekOrigin.Begin);
+                    for(int i = 0; i < poEntries.Count; i++)
                     {
-                        newBin.Write((uint)(newEvtofsEntries[i] - evtextStart));
+                        PoEntry poEntry = poEntries[i];
+                        if (poEntry.found)
+                        {
+                            poEntry.insPos = (uint)newBin.BaseStream.Position - evfhStart;
+                            poEntries[i] = poEntry;
+
+                            newBin.Write(poEntry.encoded);
+                            newBin.Write((byte)0);
+                        }
+
+                        if (newBin.BaseStream.Position >= nextFilePos)
+                        {
+                            int breakMe = 0;
+                        }                            
+                    }
+
+                    for (int i = 0; i < poEntries.Count; i++)
+                    {
+                        PoEntry poEntry = poEntries[i];
+                        if (poEntry.found)
+                        {
+                            newBin.BaseStream.Seek(poEntry.origPos, SeekOrigin.Begin);
+                            newBin.Write((byte)0x80);
+                            newBin.Write((ushort)poEntry.insPos);
+                        }
                     }
 
                     newBin.Close();
