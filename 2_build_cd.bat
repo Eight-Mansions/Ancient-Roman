@@ -21,7 +21,7 @@ echo:
 echo Copying over font file...
 del graphics\DATA0000\BASE.FBS
 copy graphics\orig\DATA0000\BASE.FBS graphics\DATA0000\BASE.FBS
-REM tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.png -p 8 -c 0x5308 -b 4
+tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.1.5308.png -p 8 -c 0x5308 -b 4
 
 del /q cd\%name%\DATA0000\BASE.FBS
 copy graphics\DATA0000\BASE.FBS cd\%name%\DATA0000\BASE.FBS
