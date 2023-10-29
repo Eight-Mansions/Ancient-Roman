@@ -18,6 +18,14 @@ echo Copying over translated scripts...
 copy ins\D1_S00\*.DAT cd\%name%\S00\ 1>nul
 echo:
 
+echo Copying over font file...
+del graphics\DATA0000\BASE.FBS
+copy graphics\orig\DATA0000\BASE.FBS graphics\DATA0000\BASE.FBS
+REM tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.png -p 8 -c 0x5308 -b 4
+
+del /q cd\%name%\DATA0000\BASE.FBS
+copy graphics\DATA0000\BASE.FBS cd\%name%\DATA0000\BASE.FBS
+
 echo Building final bin file...
 pushd cd
 ..\tools\psximager\psxbuild.exe "%name%.cat" "%name%_working.bin">> build.log
