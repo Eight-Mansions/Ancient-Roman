@@ -8,15 +8,27 @@
 	
 .org 0x8001f268
 	jal LoadText
+	
+.org 0x8003e28c
+	j CallGetSentenceWidth
 
 .org 0x8003dedc		; Update letter dest width
 	addiu v1, s2, 0x0F
 	
 .org 0x8003e348		; Update letter source width
-	ori a3, v1, 0x0F	
+	ori a3, v1, 0x0F
 	
 .org 0x800B8000
 	.importobj "code\ancient-roman\obj\text.obj"
+	.importobj "code\ancient-roman\obj\font.obj"
+	
+CallGetSentenceWidth:
+	addu a0, r0, s0
+	addu a1, r0, s3
+	jal GetSentenceWidth
+	addu a2, r0, s1
+	
+	j 0x8003e294
 	
 .org 0x80096136		; Updating mappings to allow lowercase
 	.db 0x30, 0xD1 ; a
