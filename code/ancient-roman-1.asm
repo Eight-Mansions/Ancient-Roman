@@ -12,6 +12,23 @@
 .org 0x8003e28c
 	j CallGetSentenceWidth
 
+
+.org 0x8003e278 ; The compare is set by the script itself which is usually 0x13 and is stored at 0x8013acd6 in memory.  Hopefully this wont break other things ;_;
+	slti v0, s3, 0x26
+
+.org 0x8003f8a0 ; Increase max line length from 0x1a to 0x26
+	addiu a2, r0, 0x26
+	
+.org 0x8003f914 ; Increase max line length from 0x1a to 0x26
+	addiu a2, r0, 0x26
+
+.org 0x8003f22c		; Initialize our double sized link list
+	ori v0, r0, 0x26
+
+.org 0x8003ec00		; Increase linked list for sentences (double the size)
+	ori a0,zero,0x820
+    ori a0,zero,0x820
+
 .org 0x8003dedc		; Update letter dest width
 	addiu v1, s2, 0x0F
 	
