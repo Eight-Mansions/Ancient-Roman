@@ -12,7 +12,6 @@
 .org 0x8003e28c
 	j CallGetSentenceWidth
 
-
 .org 0x8003e278 ; The compare is set by the script itself which is usually 0x13 and is stored at 0x8013acd6 in memory.  Hopefully this wont break other things ;_;
 	slti v0, s3, 0x26
 
