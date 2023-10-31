@@ -3,20 +3,22 @@
 const u8 widths[] = {
 	0x03, //  
 	0x02, // !
-
 	0x04, // "
+
 	0x08, // #
 	0x06, // $
 	0x07, // %
 	0x06, // &
+	
 	0x02, // '
+	
 	0x04, // (
 	0x04, // )
 	0x04, // *
 	0x06, // +
 
 	0x03, // ,
-	
+
 	0x09, // -
 	0x03, // .
 
@@ -130,6 +132,7 @@ u8 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 			{
 				letter = (start[i] << 0x8) + start[i + 1];
 				i++;
+
 				x += 0x0F;
 			}
 			else
