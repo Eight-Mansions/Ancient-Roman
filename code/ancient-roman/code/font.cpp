@@ -119,50 +119,44 @@ u8 GetLetterWidth(const u32 letter)
 	return widths[idx];
 }
 
+u32 x = 0;
 u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 {
-	const char* start = text - curIdx;
-	u8 letterIdx = 0;
-	if (start != text)
+	u8 width = 0;
+	u16 letter = text[0];
+	if (letter > 0x80)
 	{
-		u16 x = 0;
-		for (u16 i = 0; i < curIdx; i++)
-		{
-			u16 letter = start[i];
-			if (letter > 0x80)
-			{
-				letter = (letter << 0x8) + start[i + 1];
-				i++;
-
-				x += 0x0F;
-			}
-			else
-			{
-				x += GetLetterWidth(letter);
-			}
-
-			letterIdx++;
-		}
-
-		u8* firstGraphic = (graphic - (0x28 * letterIdx)) - 0x15;
-		u32 textX = firstGraphic[0] | firstGraphic[1] << 8;
-		textX = textX + x;
-
-		(graphic - 0x15)[0] = textX;
-		(graphic - 0x15)[1] = textX >> 8;
-
-		(graphic - 0x05)[0] = textX;
-		(graphic - 0x05)[1] = textX >> 8;
-
-		textX += 0x0F;
-
-		(graphic - 0x0D)[0] = textX;
-		(graphic - 0x0D)[1] = textX >> 8;
-
-		(graphic + 0x03)[0] = textX;
-		(graphic + 0x03)[1] = textX >> 8;
-
+		letter = (letter << 0x8) + text[1];
+		width = 0x0F;
 	}
+	else
+	{
+		u32 idx = letter - 0x20;
+		width = widths[idx];
+	}
+
+	if (curIdx == 0)
+	{
+		x = 0;
+		u8* xPos = graphic - 0x15;
+		x = (graphic - 0x15)[0] | (graphic - 0x15)[1] << 8;
+	}
+	else
+	{
+		(graphic - 0x15)[0] = x;
+		(graphic - 0x15)[1] = x >> 8;
+
+		(graphic - 0x05)[0] = x;
+		(graphic - 0x05)[1] = x >> 8;
+
+		(graphic - 0x0D)[0] = (x + 0x0F);
+		(graphic - 0x0D)[1] = (x + 0x0F) >> 8;
+
+		(graphic + 0x03)[0] = (x + 0x0F);
+		(graphic + 0x03)[1] = (x + 0x0F) >> 8;
+	}
+
+	x += width;
 
 	return text[0];
 }

@@ -29,8 +29,8 @@
 	ori v0, r0, 0x26
 
 .org 0x8003ec00		; Increase linked list for sentences (double the size)
-	ori a0,zero,0x820
-    ori a0,zero,0x820
+	ori a0,zero,0x0820
+    ori a0,zero,0x0820
 
 .org 0x8003dedc		; Update letter dest width
 	addiu v1, s2, 0x0F
@@ -41,17 +41,36 @@
 .org 0x8003e2d4		; Increase the index for where were at in the string
 	addiu s3, s3, 1
 	
+.org 0x8003f964
+	addiu t1, r0, 0x20
+	addiu t0, r0, 0x20
+	
 .org 0x800B8000
 	.importobj "code\ancient-roman\obj\text.obj"
 	.importobj "code\ancient-roman\obj\font.obj"
 	
 CallGetSentenceWidth:
+	addiu sp, sp, -24
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
+	sw v1, 20(sp)
+
 	addu a0, r0, s0
 	addu a1, r0, s3
 	jal GetSentenceWidth
 	addu a2, r0, s1
 	
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a2, 12(sp)
+	lw a3, 16(sp)
+	lw v1, 20(sp)
 	j 0x8003e294
+	addiu sp, sp, 24
 	
 .org 0x80096136		; Updating mappings to allow lowercase
 	.db 0x30, 0xD1 ; a
