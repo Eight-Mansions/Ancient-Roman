@@ -38,6 +38,9 @@
 .org 0x8003e348		; Update letter source width
 	ori a3, v1, 0x0F
 	
+.org 0x8003e2d4		; Increase the index for where were at in the string
+	addiu s3, s3, 1
+	
 .org 0x800B8000
 	.importobj "code\ancient-roman\obj\text.obj"
 	.importobj "code\ancient-roman\obj\font.obj"

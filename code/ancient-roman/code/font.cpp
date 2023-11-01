@@ -113,37 +113,39 @@ const u8 widths[] = {
 
 };
 
-int GetLetterWidth(const u32 letter)
+u8 GetLetterWidth(const u32 letter)
 {
 	u32 idx = letter - 0x20;
 	return widths[idx];
 }
 
-u8 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
+u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 {
 	const char* start = text - curIdx;
+	u8 letterIdx = 0;
 	if (start != text)
 	{
-		int x = 0;
-		for (int i = 0; i < curIdx; i++)
+		u16 x = 0;
+		for (u16 i = 0; i < curIdx; i++)
 		{
-			int letter = 0;
-			if (start[i] > 0x80)
+			u16 letter = start[i];
+			if (letter > 0x80)
 			{
-				letter = (start[i] << 0x8) + start[i + 1];
+				letter = (letter << 0x8) + start[i + 1];
 				i++;
 
 				x += 0x0F;
 			}
 			else
 			{
-				letter = start[i];
 				x += GetLetterWidth(letter);
 			}
+
+			letterIdx++;
 		}
 
-		u8* firstGraphic = (graphic - (0x28 * curIdx)) - 0x15;
-		int textX = firstGraphic[0] | firstGraphic[1] << 8;
+		u8* firstGraphic = (graphic - (0x28 * letterIdx)) - 0x15;
+		u32 textX = firstGraphic[0] | firstGraphic[1] << 8;
 		textX = textX + x;
 
 		(graphic - 0x15)[0] = textX;
