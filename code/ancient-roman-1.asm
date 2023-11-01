@@ -12,10 +12,8 @@
 .org 0x8003e28c
 	j CallGetSentenceWidth
 
-; .org 0x8003e9e4
-	; addiu s0, r0, 0x19
-	
-.org 0x8003fa44
+
+.org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
 	slti v0, t4, 0x13
 
 .org 0x8003e278 ; The compare is set by the script itself which is usually 0x13 and is stored at 0x8013acd6 in memory.  Hopefully this wont break other things ;_;
