@@ -124,12 +124,7 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 {
 	u8 width = 0;
 	u16 letter = text[0];
-
-	u8* xpos1 = graphic - 0x15;
-	u8* xpos2 = graphic - 0x05;
-	u8* xpos3 = graphic - 0x0D;
-	u8* xpos4 = graphic + 0x03;
-
+	u8* xpos = graphic - 0x15;
 
 	if (letter != 0)
 	{
@@ -147,39 +142,42 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 		if (curIdx == 0)
 		{
 			x = 0;
-			u8* xPos = graphic - 0x15;
-			x = (graphic - 0x15)[0] | (graphic - 0x15)[1] << 8;
+			x = xpos[0] | xpos[1] << 8;
 		}
 		else
 		{
-			xpos1[0] = x;
-			xpos1[1] = x >> 8;
+			xpos[0] = x;
+			xpos[1] = x >> 8;
 
-			xpos2[0] = x;
-			xpos2[1] = x >> 8;
+			(xpos + 0x10)[0] = x;
+			(xpos + 0x10)[1] = x >> 8;
 
-			xpos3[0] = (x + 0x0F);
-			xpos3[1] = (x + 0x0F) >> 8;
+			u32 width = x + 0x0F;
 
-			xpos4[0] = (x + 0x0F);
-			xpos4[1] = (x + 0x0F) >> 8;
+			(xpos + 0x8)[0] = width;
+			(xpos + 0x8)[1] = width >> 8;
+
+			(xpos + 0x18)[0] = width;
+			(xpos + 0x18)[1] = width >> 8;
 		}
 
 		x += width;
 	}
 	else
 	{
-		xpos1[0] = x;
-		xpos1[1] = x >> 8;
+		xpos[0] = x;
+		xpos[1] = x >> 8;
 
-		xpos2[0] = x;
-		xpos2[1] = x >> 8;
+		(xpos + 0x10)[0] = x;
+		(xpos + 0x10)[1] = x >> 8;
 
-		xpos3[0] = (x + 0x0F);
-		xpos3[1] = (x + 0x0F) >> 8;
+		u32 width = x + 0x0F;
 
-		xpos4[0] = (x + 0x0F);
-		xpos4[1] = (x + 0x0F) >> 8;
+		(xpos + 0x8)[0] = width;
+		(xpos + 0x8)[1] = width >> 8;
+
+		(xpos + 0x18)[0] = width;
+		(xpos + 0x18)[1] = width >> 8;
 	}
 
 	return text[0];
