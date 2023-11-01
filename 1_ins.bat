@@ -8,6 +8,7 @@ tools\ancient_roman_dat_insert.exe ins
 pushd code\ancient-roman
 pmake -e RELMODE=DEBUG clean
 mkdir Debug
+mkdir obj
 pmake -e RELMODE=DEBUG -e OUTFILE=main -e OPTIMIZE=2
 popd
 
