@@ -142,42 +142,30 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 		if (curIdx == 0)
 		{
 			x = 0;
-			x = xpos[0] | xpos[1] << 8;
+			x = ((u16*)xpos)[0];
 		}
 		else
 		{
-			xpos[0] = x;
-			xpos[1] = x >> 8;
-
-			(xpos + 0x10)[0] = x;
-			(xpos + 0x10)[1] = x >> 8;
+			((u16*)xpos)[0] = x;
+			((u16*)(xpos + 0x10))[0] = x;
 
 			u32 width = x + 0x0F;
 
-			(xpos + 0x8)[0] = width;
-			(xpos + 0x8)[1] = width >> 8;
-
-			(xpos + 0x18)[0] = width;
-			(xpos + 0x18)[1] = width >> 8;
+			((u16*)(xpos + 0x8))[0] = width;
+			((u16*)(xpos + 0x18))[0] = width;
 		}
 
 		x += width;
 	}
 	else
 	{
-		xpos[0] = x;
-		xpos[1] = x >> 8;
-
-		(xpos + 0x10)[0] = x;
-		(xpos + 0x10)[1] = x >> 8;
+		((u16*)xpos)[0] = x;
+		((u16*)(xpos + 0x10))[0] = x;
 
 		u32 width = x + 0x0F;
 
-		(xpos + 0x8)[0] = width;
-		(xpos + 0x8)[1] = width >> 8;
-
-		(xpos + 0x18)[0] = width;
-		(xpos + 0x18)[1] = width >> 8;
+		((u16*)(xpos + 0x8))[0] = width;
+		((u16*)(xpos + 0x18))[0] = width;
 	}
 
 	return text[0];
