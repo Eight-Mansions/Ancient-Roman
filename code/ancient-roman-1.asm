@@ -45,10 +45,39 @@
 	addiu t1, r0, 0x20
 	addiu t0, r0, 0x20
 	
+.org 0x8003f9e8
+	j CheckForNewline
+	nop
+	
+.org 0x8003f9f8
+	nop
+	
 .org 0x800B8000
 	.importobj "code\ancient-roman\obj\text.obj"
 	.importobj "code\ancient-roman\obj\font.obj"
+
+CheckForNewline:
+	lbu t1, 0(a0)
+	addiu v0, r0, 0x0A	
+	beq v0, t1, isNewLine1
+	nop
 	
+	lbu t0, 1(a0)
+	nop
+	beq v0, t0, isNewLine2
+	nop
+	j 0x8003f9f4
+	addiu a0, 0x02
+
+isNewLine1:
+	j 0x8003fa50
+	addiu a0, 0x01
+
+isNewLine2:
+	sb t1, 0(a3)
+	j 0x8003fa50
+	addiu a0, 0x02
+
 CallGetSentenceWidth:
 	addiu sp, sp, -24
 	sw ra, 0(sp)
