@@ -1,0 +1,2256 @@
+﻿msgctxt "00000000"
+msgid ""
+"スカイロード"
+msgstr ""
+
+
+msgctxt "00000001"
+msgid ""
+"ダ・カーポ"
+msgstr ""
+
+
+msgctxt "00000002"
+msgid ""
+"ヴェンツァー"
+msgstr ""
+
+
+msgctxt "00000003"
+msgid ""
+"ソードダンス"
+msgstr ""
+
+
+msgctxt "00000004"
+msgid ""
+"チャリオット"
+msgstr ""
+
+
+msgctxt "00000005"
+msgid ""
+"エヴリマカガ"
+msgstr ""
+
+
+msgctxt "00000006"
+msgid ""
+"マカガード"
+msgstr ""
+
+
+msgctxt "00000007"
+msgid ""
+"エヴリボルボ"
+msgstr ""
+
+
+msgctxt "00000008"
+msgid ""
+"ボルボ"
+msgstr ""
+
+
+msgctxt "00000009"
+msgid ""
+"ラ・ポルシェ"
+msgstr ""
+
+
+msgctxt "00000010"
+msgid ""
+"ポルーシェ"
+msgstr ""
+
+
+msgctxt "00000011"
+msgid ""
+"エヴリラヴァ"
+msgstr ""
+
+
+msgctxt "00000012"
+msgid ""
+"リトルラヴァ"
+msgstr ""
+
+
+msgctxt "00000013"
+msgid ""
+"ノクターン"
+msgstr ""
+
+
+msgctxt "00000014"
+msgid ""
+"マカドリア"
+msgstr ""
+
+
+msgctxt "00000015"
+msgid ""
+"エヴリドクマ"
+msgstr ""
+
+
+msgctxt "00000016"
+msgid ""
+"ドクマロイデ"
+msgstr ""
+
+
+msgctxt "00000017"
+msgid ""
+"セイントロー"
+msgstr ""
+
+
+msgctxt "00000018"
+msgid ""
+"ケルパー"
+msgstr ""
+
+
+msgctxt "00000019"
+msgid ""
+"スコスコール"
+msgstr ""
+
+
+msgctxt "00000020"
+msgid ""
+"フィヨルド"
+msgstr ""
+
+
+msgctxt "00000021"
+msgid ""
+"アクアローゼ"
+msgstr ""
+
+
+msgctxt "00000022"
+msgid ""
+"アクア"
+msgstr ""
+
+
+msgctxt "00000023"
+msgid ""
+"ウィリウィリ"
+msgstr ""
+
+
+msgctxt "00000024"
+msgid ""
+"ガルウインド"
+msgstr ""
+
+
+msgctxt "00000025"
+msgid ""
+"テラ・ロッサ"
+msgstr ""
+
+
+msgctxt "00000026"
+msgid ""
+"ビスタロッサ"
+msgstr ""
+
+
+msgctxt "00000027"
+msgid ""
+"ジオ・アイス"
+msgstr ""
+
+
+msgctxt "00000028"
+msgid ""
+"アイスバーグ"
+msgstr ""
+
+
+msgctxt "00000029"
+msgid ""
+"アイスロック"
+msgstr ""
+
+
+msgctxt "00000030"
+msgid ""
+"トール・ジゴ"
+msgstr ""
+
+
+msgctxt "00000031"
+msgid ""
+"トール・ハイ"
+msgstr ""
+
+
+msgctxt "00000032"
+msgid ""
+"トール・ロー"
+msgstr ""
+
+
+msgctxt "00000033"
+msgid ""
+"ギガヴァルガ"
+msgstr ""
+
+
+msgctxt "00000034"
+msgid ""
+"ヴァルガノン"
+msgstr ""
+
+
+msgctxt "00000035"
+msgid ""
+"ヴァルガ"
+msgstr ""
+
+
+msgctxt "00000036"
+msgid ""
+"ディアノーゼ"
+msgstr ""
+
+
+msgctxt "00000037"
+msgid ""
+"ケルパトリン"
+msgstr ""
+
+
+msgctxt "00000038"
+msgid ""
+"ドクトリン"
+msgstr ""
+
+
+msgctxt "00000039"
+msgid ""
+"ラ・デ・ヘカ"
+msgstr ""
+
+
+msgctxt "00000040"
+msgid ""
+"エヴリヘカリ"
+msgstr ""
+
+
+msgctxt "00000041"
+msgid ""
+"ヘカルノーゼ"
+msgstr ""
+
+
+msgctxt "00000042"
+msgid ""
+"ヘカルータ"
+msgstr ""
+
+
+msgctxt "00000043"
+msgid ""
+"ヘカル"
+msgstr ""
+
+
+msgctxt "00000044"
+msgid ""
+"きょじんのおの"
+msgstr ""
+
+
+msgctxt "00000045"
+msgid ""
+"ドラゴンアックス"
+msgstr ""
+
+
+msgctxt "00000046"
+msgid ""
+"ガイアアックス"
+msgstr ""
+
+
+msgctxt "00000047"
+msgid ""
+"すいしょうのおの"
+msgstr ""
+
+
+msgctxt "00000048"
+msgid ""
+"サンダーアックス"
+msgstr ""
+
+
+msgctxt "00000049"
+msgid ""
+"アイスアックス"
+msgstr ""
+
+
+msgctxt "00000050"
+msgid ""
+"ファイアアックス"
+msgstr ""
+
+
+msgctxt "00000051"
+msgid ""
+"スリープアックス"
+msgstr ""
+
+
+msgctxt "00000052"
+msgid ""
+"ポールアックス"
+msgstr ""
+
+
+msgctxt "00000053"
+msgid ""
+"バトルアックス"
+msgstr ""
+
+
+msgctxt "00000054"
+msgid ""
+"モーニングスター"
+msgstr ""
+
+
+msgctxt "00000055"
+msgid ""
+"ハンドアックス"
+msgstr ""
+
+
+msgctxt "00000056"
+msgid ""
+"ポセイドンスピア"
+msgstr ""
+
+
+msgctxt "00000057"
+msgid ""
+"ランス"
+msgstr ""
+
+
+msgctxt "00000058"
+msgid ""
+"トライデント"
+msgstr ""
+
+
+msgctxt "00000059"
+msgid ""
+"バンパイアスピア"
+msgstr ""
+
+
+msgctxt "00000060"
+msgid ""
+"ファイアスピア"
+msgstr ""
+
+
+msgctxt "00000061"
+msgid ""
+"ブリザードスピア"
+msgstr ""
+
+
+msgctxt "00000062"
+msgid ""
+"スパークスピア"
+msgstr ""
+
+
+msgctxt "00000063"
+msgid ""
+"パルチザン"
+msgstr ""
+
+
+msgctxt "00000064"
+msgid ""
+"スピア"
+msgstr ""
+
+
+msgctxt "00000065"
+msgid ""
+"ジャベリン"
+msgstr ""
+
+
+msgctxt "00000066"
+msgid ""
+"つりざお"
+msgstr ""
+
+
+msgctxt "00000067"
+msgid ""
+"ヴィーナスロッド"
+msgstr ""
+
+
+msgctxt "00000068"
+msgid ""
+"たけぼうき"
+msgstr ""
+
+
+msgctxt "00000069"
+msgid ""
+"パワーロッド"
+msgstr ""
+
+
+msgctxt "00000070"
+msgid ""
+"デスロッド"
+msgstr ""
+
+
+msgctxt "00000071"
+msgid ""
+"いなずまのつえ"
+msgstr ""
+
+
+msgctxt "00000072"
+msgid ""
+"ひょうがのつえ"
+msgstr ""
+
+
+msgctxt "00000073"
+msgid ""
+"ファイアロッド"
+msgstr ""
+
+
+msgctxt "00000074"
+msgid ""
+"エルフスティック"
+msgstr ""
+
+
+msgctxt "00000075"
+msgid ""
+"ガラスのつえ"
+msgstr ""
+
+
+msgctxt "00000076"
+msgid ""
+"バトン"
+msgstr ""
+
+
+msgctxt "00000077"
+msgid ""
+"おたま"
+msgstr ""
+
+
+msgctxt "00000078"
+msgid ""
+"ドラゴンセイバー"
+msgstr ""
+
+
+msgctxt "00000079"
+msgid ""
+"ジェナトスソード"
+msgstr ""
+
+
+msgctxt "00000080"
+msgid ""
+"ガイアソード"
+msgstr ""
+
+
+msgctxt "00000081"
+msgid ""
+"めがみのつるぎ"
+msgstr ""
+
+
+msgctxt "00000082"
+msgid ""
+"グレートソード"
+msgstr ""
+
+
+msgctxt "00000083"
+msgid ""
+"エルフソード"
+msgstr ""
+
+
+msgctxt "00000084"
+msgid ""
+"じくうのけん"
+msgstr ""
+
+
+msgctxt "00000085"
+msgid ""
+"ファルシオン"
+msgstr ""
+
+
+msgctxt "00000086"
+msgid ""
+"バスタードソード"
+msgstr ""
+
+
+msgctxt "00000087"
+msgid ""
+"バーニングソード"
+msgstr ""
+
+
+msgctxt "00000088"
+msgid ""
+"らいげきのけん"
+msgstr ""
+
+
+msgctxt "00000089"
+msgid ""
+"レイピア"
+msgstr ""
+
+
+msgctxt "00000090"
+msgid ""
+"アイスソード"
+msgstr ""
+
+
+msgctxt "00000091"
+msgid ""
+"ウィンドソード"
+msgstr ""
+
+
+msgctxt "00000092"
+msgid ""
+"ドラゴンソード"
+msgstr ""
+
+
+msgctxt "00000093"
+msgid ""
+"シミター"
+msgstr ""
+
+
+msgctxt "00000094"
+msgid ""
+"ブラッドソード"
+msgstr ""
+
+
+msgctxt "00000095"
+msgid ""
+"ブロードソード"
+msgstr ""
+
+
+msgctxt "00000096"
+msgid ""
+"グラディウス"
+msgstr ""
+
+
+msgctxt "00000097"
+msgid ""
+"ポイズンソード"
+msgstr ""
+
+
+msgctxt "00000098"
+msgid ""
+"スティレット"
+msgstr ""
+
+
+msgctxt "00000099"
+msgid ""
+"クリス"
+msgstr ""
+
+
+msgctxt "00000100"
+msgid ""
+"ラウンデルダガー"
+msgstr ""
+
+
+msgctxt "00000101"
+msgid ""
+"ダーク"
+msgstr ""
+
+
+msgctxt "00000102"
+msgid ""
+"ダガー"
+msgstr ""
+
+
+msgctxt "00000103"
+msgid ""
+"ナイフ"
+msgstr ""
+
+
+msgctxt "00000104"
+msgid ""
+"ゴッドアーマー"
+msgstr ""
+
+
+msgctxt "00000105"
+msgid ""
+"かいおうのよろい"
+msgstr ""
+
+
+msgctxt "00000106"
+msgid ""
+"きょじんのよろい"
+msgstr ""
+
+
+msgctxt "00000107"
+msgid ""
+"ドラゴンアーマー"
+msgstr ""
+
+
+msgctxt "00000108"
+msgid ""
+"ヒーローアーマー"
+msgstr ""
+
+
+msgctxt "00000109"
+msgid ""
+"ヴィーナスローブ"
+msgstr ""
+
+
+msgctxt "00000110"
+msgid ""
+"セーラーアーマー"
+msgstr ""
+
+
+msgctxt "00000111"
+msgid ""
+"キングスアーマー"
+msgstr ""
+
+
+msgctxt "00000112"
+msgid ""
+"プレートメイル"
+msgstr ""
+
+
+msgctxt "00000113"
+msgid ""
+"クィーンズローブ"
+msgstr ""
+
+
+msgctxt "00000114"
+msgid ""
+"ビショップローブ"
+msgstr ""
+
+
+msgctxt "00000115"
+msgid ""
+"ブレストプレート"
+msgstr ""
+
+
+msgctxt "00000116"
+msgid ""
+"スケイルメイル"
+msgstr ""
+
+
+msgctxt "00000117"
+msgid ""
+"マジックローブ"
+msgstr ""
+
+
+msgctxt "00000118"
+msgid ""
+"てんにょのころも"
+msgstr ""
+
+
+msgctxt "00000119"
+msgid ""
+"リングメイル"
+msgstr ""
+
+
+msgctxt "00000120"
+msgid ""
+"マジシャンローブ"
+msgstr ""
+
+
+msgctxt "00000121"
+msgid ""
+"チェインメイル"
+msgstr ""
+
+
+msgctxt "00000122"
+msgid ""
+"ハードレザー"
+msgstr ""
+
+
+msgctxt "00000123"
+msgid ""
+"レザーライト"
+msgstr ""
+
+
+msgctxt "00000124"
+msgid ""
+"レザーアーマー"
+msgstr ""
+
+
+msgctxt "00000125"
+msgid ""
+"クロスアーマー"
+msgstr ""
+
+
+msgctxt "00000126"
+msgid ""
+"ローブ"
+msgstr ""
+
+
+msgctxt "00000127"
+msgid ""
+"ちりとり"
+msgstr ""
+
+
+msgctxt "00000128"
+msgid ""
+"かいおうのたて"
+msgstr ""
+
+
+msgctxt "00000129"
+msgid ""
+"ハーミットガード"
+msgstr ""
+
+
+msgctxt "00000130"
+msgid ""
+"シルフシールド"
+msgstr ""
+
+
+msgctxt "00000131"
+msgid ""
+"ドラゴンシールド"
+msgstr ""
+
+
+msgctxt "00000132"
+msgid ""
+"めがみのたて"
+msgstr ""
+
+
+msgctxt "00000133"
+msgid ""
+"タワーシールド"
+msgstr ""
+
+
+msgctxt "00000134"
+msgid ""
+"マジックシールド"
+msgstr ""
+
+
+msgctxt "00000135"
+msgid ""
+"セラシールド"
+msgstr ""
+
+
+msgctxt "00000136"
+msgid ""
+"デコールシールド"
+msgstr ""
+
+
+msgctxt "00000137"
+msgid ""
+"バックラー"
+msgstr ""
+
+
+msgctxt "00000138"
+msgid ""
+"ナイトシールド"
+msgstr ""
+
+
+msgctxt "00000139"
+msgid ""
+"ラージシールド"
+msgstr ""
+
+
+msgctxt "00000140"
+msgid ""
+"スモールシールド"
+msgstr ""
+
+
+msgctxt "00000141"
+msgid ""
+"レザーシールド"
+msgstr ""
+
+
+msgctxt "00000142"
+msgid ""
+"ごみばこのふた"
+msgstr ""
+
+
+msgctxt "00000143"
+msgid ""
+"ドラゴンヘルム"
+msgstr ""
+
+
+msgctxt "00000144"
+msgid ""
+"けもののかぶと"
+msgstr ""
+
+
+msgctxt "00000145"
+msgid ""
+"めがみのかんむり"
+msgstr ""
+
+
+msgctxt "00000146"
+msgid ""
+"セラキャップ"
+msgstr ""
+
+
+msgctxt "00000147"
+msgid ""
+"クリスタルメット"
+msgstr ""
+
+
+msgctxt "00000148"
+msgid ""
+"マジカルハット"
+msgstr ""
+
+
+msgctxt "00000149"
+msgid ""
+"ヒーリーハット"
+msgstr ""
+
+
+msgctxt "00000150"
+msgid ""
+"がくせいぼう"
+msgstr ""
+
+
+msgctxt "00000151"
+msgid ""
+"フルヘルメット"
+msgstr ""
+
+
+msgctxt "00000152"
+msgid ""
+"ヘルメット"
+msgstr ""
+
+
+msgctxt "00000153"
+msgid ""
+"サークレット"
+msgstr ""
+
+
+msgctxt "00000154"
+msgid ""
+"レザーハット"
+msgstr ""
+
+
+msgctxt "00000155"
+msgid ""
+"スクールみずぎ"
+msgstr ""
+
+
+msgctxt "00000156"
+msgid ""
+"スーパールーズ"
+msgstr ""
+
+
+msgctxt "00000157"
+msgid ""
+"セーラー服"
+msgstr ""
+
+
+msgctxt "00000158"
+msgid ""
+"あかいブルマ"
+msgstr ""
+
+
+msgctxt "00000159"
+msgid ""
+"ブルマ"
+msgstr ""
+
+
+msgctxt "00000160"
+msgid ""
+"学生服"
+msgstr ""
+
+
+msgctxt "00000161"
+msgid ""
+"セーラースカーフ"
+msgstr ""
+
+
+msgctxt "00000162"
+msgid ""
+"アルトリコーダー"
+msgstr ""
+
+
+msgctxt "00000163"
+msgid ""
+"チャイナドレス"
+msgstr ""
+
+
+msgctxt "00000164"
+msgid ""
+"くまのぬいぐるみ"
+msgstr ""
+
+
+msgctxt "00000165"
+msgid ""
+"レザーブーツ"
+msgstr ""
+
+
+msgctxt "00000166"
+msgid ""
+"コンタクトレンズ"
+msgstr ""
+
+
+msgctxt "00000167"
+msgid ""
+"ルーズソックス"
+msgstr ""
+
+
+msgctxt "00000168"
+msgid ""
+"女子たいそう服"
+msgstr ""
+
+
+msgctxt "00000169"
+msgid ""
+"男子たいそう服"
+msgstr ""
+
+
+msgctxt "00000170"
+msgid ""
+"ローファー"
+msgstr ""
+
+
+msgctxt "00000171"
+msgid ""
+"ジャージ"
+msgstr ""
+
+
+msgctxt "00000172"
+msgid ""
+"スニーカー"
+msgstr ""
+
+
+msgctxt "00000173"
+msgid ""
+"ももひき"
+msgstr ""
+
+
+msgctxt "00000174"
+msgid ""
+"パイプ"
+msgstr ""
+
+
+msgctxt "00000175"
+msgid ""
+"はらまき"
+msgstr ""
+
+
+msgctxt "00000176"
+msgid ""
+"ネクタイ"
+msgstr ""
+
+
+msgctxt "00000177"
+msgid ""
+"マフラー"
+msgstr ""
+
+
+msgctxt "00000178"
+msgid ""
+"チョーカー"
+msgstr ""
+
+
+msgctxt "00000179"
+msgid ""
+"ふえ"
+msgstr ""
+
+
+msgctxt "00000180"
+msgid ""
+"たいいくシューズ"
+msgstr ""
+
+
+msgctxt "00000181"
+msgid ""
+"エプロン"
+msgstr ""
+
+
+msgctxt "00000182"
+msgid ""
+"ハイソックス"
+msgstr ""
+
+
+msgctxt "00000183"
+msgid ""
+"たいいくぼうし"
+msgstr ""
+
+
+msgctxt "00000184"
+msgid ""
+"ヒーリージュエル"
+msgstr ""
+
+
+msgctxt "00000185"
+msgid ""
+"マジカルジュエル"
+msgstr ""
+
+
+msgctxt "00000186"
+msgid ""
+"ヘアバンド"
+msgstr ""
+
+
+msgctxt "00000187"
+msgid ""
+"ベルト"
+msgstr ""
+
+
+msgctxt "00000188"
+msgid ""
+"めがね"
+msgstr ""
+
+
+msgctxt "00000189"
+msgid ""
+"セーター"
+msgstr ""
+
+
+msgctxt "00000190"
+msgid ""
+"ブラウス"
+msgstr ""
+
+
+msgctxt "00000191"
+msgid ""
+"サングラス"
+msgstr ""
+
+
+msgctxt "00000192"
+msgid ""
+"パワーリング"
+msgstr ""
+
+
+msgctxt "00000193"
+msgid ""
+"イージーリング"
+msgstr ""
+
+
+msgctxt "00000194"
+msgid ""
+"ネックレス"
+msgstr ""
+
+
+msgctxt "00000195"
+msgid ""
+"インテリピアス"
+msgstr ""
+
+
+msgctxt "00000196"
+msgid ""
+"ラピッドピアス"
+msgstr ""
+
+
+msgctxt "00000197"
+msgid ""
+"マカまん"
+msgstr ""
+
+
+msgctxt "00000198"
+msgid ""
+"ヘカまん"
+msgstr ""
+
+
+msgctxt "00000199"
+msgid ""
+"ナッツまん"
+msgstr ""
+
+
+msgctxt "00000200"
+msgid ""
+"オムレツまん"
+msgstr ""
+
+
+msgctxt "00000201"
+msgid ""
+"ココアまん"
+msgstr ""
+
+
+msgctxt "00000202"
+msgid ""
+"パワーまん"
+msgstr ""
+
+
+msgctxt "00000203"
+msgid ""
+"タフまん"
+msgstr ""
+
+
+msgctxt "00000204"
+msgid ""
+"おんせんたまご"
+msgstr ""
+
+
+msgctxt "00000205"
+msgid ""
+"マカデミアナッツ"
+msgstr ""
+
+
+msgctxt "00000206"
+msgid ""
+"スキルドロップ"
+msgstr ""
+
+
+msgctxt "00000207"
+msgid ""
+"インテリオムレツ"
+msgstr ""
+
+
+msgctxt "00000208"
+msgid ""
+"スピードココア"
+msgstr ""
+
+
+msgctxt "00000209"
+msgid ""
+"マカ汁"
+msgstr ""
+
+
+msgctxt "00000210"
+msgid ""
+"ヘカ汁"
+msgstr ""
+
+
+msgctxt "00000211"
+msgid ""
+"ライフホルン"
+msgstr ""
+
+
+msgctxt "00000212"
+msgid ""
+"かっしんざい"
+msgstr ""
+
+
+msgctxt "00000213"
+msgid ""
+"まよけのふだ"
+msgstr ""
+
+
+msgctxt "00000214"
+msgid ""
+"アロエ"
+msgstr ""
+
+
+msgctxt "00000215"
+msgid ""
+"ぎゅうにゅう"
+msgstr ""
+
+
+msgctxt "00000216"
+msgid ""
+"ビックヘカ"
+msgstr ""
+
+
+msgctxt "00000217"
+msgid ""
+"ずつうやく"
+msgstr ""
+
+
+msgctxt "00000218"
+msgid ""
+"きずぐすり"
+msgstr ""
+
+
+msgctxt "00000219"
+msgid ""
+"ほしがき"
+msgstr ""
+
+
+msgctxt "00000220"
+msgid ""
+"コッペパン"
+msgstr ""
+
+
+msgctxt "00000221"
+msgid ""
+"マカの実"
+msgstr ""
+
+
+msgctxt "00000222"
+msgid ""
+"ヘカの実"
+msgstr ""
+
+
+msgctxt "00000223"
+msgid ""
+"せいじゃのてがみ"
+msgstr ""
+
+
+msgctxt "00000224"
+msgid ""
+"しれんのまきもの"
+msgstr ""
+
+
+msgctxt "00000225"
+msgid ""
+"にんぎょのぞう"
+msgstr ""
+
+
+msgctxt "00000226"
+msgid ""
+"にんぎょのぞうＲ"
+msgstr ""
+
+
+msgctxt "00000227"
+msgid ""
+"にんぎょのぞうＬ"
+msgstr ""
+
+
+msgctxt "00000228"
+msgid ""
+"ﾉんぎょのぞうＬ"
+msgstr ""
+
+
+msgctxt "00000229"
+msgid ""
+"いんがのつえ"
+msgstr ""
+
+
+msgctxt "00000230"
+msgid ""
+"プラチナリング"
+msgstr ""
+
+
+msgctxt "00000231"
+msgid ""
+"どうくつのカギ"
+msgstr ""
+
+
+msgctxt "00000232"
+msgid ""
+"ロケット"
+msgstr ""
+
+
+msgctxt "00000233"
+msgid ""
+"ちず"
+msgstr ""
+
+
+msgctxt "00000234"
+msgid ""
+"ゆうしゃのけん"
+msgstr ""
+
+
+msgctxt "00000235"
+msgid ""
+"めがみのうでわ"
+msgstr ""
+
+
+msgctxt "00000236"
+msgid ""
+"めがみのゆびわ"
+msgstr ""
+
+
+msgctxt "00000237"
+msgid ""
+"ギアスのたま"
+msgstr ""
+
+
+msgctxt "00000238"
+msgid ""
+"ギアスのつえ"
+msgstr ""
+
+
+msgctxt "00000239"
+msgid ""
+"らせんのつえ"
+msgstr ""
+
+
+msgctxt "00000240"
+msgid ""
+"ピクシーのつえ"
+msgstr ""
+
+
+msgctxt "00000417"
+msgid ""
+"サンドルーアのオアシス"
+msgstr ""
+
+
+msgctxt "00000418"
+msgid ""
+"イオの港"
+msgstr ""
+
+
+msgctxt "00000419"
+msgid ""
+"ユーロの港"
+msgstr ""
+
+
+msgctxt "00000420"
+msgid ""
+"魔王の城"
+msgstr ""
+
+
+msgctxt "00000421"
+msgid ""
+"ダンの港"
+msgstr ""
+
+
+msgctxt "00000422"
+msgid ""
+"ハンバの村"
+msgstr ""
+
+
+msgctxt "00000423"
+msgid ""
+"クーバ港"
+msgstr ""
+
+
+msgctxt "00000424"
+msgid ""
+"ルナの浅瀬"
+msgstr ""
+
+
+msgctxt "00000425"
+msgid ""
+"ケーブの町"
+msgstr ""
+
+
+msgctxt "00000426"
+msgid ""
+"南の洞窟"
+msgstr ""
+
+
+msgctxt "00000427"
+msgid ""
+"北の洞窟"
+msgstr ""
+
+
+msgctxt "00000428"
+msgid ""
+"バーシスのはいきょ"
+msgstr ""
+
+
+msgctxt "00000429"
+msgid ""
+"メクアの港"
+msgstr ""
+
+
+msgctxt "00000430"
+msgid ""
+"ピカの浅瀬"
+msgstr ""
+
+
+msgctxt "00000431"
+msgid ""
+"ロブのせき"
+msgstr ""
+
+
+msgctxt "00000432"
+msgid ""
+"コントンのはいきょ"
+msgstr ""
+
+
+msgctxt "00000433"
+msgid ""
+"アルナの関所"
+msgstr ""
+
+
+msgctxt "00000434"
+msgid ""
+"ウケーブ洞窟"
+msgstr ""
+
+
+msgctxt "00000435"
+msgid ""
+"イケーブ洞窟"
+msgstr ""
+
+
+msgctxt "00000436"
+msgid ""
+"エスカの木"
+msgstr ""
+
+
+msgctxt "00000437"
+msgid ""
+"ヴィーナの港"
+msgstr ""
+
+
+msgctxt "00000438"
+msgid ""
+"ドロア城"
+msgstr ""
+
+
+msgctxt "00000439"
+msgid ""
+"ギアスの塔"
+msgstr ""
+
+
+msgctxt "00000440"
+msgid ""
+"クーデン川"
+msgstr ""
+
+
+msgctxt "00000441"
+msgid ""
+"戦士神殿・魔導師神殿"
+msgstr ""
+
+
+msgctxt "00000442"
+msgid ""
+"封印の洞窟"
+msgstr ""
+
+
+msgctxt "00000443"
+msgid ""
+"ノーザラスの港町"
+msgstr ""
+
+
+msgctxt "00000444"
+msgid ""
+"ピクシアンの森"
+msgstr ""
+
+
+msgctxt "00000445"
+msgid ""
+"マウタスの町"
+msgstr ""
+
+
+msgctxt "00000446"
+msgid ""
+"隠者の里"
+msgstr ""
+
+
+msgctxt "00000447"
+msgid ""
+"修練の港"
+msgstr ""
+
+
+msgctxt "00000448"
+msgid ""
+"旧ハインローグ城"
+msgstr ""
+
+
+msgctxt "00000449"
+msgid ""
+"精霊神殿"
+msgstr ""
+
+
+msgctxt "00000450"
+msgid ""
+"バロスメイアの町"
+msgstr ""
+
+
+msgctxt "00000451"
+msgid ""
+"帰らずの港"
+msgstr ""
+
+
+msgctxt "00000452"
+msgid ""
+"聖者の塔の門"
+msgstr ""
+
+
+msgctxt "00000453"
+msgid ""
+"聖者への道"
+msgstr ""
+
+
+msgctxt "00000454"
+msgid ""
+"聖者の道"
+msgstr ""
+
+
+msgctxt "00000455"
+msgid ""
+"新ハインローグ城"
+msgstr ""
+
+
+msgctxt "00000456"
+msgid ""
+"ファーナスの町"
+msgstr ""
+
+
+msgctxt "00000457"
+msgid ""
+"メルーの町"
+msgstr ""
+
+
+msgctxt "00000458"
+msgid ""
+"サナトリの村"
+msgstr ""
+
+
+msgctxt "00000459"
+msgid ""
+"レイクマウントの町"
+msgstr ""
+
+
+msgctxt "00000460"
+msgid ""
+"ルーンマルナの町"
+msgstr ""
+
+
+msgctxt "00000461"
+msgid ""
+"ルーンの関"
+msgstr ""
+
+
+msgctxt "00000463"
+msgid ""
+"でる"
+msgstr ""
+
+
+msgctxt "00000464"
+msgid ""
+"うる"
+msgstr ""
+
+
+msgctxt "00000465"
+msgid ""
+"かう"
+msgstr ""
+
+
+msgctxt "00000466"
+msgid ""
+"いいえ"
+msgstr ""
+
+
+msgctxt "00000467"
+msgid ""
+"はい"
+msgstr ""
+
+
+msgctxt "00000468"
+msgid ""
+"これいじょう、もてません。"
+msgstr ""
+
+
+msgctxt "00000469"
+msgid ""
+"おかねがたりません。"
+msgstr ""
+
+
+msgctxt "00000470"
+msgid ""
+"いいえ"
+msgstr ""
+
+
+msgctxt "00000471"
+msgid ""
+"はい"
+msgstr ""
+
+
+msgctxt "00000472"
+msgid ""
+"ＭＰ"
+msgstr ""
+
+
+msgctxt "00000473"
+msgid ""
+"ＨＰ"
+msgstr ""
+
+
+msgctxt "00000474"
+msgid ""
+"ＮＥＸＴ"
+msgstr ""
+
+
+msgctxt "00000475"
+msgid ""
+"ＥＸＰ"
+msgstr ""
+
+
+msgctxt "00000476"
+msgid ""
+"ＬＥＶＥＬ"
+msgstr ""
+
+
+msgctxt "00000478"
+msgid ""
+"SK"
+msgstr ""
+
+
+msgctxt "00000479"
+msgid ""
+"QP"
+msgstr ""
+
+
+msgctxt "00000480"
+msgid ""
+"ST"
+msgstr ""
+
+
+msgctxt "00000481"
+msgid ""
+"DP"
+msgstr ""
+
+
+msgctxt "00000482"
+msgid ""
+"IQ"
+msgstr ""
+
+
+msgctxt "00000483"
+msgid ""
+"AP"
+msgstr ""
+
+
+msgctxt "00000484"
+msgid ""
+"MG"
+msgstr ""
+
+
+msgctxt "00000485"
+msgid ""
+"LV"
+msgstr ""
+
+
+msgctxt "00000486"
+msgid ""
+"とじる"
+msgstr ""
+
+
+msgctxt "00000487"
+msgid ""
+"ロード"
+msgstr ""
+
+
+msgctxt "00000488"
+msgid ""
+"セーブ"
+msgstr ""
+
+
+msgctxt "00000489"
+msgid ""
+"パーティー"
+msgstr ""
+
+
+msgctxt "00000490"
+msgid ""
+"そうび"
+msgstr ""
+
+
+msgctxt "00000491"
+msgid ""
+"アイテム"
+msgstr ""
+
+
+msgctxt "00000492"
+msgid ""
+"ステータス"
+msgstr ""
+
+
+msgctxt "00000493"
+msgid ""
+"まほう"
+msgstr ""
+
+
+msgctxt "00000498"
+msgid ""
+"ＧＰ"
+msgstr ""
+
+
+msgctxt "00000499"
+msgid ""
+"ＮＥＸＴ"
+msgstr ""
+
+
+msgctxt "00000500"
+msgid ""
+"ＥＸＰ"
+msgstr ""
+
+
+msgctxt "00000501"
+msgid ""
+"ＬＥＶＥＬ"
+msgstr ""
+
+
+msgctxt "00000502"
+msgid ""
+"ＭＰ"
+msgstr ""
+
+
+msgctxt "00000503"
+msgid ""
+"／"
+msgstr ""
+
+
+msgctxt "00000504"
+msgid ""
+"ＨＰ"
+msgstr ""
+
+
+msgctxt "00000509"
+msgid ""
+"かざり"
+msgstr ""
+
+
+msgctxt "00000510"
+msgid ""
+"たて"
+msgstr ""
+
+
+msgctxt "00000511"
+msgid ""
+"よろい"
+msgstr ""
+
+
+msgctxt "00000512"
+msgid ""
+"かぶと"
+msgstr ""
+
+
+msgctxt "00000513"
+msgid ""
+"ぶき"
+msgstr ""
+
+
+msgctxt "00000514"
+msgid ""
+"ＭＰ"
+msgstr ""
+
+
+msgctxt "00000515"
+msgid ""
+"ＨＰ"
+msgstr ""
+
+
+msgctxt "00000516"
+msgid ""
+"コ"
+msgstr ""
+
+
+msgctxt "00000517"
+msgid ""
+"／"
+msgstr ""
+
+
+msgctxt "00000519"
+msgid ""
+"ガメ"
+msgstr ""
+
+
+msgctxt "00000523"
+msgid ""
+"にげる"
+msgstr ""
+
+
+msgctxt "00000524"
+msgid ""
+"アイテム"
+msgstr ""
+
+
+msgctxt "00000525"
+msgid ""
+"ぼうぎょ"
+msgstr ""
+
+
+msgctxt "00000526"
+msgid ""
+"まほう"
+msgstr ""
+
+
+msgctxt "00000527"
+msgid ""
+"こうげき"
+msgstr ""
+
+
+msgctxt "00000532"
+msgid ""
+"ロードできませんでした。"
+msgstr ""
+
+
+msgctxt "00000533"
+msgid ""
+"セーブデータがこわれています。"
+msgstr ""
+
+
+msgctxt "00000534"
+msgid ""
+"すててもよろしいですか？"
+msgstr ""
+
+
+msgctxt "00000535"
+msgid ""
+"これいじょうもてません。"
+msgstr ""
+
+
+msgctxt "00000536"
+msgid ""
+"ロードします。"
+msgstr ""
+
+
+msgctxt "00000537"
+msgid ""
+"おしてください。"
+msgstr ""
+
+
+msgctxt "00000538"
+msgid ""
+"メモリーカードをさしこんで○ボタンを"
+msgstr ""
+
+
+msgctxt "00000539"
+msgid ""
+"「アンシャントロマン」ＤＩＳＣ　２をいれて"
+msgstr ""
+
+
+msgctxt "00000540"
+msgid ""
+"リセットボタンをおしてください。"
+msgstr ""
+
+
+msgctxt "00000541"
+msgid ""
+"「アンシャントロマン」ＤＩＳＣ　１をいれて"
+msgstr ""
+
+
+msgctxt "00000542"
+msgid ""
+"よろしいですか？"
+msgstr ""
+
+
+msgctxt "00000543"
+msgid ""
+"いぜんのデータにうわがきします。"
+msgstr ""
+
+
+msgctxt "00000544"
+msgid ""
+"メモリーカードをぬいたりしないでください。"
+msgstr ""
+
+
+msgctxt "00000545"
+msgid ""
+"アクセスしています。でんげんをきったり、"
+msgstr ""
+
+
+msgctxt "00000546"
+msgid ""
+"しまいます。フォーマットしてもいいですか？"
+msgstr ""
+
+
+msgctxt "00000547"
+msgid ""
+"フォーマットするとデータはすべてきえて"
+msgstr ""
+
+
+msgctxt "00000548"
+msgid ""
+"ロードしました。"
+msgstr ""
+
+
+msgctxt "00000549"
+msgid ""
+"メモリーカードにデータがありません。"
+msgstr ""
+
+
+msgctxt "00000550"
+msgid ""
+"セーブしました。"
+msgstr ""
+
+
+msgctxt "00000551"
+msgid ""
+"しっぱいしました。"
+msgstr ""
+
+
+msgctxt "00000552"
+msgid ""
+"メモリーカードのフォーマットに"
+msgstr ""
+
+
+msgctxt "00000553"
+msgid ""
+"メモリーカードがぬかれました。"
+msgstr ""
+
+
+msgctxt "00000554"
+msgid ""
+"このメモリーカードにはセーブできません。"
+msgstr ""
+
+
+msgctxt "00000555"
+msgid ""
+"メモリーカードのあきブロックがたりません。"
+msgstr ""
+
+
+msgctxt "00000556"
+msgid ""
+"フォーマットしますか？"
+msgstr ""
+
+
+msgctxt "00000557"
+msgid ""
+"メモリーカードがフォーマットされていません。"
+msgstr ""
+
+
+msgctxt "00000558"
+msgid ""
+"メモリーカードのアクセスにしっぱいしました。"
+msgstr ""
+
+
+msgctxt "00000560"
+msgid ""
+"メモリーカードがさしこまれていません。"
+msgstr ""
+
+
+msgctxt "00000562"
+msgid ""
+"／"
+msgstr ""
+
+
+msgctxt "00000563"
+msgid ""
+"いいえ"
+msgstr ""
+
+
+msgctxt "00000564"
+msgid ""
+"はい"
+msgstr ""
+
+
+msgctxt "00000565"
+msgid ""
+"つづきから"
+msgstr ""
+
+
+msgctxt "00000566"
+msgid ""
+"はじめから"
+msgstr ""
+
+
+msgctxt "00000574"
+msgid ""
+"けってい"
+msgstr ""
+
+
+msgctxt "00000575"
+msgid ""
+"えいすう"
+msgstr ""
+
+
+msgctxt "00000576"
+msgid ""
+"ひらがな"
+msgstr ""
+
+
+msgctxt "00000577"
+msgid ""
+"スペース"
+msgstr ""
+
+
+msgctxt "00000581"
+msgid ""
+"カタカナ"
+msgstr ""
+
+
