@@ -10,6 +10,63 @@ namespace ancient_roman_script_insert
 {
     class Program
     {
+        static int GetCurWidth(string line, Dictionary<string, int> widths)
+        {
+            int cur_len = 0;
+            foreach (char letter in line)
+            {
+                if (letter == '\n')
+                {
+                    int beep = 0;
+                }
+                else if (widths.ContainsKey(letter.ToString()))
+                {
+                    cur_len += widths[letter.ToString()];
+                }
+                else
+                {
+                    cur_len += 20;
+                }
+            }
+
+            return cur_len;
+        }
+        static string Format(string line, int max_len, Dictionary<string, int> widths)
+        {
+            string outme = "";
+            int cur_len = 0;
+            int maxHardLen = 38;
+            if (line.Contains("カイ"))
+                maxHardLen -= 5;
+
+            string[] splitRs = line.Split(new string[] { "\\n" }, StringSplitOptions.RemoveEmptyEntries);
+            for (int r = 0; r < splitRs.Length; r++)
+            {
+                string[] pieces = splitRs[r].Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                string formatted = "";
+                int line_cnt = 1;
+                for (int k = 0; k < pieces.Length; k++)
+                {
+                    if (GetCurWidth(formatted + pieces[k] + " ", widths) < max_len && (formatted + pieces[k] + " ").Length < maxHardLen)
+                    {
+                        formatted += pieces[k] + " ";
+                    }
+                    else
+                    {
+                        line_cnt++;
+                        outme += formatted.Replace("\n", "\\n").Trim() + "\\n";
+                        formatted = pieces[k] + " ";
+                    }
+                }
+                outme += formatted.Replace("\n", "\\n").Trim();
+
+                if (r + 1 != splitRs.Length)
+                    outme += " \\n";
+            }
+
+            return outme.Trim();
+        }
+
         static string GetEncodedLine(byte[] theLine, Dictionary<string, string> table)
         {
             int pos = 0;
@@ -83,7 +140,7 @@ namespace ancient_roman_script_insert
                 {
                     for (int j = longestEntry; j >= 1; j--)
                     {
-                        if (i + j < text.Length)
+                        if (i + (j - 1) < text.Length)
                         {
                             string piece = text.Substring(i, j);
                             if (table.ContainsKey(piece))
@@ -116,20 +173,16 @@ namespace ancient_roman_script_insert
 
             Regex regex = new Regex("\"(.*)\"");
 
-            bool foundId = false;
             string pos = "";
             string japanese = "";
+            bool japaneseFound = false;
             string english = "";
+            bool englishFound = false;
             string[] translatedLines = File.ReadAllLines(TranslatedScriptFile);
             for (int i = 0; i < translatedLines.Length; i++)
             {
                 string translatedLine = translatedLines[i];
-                if (translatedLine.StartsWith("#:"))
-                {
-                    pos = translatedLine.Substring(2).Trim();
-                    foundId = true;
-                }
-                else if (foundId && translatedLine.StartsWith("msgid"))
+                if (translatedLine.StartsWith("msgid"))
                 {
                     japanese = "";
                     for (int j = i; j < translatedLines.Length; j++)
@@ -139,12 +192,13 @@ namespace ancient_roman_script_insert
 
                         if (j + 1 < translatedLines.Length && !translatedLines[j + 1].StartsWith("\""))
                         {
+                            japaneseFound = true;
                             i = j;
                             break;
                         }
                     }
                 }
-                else if (foundId && translatedLine.StartsWith("msgstr"))
+                else if (translatedLine.StartsWith("msgstr"))
                 {
                     english = "";
                     for (int j = i; j < translatedLines.Length; j++)
@@ -154,24 +208,30 @@ namespace ancient_roman_script_insert
 
                         if (j + 1 < translatedLines.Length && !translatedLines[j + 1].StartsWith("\""))
                         {
+                            englishFound = true;
                             i = j;
                             break;
                         }
                     }
                 }
 
-                if (!String.IsNullOrEmpty(pos) && !String.IsNullOrEmpty(japanese) && !String.IsNullOrEmpty(english))
+                if (englishFound == true && japaneseFound == true)
                 {
-                    poEntries.Add(new PoEntry()
+                    if (!String.IsNullOrEmpty(japanese) && !String.IsNullOrEmpty(english))
                     {
-                        pos = pos,
-                        japanese = japanese,
-                        english = english
-                    });
+                        poEntries.Add(new PoEntry()
+                        {
+                            pos = pos,
+                            japanese = japanese.Replace("\\\"", "\""),
+                            english = english.Replace("\\\"", "\"").Replace("Kai", "カイ"),
+                        });
+                    }
 
                     pos = "";
                     japanese = "";
                     english = "";
+                    japaneseFound = false;
+                    englishFound = false;
                 }
 
             }
@@ -195,6 +255,36 @@ namespace ancient_roman_script_insert
             string infolder = args[0]; // "orig\\D1_S00\\";
             string outFolder = args[1]; //"ins\\D1_S00\\";
             string tablefile = args[2];
+            string widthsfile = args[3];
+            int maxLen = Int32.Parse(args[4]);
+
+            Dictionary<string, int> widths = new Dictionary<string, int>();
+            string[] widthLines = File.ReadAllLines(widthsfile);
+
+            //Get widths
+            for (int i = 0; i < widthLines.Length; i++)
+            {
+                if (widthLines[i].Contains("const u8 widths"))
+                {
+                    for (int j = i + 1; j < widthLines.Length; j++)
+                    {
+                        if (widthLines[j].Contains("};"))
+                            break;
+
+                        if (widthLines[j].Trim().Length != 0)
+                        {
+                            string[] pieces = widthLines[j].Split(new string[] { "//" }, StringSplitOptions.RemoveEmptyEntries);
+                            int width = Int32.Parse(pieces[0].Trim().Replace("0x", "").Replace(",", ""), System.Globalization.NumberStyles.HexNumber);
+                            string letter = pieces[1][pieces[1].Length - 1].ToString();
+                            if (letter == "")
+                                letter = " ";
+
+                            widths[letter] = width;
+                        }
+                    }
+                    break;
+                }
+            }
 
             string[] table_entries = File.ReadAllLines(tablefile, Encoding.GetEncoding("SJIS"));
             Dictionary<string, string> table = new Dictionary<string, string>();
@@ -259,9 +349,6 @@ namespace ancient_roman_script_insert
                             break;
                     }
 
-                    int boopme = 0;
-
-
                     inBin.BaseStream.Seek(0, SeekOrigin.Begin);
                     uint evfhStart = inBin.ReadUInt32();
                     uint nextFileStart = inBin.ReadUInt32();
@@ -306,7 +393,9 @@ namespace ancient_roman_script_insert
                                 if (!String.IsNullOrEmpty(poEntry.english) && (poEntry.japanese == myLine || poEntry.japanese.Replace("＿", "　") == myLine))
                                 {
                                     poEntry.origPos = origPos;
-                                    poEntry.encoded = Encode(poEntry.english.ToUpper(), encodingTable);
+                                    string english = Format(poEntry.english, maxLen, widths);
+
+                                    poEntry.encoded = Encode(english, encodingTable);
                                     poEntry.found = true;
                                     poEntries[i] = poEntry;
                                     break;
@@ -333,6 +422,11 @@ namespace ancient_roman_script_insert
                         PoEntry poEntry = poEntries[i];
                         if (poEntry.found)
                         {
+                            if (((newBin.BaseStream.Position - evfhStart) % 0x100) == 0)
+                            {
+                                newBin.BaseStream.Seek(2, SeekOrigin.Current);
+                            }
+
                             poEntry.insPos = (uint)newBin.BaseStream.Position - evfhStart;
                             poEntries[i] = poEntry;
 
