@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:33-0400\n"
-"PO-Revision-Date: 2023-11-01 18:29+0000\n"
+"PO-Revision-Date: 2023-11-25 05:29+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s000/en/>\n"
@@ -34,7 +34,7 @@ msgstr "Jonathan: Waaah!"
 msgctxt "00000003"
 msgid ""
 "あいたたた・・・"
-msgstr "Jeez, that smarts!"
+msgstr "Jeez, that hurt..."
 
 #: 00000292
 msgctxt "00000004"
@@ -64,13 +64,13 @@ msgstr "You hadn't showed, so I came to wake you."
 msgctxt "00000008"
 msgid ""
 "お前、うなされているじゃないか。"
-msgstr "You weren't having a nightmare, were you?"
+msgstr "You were having a nightmare, weren't you?"
 
 #: 0000038E
 msgctxt "00000009"
 msgid ""
 "カイ：うなされていた？　ぼくが？"
-msgstr "Kai: Me, have a nightmare?"
+msgstr "Kai: Me, having a nightmare?"
 
 #: 000003D8
 msgctxt "00000010"
@@ -352,7 +352,7 @@ msgstr "Kai: I don't care what you say, we're getting out of here together!"
 msgctxt "00000055"
 msgid ""
 "ジョナサン：何！？"
-msgstr "Jonathan: WHAT?!"
+msgstr "Jonathan: WHAT!?"
 
 #: 000010F0
 msgctxt "00000056"
@@ -382,7 +382,7 @@ msgstr "Do you guys really want to"
 msgctxt "00000060"
 msgid ""
 "こんなところにいたくはないだろ！？"
-msgstr "rot here for the rest of your lives?!"
+msgstr "rot here for the rest of your lives!?"
 
 #: 00001202
 msgctxt "00000061"
@@ -418,7 +418,7 @@ msgstr "Count me in!"
 msgctxt "00000066"
 msgid ""
 "カイ：みんな武器になるものを集めるんだ！！"
-msgstr "Kai: All right, guys, grab anything you can use as a weapon!"
+msgstr "Kai: Alright, guys, grab anything you can use as a weapon!"
 
 #: 000013B9
 msgctxt "00000067"
@@ -526,7 +526,7 @@ msgstr "Burke: Now hold on there, little missy."
 msgctxt "00000084"
 msgid ""
 "ジョナサン：ミシリア！！いきなり何を言い出すんじゃ！！"
-msgstr "Jonathan: Michelia! What're you saying?!"
+msgstr "Jonathan: Michelia! What're you saying!?"
 
 #: 0000180B
 msgctxt "00000085"
@@ -580,7 +580,7 @@ msgstr "Burke: Sorry, Kai. Asking me won't change anything. Her mind's made up."
 msgctxt "00000093"
 msgid ""
 "カイ：わかったよ。君もいっしょに・・・。"
-msgstr "Kai: All right, all right! You can come with us..."
+msgstr "Kai: Alright, alright! You can come with us..."
 
 #: 00001A79
 msgctxt "00000094"
@@ -688,7 +688,7 @@ msgstr "Woah!"
 msgctxt "00000110"
 msgid ""
 "これがどこかに続いているっていうぬけ穴か！？"
-msgstr "Don't tell me, is this a secret passage?!"
+msgstr "Don't tell me, is this a secret passage!?"
 
 #: 00002035
 msgctxt "00000111"
@@ -720,7 +720,7 @@ msgstr "Woah!"
 msgctxt "00000115"
 msgid ""
 "これがどこかに続いているっていうぬけ穴か！？"
-msgstr "Don't tell me, is this a secret passage?!"
+msgstr "Don't tell me, is this a secret passage!?"
 
 #: 000022A3
 msgctxt "00000116"
@@ -942,7 +942,7 @@ msgstr "Man: What'cha think they're trying to gather us for?"
 msgctxt "00000152"
 msgid ""
 "まっ、まさか・・・みんなまとめて殺されるんじゃあ・・・。"
-msgstr "D-don't tell me... Do they mean to kill us all at once?!"
+msgstr "D-don't tell me... Do they mean to kill us all at once!?"
 
 #: 000CE31D
 msgctxt "00000153"
@@ -1015,7 +1015,7 @@ msgstr "...but this doesn't feel like good news, coming from him."
 msgctxt "00000164"
 msgid ""
 "魔物：人間ごときが逆らいやがって！"
-msgstr "Demon: You humans dare to defy us?!"
+msgstr "Demon: You humans dare to defy us!?"
 
 #: 000CE628
 msgctxt "00000165"
@@ -1117,7 +1117,7 @@ msgstr "Dining Hall Girl: Go show them who's boss!"
 msgctxt "00000181"
 msgid ""
 "大男：むしゃむしゃむしゃ・・・"
-msgstr "Big Man: Nom, nom, nom..."
+msgstr "Big Man: *nom, nom, nom...*"
 
 #: 00156996
 msgctxt "00000182"
@@ -1135,7 +1135,7 @@ msgstr "Y-y-you didn't...!"
 msgctxt "00000184"
 msgid ""
 "いいかっ！今、見たことを誰にも言うなよ！"
-msgstr "You didn't see anything, okay?! Don't tell anyone!"
+msgstr "You didn't see anything, okay!? Don't tell anyone!"
 
 #: 00156A72
 msgctxt "00000185"
@@ -1232,7 +1232,9 @@ msgstr "The handle, however, still looks handy!"
 msgctxt "00000200"
 msgid ""
 "バトンとして使えそうだ。バトンを手に入れた。"
-msgstr "You took the axe head off. You got a Staff!"
+msgstr ""
+"You took the axe head off.\\n"
+"You got a Staff!"
 
 #: 001DFAB0
 msgctxt "00000201"
@@ -1340,7 +1342,9 @@ msgstr "Kai: Huh, where is this?"
 msgctxt "00000218"
 msgid ""
 "たなの向こうから管理長の話が聞こえてきた"
-msgstr "You can hear the warden talking on the other side of the wall."
+msgstr ""
+"You can hear the warden talking\\n"
+"on the other side of the wall."
 
 #: 002F19AF
 msgctxt "00000219"
