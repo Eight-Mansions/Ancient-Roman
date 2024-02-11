@@ -1,6 +1,5 @@
 REM Build disc 1
 del /s /q cd\Ancient-Roman-Disc-1\S00\*
-echo Copying over translated scripts...
 copy ins\D1_S00\*.DAT cd\Ancient-Roman-Disc-1\S00\ 1>nul
 
 
@@ -20,6 +19,7 @@ pmake -e RELMODE=DEBUG -e OUTFILE=main -e OPTIMIZE=2
 popd
 
 del exe_error.txt
+
 del exe\SLPS_011.08
 copy exe\orig\SLPS_011.08 exe\SLPS_011.08
 copy /y NUL cd\Ancient-Roman-Disc-1\CODE.DAT >NUL
@@ -33,6 +33,26 @@ pushd cd
 ..\tools\psximager\psxbuild.exe  Ancient-Roman-Disc-1.cat Ancient-Roman-Disc-1_working.bin >> build.log
 popd
 echo:
+
+
+REM Build disc 2
+del /s /q cd\Ancient-Roman-Disc-2\S00\*
+copy ins\D1_S00\*.DAT cd\Ancient-Roman-Disc-2\S00\ 1>nul
+
+del exe\SLPS_011.09
+copy exe\orig\SLPS_011.09 exe\SLPS_011.09
+copy /y NUL cd\Ancient-Roman-Disc-2\CODE.DAT >NUL
+REM tools\armips.exe code\ancient-roman-1.asm
+
+del cd\Ancient-Roman-Disc-2\SLPS_011.09
+copy exe\SLPS_011.09 cd\Ancient-Roman-Disc-2\SLPS_011.09
+
+echo Building final bin file...
+pushd cd
+..\tools\psximager\psxbuild.exe  Ancient-Roman-Disc-2.cat Ancient-Roman-Disc-2_working.bin >> build.log
+popd
+echo:
+
 
 echo Build complete!
 
