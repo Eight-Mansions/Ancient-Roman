@@ -22,6 +22,7 @@ dir {
   file SYSTEM.CNF
   file SLPS_011.08
   file DISK1.DAT
+  file CODE.DAT
   dir DATA0001 {
     file LMAP0001.TMS
     file LMAP0002.TMS

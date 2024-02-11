@@ -154,12 +154,14 @@
     <ClCompile Include="code\font.cpp" />
     <ClCompile Include="code\platform.cpp" />
     <ClCompile Include="code\text.cpp" />
+    <ClCompile Include="code\loadfile.cpp" />
     <ClCompile Include="makefile" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="code\font.h" />
     <ClInclude Include="code\platform.h" />
     <ClInclude Include="code\text.h" />
+    <ClInclude Include="code\loadfile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

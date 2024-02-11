@@ -1,7 +1,62 @@
 .psx
+.open "cd\Ancient-Roman-Disc-1\CODE.DAT",0x801D0000
+	.importobj "code\ancient-roman\obj\text.obj"
+	.importobj "code\ancient-roman\obj\font.obj"
+
+CheckForNewline:
+	lbu t1, 0(a0)
+	addiu v0, r0, 0x0A	
+	beq v0, t1, isNewLine1
+	nop
+	
+	lbu t0, 1(a0)
+	nop
+	beq v0, t0, isNewLine2
+	nop
+	j 0x8003f9f4
+	addiu a0, 0x02
+
+isNewLine1:
+	j 0x8003fa50
+	addiu a0, 0x01
+
+isNewLine2:
+	sb t1, 0(a3)
+	j 0x8003fa50
+	addiu a0, 0x02
+
+CallGetSentenceWidth:
+	addiu sp, sp, -24
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
+	sw v1, 20(sp)
+
+	addu a0, r0, s0
+	addu a1, r0, s3
+	jal GetSentenceWidth
+	addu a2, r0, s1
+	
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a2, 12(sp)
+	lw a3, 16(sp)
+	lw v1, 20(sp)
+	j 0x8003e294
+	addiu sp, sp, 24
+.close
+
 .open "exe\SLPS_011.08",0x8000F800
 
 .definelabel CopyString, 0x80083b78
+.definelabel LoadFileIsh, 0x80015f2c
+
+
+.org 0x800156c4
+	j LoadCodeFile
 
 .org 0x80067258
 	nop
@@ -53,53 +108,14 @@
 	nop
 	
 .org 0x800B8000
-	.importobj "code\ancient-roman\obj\text.obj"
-	.importobj "code\ancient-roman\obj\font.obj"
+	.importobj "code\ancient-roman\debug\loadfile.obj"
 
-CheckForNewline:
-	lbu t1, 0(a0)
-	addiu v0, r0, 0x0A	
-	beq v0, t1, isNewLine1
+LoadCodeFile:
+	jal LoadFile
 	nop
-	
-	lbu t0, 1(a0)
+	jal 0x800165e0
 	nop
-	beq v0, t0, isNewLine2
-	nop
-	j 0x8003f9f4
-	addiu a0, 0x02
-
-isNewLine1:
-	j 0x8003fa50
-	addiu a0, 0x01
-
-isNewLine2:
-	sb t1, 0(a3)
-	j 0x8003fa50
-	addiu a0, 0x02
-
-CallGetSentenceWidth:
-	addiu sp, sp, -24
-	sw ra, 0(sp)
-	sw a0, 4(sp)
-	sw a1, 8(sp)
-	sw a2, 12(sp)
-	sw a3, 16(sp)
-	sw v1, 20(sp)
-
-	addu a0, r0, s0
-	addu a1, r0, s3
-	jal GetSentenceWidth
-	addu a2, r0, s1
-	
-	lw ra, 0(sp)
-	lw a0, 4(sp)
-	lw a1, 8(sp)
-	lw a2, 12(sp)
-	lw a3, 16(sp)
-	lw v1, 20(sp)
-	j 0x8003e294
-	addiu sp, sp, 24
+	j 0x800156cc
 	
 .org 0x80096136		; Updating mappings to allow lowercase
 	.db 0x30, 0xD1 ; a
@@ -134,8 +150,5 @@ CallGetSentenceWidth:
 	.db 0x81, 0x8D ; "
 
 .org 0x80098D2A
-	.db 0x81, 0x8C ; '
-
-
-
+	.db 0x81, 0x8C ;
 .close

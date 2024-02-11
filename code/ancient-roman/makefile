@@ -21,6 +21,7 @@ LINKOOPTS = /psx /p /c /li $(RELMODE)
 #BATTLE_SRC = battle.c
 FONT_SRC = font.cpp
 TEXT_SRC = text.cpp
+LOAD_SRC = loadfile.cpp
 
 ## build object names from types ##
 #CORE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obj, ${CORE_SRC})
@@ -28,6 +29,7 @@ TEXT_SRC = text.cpp
 #FIELD_OBJ	= $(patsubst %.c, $(RELMODE)/%.obf, ${FIELD_SRC})
 #MENU_OBJ	= $(patsubst %.c, $(RELMODE)/%.obm, ${MENU_SRC})
 #BATTLE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obb, ${BATTLE_SRC})
+LOAD_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${LOAD_SRC})
 FONT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${FONT_SRC})
 TEXT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${TEXT_SRC})
 
@@ -37,7 +39,7 @@ TEXT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${TEXT_SRC})
 ## .lk file or they will not be linked at all! ##
 #ALL_SRC = $(CORE_OBJ) $(MENU_OBJ) $(BATTLE_OBJ) $(FIELD_OBJ)
 #ALL_ASM = $(CORE_ASM)
-ALL_SRC = $(FONT_OBJ) $(TEXT_OBJ)
+ALL_SRC = $(FONT_OBJ) $(TEXT_OBJ) $(LOAD_OBJ)
 
 
 #ALL_OBJ = $(ALL_SRC) $(ALL_ASM)

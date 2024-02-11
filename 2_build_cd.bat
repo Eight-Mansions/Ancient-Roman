@@ -26,6 +26,23 @@ tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.
 del /q cd\%name%\DATA0000\BASE.FBS
 copy graphics\DATA0000\BASE.FBS cd\%name%\DATA0000\BASE.FBS
 
+
+pushd code\ancient-roman
+pmake -e RELMODE=DEBUG clean
+mkdir Debug
+mkdir obj
+pmake -e RELMODE=DEBUG -e OUTFILE=main -e OPTIMIZE=2
+popd
+
+del exe_error.txt
+del exe\SLPS_011.08
+copy exe\orig\SLPS_011.08 exe\SLPS_011.08
+copy /y NUL cd\Ancient-Roman-Disc-1\CODE.DAT >NUL
+tools\armips.exe code\ancient-roman-1.asm
+
+del cd\Ancient-Roman-Disc-1\SLPS_011.08
+copy exe\SLPS_011.08 cd\Ancient-Roman-Disc-1\SLPS_011.08
+
 echo Building final bin file...
 pushd cd
 ..\tools\psximager\psxbuild.exe "%name%.cat" "%name%_working.bin">> build.log
