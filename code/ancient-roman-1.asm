@@ -108,7 +108,7 @@ CallGetSentenceWidth:
 	nop
 	
 .org 0x800B8000
-	.importobj "code\ancient-roman\debug\loadfile.obj"
+	.importobj "code\ancient-roman\obj\loadfile.obj"
 
 LoadCodeFile:
 	jal LoadFile

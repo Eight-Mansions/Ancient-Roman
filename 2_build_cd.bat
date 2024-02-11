@@ -25,6 +25,9 @@ copy exe\orig\SLPS_011.08 exe\SLPS_011.08
 copy /y NUL cd\Ancient-Roman-Disc-1\CODE.DAT >NUL
 tools\armips.exe code\ancient-roman-1.asm
 
+del cd\Ancient-Roman-Disc-1\SLPS_011.08
+copy exe\SLPS_011.08 cd\Ancient-Roman-Disc-1\SLPS_011.08
+
 echo Building final bin file...
 pushd cd
 ..\tools\psximager\psxbuild.exe  Ancient-Roman-Disc-1.cat Ancient-Roman-Disc-1_working.bin >> build.log
