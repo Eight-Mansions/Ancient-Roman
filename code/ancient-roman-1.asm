@@ -107,7 +107,7 @@ CallGetSentenceWidth:
 .org 0x8003f9f8
 	nop
 	
-.org 0x800B8000
+.org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
 
 LoadCodeFile:
