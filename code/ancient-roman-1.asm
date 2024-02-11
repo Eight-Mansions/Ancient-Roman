@@ -1,5 +1,5 @@
 .psx
-.open "cd\Ancient-Roman-Disc-1\CODE.DAT",0x801D0000
+.open "cd\Ancient-Roman-Disc-1\CODE.DAT",0x801E0000
 	.importobj "code\ancient-roman\obj\text.obj"
 	.importobj "code\ancient-roman\obj\font.obj"
 
