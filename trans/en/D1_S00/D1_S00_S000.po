@@ -1,9 +1,9 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:33-0400\n"
-"PO-Revision-Date: 2023-11-25 05:29+0000\n"
+"PO-Revision-Date: 2024-02-12 01:07+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s000/en/>\n"
@@ -155,7 +155,7 @@ msgstr "And what is the call about this time?"
 msgctxt "00000023"
 msgid ""
 "カイ：じっちゃん、どうしたの？行くよ。"
-msgstr ""
+msgstr "Kai: What's wrong old man? Let's get going."
 
 #: 0000079D
 msgctxt "00000262"
@@ -305,7 +305,7 @@ msgstr "Jonathan: Quiet, will you!"
 msgctxt "00000263"
 msgid ""
 "青年：こ、こえー・・・"
-msgstr ""
+msgstr "Young Man: S-scary..."
 
 #: 00000EB2
 msgctxt "00000047"
@@ -1312,7 +1312,7 @@ msgstr "Nothing here that looks useful."
 msgctxt "00000264"
 msgid ""
 "ダガーを手に入れた。"
-msgstr ""
+msgstr "You found a Dagger."
 
 #: 002242FA
 msgctxt "00000211"
