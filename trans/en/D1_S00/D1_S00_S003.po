@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-02-12 01:07+0000\n"
+"PO-Revision-Date: 2024-02-13 07:30+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s003/en/>\n"
@@ -250,13 +250,13 @@ msgstr "While Michelia's out, I can finally mention that"
 msgctxt "00000039"
 msgid ""
 "俺さ、ケツにデキモノができちゃっててさ。"
-msgstr "I got a rash on my derriere."
+msgstr "I got a rash on my ass."
 
 #: 000CDD1C
 msgctxt "00000040"
 msgid ""
 "いてぇんだ・・・"
-msgstr "Hurts like heck, man."
+msgstr "Hurts like hell, man."
 
 #: 000CDD3E
 msgctxt "00000041"
@@ -280,7 +280,7 @@ msgstr "I'm baaack!"
 msgctxt "00000044"
 msgid ""
 "ゴソゴソ・・・"
-msgstr "Rustle, rustle..."
+msgstr "*rustle, rustle...*"
 
 #: 000CDDEE
 msgctxt "00000045"
