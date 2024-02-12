@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1114,6 +1114,12 @@ msgctxt "00000179"
 msgid ""
 "マスター：いらっしゃいませ。"
 msgstr "Master: Welcome!"
+
+#: 00268976
+msgctxt "00000342"
+msgid ""
+"彼女はこの町一のうたひめなのですが、"
+msgstr ""
 
 #: 0026899E
 msgctxt "00000180"

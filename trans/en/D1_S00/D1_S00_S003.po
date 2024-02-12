@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -4296,6 +4296,12 @@ msgid ""
 msgstr ""
 "We have an exclusive special manju, sold only at this particular storefront! "
 "▽"
+
+#: 0037A9D0
+msgctxt "00000731"
+msgid ""
+"あら、お客さん、はじめてみる顔ね。"
+msgstr ""
 
 #: 0037A9F6
 msgctxt "00000710"

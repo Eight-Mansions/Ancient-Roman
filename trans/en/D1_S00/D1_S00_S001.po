@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1842,6 +1842,12 @@ msgid ""
 "いまは、ここでこうして兵士として働いているんだ。"
 msgstr "I'm working here as a soldier these days."
 
+#: 003BFA2D
+msgctxt "00000334"
+msgid ""
+"どうにかやって行けるだけのめどがたったら"
+msgstr ""
+
 #: 003BFA59
 msgctxt "00000302"
 msgid ""
@@ -1877,6 +1883,12 @@ msgctxt "00000307"
 msgid ""
 "男：いまは、ここでこうして兵士として働いているんだ。"
 msgstr "Man: I'm working here as a soldier these days."
+
+#: 003BFBAA
+msgctxt "00000335"
+msgid ""
+"どうにかやって行けるだけのめどがたったら"
+msgstr ""
 
 #: 003BFBD6
 msgctxt "00000308"

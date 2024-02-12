@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -300,8 +300,14 @@ msgid ""
 "大臣：聖者よ。"
 msgstr "Minister: Sage."
 
+#: 00089936
+msgctxt "00000286"
+msgid ""
+"大臣：このカイが我が国の王子だ。"
+msgstr ""
+
 #: 0008996B
-msgctxt "00000048"
+msgctxt "00000049"
 msgid ""
 "聖者：そうでしたか・・・"
 msgstr "Sage: Is that so..."
@@ -651,6 +657,12 @@ msgctxt "00000105"
 msgid ""
 "老人：東はどっちかって？"
 msgstr "Old Man: What way is east? Oh, kids these days..."
+
+#: 00224814
+msgctxt "00000287"
+msgid ""
+"いま、わしのむいてる方が東ですじゃ。"
+msgstr ""
 
 #: 00224861
 msgctxt "00000106"

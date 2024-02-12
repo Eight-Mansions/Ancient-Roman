@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -151,8 +151,14 @@ msgid ""
 "でも今ごろ、何の用だろう？"
 msgstr "And what is the call about this time?"
 
-#: 0000079D
+#: 00000745
 msgctxt "00000023"
+msgid ""
+"カイ：じっちゃん、どうしたの？行くよ。"
+msgstr ""
+
+#: 0000079D
+msgctxt "00000262"
 msgid ""
 "ジョナサン：あ、・・・いや・・・"
 msgstr "Jonathan: Ah... Well..."
@@ -294,6 +300,12 @@ msgctxt "00000046"
 msgid ""
 "ジョナサン：だまらっしゃい！！"
 msgstr "Jonathan: Quiet, will you!"
+
+#: 00000E76
+msgctxt "00000263"
+msgid ""
+"青年：こ、こえー・・・"
+msgstr ""
 
 #: 00000EB2
 msgctxt "00000047"
@@ -1295,6 +1307,12 @@ msgctxt "00000210"
 msgid ""
 "使えそうな物は見あたらない。"
 msgstr "Nothing here that looks useful."
+
+#: 002242B5
+msgctxt "00000264"
+msgid ""
+"ダガーを手に入れた。"
+msgstr ""
 
 #: 002242FA
 msgctxt "00000211"
