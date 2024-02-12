@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1229,6 +1229,12 @@ msgid ""
 msgstr ""
 "Old Man: I don't hold the tomes you seek. They're stored in the cave up "
 "ahead."
+
+#: 002694A2
+msgctxt "00000210"
+msgid ""
+"そのふだはその洞窟の入り口を開くものじゃ。"
+msgstr ""
 
 #: 002694DE
 msgctxt "00000201"

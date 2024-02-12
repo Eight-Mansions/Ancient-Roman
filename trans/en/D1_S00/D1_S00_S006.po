@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -149,6 +149,12 @@ msgctxt "00000022"
 msgid ""
 "すてきな笑顔が一番の特効薬なのよ。"
 msgstr "is the best medicine, you know."
+
+#: 00112616
+msgctxt "00000242"
+msgid ""
+"ね、ミーナ？"
+msgstr ""
 
 #: 00112641
 msgctxt "00000023"

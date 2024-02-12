@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1080,6 +1080,12 @@ msgid ""
 "男：これじゃ、彼女をいつになったらむかえにいってやれるんだろう。"
 msgstr "Man: I wonder when I'll be able to see my sweetheart again..."
 
+#: 0037B934
+msgctxt "00000268"
+msgid ""
+"こんな僕だけど彼女は待っててくれるだろうか？"
+msgstr ""
+
 #: 0037B977
 msgctxt "00000173"
 msgid ""
@@ -1103,6 +1109,12 @@ msgctxt "00000176"
 msgid ""
 "よしっ！僕ももう一度がんばってみるよ。"
 msgstr "Wow, good work! You've inspired me to give it another go!"
+
+#: 0037BA6A
+msgctxt "00000269"
+msgid ""
+"・・・最近、変なしせんを感じてしまう。"
+msgstr ""
 
 #: 0037BA97
 msgctxt "00000177"

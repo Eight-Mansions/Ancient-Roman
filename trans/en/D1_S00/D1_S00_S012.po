@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1104,13 +1104,19 @@ msgid ""
 "聖者：では、今夜はここでゆっくり休んで行かれませ。"
 msgstr "Sage: You may rest here for the night before heading out."
 
-#: 0019D70C
+#: 0019D6DF
 msgctxt "00000180"
 msgid ""
 "ノーザラスはマウタスの北にあります。"
 msgstr "You can reach Nautilus by heading north of Mahtas."
 
-#: 0019D734
+#: 0019D70C
+msgctxt "00000351"
+msgid ""
+"ノーザラスはマウタスの北にあります。"
+msgstr "You can reach Nautilus by heading north of Mahtas."
+
+#: 0019D7344
 msgctxt "00000181"
 msgid ""
 "聞かれる前に答えておきましょう。"

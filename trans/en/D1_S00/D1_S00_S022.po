@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -361,6 +361,12 @@ msgid ""
 "カイ：これでよし。"
 msgstr "Kai: There we go."
 
+#: 001DFB1F
+msgctxt "00000095"
+msgid ""
+"後はルーシアを倒すだけだ。"
+msgstr ""
+
 #: 00268986
 msgctxt "00000058"
 msgid ""
@@ -530,6 +536,12 @@ msgctxt "00000085"
 msgid ""
 "カイ：・・・これでよし。"
 msgstr "Kai: ...and that's that."
+
+#: 002F1F85
+msgctxt "00000096"
+msgid ""
+"よし、次はロミアスだね・・・。"
+msgstr ""
 
 #: 002F1FB5
 msgctxt "00000086"
