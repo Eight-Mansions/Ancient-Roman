@@ -171,7 +171,7 @@ namespace ancient_roman_script_extract
             while (block.BaseStream.Position + 4 < end)
             {
                 uint isText = block.ReadUInt32();
-                if (isText == 0x00001300)
+                if ((isText & 0xFFFFFF00) == 0x00001300)
                 {
                     Ptr newPtr = new Ptr();
                     newPtr.ptr = (uint)block.BaseStream.Position;
@@ -186,9 +186,33 @@ namespace ancient_roman_script_extract
             return ptrs;
         }
 
-        static string GetPOLine(string myLine)
+        static List<Ptr> FindPointers2(BinaryReader block, uint offset, uint start, uint end, int mask, uint script_block_start, uint script_block_end)
         {
-            string msgid = "msgid \"\"\n";
+            List<Ptr> ptrs = new List<Ptr>();
+
+            block.BaseStream.Seek(start, SeekOrigin.Begin);
+            while (block.BaseStream.Position + 4 < end)
+            {
+                uint isText = block.ReadUInt32();
+                if ((isText & 0xFFFFFF00) == 0x00001300)
+                {
+                    Ptr newPtr = new Ptr();
+                    newPtr.ptr = (uint)block.BaseStream.Position;
+                    ptrs.Add(newPtr);
+                }
+                else
+                {
+                    block.BaseStream.Seek(-3, SeekOrigin.Current);
+                }
+            }
+
+            return ptrs;
+        }
+
+        static string GetPOLine(string myLine, int idx)
+        {
+            string msgctxt = "msgctxt \"" + idx.ToString("D8") + "\"\n";
+            string msgid = msgctxt + "msgid \"\"\n";
             foreach (string line in myLine.Split(new char[] { '\n' }))
             {
                 if (line.Length > 0)
@@ -242,12 +266,12 @@ namespace ancient_roman_script_extract
 
 
                 string myLine = GetEncodedLine(letters.ToArray(), table);
-                myLine = myLine.Replace("\\r", "\n//");
+                myLine = myLine.Replace("\\r", "\n//").Replace("<$00>", "");
 
                 script_txt.Write(myLine);
                 script_txt.Write("\n\n");
 
-                String poLine = GetPOLine(myLine);
+                String poLine = GetPOLine(myLine, i + 1);
                 po_txt.Write("#: " + ptrs[i].ptr.ToString("X8") + "\n");
                 po_txt.Write(poLine);
                 po_txt.Write("\n\n");

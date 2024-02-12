@@ -55,5 +55,3 @@ echo:
 
 
 echo Build complete!
-
-pause

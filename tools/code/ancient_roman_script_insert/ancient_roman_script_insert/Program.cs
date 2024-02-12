@@ -206,7 +206,7 @@ namespace ancient_roman_script_insert
                         string line = regex.Match(translatedLines[j]).Value;
                         english += line.Substring(1, line.Length - 2);
 
-                        if (j + 1 < translatedLines.Length && !translatedLines[j + 1].StartsWith("\""))
+                        if ((j + 1 < translatedLines.Length && !translatedLines[j + 1].StartsWith("\"")) || (j + 1 >= translatedLines.Length))
                         {
                             englishFound = true;
                             i = j;
@@ -349,6 +349,11 @@ namespace ancient_roman_script_insert
                             break;
                     }
 
+                    insTextPos = ((insTextPos / 0x100) * 0x100) + 0x100;
+
+                    int boopme = 0;
+
+
                     inBin.BaseStream.Seek(0, SeekOrigin.Begin);
                     uint evfhStart = inBin.ReadUInt32();
                     uint nextFileStart = inBin.ReadUInt32();
@@ -371,9 +376,10 @@ namespace ancient_roman_script_insert
                         byte aByte2 = inBin.ReadByte();
                         byte aByte3 = inBin.ReadByte();
                         byte aByte4 = inBin.ReadByte();
-                        if (aByte1 == 0x00 && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00)
+                        if ((aByte1 == 0x00 && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00) || (aByte1 == 0xFF && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00))
                         {
                             uint origPos = (uint)inBin.BaseStream.Position;
+
                             List<byte> letters = new List<byte>();
                             while (inBin.BaseStream.Position < inBin.BaseStream.Length)
                             {
@@ -386,7 +392,7 @@ namespace ancient_roman_script_insert
                                 }
                             }
                             string myLine = GetEncodedLine(letters.ToArray(), table).Replace("//", "").Replace("\n<$00>", "");
-                            //PoEntry poEntry = poEntries.Where(p => (p.japanese == myLine || p.japanese.Replace("＿", "　") == myLine) && !String.IsNullOrEmpty(p.english)).FirstOrDefault();
+
                             for (int i = 0; i < poEntries.Count; i++)
                             {
                                 PoEntry poEntry = poEntries[i];
