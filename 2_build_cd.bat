@@ -6,7 +6,8 @@ copy ins\D1_S00\*.DAT cd\Ancient-Roman-Disc-1\S00\ 1>nul
 echo Copying over font file...
 del graphics\DATA0000\BASE.FBS
 copy graphics\orig\DATA0000\BASE.FBS graphics\DATA0000\BASE.FBS
-tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.1.5308.png -p 8 -c 0x5308 -b 4
+tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.1.5308.png -p 8 -c 0x5308 -b 4 -m 14
+tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.2.6F08.png -p 8 -c 0x6F08 -b 4 -m 13
 
 del /q cd\Ancient-Roman-Disc-1\DATA0000\BASE.FBS
 copy graphics\DATA0000\BASE.FBS cd\Ancient-Roman-Disc-1\DATA0000\BASE.FBS
