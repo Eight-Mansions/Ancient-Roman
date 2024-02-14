@@ -1,0 +1,2653 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2147547136, 32)
+#JMP($00001A80)
+
+// Ptr: 00001A80
+#WRITE(PTR, $0007D984)
+//スカイロード
+Sky Rod
+<$00>
+
+
+// Ptr: 00001A90
+#WRITE(PTR, $0007D934)
+//ダ・カーポ
+Da Capo
+<$00>
+
+
+// Ptr: 00001A9C
+#WRITE(PTR, $0007D8E4)
+//ヴェンツァー
+Fencer
+<$00>
+
+
+// Ptr: 00001AAC
+#WRITE(PTR, $0007D894)
+//ソードダンス
+Sword Dance
+<$00>
+
+
+// Ptr: 00001ABC
+#WRITE(PTR, $0007D844)
+//チャリオット
+Chariot
+<$00>
+
+
+// Ptr: 00001ACC
+#WRITE(PTR, $0007D7F4)
+//エヴリマカガ
+All Maka Guard
+<$00>
+
+
+// Ptr: 00001ADC
+#WRITE(PTR, $0007D7A4)
+//マカガード
+Maka Guard
+<$00>
+
+
+// Ptr: 00001AE8
+#WRITE(PTR, $0007D754)
+//エヴリボルボ
+All Volvo
+<$00>
+
+
+// Ptr: 00001AF8
+#WRITE(PTR, $0007D704)
+//ボルボ
+Volvo
+<$00>
+
+
+// Ptr: 00001B00
+#WRITE(PTR, $0007D6B4)
+//ラ・ポルシェ
+Ra Porsche
+<$00>
+
+
+// Ptr: 00001B10
+#WRITE(PTR, $0007D664)
+//ポルーシェ
+Porsche
+<$00>
+
+
+// Ptr: 00001B1C
+#WRITE(PTR, $0007D614)
+//エヴリラヴァ
+All Charm
+<$00>
+
+
+// Ptr: 00001B2C
+#WRITE(PTR, $0007D5C4)
+//リトルラヴァ
+Little Lover
+<$00>
+
+
+// Ptr: 00001B3C
+#WRITE(PTR, $0007D574)
+//ノクターン
+Nocturne
+<$00>
+
+
+// Ptr: 00001B48
+#WRITE(PTR, $0007D524)
+//マカドリア
+Maka Doria
+<$00>
+
+
+// Ptr: 00001B54
+#WRITE(PTR, $0007D4D4)
+//エヴリドクマ
+All Tox
+<$00>
+
+
+// Ptr: 00001B64
+#WRITE(PTR, $0007D484)
+//ドクマロイデ
+Nematode
+<$00>
+
+
+// Ptr: 00001B74
+#WRITE(PTR, $0007D434)
+//セイントロー
+Saint Row
+<$00>
+
+
+// Ptr: 00001B84
+#WRITE(PTR, $0007D3E4)
+//ケルパー
+Kepler
+<$00>
+
+
+// Ptr: 00001B90
+#WRITE(PTR, $0007D394)
+//スコスコール
+Squall
+<$00>
+
+
+// Ptr: 00001BA0
+#WRITE(PTR, $0007D344)
+//フィヨルド
+Fjord
+<$00>
+
+
+// Ptr: 00001BAC
+#WRITE(PTR, $0007D2F4)
+//アクアローゼ
+Aqua Rose
+<$00>
+
+
+// Ptr: 00001BBC
+#WRITE(PTR, $0007D2A4)
+//アクア
+Aqua
+<$00>
+
+
+// Ptr: 00001BC4
+#WRITE(PTR, $0007D254)
+//ウィリウィリ
+Windy Day
+<$00>
+
+
+// Ptr: 00001BD4
+#WRITE(PTR, $0007D204)
+//ガルウインド
+Gale Wind
+<$00>
+
+
+// Ptr: 00001BE4
+#WRITE(PTR, $0007D1B4)
+//テラ・ロッサ
+Terra Rise
+<$00>
+
+
+// Ptr: 00001BF4
+#WRITE(PTR, $0007D164)
+//ビスタロッサ
+Vista Rossa
+<$00>
+
+
+// Ptr: 00001C04
+#WRITE(PTR, $0007D114)
+//ジオ・アイス
+Ice Age
+<$00>
+
+
+// Ptr: 00001C14
+#WRITE(PTR, $0007D0C4)
+//アイスバーグ
+Iceberg
+<$00>
+
+
+// Ptr: 00001C24
+#WRITE(PTR, $0007D074)
+//アイスロック
+Ice Rock
+<$00>
+
+
+// Ptr: 00001C34
+#WRITE(PTR, $0007D024)
+//トール・ジゴ
+Thor's Hell
+<$00>
+
+
+// Ptr: 00001C44
+#WRITE(PTR, $0007CFD4)
+//トール・ハイ
+Thor's High
+<$00>
+
+
+// Ptr: 00001C54
+#WRITE(PTR, $0007CF84)
+//トール・ロー
+Thor's Low
+<$00>
+
+
+// Ptr: 00001C64
+#WRITE(PTR, $0007CF34)
+//ギガヴァルガ
+Giga Valga
+<$00>
+
+
+// Ptr: 00001C74
+#WRITE(PTR, $0007CEE4)
+//ヴァルガノン
+Mega Valga
+<$00>
+
+
+// Ptr: 00001C84
+#WRITE(PTR, $0007CE94)
+//ヴァルガ
+Valga
+<$00>
+
+
+// Ptr: 00001C90
+#WRITE(PTR, $0007CE44)
+//ディアノーゼ
+Breath of Life
+<$00>
+
+
+// Ptr: 00001CA0
+#WRITE(PTR, $0007CDF4)
+//ケルパトリン
+Anti-Kepler
+<$00>
+
+
+// Ptr: 00001CB0
+#WRITE(PTR, $0007CDA4)
+//ドクトリン
+Toxicredo
+<$00>
+
+
+// Ptr: 00001CBC
+#WRITE(PTR, $0007CD54)
+//ラ・デ・ヘカ
+Grand Heal
+<$00>
+
+
+// Ptr: 00001CCC
+#WRITE(PTR, $0007CD04)
+//エヴリヘカリ
+All Heal
+<$00>
+
+
+// Ptr: 00001CDC
+#WRITE(PTR, $0007CCB4)
+//ヘカルノーゼ
+Super Heal
+<$00>
+
+
+// Ptr: 00001CEC
+#WRITE(PTR, $0007CC64)
+//ヘカルータ
+Large Heal
+<$00>
+
+
+// Ptr: 00001CF8
+#WRITE(PTR, $0007CC14)
+//ヘカル
+Heal
+<$00>
+
+
+// Ptr: 00001D00
+#WRITE(PTR, $0007EC44)
+//きょじんのおの
+Giant's Hatchet
+<$00>
+
+
+// Ptr: 00001D10
+#WRITE(PTR, $0007EBF4)
+//ドラゴンアックス
+Dragon Axe
+<$00>
+
+
+// Ptr: 00001D24
+#WRITE(PTR, $0007EBA4)
+//ガイアアックス
+Gaia Axe
+<$00>
+
+
+// Ptr: 00001D34
+#WRITE(PTR, $0007EB54)
+//すいしょうのおの
+Crystal Hatchet
+<$00>
+
+
+// Ptr: 00001D48
+#WRITE(PTR, $0007EB04)
+//サンダーアックス
+Thunder Axe
+<$00>
+
+
+// Ptr: 00001D5C
+#WRITE(PTR, $0007EAB4)
+//アイスアックス
+Ice Axe
+<$00>
+
+
+// Ptr: 00001D6C
+#WRITE(PTR, $0007EA64)
+//ファイアアックス
+Fire Axe
+<$00>
+
+
+// Ptr: 00001D80
+#WRITE(PTR, $0007EA14)
+//スリープアックス
+Sleep Axe
+<$00>
+
+
+// Ptr: 00001D94
+#WRITE(PTR, $0007E9C4)
+//ポールアックス
+Poleaxe
+<$00>
+
+
+// Ptr: 00001DA4
+#WRITE(PTR, $0007E974)
+//バトルアックス
+Battle Axe
+<$00>
+
+
+// Ptr: 00001DB4
+#WRITE(PTR, $0007E924)
+//モーニングスター
+Morning Star
+<$00>
+
+
+// Ptr: 00001DC8
+#WRITE(PTR, $0007E8D4)
+//ハンドアックス
+Hand Axe
+<$00>
+
+
+// Ptr: 00001DD8
+#WRITE(PTR, $0007E884)
+//ポセイドンスピア
+Poseidon's Spear
+<$00>
+
+
+// Ptr: 00001DEC
+#WRITE(PTR, $0007E834)
+//ランス
+Lance
+<$00>
+
+
+// Ptr: 00001DF4
+#WRITE(PTR, $0007E7E4)
+//トライデント
+Trident
+<$00>
+
+
+// Ptr: 00001E04
+#WRITE(PTR, $0007E794)
+//バンパイアスピア
+Vampire Spear
+<$00>
+
+
+// Ptr: 00001E18
+#WRITE(PTR, $0007E744)
+//ファイアスピア
+Fire Spear
+<$00>
+
+
+// Ptr: 00001E28
+#WRITE(PTR, $0007E6F4)
+//ブリザードスピア
+Blizzard Spear
+<$00>
+
+
+// Ptr: 00001E3C
+#WRITE(PTR, $0007E6A4)
+//スパークスピア
+Spark Spear
+<$00>
+
+
+// Ptr: 00001E4C
+#WRITE(PTR, $0007E654)
+//パルチザン
+Partisan
+<$00>
+
+
+// Ptr: 00001E58
+#WRITE(PTR, $0007E604)
+//スピア
+Spear
+<$00>
+
+
+// Ptr: 00001E60
+#WRITE(PTR, $0007E5B4)
+//ジャベリン
+Javelin
+<$00>
+
+
+// Ptr: 00001E6C
+#WRITE(PTR, $0007E564)
+//つりざお
+Fishing Rod
+<$00>
+
+
+// Ptr: 00001E78
+#WRITE(PTR, $0007E514)
+//ヴィーナスロッド
+Venus Rod
+<$00>
+
+
+// Ptr: 00001E8C
+#WRITE(PTR, $0007E4C4)
+//たけぼうき
+Bamboo Broom
+<$00>
+
+
+// Ptr: 00001E98
+#WRITE(PTR, $0007E474)
+//パワーロッド
+Power Rod
+<$00>
+
+
+// Ptr: 00001EA8
+#WRITE(PTR, $0007E424)
+//デスロッド
+Death Rod
+<$00>
+
+
+// Ptr: 00001EB4
+#WRITE(PTR, $0007E3D4)
+//いなずまのつえ
+Lightning Rod
+<$00>
+
+
+// Ptr: 00001EC4
+#WRITE(PTR, $0007E384)
+//ひょうがのつえ
+Glacier Staff
+<$00>
+
+
+// Ptr: 00001ED4
+#WRITE(PTR, $0007E334)
+//ファイアロッド
+Fire Rod
+<$00>
+
+
+// Ptr: 00001EE4
+#WRITE(PTR, $0007E2E4)
+//エルフスティック
+Elf Stick
+<$00>
+
+
+// Ptr: 00001EF8
+#WRITE(PTR, $0007E294)
+//ガラスのつえ
+Glass Staff
+<$00>
+
+
+// Ptr: 00001F08
+#WRITE(PTR, $0007E244)
+//バトン
+Baton
+<$00>
+
+
+// Ptr: 00001F10
+#WRITE(PTR, $0007E1F4)
+//おたま
+Ladle
+<$00>
+
+
+// Ptr: 00001F18
+#WRITE(PTR, $0007E1A4)
+//ドラゴンセイバー
+Dragon Saber
+<$00>
+
+
+// Ptr: 00001F2C
+#WRITE(PTR, $0007E154)
+//ジェナトスソード
+Jenatos Sword
+<$00>
+
+
+// Ptr: 00001F40
+#WRITE(PTR, $0007E104)
+//ガイアソード
+Gaia Sword
+<$00>
+
+
+// Ptr: 00001F50
+#WRITE(PTR, $0007E0B4)
+//めがみのつるぎ
+Goddess Blade
+<$00>
+
+
+// Ptr: 00001F60
+#WRITE(PTR, $0007E064)
+//グレートソード
+Greatsword
+<$00>
+
+
+// Ptr: 00001F70
+#WRITE(PTR, $0007E014)
+//エルフソード
+Elf Sword
+<$00>
+
+
+// Ptr: 00001F80
+#WRITE(PTR, $0007DFC4)
+//じくうのけん
+Dimension Blade
+<$00>
+
+
+// Ptr: 00001F90
+#WRITE(PTR, $0007DF74)
+//ファルシオン
+Falchion
+<$00>
+
+
+// Ptr: 00001FA0
+#WRITE(PTR, $0007DF24)
+//バスタードソード
+Bastard Sword
+<$00>
+
+
+// Ptr: 00001FB4
+#WRITE(PTR, $0007DED4)
+//バーニングソード
+Burning Sword
+<$00>
+
+
+// Ptr: 00001FC8
+#WRITE(PTR, $0007DE84)
+//らいげきのけん
+Lightning Blade
+<$00>
+
+
+// Ptr: 00001FD8
+#WRITE(PTR, $0007DE34)
+//レイピア
+Rapier
+<$00>
+
+
+// Ptr: 00001FE4
+#WRITE(PTR, $0007DDE4)
+//アイスソード
+Ice Sword
+<$00>
+
+
+// Ptr: 00001FF4
+#WRITE(PTR, $0007DD94)
+//ウィンドソード
+Wind Sword
+<$00>
+
+
+// Ptr: 00002004
+#WRITE(PTR, $0007DD44)
+//ドラゴンソード
+Dragon Sword
+<$00>
+
+
+// Ptr: 00002014
+#WRITE(PTR, $0007DCF4)
+//シミター
+Scimitar
+<$00>
+
+
+// Ptr: 00002020
+#WRITE(PTR, $0007DCA4)
+//ブラッドソード
+Blood Sword
+<$00>
+
+
+// Ptr: 00002030
+#WRITE(PTR, $0007DC54)
+//ブロードソード
+Broardsword
+<$00>
+
+
+// Ptr: 00002040
+#WRITE(PTR, $0007DC04)
+//グラディウス
+Gladius
+<$00>
+
+
+// Ptr: 00002050
+#WRITE(PTR, $0007DBB4)
+//ポイズンソード
+Poison Sword
+<$00>
+
+
+// Ptr: 00002060
+#WRITE(PTR, $0007DB64)
+//スティレット
+Stiletto
+<$00>
+
+
+// Ptr: 00002070
+#WRITE(PTR, $0007DB14)
+//クリス
+Kris
+<$00>
+
+
+// Ptr: 00002078
+#WRITE(PTR, $0007DAC4)
+//ラウンデルダガー
+Roundel Dagger
+<$00>
+
+
+// Ptr: 0000208C
+#WRITE(PTR, $0007DA74)
+//ダーク
+Dirk
+<$00>
+
+
+// Ptr: 00002094
+#WRITE(PTR, $0007DA24)
+//ダガー
+Dagger
+<$00>
+
+
+// Ptr: 0000209C
+#WRITE(PTR, $0007D9D4)
+//ナイフ
+Knife
+<$00>
+
+
+// Ptr: 000020A4
+#WRITE(PTR, $0007F374)
+//ゴッドアーマー
+God Armor
+<$00>
+
+
+// Ptr: 000020B4
+#WRITE(PTR, $0007F324)
+//かいおうのよろい
+Neptune Armor
+<$00>
+
+
+// Ptr: 000020C8
+#WRITE(PTR, $0007F2D4)
+//きょじんのよろい
+Giant Armor
+<$00>
+
+
+// Ptr: 000020DC
+#WRITE(PTR, $0007F284)
+//ドラゴンアーマー
+Dragon Armor
+<$00>
+
+
+// Ptr: 000020F0
+#WRITE(PTR, $0007F234)
+//ヒーローアーマー
+Hero Armor
+<$00>
+
+
+// Ptr: 00002104
+#WRITE(PTR, $0007F1E4)
+//ヴィーナスローブ
+Venus Robe
+<$00>
+
+
+// Ptr: 00002118
+#WRITE(PTR, $0007F194)
+//セーラーアーマー
+Sailor Armor
+<$00>
+
+
+// Ptr: 0000212C
+#WRITE(PTR, $0007F144)
+//キングスアーマー
+King's Armor
+<$00>
+
+
+// Ptr: 00002140
+#WRITE(PTR, $0007F0F4)
+//プレートメイル
+Platemail
+<$00>
+
+
+// Ptr: 00002150
+#WRITE(PTR, $0007F0A4)
+//クィーンズローブ
+Queen's Robe
+<$00>
+
+
+// Ptr: 00002164
+#WRITE(PTR, $0007F054)
+//ビショップローブ
+Bishop Robe
+<$00>
+
+
+// Ptr: 00002178
+#WRITE(PTR, $0007F004)
+//ブレストプレート
+Breastplate
+<$00>
+
+
+// Ptr: 0000218C
+#WRITE(PTR, $0007EFB4)
+//スケイルメイル
+Scale Mail
+<$00>
+
+
+// Ptr: 0000219C
+#WRITE(PTR, $0007EF64)
+//マジックローブ
+Magic Robe
+<$00>
+
+
+// Ptr: 000021AC
+#WRITE(PTR, $0007EF14)
+//てんにょのころも
+Celestial Garment
+<$00>
+
+
+// Ptr: 000021C0
+#WRITE(PTR, $0007EEC4)
+//リングメイル
+Ring Mail
+<$00>
+
+
+// Ptr: 000021D0
+#WRITE(PTR, $0007EE74)
+//マジシャンローブ
+Magician Robe
+<$00>
+
+
+// Ptr: 000021E4
+#WRITE(PTR, $0007EE24)
+//チェインメイル
+Chainmail
+<$00>
+
+
+// Ptr: 000021F4
+#WRITE(PTR, $0007EDD4)
+//ハードレザー
+Hard Leather
+<$00>
+
+
+// Ptr: 00002204
+#WRITE(PTR, $0007ED84)
+//レザーライト
+Light Leather
+<$00>
+
+
+// Ptr: 00002214
+#WRITE(PTR, $0007ED34)
+//レザーアーマー
+Leather Armor
+<$00>
+
+
+// Ptr: 00002224
+#WRITE(PTR, $0007ECE4)
+//クロスアーマー
+Cloth Armor
+<$00>
+
+
+// Ptr: 00002234
+#WRITE(PTR, $0007EC94)
+//ローブ
+Robe
+<$00>
+
+
+// Ptr: 0000223C
+#WRITE(PTR, $0007F8C4)
+//ちりとり
+Dustpan
+<$00>
+
+
+// Ptr: 00002248
+#WRITE(PTR, $0007F874)
+//かいおうのたて
+Neptune's Shield
+<$00>
+
+
+// Ptr: 00002258
+#WRITE(PTR, $0007F824)
+//ハーミットガード
+Hermit Guard
+<$00>
+
+
+// Ptr: 0000226C
+#WRITE(PTR, $0007F7D4)
+//シルフシールド
+Sylph Shield
+<$00>
+
+
+// Ptr: 0000227C
+#WRITE(PTR, $0007F784)
+//ドラゴンシールド
+Dragon Shield
+<$00>
+
+
+// Ptr: 00002290
+#WRITE(PTR, $0007F734)
+//めがみのたて
+Goddess Shield
+<$00>
+
+
+// Ptr: 000022A0
+#WRITE(PTR, $0007F6E4)
+//タワーシールド
+Tower Shield
+<$00>
+
+
+// Ptr: 000022B0
+#WRITE(PTR, $0007F694)
+//マジックシールド
+Magic Shield
+<$00>
+
+
+// Ptr: 000022C4
+#WRITE(PTR, $0007F644)
+//セラシールド
+Fairy Shield
+<$00>
+
+
+// Ptr: 000022D4
+#WRITE(PTR, $0007F5F4)
+//デコールシールド
+Decor Shield
+<$00>
+
+
+// Ptr: 000022E8
+#WRITE(PTR, $0007F5A4)
+//バックラー
+Buckler
+<$00>
+
+
+// Ptr: 000022F4
+#WRITE(PTR, $0007F554)
+//ナイトシールド
+Knight Shield
+<$00>
+
+
+// Ptr: 00002304
+#WRITE(PTR, $0007F504)
+//ラージシールド
+Large Shield
+<$00>
+
+
+// Ptr: 00002314
+#WRITE(PTR, $0007F4B4)
+//スモールシールド
+Small Shield
+<$00>
+
+
+// Ptr: 00002328
+#WRITE(PTR, $0007F464)
+//レザーシールド
+Leather Shield
+<$00>
+
+
+// Ptr: 00002338
+#WRITE(PTR, $0007F414)
+//ごみばこのふた
+Trash Can Lid
+<$00>
+
+
+// Ptr: 00002348
+#WRITE(PTR, $0007FC84)
+//ドラゴンヘルム
+Dragon Helm
+<$00>
+
+
+// Ptr: 00002358
+#WRITE(PTR, $0007FC34)
+//けもののかぶと
+Beast Helmet
+<$00>
+
+
+// Ptr: 00002368
+#WRITE(PTR, $0007FBE4)
+//めがみのかんむり
+Goddess Crown
+<$00>
+
+
+// Ptr: 0000237C
+#WRITE(PTR, $0007FB94)
+//セラキャップ
+Fairy Cap
+<$00>
+
+
+// Ptr: 0000238C
+#WRITE(PTR, $0007FB44)
+//クリスタルメット
+Crystal Helm
+<$00>
+
+
+// Ptr: 000023A0
+#WRITE(PTR, $0007FAF4)
+//マジカルハット
+Magic Hat
+<$00>
+
+
+// Ptr: 000023B0
+#WRITE(PTR, $0007FAA4)
+//ヒーリーハット
+Healy Hat
+<$00>
+
+
+// Ptr: 000023C0
+#WRITE(PTR, $0007FA54)
+//がくせいぼう
+Student Bow
+<$00>
+
+
+// Ptr: 000023D0
+#WRITE(PTR, $0007FA04)
+//フルヘルメット
+Full Helmet
+<$00>
+
+
+// Ptr: 000023E0
+#WRITE(PTR, $0007F9B4)
+//ヘルメット
+Helmet
+<$00>
+
+
+// Ptr: 000023EC
+#WRITE(PTR, $0007F964)
+//サークレット
+Circlet
+<$00>
+
+
+// Ptr: 000023FC
+#WRITE(PTR, $0007F914)
+//レザーハット
+Leather Hat
+<$00>
+
+
+// Ptr: 0000240C
+#WRITE(PTR, $000809A4)
+//スクールみずぎ
+School Swimsuit
+<$00>
+
+
+// Ptr: 0000241C
+#WRITE(PTR, $00080954)
+//スーパールーズ
+Super Loose Socks
+<$00>
+
+
+// Ptr: 0000242C
+#WRITE(PTR, $00080904)
+//セーラー服
+Sailor Uniform
+<$00>
+
+
+// Ptr: 00002438
+#WRITE(PTR, $000808B4)
+//あかいブルマ
+Red Bloomers
+<$00>
+
+
+// Ptr: 00002448
+#WRITE(PTR, $00080864)
+//ブルマ
+Bloomers
+<$00>
+
+
+// Ptr: 00002450
+#WRITE(PTR, $00080814)
+//学生服
+Student Uniform
+<$00>
+
+
+// Ptr: 00002458
+#WRITE(PTR, $000807C4)
+//セーラースカーフ
+Sailor Scarf
+<$00>
+
+
+// Ptr: 0000246C
+#WRITE(PTR, $00080774)
+//アルトリコーダー
+Alto Recorder
+<$00>
+
+
+// Ptr: 00002480
+#WRITE(PTR, $00080724)
+//チャイナドレス
+Cheongsam
+<$00>
+
+
+// Ptr: 00002490
+#WRITE(PTR, $000806D4)
+//くまのぬいぐるみ
+Stuffed Bear
+<$00>
+
+
+// Ptr: 000024A4
+#WRITE(PTR, $00080684)
+//レザーブーツ
+Leather Boots
+<$00>
+
+
+// Ptr: 000024B4
+#WRITE(PTR, $00080634)
+//コンタクトレンズ
+Contact Lense
+<$00>
+
+
+// Ptr: 000024C8
+#WRITE(PTR, $000805E4)
+//ルーズソックス
+Loose Socks
+<$00>
+
+
+// Ptr: 000024D8
+#WRITE(PTR, $00080594)
+//女子たいそう服
+Gym Clothes F
+<$00>
+
+
+// Ptr: 000024E8
+#WRITE(PTR, $00080544)
+//男子たいそう服
+Gym Clothes M
+<$00>
+
+
+// Ptr: 000024F8
+#WRITE(PTR, $000804F4)
+//ローファー
+Loafers
+<$00>
+
+
+// Ptr: 00002504
+#WRITE(PTR, $000804A4)
+//ジャージ
+Jersey
+<$00>
+
+
+// Ptr: 00002510
+#WRITE(PTR, $00080454)
+//スニーカー
+Sneakers
+<$00>
+
+
+// Ptr: 0000251C
+#WRITE(PTR, $00080404)
+//ももひき
+Long Johns
+<$00>
+
+
+// Ptr: 00002528
+#WRITE(PTR, $000803B4)
+//パイプ
+Pipe
+<$00>
+
+
+// Ptr: 00002530
+#WRITE(PTR, $00080364)
+//はらまき
+Belly Warmer
+<$00>
+
+
+// Ptr: 0000253C
+#WRITE(PTR, $00080314)
+//ネクタイ
+Neck Tie
+<$00>
+
+
+// Ptr: 00002548
+#WRITE(PTR, $000802C4)
+//マフラー
+Scarf
+<$00>
+
+
+// Ptr: 00002554
+#WRITE(PTR, $00080274)
+//チョーカー
+Choker
+<$00>
+
+
+// Ptr: 00002560
+#WRITE(PTR, $00080224)
+//ふえ
+Flute
+<$00>
+
+
+// Ptr: 00002568
+#WRITE(PTR, $000801D4)
+//たいいくシューズ
+Running Shoes
+<$00>
+
+
+// Ptr: 0000257C
+#WRITE(PTR, $00080184)
+//エプロン
+Apron
+<$00>
+
+
+// Ptr: 00002588
+#WRITE(PTR, $00080134)
+//ハイソックス
+High Socks
+<$00>
+
+
+// Ptr: 00002598
+#WRITE(PTR, $000800E4)
+//たいいくぼうし
+Exercise Hat
+<$00>
+
+
+// Ptr: 000025A8
+#WRITE(PTR, $00080094)
+//ヒーリージュエル
+Healy Jewel
+<$00>
+
+
+// Ptr: 000025BC
+#WRITE(PTR, $00080044)
+//マジカルジュエル
+Magic Jewel
+<$00>
+
+
+// Ptr: 000025D0
+#WRITE(PTR, $0007FFF4)
+//ヘアバンド
+Hairband
+<$00>
+
+
+// Ptr: 000025DC
+#WRITE(PTR, $0007FFA4)
+//ベルト
+Belt
+<$00>
+
+
+// Ptr: 000025E4
+#WRITE(PTR, $0007FF54)
+//めがね
+Glasses
+<$00>
+
+
+// Ptr: 000025EC
+#WRITE(PTR, $0007FF04)
+//セーター
+Sweater
+<$00>
+
+
+// Ptr: 000025F8
+#WRITE(PTR, $0007FEB4)
+//ブラウス
+Blouse
+<$00>
+
+
+// Ptr: 00002604
+#WRITE(PTR, $0007FE64)
+//サングラス
+Sunglasses
+<$00>
+
+
+// Ptr: 00002610
+#WRITE(PTR, $0007FE14)
+//パワーリング
+Power Ring
+<$00>
+
+
+// Ptr: 00002620
+#WRITE(PTR, $0007FDC4)
+//イージーリング
+Easy Ring
+<$00>
+
+
+// Ptr: 00002630
+#WRITE(PTR, $0007FD74)
+//ネックレス
+Necklace
+<$00>
+
+
+// Ptr: 0000263C
+#WRITE(PTR, $0007FD24)
+//インテリピアス
+Int Earrings
+<$00>
+
+
+// Ptr: 0000264C
+#WRITE(PTR, $0007FCD4)
+//ラピッドピアス
+Rapid Earrings
+<$00>
+
+
+// Ptr: 0000265C
+#WRITE(PTR, $00081264)
+//マカまん
+Maka Man
+<$00>
+
+
+// Ptr: 00002668
+#WRITE(PTR, $00081214)
+//ヘカまん
+Heka Man
+<$00>
+
+
+// Ptr: 00002674
+#WRITE(PTR, $000811C4)
+//ナッツまん
+Nut Man
+<$00>
+
+
+// Ptr: 00002680
+#WRITE(PTR, $00081174)
+//オムレツまん
+Omelet Mna
+<$00>
+
+
+// Ptr: 00002690
+#WRITE(PTR, $00081124)
+//ココアまん
+Cocoa Man
+<$00>
+
+
+// Ptr: 0000269C
+#WRITE(PTR, $000810D4)
+//パワーまん
+Power Man
+<$00>
+
+
+// Ptr: 000026A8
+#WRITE(PTR, $00081084)
+//タフまん
+Tough Man
+<$00>
+
+
+// Ptr: 000026B4
+#WRITE(PTR, $00081034)
+//おんせんたまご
+Hot Spring Egg
+<$00>
+
+
+// Ptr: 000026C4
+#WRITE(PTR, $00080FE4)
+//マカデミアナッツ
+Macadamia Nuts
+<$00>
+
+
+// Ptr: 000026D8
+#WRITE(PTR, $00080F94)
+//スキルドロップ
+Skill Drop
+<$00>
+
+
+// Ptr: 000026E8
+#WRITE(PTR, $00080F44)
+//インテリオムレツ
+Int Omelet
+<$00>
+
+
+// Ptr: 000026FC
+#WRITE(PTR, $00080EF4)
+//スピードココア
+Speed Cocoa
+<$00>
+
+
+// Ptr: 0000270C
+#WRITE(PTR, $00080EA4)
+//マカ汁
+Maka Soup
+<$00>
+
+
+// Ptr: 00002714
+#WRITE(PTR, $00080E54)
+//ヘカ汁
+Heka Soup
+<$00>
+
+
+// Ptr: 0000271C
+#WRITE(PTR, $00080E04)
+//ライフホルン
+Life Horn
+<$00>
+
+
+// Ptr: 0000272C
+#WRITE(PTR, $00080DB4)
+//かっしんざい
+Angel Infusion
+<$00>
+
+
+// Ptr: 0000273C
+#WRITE(PTR, $00080D64)
+//まよけのふだ
+Talisman
+<$00>
+
+
+// Ptr: 0000274C
+#WRITE(PTR, $00080D14)
+//アロエ
+Aloe
+<$00>
+
+
+// Ptr: 00002754
+#WRITE(PTR, $00080CC4)
+//ぎゅうにゅう
+Milk
+<$00>
+
+
+// Ptr: 00002764
+#WRITE(PTR, $00080C74)
+//ビックヘカ
+Big Heka
+<$00>
+
+
+// Ptr: 00002770
+#WRITE(PTR, $00080C24)
+//ずつうやく
+Painkillers
+<$00>
+
+
+// Ptr: 0000277C
+#WRITE(PTR, $00080BD4)
+//きずぐすり
+Salve
+<$00>
+
+
+// Ptr: 00002788
+#WRITE(PTR, $00080B84)
+//ほしがき
+Persimmons
+<$00>
+
+
+// Ptr: 00002794
+#WRITE(PTR, $00080B34)
+//コッペパン
+Bread Roll
+<$00>
+
+
+// Ptr: 000027A0
+#WRITE(PTR, $00080AE4)
+//マカの実
+Maka Fruit
+<$00>
+
+
+// Ptr: 000027AC
+#WRITE(PTR, $00080A94)
+//ヘカの実
+Heka Fruit
+<$00>
+
+
+// Ptr: 000027B8
+#WRITE(PTR, $00081854)
+//せいじゃのてがみ
+Saint's Letter
+<$00>
+
+
+// Ptr: 000027CC
+#WRITE(PTR, $00081804)
+//しれんのまきもの
+Trial Certificate
+<$00>
+
+
+// Ptr: 000027E0
+#WRITE(PTR, $000817B4)
+//にんぎょのぞう
+Mermaid Statue
+<$00>
+
+
+// Ptr: 000027F0
+#WRITE(PTR, $00081764)
+//にんぎょのぞうＲ
+Mermaid Statue R
+<$00>
+
+
+// Ptr: 00002804
+#WRITE(PTR, $00081714)
+//にんぎょのぞうＬ
+Mermaid Statue L
+<$00>
+
+
+// Ptr: 00002805
+#WRITE(PTR, $00082E14)
+//ﾉんぎょのぞうＬ
+Meremaid Statue L
+<$00>
+
+
+// Ptr: 00002818
+#WRITE(PTR, $000816C4)
+//いんがのつえ
+Causality Rod
+<$00>
+
+
+// Ptr: 00002828
+#WRITE(PTR, $00081674)
+//プラチナリング
+Platinum Ring
+<$00>
+
+
+// Ptr: 00002838
+#WRITE(PTR, $00081624)
+//どうくつのカギ
+Cave Key
+<$00>
+
+
+// Ptr: 00002848
+#WRITE(PTR, $000815D4)
+//ロケット
+Locket
+<$00>
+
+
+// Ptr: 00002854
+#WRITE(PTR, $00081584)
+//ちず
+Map
+<$00>
+
+
+// Ptr: 0000285C
+#WRITE(PTR, $00081534)
+//ゆうしゃのけん
+Hero's Sword
+<$00>
+
+
+// Ptr: 0000286C
+#WRITE(PTR, $000814E4)
+//めがみのうでわ
+Goddess Bracelet
+<$00>
+
+
+// Ptr: 0000287C
+#WRITE(PTR, $00081494)
+//めがみのゆびわ
+Goddess Ring
+<$00>
+
+
+// Ptr: 0000288C
+#WRITE(PTR, $00081444)
+//ギアスのたま
+Geass Sphere
+<$00>
+
+
+// Ptr: 0000289C
+#WRITE(PTR, $000813F4)
+//ギアスのつえ
+Geass Rod
+<$00>
+
+
+// Ptr: 000028AC
+#WRITE(PTR, $000813A4)
+//らせんのつえ
+Spiral Staff
+<$00>
+
+
+// Ptr: 000028BC
+#WRITE(PTR, $00081354)
+//ピクシーのつえ
+Pixie Staff
+<$00>
+
+// Ptr: 00003E80
+#WRITE(PTR, $0008CFB0)
+//サンドルーアのオアシス
+Sandrigal Oasis
+<$00>
+
+
+// Ptr: 00003E98
+#WRITE(PTR, $0008CF60)
+//イオの港
+Io Port
+<$00>
+
+
+// Ptr: 00003EA4
+#WRITE(PTR, $0008CF50)
+//ユーロの港
+Yuuro Port
+<$00>
+
+
+// Ptr: 00003EB0
+#WRITE(PTR, $0008CF40)
+//魔王の城
+Demon Castle
+<$00>
+
+
+// Ptr: 00003EBC
+#WRITE(PTR, $0008CF30)
+//ダンの港
+Dan Port
+<$00>
+
+
+// Ptr: 00003EC8
+#WRITE(PTR, $0008CEE0)
+//ハンバの村
+Hanba Village
+<$00>
+
+
+// Ptr: 00003ED4
+#WRITE(PTR, $0008CED0)
+//クーバ港
+Kuuba Port
+<$00>
+
+
+// Ptr: 00003EE0
+#WRITE(PTR, $0008CEC0)
+//ルナの浅瀬
+Luna Shoal
+<$00>
+
+
+// Ptr: 00003EEC
+#WRITE(PTR, $0008CEB0)
+//ケーブの町
+Keb Village
+<$00>
+
+
+// Ptr: 00003EF8
+#WRITE(PTR, $0008CE60)
+//南の洞窟
+South Cave
+<$00>
+
+
+// Ptr: 00003F04
+#WRITE(PTR, $0008CE50)
+//北の洞窟
+North Cave
+<$00>
+
+
+// Ptr: 00003F10
+#WRITE(PTR, $0008CE30)
+//バーシスのはいきょ
+Ruins of Bahsis
+<$00>
+
+
+// Ptr: 00003F24
+#WRITE(PTR, $0008CDB0)
+//メクアの港
+Mekua Port
+<$00>
+
+
+// Ptr: 00003F30
+#WRITE(PTR, $0008CD30)
+//ピカの浅瀬
+Pika Shoal
+<$00>
+
+
+// Ptr: 00003F3C
+#WRITE(PTR, $0008CCD0)
+//ロブのせき
+Rob Dam
+<$00>
+
+
+// Ptr: 00003F48
+#WRITE(PTR, $0008CCC0)
+//コントンのはいきょ
+Conton Ruins
+<$00>
+
+
+// Ptr: 00003F5C
+#WRITE(PTR, $0008CCB0)
+//アルナの関所
+Aluna Damn
+<$00>
+
+
+// Ptr: 00003F6C
+#WRITE(PTR, $0008CC50)
+//ウケーブ洞窟
+Ukeb Cave
+<$00>
+
+
+// Ptr: 00003F7C
+#WRITE(PTR, $0008CC40)
+//イケーブ洞窟
+Ikeb Cave
+<$00>
+
+
+// Ptr: 00003F8C
+#WRITE(PTR, $0008CC30)
+//エスカの木
+Esca Tree
+<$00>
+
+
+// Ptr: 00003F98
+#WRITE(PTR, $0008CBB0)
+//ヴィーナの港
+Vinna Port
+<$00>
+
+
+// Ptr: 00003FA8
+#WRITE(PTR, $0008CB40)
+//ドロア城
+Castle Droa
+<$00>
+
+
+// Ptr: 00003FB4
+#WRITE(PTR, $0008CB30)
+//ギアスの塔
+Geass Tower
+<$00>
+
+
+// Ptr: 00003FC0
+#WRITE(PTR, $0008CAB0)
+//クーデン川
+Cuden River
+<$00>
+
+
+// Ptr: 00003FCC
+#WRITE(PTR, $0008CA40)
+//戦士神殿・魔導師神殿
+Warrior/Mage Temples
+<$00>
+
+
+// Ptr: 00003FE4
+#WRITE(PTR, $0008CA30)
+//封印の洞窟
+Sealed Cave
+<$00>
+
+
+// Ptr: 00003FF0
+#WRITE(PTR, $0008C9D0)
+//ノーザラスの港町
+Nautilus Port City
+<$00>
+
+
+// Ptr: 00004004
+#WRITE(PTR, $0008C9C0)
+//ピクシアンの森
+Pixie Forest
+<$00>
+
+
+// Ptr: 00004014
+#WRITE(PTR, $0008C9B0)
+//マウタスの町
+Mahtas Village
+<$00>
+
+
+// Ptr: 00004024
+#WRITE(PTR, $0008C930)
+//隠者の里
+Hermit Village
+<$00>
+
+
+// Ptr: 00004030
+#WRITE(PTR, $0008C8B0)
+//修練の港
+Training Port
+<$00>
+
+
+// Ptr: 0000403C
+#WRITE(PTR, $0008C850)
+//旧ハインローグ城
+Old Heinrogue Castle
+<$00>
+
+
+// Ptr: 00004050
+#WRITE(PTR, $0008C840)
+//精霊神殿
+Spirit Temple
+<$00>
+
+
+// Ptr: 0000405C
+#WRITE(PTR, $0008C830)
+//バロスメイアの町
+Barrows May
+<$00>
+
+
+// Ptr: 00004070
+#WRITE(PTR, $0008C7D0)
+//帰らずの港
+Port of No Return
+<$00>
+
+
+// Ptr: 0000407C
+#WRITE(PTR, $0008C7C0)
+//聖者の塔の門
+Sage's Tower Gate
+<$00>
+
+
+// Ptr: 0000408C
+#WRITE(PTR, $0008C7B0)
+//聖者への道
+To Sage's Road
+<$00>
+
+
+// Ptr: 00004098
+#WRITE(PTR, $0008C740)
+//聖者の道
+Sage's Road
+<$00>
+
+
+// Ptr: 000040A4
+#WRITE(PTR, $0008C730)
+//新ハインローグ城
+New Heinrogue Castle
+<$00>
+
+
+// Ptr: 000040B8
+#WRITE(PTR, $0008C6C0)
+//ファーナスの町
+Farnus City
+<$00>
+
+
+// Ptr: 000040C8
+#WRITE(PTR, $0008C6B0)
+//メルーの町
+Mell
+<$00>
+
+
+// Ptr: 000040D4
+#WRITE(PTR, $0008C640)
+//サナトリの村
+Sanitas Village
+<$00>
+
+
+// Ptr: 000040E4
+#WRITE(PTR, $0008C630)
+//レイクマウントの町
+Lake Mount
+<$00>
+
+
+// Ptr: 000040F8
+#WRITE(PTR, $0008C5C0)
+//ルーンマルナの町
+Rune Malna
+<$00>
+
+
+// Ptr: 0000410C
+#WRITE(PTR, $0008C5B0)
+//ルーンの関
+Rune Gate
+<$00>
+
+// Ptr: 00004308
+#WRITE(PTR, $0008D5FC)
+//でる
+Leave
+<$00>
+
+
+// Ptr: 00004310
+#WRITE(PTR, $0008D5F8)
+//うる
+Sell
+<$00>
+
+
+// Ptr: 00004318
+#WRITE(PTR, $0008D5F4)
+//かう
+Buy
+<$00>
+
+
+// Ptr: 00004338
+#WRITE(PTR, $0008D60C)
+//いいえ
+No
+<$00>
+
+
+// Ptr: 00004340
+#WRITE(PTR, $0008D608)
+//はい
+Yes
+<$00>
+
+
+// Ptr: 00004348
+#WRITE(PTR, $0008D618)
+//これいじょう、もてません。
+Can't carry anymore.
+<$00>
+
+
+// Ptr: 00004364
+#WRITE(PTR, $0008D614)
+//おかねがたりません。
+Not enough money.
+<$00>
+
+
+// Ptr: 00004470
+#WRITE(PTR, $0008D628)
+//いいえ
+No
+<$00>
+
+
+// Ptr: 00004478
+#WRITE(PTR, $0008D624)
+//はい
+Yes
+<$00>
+
+
+// Ptr: 00004618
+#WRITE(PTR, $0008D6F0)
+//ＭＰ
+MP
+<$00>
+
+
+// Ptr: 00004620
+#WRITE(PTR, $0008D6E4)
+//ＨＰ
+HP
+<$00>
+
+
+// Ptr: 00004628
+#WRITE(PTR, $0008D734)
+//ＮＥＸＴ
+Next
+<$00>
+
+
+// Ptr: 00004634
+#WRITE(PTR, $0008D728)
+//ＥＸＰ
+EXP
+<$00>
+
+
+// Ptr: 0000463C
+#WRITE(PTR, $0008D71C)
+//ＬＥＶＥＬ
+Level
+<$00>
+
+// Ptr: 000046AC
+#WRITE(PTR, $0008D7A4)
+//SK
+SK
+<$00>
+
+
+// Ptr: 000046B0
+#WRITE(PTR, $0008D798)
+//QP
+QP
+<$00>
+
+
+// Ptr: 000046B4
+#WRITE(PTR, $0008D78C)
+//ST
+ST
+<$00>
+
+
+// Ptr: 000046B8
+#WRITE(PTR, $0008D780)
+//DP
+DP
+<$00>
+
+
+// Ptr: 000046BC
+#WRITE(PTR, $0008D774)
+//IQ
+IQ
+<$00>
+
+
+// Ptr: 000046C0
+#WRITE(PTR, $0008D768)
+//AP
+AP
+<$00>
+
+
+// Ptr: 000046C4
+#WRITE(PTR, $0008D75C)
+//MG
+MG
+<$00>
+
+
+// Ptr: 000046C8
+#WRITE(PTR, $0008D750)
+//LV
+LV
+<$00>
+
+
+// Ptr: 000046CC
+#WRITE(PTR, $0008D884)
+//とじる
+Close
+<$00>
+
+
+// Ptr: 000046D4
+#WRITE(PTR, $0008D878)
+//ロード
+Load
+<$00>
+
+
+// Ptr: 000046DC
+#WRITE(PTR, $0008D86C)
+//セーブ
+Save
+<$00>
+
+
+// Ptr: 000046E4
+#WRITE(PTR, $0008D860)
+//パーティー
+Party
+<$00>
+
+
+// Ptr: 000046F0
+#WRITE(PTR, $0008D854)
+//そうび
+Equip
+<$00>
+
+
+// Ptr: 000046F8
+#WRITE(PTR, $0008D848)
+//アイテム
+Item
+<$00>
+
+
+// Ptr: 00004704
+#WRITE(PTR, $0008D83C)
+//ステータス
+Status
+<$00>
+
+
+// Ptr: 00004710
+#WRITE(PTR, $0008D830)
+//まほう
+Magic
+<$00>
+
+
+// Ptr: 00004728
+#WRITE(PTR, $0008DC44)
+//ＧＰ
+GP
+<$00>
+
+
+// Ptr: 00004730
+#WRITE(PTR, $0008DC2C)
+//ＮＥＸＴ
+Next
+<$00>
+
+
+// Ptr: 0000473C
+#WRITE(PTR, $0008DC14)
+//ＥＸＰ
+EXP
+<$00>
+
+
+// Ptr: 00004744
+#WRITE(PTR, $0008DBFC)
+//ＬＥＶＥＬ
+Level
+<$00>
+
+
+// Ptr: 00004750
+#WRITE(PTR, $0008DBCC)
+//ＭＰ
+MP
+<$00>
+
+
+// Ptr: 00004758
+#WRITE(PTR, $0008DBB4)
+#WRITE(PTR, $0008DBE4)
+//／
+/
+<$00>
+
+
+// Ptr: 0000475C
+#WRITE(PTR, $0008DB9C)
+//ＨＰ
+HP
+<$00>
+
+
+// Ptr: 00004784
+#WRITE(PTR, $0008DD68)
+#WRITE(PTR, $0008DD74)
+#WRITE(PTR, $0008DD80)
+//かざり
+Accessory
+<$00>
+
+
+// Ptr: 0000478C
+#WRITE(PTR, $0008DD5C)
+//たて
+Shield
+<$00>
+
+
+// Ptr: 00004794
+#WRITE(PTR, $0008DD50)
+//よろい
+Armor
+<$00>
+
+
+// Ptr: 0000479C
+#WRITE(PTR, $0008DD44)
+//かぶと
+Head
+<$00>
+
+
+// Ptr: 000047A4
+#WRITE(PTR, $0008DD38)
+//ぶき
+Weapon
+<$00>
+
+
+// Ptr: 000047AC
+#WRITE(PTR, $0008DE98)
+//ＭＰ
+MP
+<$00>
+
+
+// Ptr: 000047B4
+#WRITE(PTR, $0008DE8C)
+//ＨＰ
+HP
+<$00>
+
+
+// Ptr: 000047BC
+#WRITE(PTR, $0008DEE8)
+//コ
+unused
+<$00>
+
+
+// Ptr: 000047C8
+#WRITE(PTR, $0008DF68)
+#WRITE(PTR, $0008DF8C)
+#WRITE(PTR, $0008DFB0)
+#WRITE(PTR, $0008DFD4)
+#WRITE(PTR, $0008DFF8)
+#WRITE(PTR, $0008E01C)
+#WRITE(PTR, $0008E040)
+//ガメ
+Gahme
+<$00>
+
+
+// Ptr: 000047DC
+#WRITE(PTR, $0008E0B8)
+//にげる
+Run
+<$00>
+
+
+// Ptr: 000047E4
+#WRITE(PTR, $0008E0AC)
+//アイテム
+Item
+<$00>
+
+
+// Ptr: 000047F0
+#WRITE(PTR, $0008E0A0)
+//ぼうぎょ
+Defend
+<$00>
+
+
+// Ptr: 000047FC
+#WRITE(PTR, $0008E094)
+//まほう
+Magic
+<$00>
+
+
+// Ptr: 00004804
+#WRITE(PTR, $0008E088)
+//こうげき
+Attack
+<$00>
+
+
+// Ptr: 00004820
+#WRITE(PTR, $0008E284)
+//ロードできませんでした。
+Failed to load.
+<$00>
+
+
+// Ptr: 0000483C
+#WRITE(PTR, $0008E280)
+//セーブデータがこわれています。
+Save data is corrupted.
+<$00>
+
+
+// Ptr: 0000485C
+#WRITE(PTR, $0008E27C)
+//すててもよろしいですか？
+Discard save data?
+<$00>
+
+
+// Ptr: 00004878
+#WRITE(PTR, $0008E278)
+//これいじょうもてません。
+Can't carry anymore.
+<$00>
+
+
+// Ptr: 00004894
+#WRITE(PTR, $0008E270)
+//ロードします。
+Loading...
+<$00>
+
+
+// Ptr: 000048A4
+#WRITE(PTR, $0008E26C)
+//おしてください。
+.
+<$00>
+
+
+// Ptr: 000048B8
+#WRITE(PTR, $0008E268)
+//メモリーカードをさしこんで○ボタンを
+Insert a memory card, then press ○
+<$00>
+
+
+// Ptr: 000048E0
+#WRITE(PTR, $0008E260)
+//「アンシャントロマン」ＤＩＳＣ　２をいれて
+Please insert "Ancient Roman" disc 2
+<$00>
+
+
+// Ptr: 0000490C
+#WRITE(PTR, $0008E25C)
+#WRITE(PTR, $0008E264)
+//リセットボタンをおしてください。
+then press the reset button.
+<$00>
+
+
+// Ptr: 00004930
+#WRITE(PTR, $0008E258)
+//「アンシャントロマン」ＤＩＳＣ　１をいれて
+Please insert "Ancient Roman" disc 1
+<$00>
+
+
+// Ptr: 0000495C
+#WRITE(PTR, $0008E254)
+#WRITE(PTR, $0008E274)
+//よろしいですか？
+Proceed?
+<$00>
+
+
+// Ptr: 00004970
+#WRITE(PTR, $0008E250)
+//いぜんのデータにうわがきします。
+Overwriting old data.
+<$00>
+
+
+// Ptr: 00004994
+#WRITE(PTR, $0008E24C)
+//メモリーカードをぬいたりしないでください。
+Do not remove your memory card.
+<$00>
+
+
+// Ptr: 000049C0
+#WRITE(PTR, $0008E248)
+//アクセスしています。でんげんをきったり、
+Accessing... Do not power off the console.
+<$00>
+
+
+// Ptr: 000049EC
+#WRITE(PTR, $0008E244)
+//しまいます。フォーマットしてもいいですか？
+Format memory card?
+<$00>
+
+
+// Ptr: 00004A18
+#WRITE(PTR, $0008E240)
+//フォーマットするとデータはすべてきえて
+Formatting will wipe all data.
+<$00>
+
+
+// Ptr: 00004A40
+#WRITE(PTR, $0008E238)
+//ロードしました。
+Loaded successfully.
+<$00>
+
+
+// Ptr: 00004A54
+#WRITE(PTR, $0008E230)
+//メモリーカードにデータがありません。
+No save file found on memory card.
+<$00>
+
+
+// Ptr: 00004A7C
+#WRITE(PTR, $0008E228)
+//セーブしました。
+Saved!
+<$00>
+
+
+// Ptr: 00004A90
+#WRITE(PTR, $0008E224)
+//しっぱいしました。
+Failed...
+<$00>
+
+
+// Ptr: 00004AA4
+#WRITE(PTR, $0008E220)
+//メモリーカードのフォーマットに
+Memory card must be formatted.
+<$00>
+
+
+// Ptr: 00004AC4
+#WRITE(PTR, $0008E218)
+//メモリーカードがぬかれました。
+Memory card has been removed.
+<$00>
+
+
+// Ptr: 00004AE4
+#WRITE(PTR, $0008E214)
+//このメモリーカードにはセーブできません。
+Cannot save with this memory card.
+<$00>
+
+
+// Ptr: 00004B10
+#WRITE(PTR, $0008E210)
+//メモリーカードのあきブロックがたりません。
+Not enough free blocks on memory card.
+<$00>
+
+
+// Ptr: 00004B3C
+#WRITE(PTR, $0008E20C)
+//フォーマットしますか？
+Format memory card?
+<$00>
+
+
+// Ptr: 00004B54
+#WRITE(PTR, $0008E208)
+//メモリーカードがフォーマットされていません。
+Memory card not formatted.
+<$00>
+
+
+// Ptr: 00004B84
+#WRITE(PTR, $0008E200)
+//メモリーカードのアクセスにしっぱいしました。
+Failed to access memory card.
+<$00>
+
+
+// Ptr: 00004BB8
+#WRITE(PTR, $0008E1F8)
+//メモリーカードがさしこまれていません。
+No memory card found.
+<$00>
+
+
+// Ptr: 00004BE4
+#WRITE(PTR, $0008E2C8)
+//／
+/
+<$00>
+
+
+// Ptr: 00004BE8
+#WRITE(PTR, $0008E2BC)
+//いいえ
+No
+<$00>
+
+
+// Ptr: 00004BF0
+#WRITE(PTR, $0008E2B0)
+//はい
+Yes
+<$00>
+
+
+// Ptr: 00004BF8
+#WRITE(PTR, $0008E334)
+//つづきから
+Continue
+<$00>
+
+
+// Ptr: 00004C04
+#WRITE(PTR, $0008E328)
+//はじめから
+New Game
+<$00>
+
+
+// Ptr: 00004C60
+#WRITE(PTR, $0008E39C)
+#WRITE(PTR, $0008E7B4)
+#WRITE(PTR, $0008E7C4)
+#WRITE(PTR, $0008E7D4)
+//けってい
+Confirm
+<$00>
+
+
+// Ptr: 00004C6C
+#WRITE(PTR, $0008E390)
+#WRITE(PTR, $0008E7B0)
+#WRITE(PTR, $0008E7C0)
+//えいすう
+English
+<$00>
+
+
+// Ptr: 00004C78
+#WRITE(PTR, $0008E384)
+#WRITE(PTR, $0008E7AC)
+#WRITE(PTR, $0008E7D0)
+//ひらがな
+Hiragana
+<$00>
+
+
+// Ptr: 00004C84
+#WRITE(PTR, $0008E378)
+#WRITE(PTR, $0008E7A8)
+#WRITE(PTR, $0008E7B8)
+#WRITE(PTR, $0008E7C8)
+//スペース
+Space
+<$00>
+
+
+// Ptr: 00004E94
+#WRITE(PTR, $0008E7BC)
+#WRITE(PTR, $0008E7CC)
+//カタカナ
+Katakana
+<$00>
+
+
+
+#WARN($00004E94, "WARNME")

@@ -6,8 +6,7 @@ copy ins\D1_S00\*.DAT cd\Ancient-Roman-Disc-1\S00\ 1>nul
 echo Copying over font file...
 del graphics\DATA0000\BASE.FBS
 copy graphics\orig\DATA0000\BASE.FBS graphics\DATA0000\BASE.FBS
-tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.1.5308.png -p 8 -c 0x5308 -b 4 -m 14
-tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.2.6F08.png -p 8 -c 0x6F08 -b 4 -m 13
+tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.1.5308.png -p 8 -c 0x5308 -b 4
 
 del /q cd\Ancient-Roman-Disc-1\DATA0000\BASE.FBS
 copy graphics\DATA0000\BASE.FBS cd\Ancient-Roman-Disc-1\DATA0000\BASE.FBS
@@ -25,6 +24,9 @@ del exe\SLPS_011.08
 copy exe\orig\SLPS_011.08 exe\SLPS_011.08
 copy /y NUL cd\Ancient-Roman-Disc-1\CODE.DAT >NUL
 tools\armips.exe code\ancient-roman-1.asm
+
+tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08.po trans\orig\SLPS_011.08.txt trans\SLPS_011.08.txt
+tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08.po trans\orig\SLPS_011.09.txt trans\SLPS_011.09.txt
 
 del cd\Ancient-Roman-Disc-1\SLPS_011.08
 copy exe\SLPS_011.08 cd\Ancient-Roman-Disc-1\SLPS_011.08
