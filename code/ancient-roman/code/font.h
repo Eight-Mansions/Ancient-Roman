@@ -9,7 +9,7 @@ extern "C" {
 
 	u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic);
 
-	void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text);
+	void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text, ushort length);
 }
 
 #endif

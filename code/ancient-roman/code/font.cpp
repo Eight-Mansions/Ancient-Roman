@@ -171,13 +171,12 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 	return text[0];
 }
 
-void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text)
+void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text, ushort length)
 {
 	int x = 0;
 	u16 width = 0;
 	int idx = 0;
-	while (true)
-	//for(int i = 0; i < 5; i++)
+	for(int i = 0; i < length; i++)
 	{
 		if (idx == 0)
 		{
@@ -195,11 +194,6 @@ void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text)
 		p2 = (POLY_FT4*)(((u8*)p2) + sizeof(POLY_FT4));
 		
 		u8 letter = text[idx];
-		if (letter == 0)
-			break;
-
-		letter++;
-
 		if (letter > 0x80)
 		{
 			idx++;

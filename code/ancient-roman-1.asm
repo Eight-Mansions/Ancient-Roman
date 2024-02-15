@@ -58,7 +58,7 @@ CallSetBabyLetterWidths:
 	sw v1, 20(sp)
 
 	jal SetBabyLetterWidths
-	nop
+	lh a3, 0x04(s0)
 	
 	lw ra, 0(sp)
 	lw a0, 4(sp)
