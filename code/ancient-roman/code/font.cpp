@@ -176,8 +176,8 @@ void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text)
 	int x = 0;
 	u16 width = 0;
 	int idx = 0;
-	//while (true)
-	for(int i = 0; i < 5; i++)
+	while (true)
+	//for(int i = 0; i < 5; i++)
 	{
 		if (idx == 0)
 		{

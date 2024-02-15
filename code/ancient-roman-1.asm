@@ -135,6 +135,9 @@ CallSetBabyLetterWidths:
 .org 0x8003f9f8
 	nop
 	
+.org 0x8009db24
+	.db 0x09 ; Increase New Game letter count
+	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
 
