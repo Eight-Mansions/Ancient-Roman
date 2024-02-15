@@ -8,6 +8,8 @@ extern "C" {
 	u8 GetLetterWidth(u32 letter);
 
 	u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic);
+
+	void SetBabyLetterWidths(char* graphic1, char* graphic2, char* text);
 }
 
 #endif

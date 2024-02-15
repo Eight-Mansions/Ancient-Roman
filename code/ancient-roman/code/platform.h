@@ -2,6 +2,15 @@
 #define PLATFORM_H_
 
 #include <stdint.h>
+#include <types.h>
+#include <SYS\TYPES.H>
+#include <LIBETC.H>
+#include <LIBAPI.H>
+#include <LIBGTE.H>
+#include <LIBGPU.H>
+#include <LIBSPU.H>
+#include <LIBCD.H>
+#include <LIBGS.H>
 
 typedef uint8_t u8;
 typedef uint16_t u16;

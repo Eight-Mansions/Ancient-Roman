@@ -47,6 +47,31 @@ CallGetSentenceWidth:
 	lw v1, 20(sp)
 	j 0x8003e294
 	addiu sp, sp, 24
+
+CallSetBabyLetterWidths:
+	addiu sp, sp, -24
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
+	sw v1, 20(sp)
+
+	jal SetBabyLetterWidths
+	nop
+	
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a2, 12(sp)
+	lw a3, 16(sp)
+	lw v1, 20(sp)
+	addiu sp, sp, 24
+	
+	jal 0x8003dba8
+	nop
+	
+	j 0x80040374
 .close
 
 .open "exe\SLPS_011.08",0x8000F800
@@ -66,6 +91,9 @@ CallGetSentenceWidth:
 	
 .org 0x8003e28c
 	j CallGetSentenceWidth
+	
+.org 0x8004036c
+	j CallSetBabyLetterWidths
 
 
 .org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
@@ -180,7 +208,7 @@ LoadCodeFile:
 	.db 0x38, 0xD1 ; y
 	.db 0x39, 0xD1 ; z
 	
-.org 0x800144ea		; Adding lower case letters to naming screen
+.org 0x800144ea		; Adding lower case letters to naming screen 
 	.db 0x82, 0x81 ; a
 	.db 0x82, 0x82 ; b
 	.db 0x82, 0x83 ; c
