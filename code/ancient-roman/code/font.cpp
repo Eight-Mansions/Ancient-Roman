@@ -171,38 +171,29 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 	return text[0];
 }
 
-void SetBabyLetterWidths(char* graphic1, char* graphic2, char* text)
+void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text)
 {
 	int x = 0;
 	u16 width = 0;
 	int idx = 0;
 	//while (true)
-	for(int i = 0; i < 4; i++)
+	for(int i = 0; i < 5; i++)
 	{
-		POLY_FT4* p1 = (POLY_FT4*)graphic1;
-		POLY_FT4* p2 = (POLY_FT4*)graphic2;
-
 		if (idx == 0)
 		{
-			x = p1->x0;//((u16*)graphic + 0x08)[0];
+			x = p1->x0;
 		}
 		else
 		{
-			p1->x0 = x;
-			p1->x1 = x + 8;
-			p1->x2 = x;
-			p1->x3 = x + 8;
-
-			p2->x0 = x;
-			p2->x1 = x + 8;
-			p2->x2 = x;
-			p2->x3 = x + 8;
+			p1->x0 = p2->x0 = x;
+			p1->x1 = p2->x1 = x + 8;
+			p1->x2 = p2->x2 = x;
+			p1->x3 = p2->x3 = x + 8;
 		}
 		
-		graphic1 += 0x28;
-		graphic2 += 0x28;
+		p1 = (POLY_FT4*)(((u8*)p1) + sizeof(POLY_FT4));
+		p2 = (POLY_FT4*)(((u8*)p2) + sizeof(POLY_FT4));
 		
-
 		u8 letter = text[idx];
 		if (letter == 0)
 			break;
