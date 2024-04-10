@@ -136,7 +136,82 @@ CallSetBabyLetterWidths:
 	nop
 	
 .org 0x8009db24
-	.db 0x09 ; Increase New Game letter count
+	.db 0x10 ; New Game
+.org 0x8009db30
+	.db 0x10 ; Continue
+
+.org 0x8009daac
+	.db 0x10 ; Yes
+.org 0x8009dab8
+	.db 0x10 ; No
+	
+; .org 0x8009d02c
+	; .db 0x10	; Magic
+; .org 0x8009d038
+	; .db 0x10	; Status
+; .org 0x8009d044
+	; .db 0x10	; Item
+; .org 0x8009d050
+	; .db 0x10	; Equipment
+; .org 0x8009d05c
+	; .db 0x10	; Party
+; .org 0x8009d068
+	; .db 0x10	; Save
+; .org 0x8009d074
+	; .db 0x10	; Load
+; .org 0x8009d080
+	; .db 0x10	; CLose
+	
+; ; .org 0x8009d38c
+	; ; .db 0x10
+; ; .org 0x8009d3a4
+	; ; .db 0x10
+; ; .org 0x8009d3bc
+	; ; .db 0x10
+; ; .org 0x8009d3d4
+	; ; .db 0x10
+; ; .org 0x8009d3ec
+	; ; .db 0x10
+; .org 0x8009d3f8
+	; .db 0x10	; Level
+; .org 0x8009d410
+	; .db 0x10	; EXP
+; .org 0x8009d428
+	; .db 0x10	; Next
+; ; .org 0x8009d434
+	; ; .db 0x10
+; ; .org 0x8009d442
+	; ; .db 0x10
+; ; .org 0x8009d44e
+	; ; .db 0x10
+org 0x8009d534
+	.db 0x06	; Weapon
+.org 0x8009d540
+	.db 0x04	; Head
+.org 0x8009d54c
+	.db 0x05	; Armor
+.org 0x8009d558
+	.db 0x06	; Shield
+.org 0x8009d564
+	.db 0x05	; Accessory
+.org 0x8009d570
+	.db 0x05	; Accessory
+.org 0x8009d57c
+	.db 0x05	; Accessory
+; .org 0x8009d588
+	; .db 0x10	; Equipped Weapon
+; .org 0x8009d594
+	; .db 0x10	; Equipped Head
+; .org 0x8009d5a0
+	; .db 0x10	; Equipped Armor
+; .org 0x8009d5ac
+	; .db 0x10	; Equipped Shield
+; .org 0x8009d5b8
+	; .db 0x10	; Equipped Accessory
+; .org 0x8009d5c4
+	; .db 0x10	; Equipped Accessory
+; .org 0x8009d5d0
+	; .db 0x10	; Equipped Accessory
 	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"

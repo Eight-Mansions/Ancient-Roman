@@ -194,6 +194,9 @@ void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text, ushort length)
 		p2 = (POLY_FT4*)(((u8*)p2) + sizeof(POLY_FT4));
 		
 		u8 letter = text[idx];
+		if (letter == 0)
+			break;
+
 		if (letter > 0x80)
 		{
 			idx++;
