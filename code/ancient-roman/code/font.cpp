@@ -235,36 +235,26 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic, const u8 letterW
 	u16 letter = text[0];
 	u8* xpos = graphic - 0x15;
 
-	if (letter != 0)
+
+	if (letter == 0)
 	{
-		if (letter > 0x80)
-		{
-			letter = (letter << 0x8) + text[1];
-			width = defaultWidth;
-		}
-		else
-		{
-			u32 idx = letter - 0x20;
-			width = letterWidths[idx];
-		}
+		width = defaultWidth;
+	}
+	else if (letter > 0x80)
+	{
+		letter = (letter << 0x8) + text[1];
+		width = defaultWidth;
+	}
+	else
+	{
+		u32 idx = letter - 0x20;
+		width = letterWidths[idx];
+	}
 
-		if (curIdx == 0)
-		{
-			x = 0;
-			x = ((u16*)xpos)[0];
-		}
-		else
-		{
-			((u16*)xpos)[0] = x;
-			((u16*)(xpos + 0x10))[0] = x;
-
-			u32 width = x + defaultWidth;
-
-			((u16*)(xpos + 0x8))[0] = width;
-			((u16*)(xpos + 0x18))[0] = width;
-		}
-
-		x += width;
+	if (curIdx == 0)
+	{
+		x = 0;
+		x = ((u16*)xpos)[0];
 	}
 	else
 	{
@@ -276,6 +266,19 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic, const u8 letterW
 		((u16*)(xpos + 0x8))[0] = width;
 		((u16*)(xpos + 0x18))[0] = width;
 	}
+
+	x += width;
+	//}
+	//else
+	//{
+	//	((u16*)xpos)[0] = x;
+	//	((u16*)(xpos + 0x10))[0] = x;
+
+	//	u32 width = x + defaultWidth;
+
+	//	((u16*)(xpos + 0x8))[0] = width;
+	//	((u16*)(xpos + 0x18))[0] = width;
+	//}
 
 	return text[0];
 }

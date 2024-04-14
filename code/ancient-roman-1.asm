@@ -174,7 +174,23 @@ CallSetBabyLetterWidths:
 	.db 0x10 ; Yes
 .org 0x8009dab8
 	.db 0x10 ; No
-	
+
+
+.org 0x8009d588
+	.db 0x20 ; Equipped Sword
+.org 0x8009d594
+	.db 0x20 ; Equipped Head
+.org 0x8009d5a0
+	.db 0x20 ; Equipped Armor
+.org 0x8009d5ac
+	.db 0x20 ; Equipped Shield
+.org 0x8009d5b8
+	.db 0x20 ; Equipped Accessory 1
+.org 0x8009d5c4
+	.db 0x20 ; Equipped Accessory 2
+.org 0x8009d5d0
+	.db 0x20 ; Equipped Accessory 3
+
 ; .org 0x8009d02c
 	; .db 0x10	; Magic
 ; .org 0x8009d038
@@ -215,33 +231,19 @@ CallSetBabyLetterWidths:
 ; ; .org 0x8009d44e
 	; ; .db 0x10
 org 0x8009d534
-	.db 0x06	; Weapon
+	.db 0x01	; Weapon
 .org 0x8009d540
-	.db 0x04	; Head
+	.db 0x01	; Head
 .org 0x8009d54c
-	.db 0x05	; Armor
+	.db 0x01	; Armor
 .org 0x8009d558
-	.db 0x06	; Shield
+	.db 0x01	; Shield
 .org 0x8009d564
-	.db 0x05	; Accessory
+	.db 0x01	; Accessory
 .org 0x8009d570
-	.db 0x05	; Accessory
+	.db 0x01	; Accessory
 .org 0x8009d57c
-	.db 0x05	; Accessory
-; .org 0x8009d588
-	; .db 0x10	; Equipped Weapon
-; .org 0x8009d594
-	; .db 0x10	; Equipped Head
-; .org 0x8009d5a0
-	; .db 0x10	; Equipped Armor
-; .org 0x8009d5ac
-	; .db 0x10	; Equipped Shield
-; .org 0x8009d5b8
-	; .db 0x10	; Equipped Accessory
-; .org 0x8009d5c4
-	; .db 0x10	; Equipped Accessory
-; .org 0x8009d5d0
-	; .db 0x10	; Equipped Accessory
+	.db 0x01	; Accessory
 	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
