@@ -1,6 +1,6 @@
 #include "font.h"
 
-const u8 widths[] = {
+const u8 dialogueLetterWidths[] = {
 	0x03, //  
 	0x02, // !
 	0x04, // "
@@ -113,14 +113,123 @@ const u8 widths[] = {
 
 };
 
+const u8 menuLetterWidths[] = {
+	0x03, //  
+	0x02, // !
+	0x04, // "
+	0x08, // #
+	0x06, // $
+	0x07, // %
+	0x06, // &
+	0x02, // '
+	0x04, // (
+	0x04, // )
+	0x04, // *
+	0x06, // +
+	0x03, // ,
+	0x09, // -
+	0x03, // .
+	0x05, // /
+	0x07, // 0
+	0x04, // 1
+	0x07, // 2
+	0x07, // 3
+	0x09, // 4
+	0x07, // 5
+	0x07, // 6
+	0x07, // 7
+	0x07, // 8
+	0x07, // 9
+
+	0x02, // :
+	0x03, // ;
+	0x07, // <
+	0x06, // =
+	0x07, // >
+	0x08, // ?
+	0x08, // @
+
+	0x06, // A
+	0x06, // B
+	0x06, // C
+	0x06, // D
+	0x06, // E
+	0x06, // F
+	0x06, // G
+	0x07, // H
+	0x05, // I
+	0x06, // J
+	0x07, // K
+	0x06, // L
+	0x07, // M
+	0x07, // N
+	0x06, // O
+	0x06, // P
+	0x06, // Q
+	0x06, // R
+	0x06, // S
+	0x07, // T
+	0x07, // U
+	0x07, // V
+	0x07, // W
+	0x07, // X
+	0x07, // Y
+	0x07, // Z
+
+	0x05, // [
+	0x10, // /
+	0x05, // ]
+	0x08, // ^
+	0x07, // _
+	0x0C, // `
+
+	0x06, // a
+	0x06, // b 
+	0x06, // c
+	0x06, // d
+	0x06, // e
+	0x05, // f
+	0x06, // g
+	0x06, // h
+	0x03, // i
+	0x04, // j
+	0x06, // k
+	0x03, // l
+	0x07, // m
+	0x06, // n
+	0x06, // o
+	0x06, // p
+	0x06, // q
+	0x06, // r
+	0x06, // s
+	0x05, // t
+	0x06, // u
+	0x06, // v
+	0x07, // w
+	0x07, // x
+	0x06, // y
+	0x06, // z
+	
+	
+	0x04, // {
+	0x02, // |
+	0x04, // }
+	0x08, // ~
+	0x04, // {
+	0x02, // |
+	0x04, // }
+	0x08, // ~
+
+};
+
 u8 GetLetterWidth(const u32 letter)
 {
 	u32 idx = letter - 0x20;
-	return widths[idx];
+	return dialogueLetterWidths[idx];
 }
 
 u32 x = 0;
-u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
+u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic, const u8 letterWidths[99], u8 defaultWidth)
 {
 	u8 width = 0;
 	u16 letter = text[0];
@@ -131,12 +240,12 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 		if (letter > 0x80)
 		{
 			letter = (letter << 0x8) + text[1];
-			width = 0x0F;
+			width = defaultWidth;
 		}
 		else
 		{
 			u32 idx = letter - 0x20;
-			width = widths[idx];
+			width = letterWidths[idx];
 		}
 
 		if (curIdx == 0)
@@ -149,7 +258,7 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 			((u16*)xpos)[0] = x;
 			((u16*)(xpos + 0x10))[0] = x;
 
-			u32 width = x + 0x0F;
+			u32 width = x + defaultWidth;
 
 			((u16*)(xpos + 0x8))[0] = width;
 			((u16*)(xpos + 0x18))[0] = width;
@@ -162,7 +271,7 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 		((u16*)xpos)[0] = x;
 		((u16*)(xpos + 0x10))[0] = x;
 
-		u32 width = x + 0x0F;
+		u32 width = x + defaultWidth;
 
 		((u16*)(xpos + 0x8))[0] = width;
 		((u16*)(xpos + 0x18))[0] = width;
@@ -171,8 +280,20 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic)
 	return text[0];
 }
 
+void GetMenuSentenceWidth(const char* text, u32 curIdx, u8* graphic)
+{
+	GetSentenceWidth(text, curIdx, graphic, menuLetterWidths, 8);
+}
+
+void  GetDialogueSentenceWidth(const char* text, u32 curIdx, u8* graphic)
+{
+	GetSentenceWidth(text, curIdx, graphic, dialogueLetterWidths, 15);
+}
+
 void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text, ushort length)
 {
+	FUN_8003dba8(p1, p2, text, 7);
+
 	int x = 0;
 	u16 width = 0;
 	int idx = 0;
@@ -204,7 +325,8 @@ void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text, ushort length)
 		}
 		else
 		{
-			x += 0x06;
+			u32 idx = letter - 0x20;
+			x += menuLetterWidths[idx];
 		}
 
 		idx++;

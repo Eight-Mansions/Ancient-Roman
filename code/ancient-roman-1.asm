@@ -25,7 +25,7 @@ isNewLine2:
 	j 0x8003fa50
 	addiu a0, 0x02
 
-CallGetSentenceWidth:
+CallGetSentenceWidthForDialogues:
 	addiu sp, sp, -24
 	sw ra, 0(sp)
 	sw a0, 4(sp)
@@ -36,7 +36,7 @@ CallGetSentenceWidth:
 
 	addu a0, r0, s0
 	addu a1, r0, s3
-	jal GetSentenceWidth
+	jal GetDialogueSentenceWidth
 	addu a2, r0, s1
 	
 	lw ra, 0(sp)
@@ -47,6 +47,30 @@ CallGetSentenceWidth:
 	lw v1, 20(sp)
 	j 0x8003e294
 	addiu sp, sp, 24
+	
+CallGetSentenceWidthForMenus:
+	addiu sp, sp, -20
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
+
+	addu a0, r0, s1
+	addiu a1, s2, 0xFFFF
+	jal GetMenuSentenceWidth
+	addu a2, r0, s0
+	
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a2, 12(sp)
+	lw a3, 16(sp)
+	addiu sp, sp, 20
+	j 0x8003dc48
+	lbu v0, 0(s1)
+	
+	
 
 CallSetBabyLetterWidths:
 	addiu sp, sp, -24
@@ -78,6 +102,7 @@ CallSetBabyLetterWidths:
 
 .definelabel CopyString, 0x80083b78
 .definelabel LoadFileIsh, 0x80015f2c
+.definelabel FUN_8003dba8, 0x8003dba8
 
 
 .org 0x800156c4
@@ -88,13 +113,18 @@ CallSetBabyLetterWidths:
 	
 .org 0x8001f268
 	jal LoadText
-	
-.org 0x8003e28c
-	j CallGetSentenceWidth
-	
-.org 0x8004036c
-	j CallSetBabyLetterWidths
 
+;void FUN_8003dc0
+;int FUN_8003e238
+.org 0x8003e28c
+	j CallGetSentenceWidthForDialogues
+	
+.org 0x8003dc40
+	j CallGetSentenceWidthForMenus
+
+.org 0x80040368
+	lh a3, 0x04(s0)
+	jal SetBabyLetterWidths
 
 .org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
 	slti v0, t4, 0x13
