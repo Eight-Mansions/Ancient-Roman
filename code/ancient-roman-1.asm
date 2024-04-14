@@ -208,44 +208,48 @@ CallSetBabyLetterWidths:
 	.db 0x01	; Accessory
 
 .org 0x8009d588
-	.db 0x20 ; Equipped Sword
+	.db 0x10 ; Equipped Sword
 .org 0x8009d594
-	.db 0x20 ; Equipped Head
+	.db 0x10 ; Equipped Head
 .org 0x8009d5a0
-	.db 0x20 ; Equipped Armor
+	.db 0x10 ; Equipped Armor
 .org 0x8009d5ac
-	.db 0x20 ; Equipped Shield
+	.db 0x10 ; Equipped Shield
 .org 0x8009d5b8
-	.db 0x20 ; Equipped Accessory 1
+	.db 0x10 ; Equipped Accessory 1
 .org 0x8009d5c4
-	.db 0x20 ; Equipped Accessory 2
+	.db 0x10 ; Equipped Accessory 2
 .org 0x8009d5d0
-	.db 0x20 ; Equipped Accessory 3
+	.db 0x10 ; Equipped Accessory 3
 
-
-	
-; ; .org 0x8009d38c
-	; ; .db 0x10
-; ; .org 0x8009d3a4
-	; ; .db 0x10
-; ; .org 0x8009d3bc
-	; ; .db 0x10
-; ; .org 0x8009d3d4
-	; ; .db 0x10
-; ; .org 0x8009d3ec
-	; ; .db 0x10
-; .org 0x8009d3f8
-	; .db 0x10	; Level
-; .org 0x8009d410
-	; .db 0x10	; EXP
-; .org 0x8009d428
-	; .db 0x10	; Next
-; ; .org 0x8009d434
-	; ; .db 0x10
-; ; .org 0x8009d442
-	; ; .db 0x10
-; ; .org 0x8009d44e
-	; ; .db 0x10
+; .org 0x8009d1cc
+	; .db 0x10 ; Item 1
+; .org 0x8009d1d8
+	; .db 0x10 ; Item 2
+; .org 0x8009d1e4
+	; .db 0x10 ; Item 3
+; .org 0x8009d1f0
+	; .db 0x10 ; Item 4
+; .org 0x8009d1fc
+	; .db 0x10 ; Item 5
+; .org 0x8009d208
+	; .db 0x10 ; Item 6
+; .org 0x8009d214
+	; .db 0x10 ; Item 7
+; .org 0x8009d220
+	; .db 0x10 ; Item 8
+; .org 0x8009d22C
+	; .db 0x10 ; Item 9
+; .org 0x8009d238
+	; .db 0x10 ; Item 10
+; .org 0x8009d244
+	; .db 0x10 ; Item 11
+; .org 0x8009d250
+	; .db 0x10 ; Item 12
+; .org 0x8009d25C
+	; .db 0x10 ; Item 13
+; .org 0x8009d268
+	; .db 0x10 ; Item 14
 
 	
 .org 0x800B8500
