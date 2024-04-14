@@ -174,7 +174,38 @@ CallSetBabyLetterWidths:
 	.db 0x10 ; Yes
 .org 0x8009dab8
 	.db 0x10 ; No
+	
+.org 0x8009d02c
+	.db 0x10	; Magic
+.org 0x8009d038
+	.db 0x10	; Status
+.org 0x8009d044
+	.db 0x10	; Item
+.org 0x8009d050
+	.db 0x10	; Equipment
+.org 0x8009d05c
+	.db 0x10	; Party
+.org 0x8009d068
+	.db 0x10	; Save
+.org 0x8009d074
+	.db 0x10	; Load
+.org 0x8009d080
+	.db 0x10	; Close
 
+.org 0x8009d534
+	.db 0x01	; Weapon
+.org 0x8009d540
+	.db 0x01	; Head
+.org 0x8009d54c
+	.db 0x01	; Armor
+.org 0x8009d558
+	.db 0x01	; Shield
+.org 0x8009d564
+	.db 0x01	; Accessory
+.org 0x8009d570
+	.db 0x01	; Accessory
+.org 0x8009d57c
+	.db 0x01	; Accessory
 
 .org 0x8009d588
 	.db 0x20 ; Equipped Sword
@@ -191,22 +222,7 @@ CallSetBabyLetterWidths:
 .org 0x8009d5d0
 	.db 0x20 ; Equipped Accessory 3
 
-; .org 0x8009d02c
-	; .db 0x10	; Magic
-; .org 0x8009d038
-	; .db 0x10	; Status
-; .org 0x8009d044
-	; .db 0x10	; Item
-; .org 0x8009d050
-	; .db 0x10	; Equipment
-; .org 0x8009d05c
-	; .db 0x10	; Party
-; .org 0x8009d068
-	; .db 0x10	; Save
-; .org 0x8009d074
-	; .db 0x10	; Load
-; .org 0x8009d080
-	; .db 0x10	; CLose
+
 	
 ; ; .org 0x8009d38c
 	; ; .db 0x10
@@ -230,20 +246,7 @@ CallSetBabyLetterWidths:
 	; ; .db 0x10
 ; ; .org 0x8009d44e
 	; ; .db 0x10
-org 0x8009d534
-	.db 0x01	; Weapon
-.org 0x8009d540
-	.db 0x01	; Head
-.org 0x8009d54c
-	.db 0x01	; Armor
-.org 0x8009d558
-	.db 0x01	; Shield
-.org 0x8009d564
-	.db 0x01	; Accessory
-.org 0x8009d570
-	.db 0x01	; Accessory
-.org 0x8009d57c
-	.db 0x01	; Accessory
+
 	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
