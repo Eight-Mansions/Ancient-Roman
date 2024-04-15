@@ -1953,3 +1953,55 @@ msgctxt "00000593"
 msgid ""
 "いくつ、かいますか？"
 msgstr "How many are you buying?"
+
+msgctxt "00000594"
+msgid ""
+"だれがまほうをつかいますか？"
+msgstr "Select a character to use."
+
+msgctxt "00000595"
+msgid ""
+"どのまほうをつかいますか？"
+msgstr "Select a spell to use."
+
+msgctxt "00000596"
+msgid ""
+"つかえるまほうがありません。"
+msgstr "No usable spells available."
+
+msgctxt "00000597"
+msgid ""
+"だれにつかいますか？"
+msgstr "Cast on who?"
+
+msgctxt "00000598"
+msgid ""
+"どれをつかいますか？"
+msgstr "Use which one?"
+
+msgctxt "00000599"
+msgid ""
+"つかえるアイテムがありません。"
+msgstr "No usable items available."
+
+msgctxt "00000600"
+msgid ""
+"だれにつかいますか？"
+msgstr "Use on who?"
+
+msgctxt "00000601"
+msgid ""
+"なにかごようですか？"
+msgstr "How can I help you?"
+
+msgctxt "00000602"
+msgid ""
+"これいじょう、もてません"
+msgstr "Sorry, you can't carry anymore."
+
+msgctxt "00000603"
+msgid ""
+"おかねがたりません。"
+msgstr "Sorry, not enough gahme."
+
+

@@ -2234,10 +2234,18 @@ Status
 
 // Ptr: 00004710
 #WRITE(PTR, $0008D830)
-#WLB(PTR, $0003E0A4)
-#WHB(PTR, $0003E0A5
 #WBB(PTR, $0003E0A0)
 #WUB(PTR, $0003E0A1)
+#WLB(PTR, $0003E0A4)
+#WHB(PTR, $0003E0A5)
+#WBB(PTR, $0003E31C)
+#WUB(PTR, $0003E31D)
+#WLB(PTR, $0003E320)
+#WHB(PTR, $0003E321)
+#WBB(PTR, $0003E56C)
+#WUB(PTR, $0003E56D)
+#WLB(PTR, $0003E570)
+#WHB(PTR, $0003E571)
 //まほう
 Magic
 <$00>
@@ -2747,3 +2755,162 @@ Enter your name.
 <$00>
 
 #WARN($00004610, "WARNME")
+
+#JMP($00004480)
+
+// Ptr: 00004480
+#WLB(PTR, $000401A4)
+#WHB(PTR, $000401A5)
+#WBB(PTR, $000401A0)
+#WUB(PTR, $000401A1)
+//なにをうりますか？
+What are you selling?
+<$00>
+
+// Ptr: 00004480
+#WLB(PTR, $000401BC)
+#WHB(PTR, $000401BD)
+#WBB(PTR, $000401B8)
+#WUB(PTR, $000401B9)
+#WLB(PTR, $0003F6A8)
+#WHB(PTR, $0003F6A9)
+#WBB(PTR, $0003F6A4)
+#WUB(PTR, $0003F6A5)
+//アイテムがありません。
+No items.
+<$00>
+
+// Ptr: 00004480
+#WLB(PTR, $000401D4)
+#WHB(PTR, $000401D5)
+#WBB(PTR, $000401D0)
+#WUB(PTR, $000401D1)
+//いくつ、うりますか？
+How many are you selling?
+<$00>
+
+// Ptr: 00004480
+#WLB(PTR, $00040268)
+#WHB(PTR, $00040269)
+#WBB(PTR, $00040264)
+#WUB(PTR, $00040265)
+#WLB(PTR, $0003F8A4)
+#WHB(PTR, $0003F8A5)
+#WBB(PTR, $0003F8A0)
+#WUB(PTR, $0003F8A1)
+//%dガメです。よろしいですか？
+%d gahme. Is that okay?
+<$00>
+
+#WARN($000044E6, "WARNME")
+
+#JMP($00004390)
+
+// Ptr: 00004390
+#WLB(PTR, $0003F690)
+#WHB(PTR, $0003F691)
+#WBB(PTR, $0003F68C)
+#WUB(PTR, $0003F68D)
+//なにをかいますか？
+What are you buying?
+<$00>
+
+// Ptr: 000043BC
+#WLB(PTR, $0003F830)
+#WHB(PTR, $0003F831)
+#WBB(PTR, $0003F82C)
+#WUB(PTR, $0003F82D)
+//いくつ、かいますか？
+How many are you buying?
+<$00>
+
+#WARN($000043F0, "WARNME")
+
+#JMP($00004228)
+
+//P: 00004228
+#WBB(PTR, $0003E250)
+#WUB(PTR, $0003E251)
+#WLB(PTR, $0003E254)
+#WHB(PTR, $0003E255)
+//だれがまほうをつかいますか？
+Select a character to use.
+<$00>
+
+//P: 00004250
+#WBB(PTR, $0003E478)
+#WUB(PTR, $0003E479)
+#WLB(PTR, $0003E47C)
+#WHB(PTR, $0003E47D)
+//どのまほうをつかいますか？
+Select a spell to use.
+<$00>
+
+//P: 0000426C
+#WBB(PTR, $0003E490)
+#WUB(PTR, $0003E491)
+#WLB(PTR, $0003E494)
+#WHB(PTR, $0003E495)
+//つかえるまほうがありません。
+No usable spells available.
+<$00>
+
+//P: 00004294
+#WBB(PTR, $0003E6E4)
+#WUB(PTR, $0003E6E5)
+#WLB(PTR, $0003E6E8)
+#WHB(PTR, $0003E6E9)
+//だれにつかいますか？
+Cast on who?
+<$00>
+
+//P: 000042B8
+#WBB(PTR, $0003E9F8)
+#WUB(PTR, $0003E9F9)
+#WLB(PTR, $0003E9FC)
+#WHB(PTR, $0003E9FD)
+//どれをつかいますか？
+Use which one?
+<$00>
+
+//P: 000042D0
+#WBB(PTR, $0003EA10)
+#WUB(PTR, $0003EA11)
+#WLB(PTR, $0003EA14)
+#WHB(PTR, $0003EA15)
+//つかえるアイテムがありません。
+No usable items available.
+<$00>
+
+
+#WARN($000042F0, "@000042F0")
+//P: 000042F0
+#WBB(PTR, $0003EA74)
+#WUB(PTR, $0003EA75)
+#WLB(PTR, $0003EA78)
+#WHB(PTR, $0003EA79)
+//だれにつかいますか？
+Use on who?
+<$00>
+
+//P: 00004320
+#WBB(PTR, $0003EE4C)
+#WUB(PTR, $0003EE4D)
+#WLB(PTR, $0003EE50)
+#WHB(PTR, $0003EE51)
+//なにかごようですか？
+How can I help you?
+<$00
+
+//P: 00004348
+#WRITE(PTR, $0008D618)
+//これいじょう、もてません。
+<$00>
+
+//P: 00004364
+#WRITE(PTR, $0008D614)
+//おかねがたりません。
+Sorry, not enough gahme.
+<$00>
+
+#WARN($0000437A, "@0000437A")
