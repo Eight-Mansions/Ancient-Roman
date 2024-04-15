@@ -161,6 +161,53 @@ CallSetBabyLetterWidths:
 .org 0x8003f9e8
 	j CheckForNewline
 	nop
+
+
+
+.org 0x80045940
+	ori v0, r0, 0xF000
+
+; Move stuff that will get overwritten by expanded vram for menus
+.org 0x80045a8c
+	lui at, 0x8012
+
+.org 0x80045a94
+	sw v1, -0x065c(at)
+
+.org 0x80045afc
+	lui at, 0x8012
+	
+.org 0x80045b04
+	lw a0, -0x065c(at)
+	
+.org 0x80045b64
+	lui at ,0x8012
+	sw v0, -0x061c(at)
+	lui at ,0x8012
+	sw v1, -0x0618(at)
+
+.org 0x80046154
+	lui v1, 0x8012
+    lw v1, -0x061c(v1)
+
+.org 0x800460fc
+	lui v0, 0x8012
+    lw v0, -0x0618(v0)
+
+.org 0x80045bb8
+	lui at, 0x8012
+	sh v1, -0x0614(at)
+	lui at, 0x8012
+	sh a1, -0x0610(at)
+
+.org 0x8004624c
+	lui a0, 0x8012
+    addiu a0, a0, -0x060c
+    addiu a1, a0, 0x1640
+
+	
+
+
 	
 .org 0x8003f9f8
 	nop
@@ -222,34 +269,34 @@ CallSetBabyLetterWidths:
 .org 0x8009d5d0
 	.db 0x10 ; Equipped Accessory 3
 
-; .org 0x8009d1cc
-	; .db 0x10 ; Item 1
-; .org 0x8009d1d8
-	; .db 0x10 ; Item 2
-; .org 0x8009d1e4
-	; .db 0x10 ; Item 3
-; .org 0x8009d1f0
-	; .db 0x10 ; Item 4
-; .org 0x8009d1fc
-	; .db 0x10 ; Item 5
-; .org 0x8009d208
-	; .db 0x10 ; Item 6
-; .org 0x8009d214
-	; .db 0x10 ; Item 7
-; .org 0x8009d220
-	; .db 0x10 ; Item 8
-; .org 0x8009d22C
-	; .db 0x10 ; Item 9
-; .org 0x8009d238
-	; .db 0x10 ; Item 10
-; .org 0x8009d244
-	; .db 0x10 ; Item 11
-; .org 0x8009d250
-	; .db 0x10 ; Item 12
-; .org 0x8009d25C
-	; .db 0x10 ; Item 13
-; .org 0x8009d268
-	; .db 0x10 ; Item 14
+.org 0x8009d1cc
+	.db 0x10 ; Item 1
+.org 0x8009d1d8
+	.db 0x10 ; Item 2
+.org 0x8009d1e4
+	.db 0x10 ; Item 3
+.org 0x8009d1f0
+	.db 0x10 ; Item 4
+.org 0x8009d1fc
+	.db 0x10 ; Item 5
+.org 0x8009d208
+	.db 0x10 ; Item 6
+.org 0x8009d214
+	.db 0x10 ; Item 7
+.org 0x8009d220
+	.db 0x10 ; Item 8
+.org 0x8009d22C
+	.db 0x10 ; Item 9
+.org 0x8009d238
+	.db 0x10 ; Item 10
+.org 0x8009d244
+	.db 0x10 ; Item 11
+.org 0x8009d250
+	.db 0x10 ; Item 12
+.org 0x8009d25C
+	.db 0x10 ; Item 13
+.org 0x8009d268
+	.db 0x10 ; Item 14
 
 	
 .org 0x800B8500
