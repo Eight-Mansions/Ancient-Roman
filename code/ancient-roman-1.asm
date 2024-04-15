@@ -297,7 +297,68 @@ CallSetBabyLetterWidths:
 	.db 0x10 ; Item 13
 .org 0x8009d268
 	.db 0x10 ; Item 14
+	
+.org 0x8009d0ac
+	.db 0x10 ; Menu Spell 1
+.org 0x8009D0B8
+	.db 0x10 ; Menu Spell 2
+.org 0x8009D0C4
+	.db 0x10 ; Menu Spell 3
+.org 0x8009D0D0
+	.db 0x10 ; Menu Spell 4
+.org 0x8009D0DC
+	.db 0x10 ; Menu Spell 5
+.org 0x8009D0E8
+	.db 0x10 ; Menu Spell 6
+.org 0x8009D0F4
+	.db 0x10 ; Menu Spell 7
+.org 0x8009D100
+	.db 0x10 ; Menu Spell 8
+.org 0x8009D10C
+	.db 0x10 ; Menu Spell 9
+.org 0x8009D118
+	.db 0x10 ; Menu Spell 10
+.org 0x8009D124
+	.db 0x10 ; Menu Spell 11
+.org 0x8009D130
+	.db 0x10 ; Menu Spell 12
+.org 0x8009D13C
+	.db 0x10 ; Menu Spell 13
+.org 0x8009D148
+	.db 0x10 ; Menu Spell 14
+.org 0x8009D154
+	.db 0x10 ; Menu Spell 15
+.org 0x8009D160
+	.db 0x10 ; Menu Spell 16
+.org 0x8009D16C
+	.db 0x10 ; Menu Spell 17
+.org 0x8009D178
+	.db 0x10 ; Menu Spell 18
+.org 0x8009D184
+	.db 0x10 ; Menu Spell 19
+.org 0x8009D190
+	.db 0x10 ; Menu Spell 20
+.org 0x8009D19C
+	.db 0x10 ; Menu Spell 21
 
+.org 0x8009D8E4
+	.db 0x10 ; Battle Spell 1
+.org 0x8009D8F0
+	.db 0x10 ; Battle Spell 2
+.org 0x8009D8FC
+	.db 0x10 ; Battle Spell 3
+.org 0x8009D908
+	.db 0x10 ; Battle Spell 4
+.org 0x8009D914
+	.db 0x10 ; Battle Spell 5
+.org 0x8009D920
+	.db 0x10 ; Battle Spell 6
+.org 0x8009D92C
+	.db 0x10 ; Battle Spell 7
+.org 0x8009D938
+	.db 0x10 ; Battle Spell 8
+.org 0x8009D944
+	.db 0x10 ; Battle Spell 9
 	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
