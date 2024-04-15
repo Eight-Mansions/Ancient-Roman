@@ -1893,3 +1893,63 @@ msgctxt "00000581"
 msgid ""
 "カタカナ"
 msgstr "Katakana"
+
+msgctxt "00000582"
+msgid ""
+"だれがたたかいますか？"
+msgstr "Who will be in the party?"
+
+msgctxt "00000583"
+msgid ""
+"だれのそうびをへんこうしますか？"
+msgstr "Change whose equipment?"
+
+msgctxt "00000584"
+msgid ""
+"どのそうびをへんこうしますか？"
+msgstr "Change which equipment?"
+
+msgctxt "00000585"
+msgid ""
+"そうびしない"
+msgstr "Unequip"
+
+msgctxt "00000586"
+msgid ""
+"どれをそうびしますか？"
+msgstr "Select equipment."
+
+msgctxt "00000587"
+msgid ""
+"なまえをいれてください"
+msgstr "Enter your name."
+
+msgctxt "00000588"
+msgid ""
+"なにをうりますか？"
+msgstr "What are you selling?"
+
+msgctxt "00000589"
+msgid ""
+"アイテムがありません。"
+msgstr "No items."
+
+msgctxt "00000590"
+msgid ""
+"いくつ、うりますか？"
+msgstr "How many are you selling?"
+
+msgctxt "00000591"
+msgid ""
+"%dガメです。よろしいですか？"
+msgstr "%d gahme. Is that okay?"
+
+msgctxt "00000592"
+msgid ""
+"なにをかいますか？"
+msgstr "What are you buying?"
+
+msgctxt "00000593"
+msgid ""
+"いくつ、かいますか？"
+msgstr "How many are you buying?"

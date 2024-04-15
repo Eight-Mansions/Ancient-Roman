@@ -4,11 +4,6 @@
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2147547136, 32)
 
-// #JMP($00004584)
-// // Ptr: 00004584
-// //そうび
-// <$00>
-
 #JMP($00001A80)
 
 // Ptr: 00001A80
@@ -2685,6 +2680,70 @@ Space
 Katakana
 <$00>
 
-
-
 #WARN($00004E94, "WARNME")
+
+#JMP($00004560)
+
+// Ptr: 0000456C
+#WLB(PTR, $00042250)
+#WHB(PTR, $00042251)
+#WBB(PTR, $0004224C)
+#WUB(PTR, $0004224D)
+//だれがたたかいますか？
+Who will be in the party?
+<$00>
+
+// Ptr: 0000458C
+#WLB(PTR, $00042484)
+#WHB(PTR, $00042485)
+#WBB(PTR, $00042480)
+#WUB(PTR, $00042481)
+//だれのそうびをへんこうしますか？
+Change whose equipment?
+<$00>
+
+// Ptr: 000045B0
+#WLB(PTR, $000424E0)
+#WHB(PTR, $000424E1)
+#WBB(PTR, $000424DC)
+#WUB(PTR, $000424DD)
+//どのそうびをへんこうしますか？
+Change which equipment?
+<$00>
+
+// Ptr: 000045D0
+#WLB(PTR, $00042504)
+#WHB(PTR, $00042505)
+#WBB(PTR, $00042500)
+#WUB(PTR, $00042501)
+#WLB(PTR, $00042734)
+#WHB(PTR, $00042735)
+#WBB(PTR, $00042730)
+#WUB(PTR, $00042731)
+#WLB(PTR, $00042A24)
+#WHB(PTR, $00042A25)
+#WBB(PTR, $00042A20)
+#WUB(PTR, $00042A21)
+//そうびしない
+Unequip
+<$00>
+
+// Ptr: 000045E0
+#WLB(PTR, $000425CC)
+#WHB(PTR, $000425CD)
+#WBB(PTR, $000425C8)
+#WUB(PTR, $000425C9)
+//どれをそうびしますか？
+Select equipment.
+<$00>
+
+// Ptr: 000045F8
+#WLB(PTR, $00042D3C)
+#WHB(PTR, $00042D3D)
+#WBB(PTR, $00042D39)
+#WUB(PTR, $00042D38)
+//なまえをいれてください
+Enter your name.
+<$00>
+
+#WARN($00004610, "WARNME")
