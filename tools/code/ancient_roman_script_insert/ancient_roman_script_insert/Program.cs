@@ -264,7 +264,7 @@ namespace ancient_roman_script_insert
             //Get widths
             for (int i = 0; i < widthLines.Length; i++)
             {
-                if (widthLines[i].Contains("const u8 widths"))
+                if (widthLines[i].Contains("const u8 dialogueLetterWidths"))
                 {
                     for (int j = i + 1; j < widthLines.Length; j++)
                     {

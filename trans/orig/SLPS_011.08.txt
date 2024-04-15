@@ -4,11 +4,6 @@
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2147547136, 32)
 
-// #JMP($00004220)
-// // Ptr: 00004220
-// //‚Ü‚Ù‚¤
-// <$00>
-
 // #JMP($000042AC)
 // // Ptr: 000042AC
 // //ƒAƒCƒeƒ€
@@ -1929,6 +1924,10 @@
 
 // Ptr: 00004710
 #WRITE(PTR, $0008D830)
+#WLB(PTR, $0003E0A4)
+#WHB(PTR, $0003E0A5
+#WBB(PTR, $0003E0A0)
+#WUB(PTR, $0003E0A1)
 //‚Ü‚Ù‚¤
 <$00>
 
