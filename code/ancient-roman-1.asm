@@ -360,6 +360,11 @@ CallSetBabyLetterWidths:
 .org 0x8009D944
 	.db 0x10 ; Battle Spell 9
 	
+.org 0x8009dad0
+	.db 0x20 ; Load from mem 1
+.org 0x8009dadc
+	.db 0x20 ; Load from mem 2
+	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
 
