@@ -3,6 +3,37 @@
 #ACTIVETBL(Table)
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2147547136, 32)
+
+// #JMP($00004220)
+// // Ptr: 00004220
+// //まほう
+// <$00>
+
+// #JMP($000042AC)
+// // Ptr: 000042AC
+// //アイテム
+// <$00>
+
+// #JMP($00004508)
+// // Ptr: 00004508
+// //セーブ
+// <$00>
+
+// #JMP($00004544)
+// // Ptr: 00004508
+// //ロード
+// <$00>
+
+// #JMP($00004560)
+// // Ptr: 00004560
+// //パーティー
+// <$00>
+
+// #JMP($00004584)
+// // Ptr: 00004584
+// //そうび
+// <$00>
+
 #JMP($00001A80)
 
 // Ptr: 00001A80
@@ -2202,6 +2233,10 @@ Item
 
 // Ptr: 00004704
 #WRITE(PTR, $0008D83C)
+#WLB(PTR, $0003D484)
+#WHB(PTR, $0003D485)
+#WBB(PTR, $0003D480)
+#WUB(PTR, $0003D481)
 //ステータス
 Status
 <$00>
@@ -2469,7 +2504,7 @@ Do not remove your memory card.
 // Ptr: 000049C0
 #WRITE(PTR, $0008E248)
 //アクセスしています。でんげんをきったり、
-Accessing... Do not power off the console.
+Accessing...
 <$00>
 
 

@@ -4,8 +4,6 @@ cd/*.sys
 cd/*.xml
 cd/Ancient-Roman-Disc-*/*
 
-*.xdelta
-*.xdelta3
 *.zip
 *.obj
 
