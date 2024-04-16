@@ -2004,4 +2004,7 @@ msgid ""
 "おかねがたりません。"
 msgstr "Sorry, not enough gahme."
 
-
+msgctxt "00000604"
+msgid ""
+"だれのパラメータをみますか？"
+msgstr "View whose stats?"

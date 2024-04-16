@@ -2914,3 +2914,16 @@ Sorry, not enough gahme.
 <$00>
 
 #WARN($0000437A, "@0000437A")
+
+#JMP($0000419C)
+
+//P: 0000419C
+#WBB(PTR, $0003D574)
+#WUB(PTR, $0003D575)
+#WLB(PTR, $0003D578)
+#WHB(PTR, $0003D579)
+//だれのパラメータをみますか？
+View whose stats?
+<$00>
+
+#WARN($000041BA, "@000041BA")
