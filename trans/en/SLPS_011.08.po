@@ -2008,3 +2008,31 @@ msgctxt "00000604"
 msgid ""
 "だれのパラメータをみますか？"
 msgstr "View whose stats?"
+
+msgctxt "00000605"
+msgid "ミシリア"
+msgstr "Michelia"
+
+msgctxt "00000606"
+msgid "バーク"
+msgstr "Burke"
+
+msgctxt "00000607"
+msgid "ファラ"
+msgstr "Fala"
+
+msgctxt "00000608"
+msgid "ミーナ"
+msgstr "Minna"
+
+msgctxt "00000608"
+msgid "マクロード"
+msgstr "McLeod"
+
+msgctxt "00000609"
+msgid "サリナ"
+msgstr "Sarina"
+
+msgctxt "00000610"
+msgid "バロア"
+msgstr "Baroa"
