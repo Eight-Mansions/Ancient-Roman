@@ -2466,7 +2466,7 @@ Do not remove your memory card.
 // Ptr: 000049C0
 #WRITE(PTR, $0008E100)
 //アクセスしています。でんげんをきったり、
-Accessing... Do not power off the console.
+Accessing...
 <$00>
 
 

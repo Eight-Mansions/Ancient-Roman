@@ -1893,3 +1893,146 @@ msgctxt "00000581"
 msgid ""
 "カタカナ"
 msgstr "Katakana"
+
+msgctxt "00000582"
+msgid ""
+"だれがたたかいますか？"
+msgstr "Who will be in the party?"
+
+msgctxt "00000583"
+msgid ""
+"だれのそうびをへんこうしますか？"
+msgstr "Change whose equipment?"
+
+msgctxt "00000584"
+msgid ""
+"どのそうびをへんこうしますか？"
+msgstr "Change which equipment?"
+
+msgctxt "00000585"
+msgid ""
+"そうびしない"
+msgstr "Unequip"
+
+msgctxt "00000586"
+msgid ""
+"どれをそうびしますか？"
+msgstr "Select equipment."
+
+msgctxt "00000587"
+msgid ""
+"なまえをいれてください"
+msgstr "Enter your name."
+
+msgctxt "00000588"
+msgid ""
+"なにをうりますか？"
+msgstr "What are you selling?"
+
+msgctxt "00000589"
+msgid ""
+"アイテムがありません。"
+msgstr "No items."
+
+msgctxt "00000590"
+msgid ""
+"いくつ、うりますか？"
+msgstr "How many are you selling?"
+
+msgctxt "00000591"
+msgid ""
+"%dガメです。よろしいですか？"
+msgstr "%d gahme. Is that okay?"
+
+msgctxt "00000592"
+msgid ""
+"なにをかいますか？"
+msgstr "What are you buying?"
+
+msgctxt "00000593"
+msgid ""
+"いくつ、かいますか？"
+msgstr "How many are you buying?"
+
+msgctxt "00000594"
+msgid ""
+"だれがまほうをつかいますか？"
+msgstr "Select a character to use."
+
+msgctxt "00000595"
+msgid ""
+"どのまほうをつかいますか？"
+msgstr "Select a spell to use."
+
+msgctxt "00000596"
+msgid ""
+"つかえるまほうがありません。"
+msgstr "No usable spells available."
+
+msgctxt "00000597"
+msgid ""
+"だれにつかいますか？"
+msgstr "Cast on who?"
+
+msgctxt "00000598"
+msgid ""
+"どれをつかいますか？"
+msgstr "Use which one?"
+
+msgctxt "00000599"
+msgid ""
+"つかえるアイテムがありません。"
+msgstr "No usable items available."
+
+msgctxt "00000600"
+msgid ""
+"だれにつかいますか？"
+msgstr "Use on who?"
+
+msgctxt "00000601"
+msgid ""
+"なにかごようですか？"
+msgstr "How can I help you?"
+
+msgctxt "00000602"
+msgid ""
+"これいじょう、もてません"
+msgstr "Sorry, you can't carry anymore."
+
+msgctxt "00000603"
+msgid ""
+"おかねがたりません。"
+msgstr "Sorry, not enough gahme."
+
+msgctxt "00000604"
+msgid ""
+"だれのパラメータをみますか？"
+msgstr "View whose stats?"
+
+msgctxt "00000605"
+msgid "ミシリア"
+msgstr "Michelia"
+
+msgctxt "00000606"
+msgid "バーク"
+msgstr "Burke"
+
+msgctxt "00000607"
+msgid "ファラ"
+msgstr "Fala"
+
+msgctxt "00000608"
+msgid "ミーナ"
+msgstr "Minna"
+
+msgctxt "00000608"
+msgid "マクロード"
+msgstr "McLeod"
+
+msgctxt "00000609"
+msgid "サリナ"
+msgstr "Sarina"
+
+msgctxt "00000610"
+msgid "バロア"
+msgstr "Baroa"

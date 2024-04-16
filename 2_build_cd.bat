@@ -19,8 +19,6 @@ mkdir obj
 pmake -e RELMODE=DEBUG -e OUTFILE=main -e OPTIMIZE=2
 popd
 
-del exe_error.txt
-
 del exe\SLPS_011.08
 copy exe\orig\SLPS_011.08 exe\SLPS_011.08
 copy /y NUL cd\Ancient-Roman-Disc-1\CODE.DAT >NUL
