@@ -2746,10 +2746,10 @@ Select equipment.
 <$00>
 
 // Ptr: 000045F8
+#WBB(PTR, $00042D38)
+#WUB(PTR, $00042D39)
 #WLB(PTR, $00042D3C)
 #WHB(PTR, $00042D3D)
-#WBB(PTR, $00042D39)
-#WUB(PTR, $00042D38)
 //‚È‚Ü‚¦‚ð‚¢‚ê‚Ä‚­‚¾‚³‚¢
 Enter your name.
 <$00>
