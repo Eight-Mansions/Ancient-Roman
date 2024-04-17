@@ -298,6 +298,21 @@ CallSetBabyLetterWidths:
 .org 0x8009d268
 	.db 0x10 ; Item 14
 	
+.org 0x8009d74c
+	.db 0x10 ; Item Shop 1
+.org 0x8009D770
+	.db 0x10 ; Item Shop 1
+.org 0x8009D794
+	.db 0x10 ; Item Shop 3
+.org 0x8009D7B8
+	.db 0x10 ; Item Shop 4
+.org 0x8009D7DC
+	.db 0x10 ; Item Shop 5
+.org 0x8009D800
+	.db 0x10 ; Item Shop 6
+.org 0x8009D824
+	.db 0x10 ; Item Shop 7
+	
 .org 0x8009d0ac
 	.db 0x10 ; Menu Spell 1
 .org 0x8009D0B8
