@@ -2900,7 +2900,7 @@ Use on who?
 #WHB(PTR, $0003EE51)
 //Ç»Ç…Ç©Ç≤ÇÊÇ§Ç≈Ç∑Ç©ÅH
 How can I help you?
-<$00
+<$00>
 
 //P: 00004348
 #WRITE(PTR, $0008D618)

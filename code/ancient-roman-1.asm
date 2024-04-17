@@ -166,6 +166,12 @@ CallSetBabyLetterWidths:
 
 .org 0x80045940
 	ori v0, r0, 0xF000
+	
+.org 0x80040424 	; Update area names check to increase by 1
+	addiu  a0, 0x0001
+
+; .org 0x8004b268
+	; sll v0, s3, 0x03 ; Dictates length of the place name border
 
 ; Move stuff that will get overwritten by expanded vram for menus
 .org 0x80045a8c
