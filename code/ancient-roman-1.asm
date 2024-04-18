@@ -125,6 +125,9 @@ CallSetBabyLetterWidths:
 .org 0x80040368
 	lh a3, 0x04(s0)
 	jal SetBabyLetterWidths
+	
+.org 0x800526bc
+	jal SetBabyLetterWidths
 
 .org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
 	slti v0, t4, 0x13

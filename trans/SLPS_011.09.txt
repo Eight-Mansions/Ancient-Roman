@@ -2217,7 +2217,7 @@ Magic
 // Ptr: 00004728
 #WRITE(PTR, $0008DAFC)
 //‚f‚o
-GP
+Gahme
 <$00>
 
 
