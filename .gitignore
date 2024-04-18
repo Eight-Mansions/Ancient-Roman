@@ -1,5 +1,5 @@
-cd/*.bin
-cd/*.cue
+*.bin
+*.cue
 cd/*.sys
 cd/*.xml
 cd/Ancient-Roman-Disc-*/*
