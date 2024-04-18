@@ -2228,7 +2228,7 @@ Item
 #WBB(PTR, $0003D480)
 #WUB(PTR, $0003D481)
 //ステータス
-Status
+Stats
 <$00>
 
 

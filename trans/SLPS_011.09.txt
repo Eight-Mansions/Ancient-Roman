@@ -2203,7 +2203,7 @@ Item
 // Ptr: 00004704
 #WRITE(PTR, $0008D6F4)
 //ステータス
-Status
+Stats
 <$00>
 
 
