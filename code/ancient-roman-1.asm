@@ -414,6 +414,17 @@ CallSetBabyLetterWidths:
 .org 0x8009dadc
 	.db 0x20 ; Load from mem 2
 	
+.org 0x8009d884
+	.db 0x06	; Attack
+.org 0x8009d890
+	.db 0x06	; Magic
+.org 0x8009d89C
+	.db 0x06	; Defend
+.org 0x8009d8A8
+	.db 0x06	; Item
+.org 0x8009d8b4
+	.db 0x06	; Run
+	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
 
