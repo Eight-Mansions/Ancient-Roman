@@ -35,3 +35,23 @@ void LoadText(char* dest, char* src)
 
 	CopyString(dest, src);
 }
+
+u8 CountLetters(char* line)
+{
+	u8 cnt = 0;
+	for (int i = 0; i < 255; i++)
+	{
+		if (line[i] == 0)
+		{
+			break;
+		}
+		else if (line[i] > 0x80)
+		{
+			i++;
+		}
+
+		cnt++;
+	}
+
+	return cnt;
+}

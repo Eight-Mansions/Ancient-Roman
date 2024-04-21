@@ -9,6 +9,8 @@ extern "C" {
 	void IsNewline(char* src);
 
 	extern void CopyString(char* dest, char* src);
+
+	u8 CountLetters(char* line);
 }
 
 #endif

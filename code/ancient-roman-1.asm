@@ -167,7 +167,34 @@ CallSetBabyLetterWidths:
 
 .org 0x80045940
 	ori v0, r0, 0xF000
+
+.org 0x8004b25c
+	jal CountLetters
 	
+.org 0x80052668
+	jal CountLetters
+	
+.org 0x80057dc8
+	jal CountLetters
+	
+.org 0x8005ae0c
+	jal CountLetters
+
+.org 0x8005ae80
+	jal CountLetters
+	
+.org 0x8005b408
+	jal CountLetters
+	
+.org 0x8005b5b4
+	jal CountLetters
+	
+.org 0x8005b62c
+	jal CountLetters
+
+.org 0x8005b644
+	jal CountLetters
+
 ; .org 0x80040424 	; Update area names check to increase by 1
 	; addiu  a0, 0x0001
 
