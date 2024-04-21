@@ -424,6 +424,22 @@ CallSetBabyLetterWidths:
 	.db 0x06	; Item
 .org 0x8009d8b4
 	.db 0x06	; Run
+
+.org 0x8009D4BC
+	.db 0x10
+.org 0x8009D4C8
+	.db 0x10
+.org 0x8009D4D4
+	.db 0x10
+.org 0x8009D4E0
+	.db 0x10
+.org 0x8009D4EC
+	.db 0x10
+.org 0x8009D4F8
+	.db 0x10	
+.org 0x8009d504
+	.db 0x20	; Select a character to
+
 	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
