@@ -2,6 +2,10 @@
 .open "cd\Ancient-Roman-Disc-1\CODE.DAT",0x801E0000
 	.importobj "code\ancient-roman\obj\text.obj"
 	.importobj "code\ancient-roman\obj\font.obj"
+	.importobj "code\ancient-roman\obj\generated_movie.obj"
+	.importobj "code\ancient-roman\obj\subtitle.obj"
+SubFont:
+	.incbin "graphics\sub_font.bin" ; Font used for subtitles
 
 CheckForNewline:
 	lbu t1, 0(a0)
@@ -102,6 +106,7 @@ CallSetBabyLetterWidths:
 
 .definelabel CopyString, 0x80083b78
 .definelabel LoadFileIsh, 0x80015f2c
+.definelabel LoadImage, 0x80080440
 .definelabel FUN_8003dba8, 0x8003dba8
 
 
