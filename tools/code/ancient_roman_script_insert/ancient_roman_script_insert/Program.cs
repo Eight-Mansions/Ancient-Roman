@@ -396,7 +396,7 @@ namespace ancient_roman_script_insert
                             for (int i = 0; i < poEntries.Count; i++)
                             {
                                 PoEntry poEntry = poEntries[i];
-                                if (!String.IsNullOrEmpty(poEntry.english) && (poEntry.japanese == myLine || poEntry.japanese.Replace("＿", "　") == myLine))
+                                if (!String.IsNullOrEmpty(poEntry.english) && (poEntry.japanese == myLine || poEntry.japanese.Replace("＿", "　") == myLine) && !poEntry.found)
                                 {
                                     poEntry.origPos = origPos;
                                     string english = Format(poEntry.english, maxLen, widths);
