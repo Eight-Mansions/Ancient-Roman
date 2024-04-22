@@ -238,10 +238,6 @@ CallSetBabyLetterWidths:
 	lui a0, 0x8012
     addiu a0, a0, -0x060c
     addiu a1, a0, 0x1640
-
-	
-
-
 	
 .org 0x8003f9f8
 	nop

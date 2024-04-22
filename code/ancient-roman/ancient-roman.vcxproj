@@ -152,14 +152,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="code\font.cpp" />
+    <ClCompile Include="code\generated_movie.cpp" />
     <ClCompile Include="code\platform.cpp" />
+    <ClCompile Include="code\subtitle.cpp" />
     <ClCompile Include="code\text.cpp" />
     <ClCompile Include="code\loadfile.cpp" />
     <ClCompile Include="makefile" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="code\font.h" />
+    <ClInclude Include="code\generated.h" />
     <ClInclude Include="code\platform.h" />
+    <ClInclude Include="code\subtitle.h" />
     <ClInclude Include="code\text.h" />
     <ClInclude Include="code\loadfile.h" />
   </ItemGroup>

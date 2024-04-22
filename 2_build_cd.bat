@@ -12,6 +12,8 @@ tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.
 del /q cd\Ancient-Roman-Disc-1\DATA0000\BASE.FBS
 copy graphics\DATA0000\BASE.FBS cd\Ancient-Roman-Disc-1\DATA0000\BASE.FBS
 
+tools\ancient_roman_generate_movie_subtitles.exe videos tools\movie_mapping.txt
+
 pushd code\ancient-roman
 pmake -e RELMODE=DEBUG clean
 mkdir Debug
