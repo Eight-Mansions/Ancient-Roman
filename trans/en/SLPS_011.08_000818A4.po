@@ -1,0 +1,480 @@
+﻿msgctxt "00000000"
+msgid ""
+"エスオミー"
+msgstr ""
+
+
+msgctxt "00000001"
+msgid ""
+"フックビー"
+msgstr ""
+
+
+msgctxt "00000002"
+msgid ""
+"ゴブリン"
+msgstr ""
+
+
+msgctxt "00000003"
+msgid ""
+"ゴーレム"
+msgstr ""
+
+
+msgctxt "00000004"
+msgid ""
+"バルチャー"
+msgstr ""
+
+
+msgctxt "00000005"
+msgid ""
+"モスキー"
+msgstr ""
+
+
+msgctxt "00000006"
+msgid ""
+"サイクロプス"
+msgstr ""
+
+
+msgctxt "00000007"
+msgid ""
+"カイム"
+msgstr ""
+
+
+msgctxt "00000008"
+msgid ""
+"デス"
+msgstr ""
+
+
+msgctxt "00000009"
+msgid ""
+"ドラニア"
+msgstr ""
+
+
+msgctxt "00000010"
+msgid ""
+"ハーピー"
+msgstr ""
+
+
+msgctxt "00000011"
+msgid ""
+"マンドラゴラ"
+msgstr ""
+
+
+msgctxt "00000012"
+msgid ""
+"ミノタウロス"
+msgstr ""
+
+
+msgctxt "00000013"
+msgid ""
+"リシオ"
+msgstr ""
+
+
+msgctxt "00000014"
+msgid ""
+"キュービー"
+msgstr ""
+
+
+msgctxt "00000015"
+msgid ""
+"ワーウルフ"
+msgstr ""
+
+
+msgctxt "00000016"
+msgid ""
+"スクーナ"
+msgstr ""
+
+
+msgctxt "00000017"
+msgid ""
+"ゴーズダ"
+msgstr ""
+
+
+msgctxt "00000018"
+msgid ""
+"ガーゴイル"
+msgstr ""
+
+
+msgctxt "00000019"
+msgid ""
+"ウィザード"
+msgstr ""
+
+
+msgctxt "00000020"
+msgid ""
+"ヘルナイト"
+msgstr ""
+
+
+msgctxt "00000021"
+msgid ""
+"ハマー"
+msgstr ""
+
+
+msgctxt "00000022"
+msgid ""
+"ファンタ"
+msgstr ""
+
+
+msgctxt "00000023"
+msgid ""
+"ダゴン"
+msgstr ""
+
+
+msgctxt "00000024"
+msgid ""
+"ルショシアス"
+msgstr ""
+
+
+msgctxt "00000025"
+msgid ""
+"ケルベロス"
+msgstr ""
+
+
+msgctxt "00000026"
+msgid ""
+"バルキリー"
+msgstr ""
+
+
+msgctxt "00000027"
+msgid ""
+"ベリエル"
+msgstr ""
+
+
+msgctxt "00000028"
+msgid ""
+"ヤシャ"
+msgstr ""
+
+
+msgctxt "00000029"
+msgid ""
+"サルー"
+msgstr ""
+
+
+msgctxt "00000030"
+msgid ""
+"クラーケン"
+msgstr ""
+
+
+msgctxt "00000031"
+msgid ""
+"チーフテン"
+msgstr ""
+
+
+msgctxt "00000032"
+msgid ""
+"バジリクス"
+msgstr ""
+
+
+msgctxt "00000033"
+msgid ""
+"ラセット"
+msgstr ""
+
+
+msgctxt "00000034"
+msgid ""
+"ブンブン"
+msgstr ""
+
+
+msgctxt "00000035"
+msgid ""
+"キマイラ"
+msgstr ""
+
+
+msgctxt "00000036"
+msgid ""
+"ヘランサー"
+msgstr ""
+
+
+msgctxt "00000037"
+msgid ""
+"ユニコーン"
+msgstr ""
+
+
+msgctxt "00000038"
+msgid ""
+"クルーガ"
+msgstr ""
+
+
+msgctxt "00000039"
+msgid ""
+"ヌエ"
+msgstr ""
+
+
+msgctxt "00000040"
+msgid ""
+"ヘルチョッパー"
+msgstr ""
+
+
+msgctxt "00000041"
+msgid ""
+"スフィンクス"
+msgstr ""
+
+
+msgctxt "00000042"
+msgid ""
+"ラミア"
+msgstr ""
+
+
+msgctxt "00000043"
+msgid ""
+"マンティコア"
+msgstr ""
+
+
+msgctxt "00000044"
+msgid ""
+"ホロビ"
+msgstr ""
+
+
+msgctxt "00000045"
+msgid ""
+"ドラゴン"
+msgstr ""
+
+
+msgctxt "00000046"
+msgid ""
+"ヒドラ"
+msgstr ""
+
+
+msgctxt "00000047"
+msgid ""
+"シーカー"
+msgstr ""
+
+
+msgctxt "00000048"
+msgid ""
+"ギャリー"
+msgstr ""
+
+
+msgctxt "00000049"
+msgid ""
+"クレイズ"
+msgstr ""
+
+
+msgctxt "00000050"
+msgid ""
+"メデューサ"
+msgstr ""
+
+
+msgctxt "00000051"
+msgid ""
+"ガラズーラ"
+msgstr ""
+
+
+msgctxt "00000052"
+msgid ""
+"ブロア"
+msgstr ""
+
+
+msgctxt "00000053"
+msgid ""
+"グレッパ"
+msgstr ""
+
+
+msgctxt "00000054"
+msgid ""
+"デリューガ"
+msgstr ""
+
+
+msgctxt "00000055"
+msgid ""
+"ギゼフィル"
+msgstr ""
+
+
+msgctxt "00000056"
+msgid ""
+"ネプチューン"
+msgstr ""
+
+
+msgctxt "00000057"
+msgid ""
+"プーガ"
+msgstr ""
+
+
+msgctxt "00000058"
+msgid ""
+"ルーシア"
+msgstr ""
+
+
+msgctxt "00000059"
+msgid ""
+"ギゼフィル"
+msgstr ""
+
+
+msgctxt "00000060"
+msgid ""
+"ギゼフィル"
+msgstr ""
+
+
+msgctxt "00000061"
+msgid ""
+"ヴィーナス"
+msgstr ""
+
+
+msgctxt "00000062"
+msgid ""
+"ロミアス"
+msgstr ""
+
+
+msgctxt "00000063"
+msgid ""
+"ニンフゴッド"
+msgstr ""
+
+
+msgctxt "00000064"
+msgid ""
+"ガイア"
+msgstr ""
+
+
+msgctxt "00000065"
+msgid ""
+"ゆうしゃ"
+msgstr ""
+
+
+msgctxt "00000066"
+msgid ""
+"カーナ"
+msgstr ""
+
+
+msgctxt "00000067"
+msgid ""
+"ゲシュタール"
+msgstr ""
+
+
+msgctxt "00000068"
+msgid ""
+"ソードマン"
+msgstr ""
+
+
+msgctxt "00000069"
+msgid ""
+"バンニン"
+msgstr ""
+
+
+msgctxt "00000070"
+msgid ""
+"だいせいじゃ"
+msgstr ""
+
+
+msgctxt "00000071"
+msgid ""
+"マドウシ"
+msgstr ""
+
+
+msgctxt "00000072"
+msgid ""
+"モンク"
+msgstr ""
+
+
+msgctxt "00000073"
+msgid ""
+"モンク"
+msgstr ""
+
+
+msgctxt "00000074"
+msgid ""
+"モンク"
+msgstr ""
+
+
+msgctxt "00000075"
+msgid ""
+"ビショップ"
+msgstr ""
+
+
+msgctxt "00000076"
+msgid ""
+"ビショップ"
+msgstr ""
+
+
+msgctxt "00000077"
+msgid ""
+"ビショップ"
+msgstr ""
+
+
+msgctxt "00000078"
+msgid ""
+"サブカス"
+msgstr ""
+
+
+msgctxt "00000079"
+msgid ""
+"ザイモン"
+msgstr ""
+
+
