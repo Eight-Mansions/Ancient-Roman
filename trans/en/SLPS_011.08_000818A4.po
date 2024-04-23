@@ -1,480 +1,415 @@
-﻿msgctxt "00000000"
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-23 22:41-0400\n"
+"PO-Revision-Date: 2024-04-24 02:41+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"slps_011-08_000818a4/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+msgctxt "00000000"
 msgid ""
 "エスオミー"
-msgstr ""
-
+msgstr "Franklin?"
 
 msgctxt "00000001"
 msgid ""
 "フックビー"
-msgstr ""
-
+msgstr "Hook Bee"
 
 msgctxt "00000002"
 msgid ""
 "ゴブリン"
-msgstr ""
-
+msgstr "Goblin"
 
 msgctxt "00000003"
 msgid ""
 "ゴーレム"
-msgstr ""
-
+msgstr "Golem"
 
 msgctxt "00000004"
 msgid ""
 "バルチャー"
-msgstr ""
-
+msgstr "Vulture"
 
 msgctxt "00000005"
 msgid ""
 "モスキー"
-msgstr ""
-
+msgstr "Mouse?"
 
 msgctxt "00000006"
 msgid ""
 "サイクロプス"
-msgstr ""
-
+msgstr "Cyclops"
 
 msgctxt "00000007"
 msgid ""
 "カイム"
-msgstr ""
-
+msgstr "Caim?"
 
 msgctxt "00000008"
 msgid ""
 "デス"
-msgstr ""
-
+msgstr "Death"
 
 msgctxt "00000009"
 msgid ""
 "ドラニア"
-msgstr ""
-
+msgstr "Dorania"
 
 msgctxt "00000010"
 msgid ""
 "ハーピー"
-msgstr ""
-
+msgstr "Harpy"
 
 msgctxt "00000011"
 msgid ""
 "マンドラゴラ"
-msgstr ""
-
+msgstr "Mandragora"
 
 msgctxt "00000012"
 msgid ""
 "ミノタウロス"
-msgstr ""
-
+msgstr "Minotarus"
 
 msgctxt "00000013"
 msgid ""
 "リシオ"
-msgstr ""
-
+msgstr "Steve?"
 
 msgctxt "00000014"
 msgid ""
 "キュービー"
-msgstr ""
-
+msgstr "Kyubi"
 
 msgctxt "00000015"
 msgid ""
 "ワーウルフ"
-msgstr ""
-
+msgstr "Werewolf"
 
 msgctxt "00000016"
 msgid ""
 "スクーナ"
-msgstr ""
-
+msgstr "Scone?"
 
 msgctxt "00000017"
 msgid ""
 "ゴーズダ"
-msgstr ""
-
+msgstr "Jimothy?"
 
 msgctxt "00000018"
 msgid ""
 "ガーゴイル"
-msgstr ""
-
+msgstr "Gargoyle"
 
 msgctxt "00000019"
 msgid ""
 "ウィザード"
-msgstr ""
-
+msgstr "Wizard"
 
 msgctxt "00000020"
 msgid ""
 "ヘルナイト"
-msgstr ""
-
+msgstr "Hell Knight"
 
 msgctxt "00000021"
 msgid ""
 "ハマー"
-msgstr ""
-
+msgstr "Hammer"
 
 msgctxt "00000022"
 msgid ""
 "ファンタ"
-msgstr ""
-
+msgstr "Fanta"
 
 msgctxt "00000023"
 msgid ""
 "ダゴン"
-msgstr ""
-
+msgstr "Dagon"
 
 msgctxt "00000024"
 msgid ""
 "ルショシアス"
-msgstr ""
-
+msgstr "Lucius"
 
 msgctxt "00000025"
 msgid ""
 "ケルベロス"
-msgstr ""
-
+msgstr "Cerberus"
 
 msgctxt "00000026"
 msgid ""
 "バルキリー"
-msgstr ""
-
+msgstr "Valkyrie"
 
 msgctxt "00000027"
 msgid ""
 "ベリエル"
-msgstr ""
-
+msgstr "Berial"
 
 msgctxt "00000028"
 msgid ""
 "ヤシャ"
-msgstr ""
-
+msgstr "Yasha"
 
 msgctxt "00000029"
 msgid ""
 "サルー"
-msgstr ""
-
+msgstr "Monkey"
 
 msgctxt "00000030"
 msgid ""
 "クラーケン"
-msgstr ""
-
+msgstr "Kraken"
 
 msgctxt "00000031"
 msgid ""
 "チーフテン"
-msgstr ""
-
+msgstr "Chieftan"
 
 msgctxt "00000032"
 msgid ""
 "バジリクス"
-msgstr ""
-
+msgstr "Basilisk"
 
 msgctxt "00000033"
 msgid ""
 "ラセット"
-msgstr ""
-
+msgstr "Russet?"
 
 msgctxt "00000034"
 msgid ""
 "ブンブン"
-msgstr ""
-
+msgstr "Shake shake?"
 
 msgctxt "00000035"
 msgid ""
 "キマイラ"
-msgstr ""
-
+msgstr "Chimera"
 
 msgctxt "00000036"
 msgid ""
 "ヘランサー"
-msgstr ""
-
+msgstr "Hell Lancer"
 
 msgctxt "00000037"
 msgid ""
 "ユニコーン"
-msgstr ""
-
+msgstr "Unicorn"
 
 msgctxt "00000038"
 msgid ""
 "クルーガ"
-msgstr ""
-
+msgstr "Kruger"
 
 msgctxt "00000039"
 msgid ""
 "ヌエ"
-msgstr ""
-
+msgstr "Nue"
 
 msgctxt "00000040"
 msgid ""
 "ヘルチョッパー"
-msgstr ""
-
+msgstr "Hell Chopper"
 
 msgctxt "00000041"
 msgid ""
 "スフィンクス"
-msgstr ""
-
+msgstr "Sphinx"
 
 msgctxt "00000042"
 msgid ""
 "ラミア"
-msgstr ""
-
+msgstr "Lamia"
 
 msgctxt "00000043"
 msgid ""
 "マンティコア"
-msgstr ""
-
+msgstr "Manticore"
 
 msgctxt "00000044"
 msgid ""
 "ホロビ"
-msgstr ""
-
+msgstr "Horobi?"
 
 msgctxt "00000045"
 msgid ""
 "ドラゴン"
-msgstr ""
-
+msgstr "Dragon"
 
 msgctxt "00000046"
 msgid ""
 "ヒドラ"
-msgstr ""
-
+msgstr "Hydra"
 
 msgctxt "00000047"
 msgid ""
 "シーカー"
-msgstr ""
-
+msgstr "Seeker?"
 
 msgctxt "00000048"
 msgid ""
 "ギャリー"
-msgstr ""
-
+msgstr "Gary?"
 
 msgctxt "00000049"
 msgid ""
 "クレイズ"
-msgstr ""
-
+msgstr "Craze"
 
 msgctxt "00000050"
 msgid ""
 "メデューサ"
-msgstr ""
-
+msgstr "Medusa"
 
 msgctxt "00000051"
 msgid ""
 "ガラズーラ"
-msgstr ""
-
+msgstr "Scaly?"
 
 msgctxt "00000052"
 msgid ""
 "ブロア"
-msgstr ""
-
+msgstr "Blore"
 
 msgctxt "00000053"
 msgid ""
 "グレッパ"
-msgstr ""
-
+msgstr "Greppa?"
 
 msgctxt "00000054"
 msgid ""
 "デリューガ"
-msgstr ""
-
+msgstr "Deluga"
 
 msgctxt "00000055"
 msgid ""
 "ギゼフィル"
-msgstr ""
-
+msgstr "Gizafael"
 
 msgctxt "00000056"
 msgid ""
 "ネプチューン"
-msgstr ""
-
+msgstr "Neptune"
 
 msgctxt "00000057"
 msgid ""
 "プーガ"
-msgstr ""
-
+msgstr "Puga"
 
 msgctxt "00000058"
 msgid ""
 "ルーシア"
-msgstr ""
-
+msgstr "Lucia"
 
 msgctxt "00000059"
 msgid ""
 "ギゼフィル"
-msgstr ""
-
+msgstr "Gizafael"
 
 msgctxt "00000060"
 msgid ""
 "ギゼフィル"
-msgstr ""
-
+msgstr "Gizafael"
 
 msgctxt "00000061"
 msgid ""
 "ヴィーナス"
-msgstr ""
-
+msgstr "Venus"
 
 msgctxt "00000062"
 msgid ""
 "ロミアス"
-msgstr ""
-
+msgstr "Romias"
 
 msgctxt "00000063"
 msgid ""
 "ニンフゴッド"
-msgstr ""
-
+msgstr "Nymph God"
 
 msgctxt "00000064"
 msgid ""
 "ガイア"
-msgstr ""
-
+msgstr "Gaia"
 
 msgctxt "00000065"
 msgid ""
 "ゆうしゃ"
-msgstr ""
-
+msgstr "Hero"
 
 msgctxt "00000066"
 msgid ""
 "カーナ"
-msgstr ""
-
+msgstr "Kanna"
 
 msgctxt "00000067"
 msgid ""
 "ゲシュタール"
-msgstr ""
-
+msgstr "Geshtar"
 
 msgctxt "00000068"
 msgid ""
 "ソードマン"
-msgstr ""
-
+msgstr "Swordsman"
 
 msgctxt "00000069"
 msgid ""
 "バンニン"
-msgstr ""
-
+msgstr "Guard"
 
 msgctxt "00000070"
 msgid ""
 "だいせいじゃ"
-msgstr ""
-
+msgstr "Grand Sage"
 
 msgctxt "00000071"
 msgid ""
 "マドウシ"
-msgstr ""
-
+msgstr "Sorcerer"
 
 msgctxt "00000072"
 msgid ""
 "モンク"
-msgstr ""
-
+msgstr "Monk"
 
 msgctxt "00000073"
 msgid ""
 "モンク"
-msgstr ""
-
+msgstr "Monk"
 
 msgctxt "00000074"
 msgid ""
 "モンク"
-msgstr ""
-
+msgstr "Monk"
 
 msgctxt "00000075"
 msgid ""
 "ビショップ"
-msgstr ""
-
+msgstr "Bishop"
 
 msgctxt "00000076"
 msgid ""
 "ビショップ"
-msgstr ""
-
+msgstr "Bishop"
 
 msgctxt "00000077"
 msgid ""
 "ビショップ"
-msgstr ""
-
+msgstr "Bishop"
 
 msgctxt "00000078"
 msgid ""
 "サブカス"
-msgstr ""
-
+msgstr "Subcus?"
 
 msgctxt "00000079"
 msgid ""
 "ザイモン"
-msgstr ""
-
-
+msgstr "Zaimon"
