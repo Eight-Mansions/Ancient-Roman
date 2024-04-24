@@ -27,11 +27,13 @@ copy /y NUL cd\Ancient-Roman-Disc-1\CODE.DAT >NUL
 tools\armips.exe code\ancient-roman-1.asm
 
 tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08.po trans\orig\SLPS_011.08.txt trans\SLPS_011.08.txt
+tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08_000818A4.po trans\orig\SLPS_011.08_000818A4.txt trans\SLPS_011.08_000818A4.txt
 tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08.po trans\orig\SLPS_011.09.txt trans\SLPS_011.09.txt
 
 del exe_error.txt
 echo trans\SLPS_011.08.txt.txt >> exe_error.txt
 tools\atlas exe\SLPS_011.08 trans\SLPS_011.08.txt >> exe_error.txt
+tools\atlas exe\SLPS_011.08 trans\SLPS_011.08_000818A4.txt >> exe_error.txt
 
 del cd\Ancient-Roman-Disc-1\SLPS_011.08
 copy exe\SLPS_011.08 cd\Ancient-Roman-Disc-1\SLPS_011.08
