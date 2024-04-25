@@ -1,5 +1,7 @@
 #include "subtitle.h"
 
+#define GetPtr(x)	*((u32*)(x))
+
 int counter = 0;
 static int curAudioSubtitleLength = 0;
 
@@ -39,7 +41,7 @@ int GetTimInfo(const uint32_t* tim, TIM_IMAGE* info) {
 	return 0;
 }
 
-bool InitMovieSubtitle(const char* videoname)
+bool InitMovieSubtitle(void* videoname)
 {
 	if (letterPosition[1] == 0)								
 	{
@@ -52,7 +54,7 @@ bool InitMovieSubtitle(const char* videoname)
 	}
 
 	movieSubIdx = -1;
-	int videonameHash = sdbmHash(videoname);
+	int videonameHash = sdbmHash((const char*)GetPtr(videoname));  // Videoname is a pointer to a pointer so need to get the real pointer to get the name
 	for (int i = 0; i < movieSubtitlesCount; i++)
 	{
 		if (videonameHash == movieSubtitles[i].id)
