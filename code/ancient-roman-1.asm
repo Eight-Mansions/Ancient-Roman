@@ -100,6 +100,26 @@ CallSetBabyLetterWidths:
 	nop
 	
 	j 0x80040374
+	
+StoreFrameNumber:
+	lw v0, 0x08(a0)
+	la v1, framenum
+	sw v0, 0(V1)	
+	j 0x80018658
+	lw v1, 0x04(s1)
+	
+	
+DisplayMovieSubs:
+	la a2, SubFont
+	la a3, framenum
+	jal DrawMovieSubtitle
+	lw a3, 0(a3)
+	
+	j 0x80018554
+	nop
+
+framenum:
+	.dw 0
 .close
 
 .open "exe\SLPS_011.08",0x8000F800
@@ -108,6 +128,7 @@ CallSetBabyLetterWidths:
 .definelabel LoadFileIsh, 0x80015f2c
 .definelabel LoadImage, 0x80080440
 .definelabel FUN_8003dba8, 0x8003dba8
+.definelabel PlayMovie, 0x80017f40
 
 
 .org 0x800156c4
@@ -199,6 +220,18 @@ CallSetBabyLetterWidths:
 
 .org 0x8005b644
 	jal CountLetters
+
+.org 0x8001a1a4
+	jal InitMovieSubtitle
+	
+.org 0x80015e18
+	jal InitMovieSubtitle
+	
+.org 0x8001864c
+	j StoreFrameNumber
+	
+.org 0x8001854c
+	j DisplayMovieSubs
 
 ; .org 0x80040424 	; Update area names check to increase by 1
 	; addiu  a0, 0x0001

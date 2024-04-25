@@ -39,7 +39,7 @@ int GetTimInfo(const uint32_t* tim, TIM_IMAGE* info) {
 	return 0;
 }
 
-void InitMovieSubtitle(const char* videoname)
+bool InitMovieSubtitle(const char* videoname)
 {
 	if (letterPosition[1] == 0)								
 	{
@@ -61,6 +61,12 @@ void InitMovieSubtitle(const char* videoname)
 			break;
 		}
 	}
+
+	bool moviePlayed =  PlayMovie(videoname);
+
+	ResetMovieSubtitle();
+
+	return moviePlayed;
 }
 
 void ResetMovieSubtitle()
