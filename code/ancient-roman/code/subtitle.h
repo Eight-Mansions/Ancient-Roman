@@ -12,10 +12,12 @@ extern "C" {
 
 	void ResetMovieSubtitle();
 
-	void DrawMovieSubtitle(RECT* area, u8* image, u8* font, u32 curFrame);
+	void DrawMovieSubtitle(RECT* area, u16* image, u16* font, u32 curFrame);
 
 	static short letterPosition[78] = {0, 0};
 
 	static int movieSubIdx = -1;
+	static int currentMovieFrame = -1;
+	static int currentMovieSubtitleIndexes[3] = { -1, -1 , -1 };
 }
 #endif
