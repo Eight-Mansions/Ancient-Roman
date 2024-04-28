@@ -110,7 +110,7 @@ const u8 dialogueLetterWidths[] = {
 
 const u8 menuLetterWidths[] = {
 	0x03, //  
-	0x02, // !
+	0x03, // !
 	0x04, // "
 	0x08, // #
 	0x06, // $
@@ -119,12 +119,12 @@ const u8 menuLetterWidths[] = {
 	0x02, // '
 	0x04, // (
 	0x04, // )
-	0x04, // *
+	0x08, // *
 	0x06, // +
-	0x03, // ,
+	0x04, // ,
 	0x09, // -
 	0x03, // .
-	0x05, // /
+	0x08, // /
 	0x07, // 0
 	0x04, // 1
 	0x07, // 2
@@ -238,7 +238,30 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic, const u8 letterW
 	else if (letter > 0x80)
 	{
 		letter = (letter << 0x8) + text[1];
-		width = defaultWidth;
+		if (letter >= 0x8260 && letter <= 0x8279) // Uppercase
+		{
+			u32 idx = letter - 0x823F;
+			width = letterWidths[idx];
+		}
+		else if (letter >= 0x8281 && letter <= 0x829A) // Lowecase
+		{
+			u32 idx = letter - 0x8240;
+			width = letterWidths[idx];
+		}
+		else if (letter == 0x8148) // ?
+		{
+			u32 idx = letter - 0x8129;
+			width = letterWidths[idx];
+		}
+		else if (letter == 0x8149) // !
+		{
+			u32 idx = letter - 0x8148;
+			width = letterWidths[idx];
+		}
+		else
+		{			
+			width = defaultWidth;
+		}
 	}
 	else
 	{
