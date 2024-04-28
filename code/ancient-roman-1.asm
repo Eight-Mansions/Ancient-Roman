@@ -154,6 +154,13 @@ framenum:
 	
 .org 0x800526bc
 	jal SetBabyLetterWidths
+	
+.org 0x800388c8
+	lw v1, 0x1174(v1)
+
+.org 0x800388d0
+	sw v1, 0x04(s0)
+
 
 .org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
 	slti v0, t4, 0x13
