@@ -235,9 +235,6 @@ framenum:
 	j CheckForNewline
 	nop
 
-; .org 0x80045940
-	; ori v0, r0, 0xF400
-
 .org 0x80045954
 	j 0x80045984
 
@@ -291,37 +288,37 @@ framenum:
 	lui at, 0x8012
 
 .org 0x80045a94
-	sw v1, -0x065c(at)
+	sw v1, 0x065c(at)
 
 .org 0x80045afc
 	lui at, 0x8012
 	
 .org 0x80045b04
-	lw a0, -0x065c(at)
+	lw a0, 0x065c(at)
 	
 .org 0x80045b64
 	lui at ,0x8012
-	sw v0, -0x061c(at)
+	sw v0, 0x061c(at)
 	lui at ,0x8012
-	sw v1, -0x0618(at)
+	sw v1, 0x0618(at)
 
 .org 0x80046154
 	lui v1, 0x8012
-    lw v1, -0x061c(v1)
+    lw v1, 0x061c(v1)
 
 .org 0x800460fc
 	lui v0, 0x8012
-    lw v0, -0x0618(v0)
+    lw v0, 0x0618(v0)
 
 .org 0x80045bb8
 	lui at, 0x8012
-	sh v1, -0x0614(at)
+	sh v1, 0x0614(at)
 	lui at, 0x8012
-	sh a1, -0x0610(at)
+	sh a1, 0x0610(at)
 
 .org 0x8004624c
 	lui a0, 0x8012
-    addiu a0, a0, -0x060c
+    addiu a0, a0, 0x060c
     addiu a1, a0, 0x1640
 	
 .org 0x8003f9f8
