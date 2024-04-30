@@ -2751,7 +2751,7 @@ Select equipment.
 #WLB(PTR, $00042D3C)
 #WHB(PTR, $00042D3D)
 //‚È‚Ü‚¦‚ð‚¢‚ê‚Ä‚­‚¾‚³‚¢
-Name yourself.
+Name yourself
 <$00>
 
 #WARN($00004610, "WARNME")

@@ -190,6 +190,13 @@ framenum:
 
 .org 0x800388d0
 	sw v1, 0x04(s0)
+	
+
+; .org 0x80052d58
+	; li v0, 0x10	; Increase graphic reserve spots for character names in Party menu
+
+; .org 0x800531e0
+	; li a2, 0x10	; Alow names to be 16 characters  in Party menu
 
 
 .org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
@@ -513,6 +520,17 @@ framenum:
 	.db 0x10	
 .org 0x8009d504
 	.db 0x20	; Select a character to
+	
+.org 0x8009d38c
+	.db 0x10	; Michelia
+.org 0x8009D3A4
+	.db 0x10
+.org 0x8009d3bc
+	.db 0x10
+.org 0x8009D3D4
+	.db 0x10
+.org 0x8009D3EC
+	.db 0x10
 
 	
 .org 0x800B8500
