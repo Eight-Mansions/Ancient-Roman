@@ -228,8 +228,11 @@ framenum:
 	j CheckForNewline
 	nop
 
-.org 0x80045940
-	ori v0, r0, 0xF000
+; .org 0x80045940
+	; ori v0, r0, 0xF400
+
+.org 0x80045954
+	j 0x80045984
 
 .org 0x8004b25c
 	jal CountLetters
