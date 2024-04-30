@@ -1540,7 +1540,7 @@ msgstr "Select equipment."
 
 msgctxt "00000587"
 msgid "なまえをいれてください"
-msgstr "Enter your name."
+msgstr "Name yourself."
 
 msgctxt "00000588"
 msgid "なにをうりますか？"

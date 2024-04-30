@@ -74,6 +74,29 @@ CallGetSentenceWidthForMenus:
 	j 0x8003dc48
 	lbu v0, 0(s1)
 	
+
+CallGetSentenceWidthForMenus2:
+	addiu sp, sp, -20
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
+
+	addu a0, r0, s1
+	addiu a1, s2, 0xFFFF
+	jal GetMenuSentenceWidth
+	addu a2, r0, s0
+	
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a2, 12(sp)
+	lw a3, 16(sp)
+	addiu sp, sp, 20
+	j 0x8003dabc
+	lbu v0, 0(s1)
+	
 	
 
 CallSetBabyLetterWidths:
@@ -147,6 +170,9 @@ framenum:
 	
 .org 0x8003dc40
 	j CallGetSentenceWidthForMenus
+	
+; .org 0x8003dab4
+	; j CallGetSentenceWidthForMenus2
 
 .org 0x80040368
 	lh a3, 0x04(s0)
@@ -154,6 +180,10 @@ framenum:
 	
 .org 0x800526bc
 	jal SetBabyLetterWidths
+	
+.org 0x80057e1c
+	jal SetBabyLetterWidths
+	li a3, 0x0D
 	
 .org 0x800388c8
 	lw v1, 0x1174(v1) ; Increase loading Kai's name to be 8 bytes vs 5
