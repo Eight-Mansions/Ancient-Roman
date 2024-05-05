@@ -197,9 +197,6 @@ framenum:
 	
 .org 0x80052ac8
 	ori a0, r0, 0x190 ; Increase graphic reserve spots for character names in Party menu
-	
-.org 0x80052ab4
-	li a0, 0x190 ; Increase graphic reserve spots for character names in Party menu
 
 .org 0x80052d58
 	li v0, 0x0A	; Increase read of characters for names in Party menu
@@ -208,7 +205,26 @@ framenum:
 	li a2, 0x0A	; Increase read of characters for names in Party menu
 
 .org 0x800531e0
-	li a2, 0x0A	; Alow names to be 16 characters  in Party menu
+	li a2, 0x0A	; Alow names to be 10 characters  in Party menu
+
+
+
+.org 0x80057398
+	ori a0, r0, 0x190 ; Increase graphic reserve spots for character names in Battle
+
+.org 0x800573ac
+	ori a0, r0, 0x190 ; Increase graphic reserve spots for character names in Battle
+	
+.org 0x800575e4
+	li v0, 0x0A	; Increase read of characters for names in Battle
+
+.org 0x800579f8
+	li a2, 0x000A ; Increase read of characters for names in Battle
+
+.org 0x80057a54
+	li a2, 0x000A ; Alow names to be 10 characters in Battle
+
+
 
 
 .org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
