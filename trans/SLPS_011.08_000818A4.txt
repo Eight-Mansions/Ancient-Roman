@@ -5,7 +5,7 @@
 #CREATEPTR(PTR, "LINEAR", 0, 32)
 #JMP($000818A4)
 //エスオミー
-Franklin?
+Dire Rat
 <$00>
 
 #WARN($000818B4, "@000818B4")
@@ -40,7 +40,7 @@ Vulture
 
 #JMP($00081AAC)
 //モスキー
-Mouse?
+Mosquito
 <$00>
 
 #WARN($00081ABC, "@00081ABC")
@@ -54,7 +54,7 @@ Cyclops
 
 #JMP($00081B7C)
 //カイム
-Caim?
+Caim
 <$00>
 
 #WARN($00081B8C, "@00081B8C")
@@ -68,7 +68,7 @@ Death
 
 #JMP($00081C4C)
 //ドラニア
-Dorania
+Doranha
 <$00>
 
 #WARN($00081C5C, "@00081C5C")
@@ -96,14 +96,14 @@ Minotarus
 
 #JMP($00081DEC)
 //リシオ
-Steve?
+Liscio
 <$00>
 
 #WARN($00081DFC, "@00081DFC")
 
 #JMP($00081E54)
 //キュービー
-Kyubi
+Kitsune
 <$00>
 
 #WARN($00081E64, "@00081E64")
@@ -117,14 +117,14 @@ Werewolf
 
 #JMP($00081F24)
 //スクーナ
-Scone?
+Scourge
 <$00>
 
 #WARN($00081F34, "@00081F34")
 
 #JMP($00081F8C)
 //ゴーズダ
-Jimothy?
+Gohzda
 <$00>
 
 #WARN($00081F9C, "@00081F9C")
@@ -173,7 +173,7 @@ Dagon
 
 #JMP($00082264)
 //ルショシアス
-Lucius
+Marchosias
 <$00>
 
 #WARN($00082274, "@00082274")
@@ -222,7 +222,7 @@ Kraken
 
 #JMP($0008253C)
 //チーフテン
-Chieftan
+Chieftain
 <$00>
 
 #WARN($0008254C, "@0008254C")
@@ -236,14 +236,14 @@ Basilisk
 
 #JMP($0008260C)
 //ラセット
-Russet?
+Russet
 <$00>
 
 #WARN($0008261C, "@0008261C")
 
 #JMP($00082674)
 //ブンブン
-Shake shake?
+Knuckles
 <$00>
 
 #WARN($00082684, "@00082684")
@@ -313,7 +313,7 @@ Manticore
 
 #JMP($00082A84)
 //ホロビ
-Horobi?
+Destroyer
 <$00>
 
 #WARN($00082A94, "@00082A94")
@@ -334,14 +334,14 @@ Hydra
 
 #JMP($00082BBC)
 //シーカー
-Seeker?
+Seeker
 <$00>
 
 #WARN($00082BCC, "@00082BCC")
 
 #JMP($00082C24)
 //ギャリー
-Gary?
+Gary
 <$00>
 
 #WARN($00082C34, "@00082C34")
@@ -362,7 +362,7 @@ Medusa
 
 #JMP($00082D5C)
 //ガラズーラ
-Scaly?
+Ixionidae
 <$00>
 
 #WARN($00082D6C, "@00082D6C")
@@ -376,7 +376,7 @@ Blore
 
 #JMP($00082E2C)
 //グレッパ
-Greppa?
+Creature
 <$00>
 
 #WARN($00082E3C, "@00082E3C")
@@ -551,7 +551,7 @@ Bishop
 
 #JMP($00083854)
 //サブカス
-Subcus?
+Dracotaur
 <$00>
 
 #WARN($00083864, "@00083864")
