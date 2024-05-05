@@ -549,6 +549,13 @@ framenum:
 .org 0x8009d38c
 	.db 0x10	; Michelia
 
+.org 0x8009d988
+	.db 0x10
+.org 0x8009d994 ; Michelia
+	.db 0x10
+.org 0x8009D9A0
+	.db 0x10
+
 	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
