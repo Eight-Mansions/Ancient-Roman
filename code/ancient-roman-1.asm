@@ -152,6 +152,12 @@ framenum:
 .definelabel LoadImage, 0x80080440
 .definelabel FUN_8003dba8, 0x8003dba8
 .definelabel PlayMovie, 0x80017f40
+.definelabel FUN_8003e238, 0x8003e238
+.definelabel EnterCriticalSection, 0x80084fc8
+.definelabel ExitCriticalSection, 0x80084fd8
+.definelabel AddPrim, 0x8007f60c
+.definelabel FUN_8003eb04, 0x8003eb04
+
 
 
 .org 0x800156c4
@@ -165,8 +171,17 @@ framenum:
 
 ;void FUN_8003dc0
 ;int FUN_8003e238
-.org 0x8003e28c
-	j CallGetSentenceWidthForDialogues
+; .org 0x8003e28c
+	; j CallGetSentenceWidthForDialogues
+	
+.org 0x8003ea18
+	jal InitDialogueText
+	
+.org 0x8003f8e4
+	jal SetupDialogueText
+	
+.org 0x8003f910
+	jal DisplayDialogueText
 	
 .org 0x8003dc40
 	j CallGetSentenceWidthForMenus
@@ -231,20 +246,20 @@ framenum:
 	slti v0, t4, 0x13
 
 .org 0x8003e278 ; The compare is set by the script itself which is usually 0x13 and is stored at 0x8013acd6 in memory.  Hopefully this wont break other things ;_;
-	slti v0, s3, 0x26
+	slti v0, s3, 0x39
 
 .org 0x8003f8a0 ; Increase max line length from 0x1a to 0x26
-	addiu a2, r0, 0x26
+	addiu a2, r0, 0x39
 	
 .org 0x8003f914 ; Increase max line length from 0x1a to 0x26
-	addiu a2, r0, 0x26
+	addiu a2, r0, 0x39
 
 .org 0x8003f22c		; Initialize our double sized link list
-	ori v0, r0, 0x26
+	ori v0, r0, 0x39
 
 .org 0x8003ec00		; Increase linked list for sentences (double the size)
-	ori a0,zero,0x0820
-    ori a0,zero,0x0820
+	ori a0,zero,0xC30
+    ori a0,zero,0xC30
 
 .org 0x8003dedc		; Update letter dest width
 	addiu v1, s2, 0x0F
@@ -256,8 +271,8 @@ framenum:
 	addiu s3, s3, 1
 	
 .org 0x8003f964
-	addiu t1, r0, 0x20
-	addiu t0, r0, 0x20
+	addiu t1, r0, 0
+	addiu t0, r0, 0
 	
 .org 0x8003f9e8
 	j CheckForNewline
