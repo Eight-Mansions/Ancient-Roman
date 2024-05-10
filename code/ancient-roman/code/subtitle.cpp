@@ -41,7 +41,7 @@ int GetTimInfo(const uint32_t* tim, TIM_IMAGE* info) {
 	return 0;
 }
 
-bool InitMovieSubtitle(void* videoname)
+u32 InitMovieSubtitle(void* videoname)
 {
 	if (letterPosition[1] == 0)								
 	{
@@ -64,7 +64,7 @@ bool InitMovieSubtitle(void* videoname)
 		}
 	}
 
-	bool moviePlayed =  PlayMovie(videoname);
+	u32 moviePlayed =  PlayMovie(videoname);
 
 	ResetMovieSubtitle();
 

@@ -6,9 +6,9 @@
 #include "generated.h"
 
 extern "C" {
-	bool InitMovieSubtitle(void* videoname);
+	u32 InitMovieSubtitle(void* videoname);
 
-	extern bool PlayMovie(void* videoname);
+	extern u32 PlayMovie(void* videoname);
 
 	void ResetMovieSubtitle();
 
