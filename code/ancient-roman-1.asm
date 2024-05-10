@@ -125,11 +125,27 @@ CallSetBabyLetterWidths:
 	j 0x80040374
 	
 StoreFrameNumber:
-	lw v0, 0x08(a0)
+	lw v0, 0x18(sp)
+	nop
+	lw v0, 8(v0)
 	la v1, framenum
-	sw v0, 0(V1)	
-	j 0x80018658
-	lw v1, 0x04(s1)
+	sw v0, 0(v1)
+	lw v0, 0x14(sp)
+	lui v1, 0x8008
+	j 0x800186f8
+	lhu v1, 0x54A4(v1)
+	
+
+	; 
+	; lw v1, 0x04(s1)
+	; lw v0, 0x08(a0)
+	; sltu v0, v0, v1
+	; ; 
+	; ; 
+	; nop
+	; j 0x8001865c
+	; nop
+	
 	
 	
 DisplayMovieSubs:
@@ -314,8 +330,9 @@ framenum:
 .org 0x80015e18
 	jal InitMovieSubtitle
 	
-.org 0x8001864c
+.org 0x800186ec
 	j StoreFrameNumber
+	nop
 	
 .org 0x8001854c
 	j DisplayMovieSubs
