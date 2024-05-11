@@ -135,18 +135,6 @@ StoreFrameNumber:
 	j 0x800186f8
 	lhu v1, 0x54A4(v1)
 	
-
-	; 
-	; lw v1, 0x04(s1)
-	; lw v0, 0x08(a0)
-	; sltu v0, v0, v1
-	; ; 
-	; ; 
-	; nop
-	; j 0x8001865c
-	; nop
-	
-	
 	
 DisplayMovieSubs:
 	la a2, SubFont
@@ -185,10 +173,8 @@ framenum:
 .org 0x8001f268
 	jal LoadText
 
-;void FUN_8003dc0
-;int FUN_8003e238
-; .org 0x8003e28c
-	; j CallGetSentenceWidthForDialogues
+.org 0x8003e28c
+	j CallGetSentenceWidthForDialogues
 	
 .org 0x8003ea18
 	jal InitDialogueText

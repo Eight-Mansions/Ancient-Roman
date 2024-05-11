@@ -383,65 +383,6 @@ i32 SetupDialogueText(POLY_FT4* p, u8* string, long maxLen, int len, int unk1)
 
 	if (!found)
 	{
-		POLY_FT4* p1 = p;
-		u8 sIdx = 0;
-		int lineLen = 0;
-		for (int i = 1; i < 0x39; i++)
-		{
-			u8 width = 0;
-			ushort letter = string[sIdx++];
-			bool isLetter = false;
-			if (letter != 0)
-			{
-				isLetter = true;
-				lineLen++;
-				if (letter > 0x80)
-				{
-					letter = (letter << 0x8) + string[sIdx++];
-					if (letter >= 0x8260 && letter <= 0x8279) // Uppercase
-					{
-						width = dialogueLetterWidths[letter - 0x823F];
-					}
-					else if (letter >= 0x8281 && letter <= 0x829A) // Lowecase
-					{
-						width = dialogueLetterWidths[letter - 0x8240];
-					}
-					else if (letter == 0x8148) // ?
-					{
-						width = dialogueLetterWidths[letter - 0x8129];
-					}
-					else if (letter == 0x8149) // !
-					{
-						width = dialogueLetterWidths[letter - 0x8148];
-					}
-					else
-					{
-						width = 15;
-					}
-				}
-				else
-				{
-					width = dialogueLetterWidths[letter - 0x20];
-				}
-			}
-
-			POLY_FT4* p2 = (POLY_FT4*)(((u8*)p1) + sizeof(POLY_FT4));
-			if (isLetter)
-			{
-				p2->x0 = p2->x2 = p1->x0 + width;
-				p2->x1 = p2->x3 = p2->x0 + 15;
-
-			}
-			else
-			{
-				p2->x0 = p2->x2 = p1->x0;
-				p2->x1 = p2->x3 = p2->x0;
-			}
-			p1 = p2;
-
-
-		}
-
 		FUN_8003e238(p, string, 0x39, 0x39, unk1);
 
 		displayedLines[dIdx] = (u32)p;
