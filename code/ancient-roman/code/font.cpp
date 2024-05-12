@@ -407,7 +407,7 @@ void DisplayDialogueText(u32* ot, POLY_FT4* p, int maxLen)
 void GetPlaceNameWidth(u8* string)
 {
 	u32 width = 0;
-	for (int i = 0; i < 0x10; i++)
+	for (int i = 0; i < 0x20; i++)
 	{
 
 		ushort letter = string[i];

@@ -267,6 +267,30 @@ framenum:
 
 .org 0x80057a54
 	li a2, 0x000A ; Alow names to be 10 characters in Battle
+	
+
+
+.org 0x8004ab1c ; Increase graphic reserve spots for location names on the map
+	ori a0 ,r0, 0x560
+	ori a0, r0, 0x560
+
+.org 0x8004ab50	; Increase initialzing graphic reserve spots for location names on the map
+	ori v0, r0, 0x20
+	
+.org 0x8004b2bc
+	ori a3, r0, 0x20
+	
+.org 0x8004b30c
+	ori a2, r0, 0x20
+	
+.org 0x8004b384
+	ori a2, r0, 0x20
+	
+.org 0x8004b298
+	addu v1, s2, r0 ; Tweak centering of short names
+	
+.org 0x8004b2c0		; Tweak position of long names
+	li v0, 0x125
 
 
 
