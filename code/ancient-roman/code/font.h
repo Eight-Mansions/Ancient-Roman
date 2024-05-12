@@ -25,6 +25,10 @@ extern "C" {
 	extern void DisplayDialogueText(u32* otag, POLY_FT4* p, int len);
 
 	static u32 displayedLines[] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+	void GetPlaceNameWidth(u8* string);
+
+	extern u32 locationNameWidth;
 }
 
 #endif

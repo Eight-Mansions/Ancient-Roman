@@ -97,6 +97,26 @@ CallGetSentenceWidthForMenus2:
 	j 0x8003dabc
 	lbu v0, 0(s1)
 	
+CallGetPlaceNameWidth:
+	addiu sp, sp, -4
+	sw a0, 0(sp)
+	
+	jal GetPlaceNameWidth
+	nop
+	
+	lw a0, 0(sp)
+	jal CountLetters
+	addiu sp, sp, 4
+	
+	j 0x8004b264
+	nop
+	
+SetPlaceNameShadowBoxWidth:
+	la v0, locationNameWidth
+	lh v0, 0(v0)
+	j 0x8004b3a8
+	nop
+	
 	
 
 CallSetBabyLetterWidths:
@@ -188,9 +208,6 @@ framenum:
 .org 0x8003dc40
 	j CallGetSentenceWidthForMenus
 	
-; .org 0x8003dab4
-	; j CallGetSentenceWidthForMenus2
-
 .org 0x80040368
 	lh a3, 0x04(s0)
 	jal SetBabyLetterWidths
@@ -207,6 +224,16 @@ framenum:
 
 .org 0x800388d0
 	sw v1, 0x04(s0)
+	
+.org 0x8004b25c
+	j CallGetPlaceNameWidth
+
+.org 0x8004b3a0
+	j SetPlaceNameShadowBoxWidth
+	lw a0, 0(v1)
+	
+.org 0x8004b268
+	sll v0, s3, 0x02
 
 
 .org 0x80052ab4
@@ -282,9 +309,6 @@ framenum:
 
 .org 0x80045954
 	j 0x80045984
-
-.org 0x8004b25c
-	jal CountLetters
 	
 .org 0x80052668
 	jal CountLetters
@@ -584,6 +608,9 @@ LoadCodeFile:
 	jal 0x800165e0
 	nop
 	j 0x800156cc
+	
+locationNameWidth:
+	.dw 0
 	
 .org 0x80096136		; Updating mappings to allow lowercase
 	.db 0x30, 0xD1 ; a

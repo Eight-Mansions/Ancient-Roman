@@ -404,3 +404,48 @@ void DisplayDialogueText(u32* ot, POLY_FT4* p, int maxLen)
 	
 }
 
+void GetPlaceNameWidth(u8* string)
+{
+	u32 width = 0;
+	for (int i = 0; i < 0x10; i++)
+	{
+
+		ushort letter = string[i];
+		if (letter == 0)
+			break;
+
+		if (letter > 0x80)
+		{
+			letter = (letter << 0x8) + string[i + 1];
+			i++;
+
+			if (letter >= 0x8260 && letter <= 0x8279) // Uppercase
+			{
+				width += dialogueLetterWidths[letter - 0x823F];
+			}
+			else if (letter >= 0x8281 && letter <= 0x829A) // Lowecase
+			{
+				width += dialogueLetterWidths[letter - 0x8240];
+			}
+			else if (letter == 0x8148) // ?
+			{
+				width += dialogueLetterWidths[letter - 0x8129];
+			}
+			else if (letter == 0x8149) // !
+			{
+				width += dialogueLetterWidths[letter - 0x8148];
+			}
+			else
+			{
+				width += 15;
+			}
+		}
+		else
+		{
+			width += dialogueLetterWidths[letter - 0x20];
+		}
+
+	}
+
+	locationNameWidth = width + 3;
+}
