@@ -28,6 +28,8 @@ extern "C" {
 
 	void GetPlaceNameWidth(u8* string);
 
+	u32 GetHeaderNameCenter(u8* string);
+
 	extern u32 locationNameWidth;
 }
 

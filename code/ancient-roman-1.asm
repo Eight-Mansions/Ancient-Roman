@@ -117,6 +117,34 @@ SetPlaceNameShadowBoxWidth:
 	j 0x8004b3a8
 	nop
 	
+CallGetHeaderNameCenter:
+	addiu sp, sp, -20
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
+	
+	jal GetHeaderNameCenter
+	addu a0, r0, s3
+	
+	sra a2, s1, 0x10
+	addu a2, a2, v0
+	
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a3, 16(sp)
+	
+	jal 0x8003d8b8
+	addiu sp, sp, 20
+	
+	
+	j 0x800526ac
+	nop
+	
+
+	
 	
 
 CallSetBabyLetterWidths:
@@ -292,6 +320,11 @@ framenum:
 .org 0x8004b2c0		; Tweak position of long names
 	li v0, 0x125
 
+.org 0x800526a4
+	j CallGetHeaderNameCenter
+	
+.org 0x80052680
+	nop
 
 
 
