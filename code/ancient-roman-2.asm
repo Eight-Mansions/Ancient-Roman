@@ -7,27 +7,27 @@
 ; SubFont:
 	; .incbin "graphics\sub_font.bin" ; Font used for subtitles
 
-; CheckForNewline:
-	; lbu t1, 0(a0)
-	; addiu v0, r0, 0x0A	
-	; beq v0, t1, isNewLine1
-	; nop
+CheckForNewline:
+	lbu t1, 0(a0)
+	addiu v0, r0, 0x0A	
+	beq v0, t1, isNewLine1
+	nop
 	
-	; lbu t0, 1(a0)
-	; nop
-	; beq v0, t0, isNewLine2
-	; nop
-	; j 0x8003f9f4
-	; addiu a0, 0x02
+	lbu t0, 1(a0)
+	nop
+	beq v0, t0, isNewLine2
+	nop
+	j 0x8003f8ac
+	addiu a0, 0x02
 
-; isNewLine1:
-	; j 0x8003fa50
-	; addiu a0, 0x01
+isNewLine1:
+	j 0x8003f908
+	addiu a0, 0x01
 
-; isNewLine2:
-	; sb t1, 0(a3)
-	; j 0x8003fa50
-	; addiu a0, 0x02
+isNewLine2:
+	sb t1, 0(a3)
+	j 0x8003f908
+	addiu a0, 0x02
 
 ; CallGetSentenceWidthForDialogues:
 	; addiu sp, sp, -24
@@ -73,49 +73,6 @@
 	; addiu sp, sp, 20
 	; j 0x8003dc48
 	; lbu v0, 0(s1)
-	
-
-; CallGetSentenceWidthForMenus2:
-	; addiu sp, sp, -20
-	; sw ra, 0(sp)
-	; sw a0, 4(sp)
-	; sw a1, 8(sp)
-	; sw a2, 12(sp)
-	; sw a3, 16(sp)
-
-	; addu a0, r0, s1
-	; addiu a1, s2, 0xFFFF
-	; jal GetMenuSentenceWidth
-	; addu a2, r0, s0
-	
-	; lw ra, 0(sp)
-	; lw a0, 4(sp)
-	; lw a1, 8(sp)
-	; lw a2, 12(sp)
-	; lw a3, 16(sp)
-	; addiu sp, sp, 20
-	; j 0x8003dabc
-	; lbu v0, 0(s1)
-	
-; CallGetPlaceNameWidth:
-	; addiu sp, sp, -4
-	; sw a0, 0(sp)
-	
-	; jal GetPlaceNameWidth
-	; nop
-	
-	; lw a0, 0(sp)
-	; jal CountLetters
-	; addiu sp, sp, 4
-	
-	; j 0x8004b264
-	; nop
-	
-; SetPlaceNameShadowBoxWidth:
-	; la v0, locationNameWidth
-	; lh v0, 0(v0)
-	; j 0x8004b3a8
-	; nop
 	
 CallGetHeaderNameCenter:
 	addiu sp, sp, -20
@@ -328,44 +285,44 @@ CallGetHeaderNameCenter:
 
 
 
-; .org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
-	; slti v0, t4, 0x13
+.org 0x8003f8fc	; Hard code copy length (although it will stop once it hits a 0)
+	slti v0, t4, 0x13
 
-; .org 0x8003e278 ; The compare is set by the script itself which is usually 0x13 and is stored at 0x8013acd6 in memory.  Hopefully this wont break other things ;_;
-	; slti v0, s3, 0x39
+.org 0x8003e130 ; The compare is set by the script itself which is usually 0x13 and is stored at 0x8013acd6 in memory.  Hopefully this wont break other things ;_;
+	slti v0, s3, 0x39
 
-; .org 0x8003f8a0 ; Increase max line length from 0x1a to 0x26
-	; addiu a2, r0, 0x39
+.org 0x8003f758 ; Increase max line length from 0x1a to 0x26
+	addiu a2, r0, 0x39
 	
-; .org 0x8003f914 ; Increase max line length from 0x1a to 0x26
-	; addiu a2, r0, 0x39
+.org 0x8003f7cc ; Increase max line length from 0x1a to 0x26
+	addiu a2, r0, 0x39
 
-; .org 0x8003f22c		; Initialize our double sized link list
-	; ori v0, r0, 0x39
+.org 0x8003f0e4		; Initialize our double sized link list
+	ori v0, r0, 0x39
 
-; .org 0x8003ec00		; Increase linked list for sentences (double the size)
-	; ori a0,zero,0xC30
-    ; ori a0,zero,0xC30
+.org 0x8003eab8		; Increase linked list for sentences (double the size)
+	ori a0,zero,0xC30
+    ori a0,zero,0xC30
 
-; .org 0x8003dedc		; Update letter dest width
-	; addiu v1, s2, 0x0F
+.org 0x8003dd94		; Update letter dest width
+	addiu v1, s2, 0x0F
 	
-; .org 0x8003e348		; Update letter source width
-	; ori a3, v1, 0x0F
+.org 0x8003e200		; Update letter source width
+	ori a3, v1, 0x0F
 	
-; .org 0x8003e2d4		; Increase the index for where were at in the string
-	; addiu s3, s3, 1
+.org 0x8003e18c		; Increase the index for where were at in the string
+	addiu s3, s3, 1
 	
-; .org 0x8003f964
-	; addiu t1, r0, 0
-	; addiu t0, r0, 0
+.org 0x8003f81c
+	addiu t1, r0, 0
+	addiu t0, r0, 0
 	
-; .org 0x8003f9e8
-	; j CheckForNewline
-	; nop
+.org 0x8003f8a0
+	j CheckForNewline
+	nop
 
-; .org 0x80045954
-	; j 0x80045984
+.org 0x8004580c
+	j 0x8004583c
 	
 .org 0x80052520
 	jal CountLetters
@@ -411,45 +368,45 @@ CallGetHeaderNameCenter:
 	; ; sll v0, s3, 0x03 ; Dictates length of the place name border
 
 ; ; Move stuff that will get overwritten by expanded vram for menus
-; .org 0x80045a8c
-	; lui at, 0x8012
+.org 0x80045944
+	lui at, 0x8012
 
-; .org 0x80045a94
-	; sw v1, 0x065c(at)
+.org 0x8004594c
+	sw v1, 0x065c(at)
 
-; .org 0x80045afc
-	; lui at, 0x8012
+.org 0x800459b4
+	lui at, 0x8012
 	
-; .org 0x80045b04
-	; lw a0, 0x065c(at)
+.org 0x800459bc
+	lw a0, 0x065c(at)
 	
-; .org 0x80045b64
-	; lui at ,0x8012
-	; sw v0, 0x061c(at)
-	; lui at ,0x8012
-	; sw v1, 0x0618(at)
+.org 0x80045a1c
+	lui at ,0x8012
+	sw v0, 0x061c(at)
+	lui at ,0x8012
+	sw v1, 0x0618(at)
 
-; .org 0x80046154
-	; lui v1, 0x8012
-    ; lw v1, 0x061c(v1)
+.org 0x8004600c
+	lui v1, 0x8012
+    lw v1, 0x061c(v1)
 
-; .org 0x800460fc
-	; lui v0, 0x8012
-    ; lw v0, 0x0618(v0)
+.org 0x80045fb4
+	lui v0, 0x8012
+    lw v0, 0x0618(v0)
 
-; .org 0x80045bb8
-	; lui at, 0x8012
-	; sh v1, 0x0614(at)
-	; lui at, 0x8012
-	; sh a1, 0x0610(at)
+.org 0x80045a78
+	lui at, 0x8012
+	sh v1, 0x0614(at)
+	lui at, 0x8012
+	sh a1, 0x0610(at)
 
-; .org 0x8004624c
-	; lui a0, 0x8012
-    ; addiu a0, a0, 0x060c
-    ; addiu a1, a0, 0x1640
+.org 0x80046104
+	lui a0, 0x8012
+    addiu a0, a0, 0x060c
+    addiu a1, a0, 0x1640
 	
-; .org 0x8003f9f8
-	; nop
+.org 0x8003f8b0
+	nop
 	
 ; .org 0x8009db24
 	; .db 0x10 ; New Game
