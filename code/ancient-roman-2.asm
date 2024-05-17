@@ -117,31 +117,31 @@
 	; j 0x8004b3a8
 	; nop
 	
-; CallGetHeaderNameCenter:
-	; addiu sp, sp, -20
-	; sw ra, 0(sp)
-	; sw a0, 4(sp)
-	; sw a1, 8(sp)
-	; sw a2, 12(sp)
-	; sw a3, 16(sp)
+CallGetHeaderNameCenter:
+	addiu sp, sp, -20
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
 	
-	; jal GetHeaderNameCenter
-	; addu a0, r0, s3
+	jal GetHeaderNameCenter
+	addu a0, r0, s3
 	
-	; sra a2, s1, 0x10
-	; addu a2, a2, v0
+	sra a2, s1, 0x10
+	addu a2, a2, v0
 	
-	; lw ra, 0(sp)
-	; lw a0, 4(sp)
-	; lw a1, 8(sp)
-	; lw a3, 16(sp)
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a3, 16(sp)
 	
-	; jal 0x8003d8b8
-	; addiu sp, sp, 20
+	jal 0x8003d770
+	addiu sp, sp, 20
 	
 	
-	; j 0x800526ac
-	; nop
+	j 0x80052564
+	nop
 	
 
 	
@@ -281,50 +281,50 @@
 
 
 
-; .org 0x80057398
-	; ori a0, r0, 0x190 ; Increase graphic reserve spots for character names in Battle
+.org 0x80057250
+	ori a0, r0, 0x190 ; Increase graphic reserve spots for character names in Battle
 
-; .org 0x800573ac
-	; ori a0, r0, 0x190 ; Increase graphic reserve spots for character names in Battle
+.org 0x80057264
+	ori a0, r0, 0x190 ; Increase graphic reserve spots for character names in Battle
 	
-; .org 0x800575e4
-	; li v0, 0x0A	; Increase read of characters for names in Battle
+.org 0x8005749c
+	li v0, 0x0A	; Increase read of characters for names in Battle
 
-; .org 0x800579f8
-	; li a2, 0x000A ; Increase read of characters for names in Battle
+.org 0x800578b0
+	li a2, 0x000A ; Increase read of characters for names in Battle
 
-; .org 0x80057a54
-	; li a2, 0x000A ; Alow names to be 10 characters in Battle
+.org 0x8005790c
+	li a2, 0x000A ; Alow names to be 10 characters in Battle
 	
 
 
-; .org 0x8004ab1c ; Increase graphic reserve spots for location names on the map
-	; ori a0 ,r0, 0x560
-	; ori a0, r0, 0x560
+.org 0x8004a9d4 ; Increase graphic reserve spots for location names on the map
+	ori a0 ,r0, 0x560
+	ori a0, r0, 0x560
 
-; .org 0x8004ab50	; Increase initialzing graphic reserve spots for location names on the map
-	; ori v0, r0, 0x20
+.org 0x8004aa08	; Increase initialzing graphic reserve spots for location names on the map
+	ori v0, r0, 0x20
 	
-; .org 0x8004b2bc
-	; ori a3, r0, 0x20
+.org 0x8004b174
+	ori a3, r0, 0x20
 	
-; .org 0x8004b30c
-	; ori a2, r0, 0x20
+.org 0x8004b1c4
+	ori a2, r0, 0x20
 	
-; .org 0x8004b384
-	; ori a2, r0, 0x20
+.org 0x8004b23c
+	ori a2, r0, 0x20
 	
-; .org 0x8004b298
-	; addu v1, s2, r0 ; Tweak centering of short names
+.org 0x8004b150
+	addu v1, s2, r0 ; Tweak centering of short names
 	
-; .org 0x8004b2c0		; Tweak position of long names
-	; li v0, 0x125
+.org 0x8004b178		; Tweak position of long names
+	li v0, 0x125
 
-; .org 0x800526a4
-	; j CallGetHeaderNameCenter
+.org 0x8005255c
+	j CallGetHeaderNameCenter
 	
-; .org 0x80052680
-	; nop
+.org 0x80052538
+	nop
 
 
 
@@ -367,29 +367,29 @@
 ; .org 0x80045954
 	; j 0x80045984
 	
-; .org 0x80052668
-	; jal CountLetters
+.org 0x80052520
+	jal CountLetters
 	
-; .org 0x80057dc8
-	; jal CountLetters
+.org 0x80057c80
+	jal CountLetters
 	
-; .org 0x8005ae0c
-	; jal CountLetters
+.org 0x8005acc4
+	jal CountLetters
 
-; .org 0x8005ae80
-	; jal CountLetters
+.org 0x8005ad38
+	jal CountLetters
 	
-; .org 0x8005b408
-	; jal CountLetters
+.org 0x8005b2c0
+	jal CountLetters
 	
-; .org 0x8005b5b4
-	; jal CountLetters
+.org 0x8005b46c
+	jal CountLetters
 	
-; .org 0x8005b62c
-	; jal CountLetters
+.org 0x8005b4e4
+	jal CountLetters
 
-; .org 0x8005b644
-	; jal CountLetters
+.org 0x8005b4fc
+	jal CountLetters
 
 ; .org 0x8001a1a4
 	; jal InitMovieSubtitle
