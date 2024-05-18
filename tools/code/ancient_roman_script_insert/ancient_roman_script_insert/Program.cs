@@ -35,7 +35,7 @@ namespace ancient_roman_script_insert
         {
             string outme = "";
             int cur_len = 0;
-            int maxHardLen = 38;
+            int maxHardLen = 99;
 
             string[] splitRs = line.Split(new string[] { "\\n" }, StringSplitOptions.RemoveEmptyEntries);
             for (int r = 0; r < splitRs.Length; r++)
@@ -45,7 +45,7 @@ namespace ancient_roman_script_insert
                 int line_cnt = 1;
                 for (int k = 0; k < pieces.Length; k++)
                 {
-                    if (GetCurWidth(formatted + pieces[k].Replace("カイ:", "WWWWW:") + " ", widths) < max_len && (formatted.Replace("カイ:", "WWWWW:") + pieces[k] + " ").Length < maxHardLen)
+                    if (GetCurWidth(formatted + pieces[k].Replace("カイ", "WWWWW") + " ", widths) < max_len && (formatted.Replace("カイ:", "WWWWW:") + pieces[k] + " ").Length < maxHardLen)
                     {
                         formatted += pieces[k] + " ";
                     }

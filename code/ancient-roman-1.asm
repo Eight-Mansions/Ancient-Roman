@@ -329,7 +329,7 @@ framenum:
 
 
 .org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
-	slti v0, t4, 0x13
+	slti v0, t4, 0x39
 
 .org 0x8003e278 ; The compare is set by the script itself which is usually 0x13 and is stored at 0x8013acd6 in memory.  Hopefully this wont break other things ;_;
 	slti v0, s3, 0x39

@@ -29,28 +29,28 @@ isNewLine2:
 	j 0x8003f908
 	addiu a0, 0x02
 
-; CallGetSentenceWidthForDialogues:
-	; addiu sp, sp, -24
-	; sw ra, 0(sp)
-	; sw a0, 4(sp)
-	; sw a1, 8(sp)
-	; sw a2, 12(sp)
-	; sw a3, 16(sp)
-	; sw v1, 20(sp)
+CallGetSentenceWidthForDialogues:
+	addiu sp, sp, -24
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
+	sw v1, 20(sp)
 
-	; addu a0, r0, s0
-	; addu a1, r0, s3
-	; jal GetDialogueSentenceWidth
-	; addu a2, r0, s1
+	addu a0, r0, s0
+	addu a1, r0, s3
+	jal GetDialogueSentenceWidth
+	addu a2, r0, s1
 	
-	; lw ra, 0(sp)
-	; lw a0, 4(sp)
-	; lw a1, 8(sp)
-	; lw a2, 12(sp)
-	; lw a3, 16(sp)
-	; lw v1, 20(sp)
-	; j 0x8003e294
-	; addiu sp, sp, 24
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a2, 12(sp)
+	lw a3, 16(sp)
+	lw v1, 20(sp)
+	j 0x8003e14c
+	addiu sp, sp, 24
 	
 ; CallGetSentenceWidthForMenus:
 	; addiu sp, sp, -20
@@ -161,11 +161,11 @@ CallGetHeaderNameCenter:
 ; .definelabel LoadImage, 0x80080440
 ; .definelabel FUN_8003dba8, 0x8003dba8
 ; .definelabel PlayMovie, 0x80017f40
-; .definelabel FUN_8003e238, 0x8003e238
-; .definelabel EnterCriticalSection, 0x80084fc8
-; .definelabel ExitCriticalSection, 0x80084fd8
-; .definelabel AddPrim, 0x8007f60c
-; .definelabel FUN_8003eb04, 0x8003eb04
+.definelabel FUN_8003e238, 0x8003e0f0
+.definelabel EnterCriticalSection, 0x80084e80
+.definelabel ExitCriticalSection, 0x80084e90
+.definelabel AddPrim, 0x8007f4c4
+.definelabel FUN_8003eb04, 0x8003e9bc
 
 
 
@@ -178,14 +178,14 @@ CallGetHeaderNameCenter:
 ; .org 0x8001f268
 	; jal LoadText
 
-; .org 0x8003e28c
-	; j CallGetSentenceWidthForDialogues
+.org 0x8003e144
+	j CallGetSentenceWidthForDialogues
 	
-; .org 0x8003ea18
-	; jal InitDialogueText
+.org 0x8003e8d0
+	jal InitDialogueText
 	
-; .org 0x8003f8e4
-	; jal SetupDialogueText
+.org 0x8003f79c
+	jal SetupDialogueText
 	
 ; .org 0x8003f910
 	; jal DisplayDialogueText
@@ -286,7 +286,7 @@ CallGetHeaderNameCenter:
 
 
 .org 0x8003f8fc	; Hard code copy length (although it will stop once it hits a 0)
-	slti v0, t4, 0x13
+	slti v0, t4, 0x39
 
 .org 0x8003e130 ; The compare is set by the script itself which is usually 0x13 and is stored at 0x8013acd6 in memory.  Hopefully this wont break other things ;_;
 	slti v0, s3, 0x39
