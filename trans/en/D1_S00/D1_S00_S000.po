@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:33-0400\n"
-"PO-Revision-Date: 2024-05-18 00:58+0000\n"
+"PO-Revision-Date: 2024-05-20 17:30+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s000/en/>\n"
@@ -22,7 +22,7 @@ msgstr " "
 msgctxt "00000001"
 msgid ""
 "カイ：ワァ！"
-msgstr "Kai: Hya!"
+msgstr "Kai: AHH!"
 
 #: 00000230
 msgctxt "00000002"
@@ -900,7 +900,7 @@ msgstr "Man: Weird. Why would the warden give us a day off?"
 msgctxt "00000143"
 msgid ""
 "あの管理長がおれたちに休めとは、どういう風のふきまわしだ？"
-msgstr "Did Hell freeze over or something?"
+msgstr "Did hell freeze over or something?"
 
 #: 000CE0B1
 msgctxt "00000144"
@@ -1039,7 +1039,7 @@ msgstr "We'll slaughter you all!"
 msgctxt "00000166"
 msgid ""
 "魔物：やれるものならやってみろ！"
-msgstr "Demon: Do you think you're my equal? I'll deliver you to Hell myself!"
+msgstr "Demon: Do you think you're my equal? I'll deliver you to hell myself!"
 
 #: 000CE696
 msgctxt "00000167"
@@ -1376,7 +1376,7 @@ msgstr "If we can harness the darkness within it, then we are one step closer"
 msgctxt "00000222"
 msgid ""
 "また一歩ちかづくというもの。"
-msgstr "to the day we demons rule over this country!"
+msgstr "to the day we demons rule over this land!"
 
 #: 002F1A73
 msgctxt "00000223"
@@ -1509,7 +1509,7 @@ msgstr "Michelia: Do you think John is all right?"
 msgctxt "00000243"
 msgid ""
 "カイ：急いでもどろう！みんなが心ぱいだ！！"
-msgstr "Kai: We'd better race back. I'm worried about the others."
+msgstr "Kai: We'd better race back. I'm worried about him and the others."
 
 #: 00336121
 msgctxt "00000244"
