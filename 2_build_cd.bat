@@ -55,7 +55,7 @@ copy ins\D1_S00\*.DAT cd\Ancient-Roman-Disc-2\S00\ 1>nul
 del exe\SLPS_011.09
 copy exe\orig\SLPS_011.09 exe\SLPS_011.09
 copy /y NUL cd\Ancient-Roman-Disc-2\CODE.DAT >NUL
-REM tools\armips.exe code\ancient-roman-1.asm
+tools\armips.exe code\ancient-roman-2.asm
 
 del cd\Ancient-Roman-Disc-2\SLPS_011.09
 copy exe\SLPS_011.09 cd\Ancient-Roman-Disc-2\SLPS_011.09

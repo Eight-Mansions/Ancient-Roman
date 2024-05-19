@@ -74,29 +74,6 @@ CallGetSentenceWidthForMenus:
 	j 0x8003dc48
 	lbu v0, 0(s1)
 	
-
-CallGetSentenceWidthForMenus2:
-	addiu sp, sp, -20
-	sw ra, 0(sp)
-	sw a0, 4(sp)
-	sw a1, 8(sp)
-	sw a2, 12(sp)
-	sw a3, 16(sp)
-
-	addu a0, r0, s1
-	addiu a1, s2, 0xFFFF
-	jal GetMenuSentenceWidth
-	addu a2, r0, s0
-	
-	lw ra, 0(sp)
-	lw a0, 4(sp)
-	lw a1, 8(sp)
-	lw a2, 12(sp)
-	lw a3, 16(sp)
-	addiu sp, sp, 20
-	j 0x8003dabc
-	lbu v0, 0(s1)
-	
 CallGetPlaceNameWidth:
 	addiu sp, sp, -4
 	sw a0, 0(sp)
@@ -142,36 +119,7 @@ CallGetHeaderNameCenter:
 	
 	j 0x800526ac
 	nop
-	
 
-	
-	
-
-CallSetBabyLetterWidths:
-	addiu sp, sp, -24
-	sw ra, 0(sp)
-	sw a0, 4(sp)
-	sw a1, 8(sp)
-	sw a2, 12(sp)
-	sw a3, 16(sp)
-	sw v1, 20(sp)
-
-	jal SetBabyLetterWidths
-	lh a3, 0x04(s0)
-	
-	lw ra, 0(sp)
-	lw a0, 4(sp)
-	lw a1, 8(sp)
-	lw a2, 12(sp)
-	lw a3, 16(sp)
-	lw v1, 20(sp)
-	addiu sp, sp, 24
-	
-	jal 0x8003dba8
-	nop
-	
-	j 0x80040374
-	
 StoreFrameNumber:
 	lw v0, 0x18(sp)
 	nop
@@ -403,12 +351,6 @@ framenum:
 	
 .org 0x8001854c
 	j DisplayMovieSubs
-
-; .org 0x80040424 	; Update area names check to increase by 1
-	; addiu  a0, 0x0001
-
-; .org 0x8004b268
-	; sll v0, s3, 0x03 ; Dictates length of the place name border
 
 ; Move stuff that will get overwritten by expanded vram for menus
 .org 0x80045a8c

@@ -1,11 +1,11 @@
 .psx
-; .open "cd\Ancient-Roman-Disc-1\CODE.DAT",0x801E0000
-	; .importobj "code\ancient-roman\obj\text.obj"
-	; .importobj "code\ancient-roman\obj\font.obj"
-	; .importobj "code\ancient-roman\obj\generated_movie.obj"
-	; .importobj "code\ancient-roman\obj\subtitle.obj"
-; SubFont:
-	; .incbin "graphics\sub_font.bin" ; Font used for subtitles
+.open "cd\Ancient-Roman-Disc-2\CODE.DAT",0x801E0000
+	.importobj "code\ancient-roman\obj\text.obj"
+	.importobj "code\ancient-roman\obj\font.obj"
+	.importobj "code\ancient-roman\obj\generated_movie.obj"
+	.importobj "code\ancient-roman\obj\subtitle.obj"
+SubFont:
+	.incbin "graphics\sub_font.bin" ; Font used for subtitles
 
 CheckForNewline:
 	lbu t1, 0(a0)
@@ -52,27 +52,47 @@ CallGetSentenceWidthForDialogues:
 	j 0x8003e14c
 	addiu sp, sp, 24
 	
-; CallGetSentenceWidthForMenus:
-	; addiu sp, sp, -20
-	; sw ra, 0(sp)
-	; sw a0, 4(sp)
-	; sw a1, 8(sp)
-	; sw a2, 12(sp)
-	; sw a3, 16(sp)
+CallGetSentenceWidthForMenus:
+	addiu sp, sp, -20
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
 
-	; addu a0, r0, s1
-	; addiu a1, s2, 0xFFFF
-	; jal GetMenuSentenceWidth
-	; addu a2, r0, s0
+	addu a0, r0, s1
+	addiu a1, s2, 0xFFFF
+	jal GetMenuSentenceWidth
+	addu a2, r0, s0
 	
-	; lw ra, 0(sp)
-	; lw a0, 4(sp)
-	; lw a1, 8(sp)
-	; lw a2, 12(sp)
-	; lw a3, 16(sp)
-	; addiu sp, sp, 20
-	; j 0x8003dc48
-	; lbu v0, 0(s1)
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a2, 12(sp)
+	lw a3, 16(sp)
+	addiu sp, sp, 20
+	j 0x8003db00
+	lbu v0, 0(s1)
+	
+CallGetPlaceNameWidth:
+	addiu sp, sp, -4
+	sw a0, 0(sp)
+	
+	jal GetPlaceNameWidth
+	nop
+	
+	lw a0, 0(sp)
+	jal CountLetters
+	addiu sp, sp, 4
+	
+	j 0x8004b11c
+	nop
+	
+SetPlaceNameShadowBoxWidth:
+	la v0, locationNameWidth
+	lh v0, 0(v0)
+	j 0x8004b260
+	nop
 	
 CallGetHeaderNameCenter:
 	addiu sp, sp, -20
@@ -100,67 +120,38 @@ CallGetHeaderNameCenter:
 	j 0x80052564
 	nop
 	
+StoreFrameNumber:
+	lw v0, 0x18(sp)
+	nop
+	lw v0, 8(v0)
+	la v1, framenum
+	sw v0, 0(v1)
+	lw v0, 0x14(sp)
+	lui v1, 0x8008
+	j 0x800185b0
+	lhu v1, 0x535C(v1)
+	
+	
+DisplayMovieSubs:
+	la a2, SubFont
+	la a3, framenum
+	jal DrawMovieSubtitle
+	lw a3, 0(a3)
+	
+	j 0x8001840c
+	nop
 
-	
-	
+framenum:
+	.dw 0
+.close
 
-; CallSetBabyLetterWidths:
-	; addiu sp, sp, -24
-	; sw ra, 0(sp)
-	; sw a0, 4(sp)
-	; sw a1, 8(sp)
-	; sw a2, 12(sp)
-	; sw a3, 16(sp)
-	; sw v1, 20(sp)
+.open "exe\SLPS_011.09",0x8000F800
 
-	; jal SetBabyLetterWidths
-	; lh a3, 0x04(s0)
-	
-	; lw ra, 0(sp)
-	; lw a0, 4(sp)
-	; lw a1, 8(sp)
-	; lw a2, 12(sp)
-	; lw a3, 16(sp)
-	; lw v1, 20(sp)
-	; addiu sp, sp, 24
-	
-	; jal 0x8003dba8
-	; nop
-	
-	; j 0x80040374
-	
-; StoreFrameNumber:
-	; lw v0, 0x18(sp)
-	; nop
-	; lw v0, 8(v0)
-	; la v1, framenum
-	; sw v0, 0(v1)
-	; lw v0, 0x14(sp)
-	; lui v1, 0x8008
-	; j 0x800186f8
-	; lhu v1, 0x54A4(v1)
-	
-	
-; DisplayMovieSubs:
-	; la a2, SubFont
-	; la a3, framenum
-	; jal DrawMovieSubtitle
-	; lw a3, 0(a3)
-	
-	; j 0x80018554
-	; nop
-
-; framenum:
-	; .dw 0
-; .close
-
-.open "exe\SLPS_011.08",0x8000F800
-
-; .definelabel CopyString, 0x80083b78
-; .definelabel LoadFileIsh, 0x80015f2c
-; .definelabel LoadImage, 0x80080440
-; .definelabel FUN_8003dba8, 0x8003dba8
-; .definelabel PlayMovie, 0x80017f40
+.definelabel CopyString, 0x80083a30
+.definelabel LoadFileIsh, 0x80015f18
+.definelabel LoadImage, 0x800802f8
+.definelabel FUN_8003dba8, 0x8003da60
+.definelabel PlayMovie, 0x80017df8
 .definelabel FUN_8003e238, 0x8003e0f0
 .definelabel EnterCriticalSection, 0x80084e80
 .definelabel ExitCriticalSection, 0x80084e90
@@ -175,8 +166,8 @@ CallGetHeaderNameCenter:
 ; .org 0x80067258
 	; nop
 	
-; .org 0x8001f268
-	; jal LoadText
+.org 0x8001f120
+	jal LoadText
 
 .org 0x8003e144
 	j CallGetSentenceWidthForDialogues
@@ -187,38 +178,38 @@ CallGetHeaderNameCenter:
 .org 0x8003f79c
 	jal SetupDialogueText
 	
-; .org 0x8003f910
-	; jal DisplayDialogueText
+.org 0x8003f7c8
+	jal DisplayDialogueText
 	
-; .org 0x8003dc40
-	; j CallGetSentenceWidthForMenus
+.org 0x8003daf8
+	j CallGetSentenceWidthForMenus
 	
-; .org 0x80040368
-	; lh a3, 0x04(s0)
-	; jal SetBabyLetterWidths
+.org 0x80040220
+	lh a3, 0x04(s0)
+	jal SetBabyLetterWidths
 	
-; .org 0x800526bc
-	; jal SetBabyLetterWidths
+.org 0x80052574
+	jal SetBabyLetterWidths
 	
-; .org 0x80057e1c
-	; jal SetBabyLetterWidths
-	; li a3, 0x0D
+.org 0x80057cd4
+	jal SetBabyLetterWidths
+	li a3, 0x0D
 	
-; .org 0x800388c8
-	; lw v1, 0x1174(v1) ; Increase loading Kai's name to be 8 bytes vs 5
+.org 0x80038780
+	lw v1, 0x1174(v1) ; Increase loading Kai's name to be 8 bytes vs 5
 
-; .org 0x800388d0
-	; sw v1, 0x04(s0)
+.org 0x80038788
+	sw v1, 0x04(s0)
 	
-; .org 0x8004b25c
-	; j CallGetPlaceNameWidth
+.org 0x8004b114
+	j CallGetPlaceNameWidth
 
-; .org 0x8004b3a0
-	; j SetPlaceNameShadowBoxWidth
-	; lw a0, 0(v1)
+.org 0x8004b258
+	j SetPlaceNameShadowBoxWidth
+	lw a0, 0(v1)
 	
-; .org 0x8004b268
-	; sll v0, s3, 0x02
+.org 0x8004b120
+	sll v0, s3, 0x02
 
 
 .org 0x8005296c
@@ -348,26 +339,20 @@ CallGetHeaderNameCenter:
 .org 0x8005b4fc
 	jal CountLetters
 
-; .org 0x8001a1a4
-	; jal InitMovieSubtitle
+.org 0x8001a05c
+	jal InitMovieSubtitle
 	
-; .org 0x80015e18
-	; jal InitMovieSubtitle
+.org 0x80015e04
+	jal InitMovieSubtitle
 	
-; .org 0x800186ec
-	; j StoreFrameNumber
-	; nop
+.org 0x800185a4
+	j StoreFrameNumber
+	nop
 	
-; .org 0x8001854c
-	; j DisplayMovieSubs
+.org 0x80018404
+	j DisplayMovieSubs
 
-; ; .org 0x80040424 	; Update area names check to increase by 1
-	; ; addiu  a0, 0x0001
-
-; ; .org 0x8004b268
-	; ; sll v0, s3, 0x03 ; Dictates length of the place name border
-
-; ; Move stuff that will get overwritten by expanded vram for menus
+; Move stuff that will get overwritten by expanded vram for menus
 .org 0x80045944
 	lui at, 0x8012
 
@@ -623,8 +608,8 @@ CallGetHeaderNameCenter:
 	; nop
 	; j 0x800156cc
 	
-; locationNameWidth:
-	; .dw 0
+locationNameWidth:
+	.dw 0
 	
 ; .org 0x80096136		; Updating mappings to allow lowercase
 	; .db 0x30, 0xD1 ; a
