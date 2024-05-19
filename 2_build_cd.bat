@@ -38,6 +38,9 @@ tools\atlas exe\SLPS_011.08 trans\SLPS_011.08_000818A4.txt >> exe_error.txt
 del cd\Ancient-Roman-Disc-1\SLPS_011.08
 copy exe\SLPS_011.08 cd\Ancient-Roman-Disc-1\SLPS_011.08
 
+del /q cd\Ancient-Roman-Disc-1\ZA1\INTRO.STR
+copy Videos\disc_1\ZA1\INTRO.STR cd\Ancient-Roman-Disc-1\ZA1\INTRO.STR
+
 echo Building final bin file...
 pushd cd
 ..\tools\psximager\psxbuild.exe  Ancient-Roman-Disc-1.cat Ancient-Roman-Disc-1_working.bin >> build.log
