@@ -599,7 +599,7 @@ framenum:
 
 	
 .org 0x800B8500
-	.importobj "code\ancient-roman\obj\loadfile.obj"
+	.importobj "code\ancient-roman\obj\loadfile2.obj"
 
 LoadCodeFile:
 	jal LoadFile

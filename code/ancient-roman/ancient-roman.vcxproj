@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClCompile Include="code\font.cpp" />
     <ClCompile Include="code\generated_movie.cpp" />
+    <ClCompile Include="code\loadfile2.cpp" />
     <ClCompile Include="code\platform.cpp" />
     <ClCompile Include="code\subtitle.cpp" />
     <ClCompile Include="code\text.cpp" />

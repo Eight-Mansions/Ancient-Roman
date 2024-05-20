@@ -22,6 +22,7 @@ LINKOOPTS = /psx /p /c /li $(RELMODE)
 FONT_SRC = font.cpp
 TEXT_SRC = text.cpp
 LOAD_SRC = loadfile.cpp
+LOAD2_SRC = loadfile2.cpp
 SUBTITLE_SRC = subtitle.cpp generated_movie.cpp
 
 ## build object names from types ##
@@ -31,6 +32,7 @@ SUBTITLE_SRC = subtitle.cpp generated_movie.cpp
 #MENU_OBJ	= $(patsubst %.c, $(RELMODE)/%.obm, ${MENU_SRC})
 #BATTLE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obb, ${BATTLE_SRC})
 LOAD_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${LOAD_SRC})
+LOAD2_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${LOAD2_SRC})
 FONT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${FONT_SRC})
 TEXT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${TEXT_SRC})
 SUB_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${SUBTITLE_SRC})
@@ -41,7 +43,7 @@ SUB_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${SUBTITLE_SRC})
 ## .lk file or they will not be linked at all! ##
 #ALL_SRC = $(CORE_OBJ) $(MENU_OBJ) $(BATTLE_OBJ) $(FIELD_OBJ)
 #ALL_ASM = $(CORE_ASM)
-ALL_SRC = $(FONT_OBJ) $(TEXT_OBJ) $(LOAD_OBJ) $(SUB_OBJ)
+ALL_SRC = $(FONT_OBJ) $(TEXT_OBJ) $(LOAD_OBJ) $(LOAD2_OBJ) $(SUB_OBJ)
 
 
 #ALL_OBJ = $(ALL_SRC) $(ALL_ASM)
