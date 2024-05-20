@@ -3,6 +3,7 @@
 #ACTIVETBL(Table)
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2147547136, 32)
+
 #JMP($00001A80)
 
 // Ptr: 00001A80
@@ -1912,7 +1913,7 @@ Training Port
 #WRITE(PTR, $0008C708)
 //旧ハインローグ城
 Old Heinrogue Castle
-<$00>
+<$00><$00><$00>
 
 
 // Ptr: 00004050
@@ -2411,7 +2412,6 @@ Loading...
 .
 <$00>
 
-
 // Ptr: 000048B8
 #WRITE(PTR, $0008E120)
 //メモリーカードをさしこんで○ボタンを
@@ -2419,12 +2419,16 @@ Insert a memory card, then press ○
 <$00>
 
 
+
+#JMP($00004820)
+
+
+
 // Ptr: 000048E0
 #WRITE(PTR, $0008E118)
 //「アンシャントロマン」ＤＩＳＣ　２をいれて
 Please insert "Ancient Roman" disc 2
 <$00>
-
 
 // Ptr: 0000490C
 #WRITE(PTR, $0008E114)
@@ -2648,6 +2652,7 @@ Space
 Katakana
 <$00>
 
+#WARN($00004E94, "WARNME")
 
 
 #WARN($00004E94, "WARNME")
