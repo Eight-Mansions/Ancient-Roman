@@ -12,6 +12,9 @@ tools\timmer insert -i graphics\DATA0000\BASE.FBS -o graphics\DATA0000\BASE.FBS.
 del /q cd\Ancient-Roman-Disc-1\DATA0000\BASE.FBS
 copy graphics\DATA0000\BASE.FBS cd\Ancient-Roman-Disc-1\DATA0000\BASE.FBS
 
+del /q cd\Ancient-Roman-Disc-2\DATA0000\BASE.FBS
+copy graphics\DATA0000\BASE.FBS cd\Ancient-Roman-Disc-2\DATA0000\BASE.FBS
+
 tools\ancient_roman_generate_movie_subtitles.exe videos tools\movie_mapping.txt
 
 pushd code\ancient-roman
@@ -56,6 +59,12 @@ del exe\SLPS_011.09
 copy exe\orig\SLPS_011.09 exe\SLPS_011.09
 copy /y NUL cd\Ancient-Roman-Disc-2\CODE.DAT >NUL
 tools\armips.exe code\ancient-roman-2.asm
+
+tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08.po trans\orig\SLPS_011.09.txt trans\SLPS_011.09.txt
+
+del exe_error-2.txt
+echo trans\SLPS_011.09.txt.txt >> exe_error-2.txt
+tools\atlas exe\SLPS_011.09 trans\SLPS_011.09.txt >> exe_error-2.txt
 
 del cd\Ancient-Roman-Disc-2\SLPS_011.09
 copy exe\SLPS_011.09 cd\Ancient-Roman-Disc-2\SLPS_011.09
