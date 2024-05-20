@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 23:45+0000\n"
+"PO-Revision-Date: 2024-05-20 17:30+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s023/en/>\n"
@@ -46,7 +46,7 @@ msgstr "Nothing here."
 msgctxt "00000005"
 msgid ""
 "カイ：な、なんだ！？"
-msgstr "Kai: Huh?!"
+msgstr "Kai: Huh!?"
 
 #: 001121A6
 msgctxt "00000006"
@@ -388,7 +388,7 @@ msgstr "Child: Yuuta Alter."
 msgctxt "00000062"
 msgid ""
 "サリナ：！？！"
-msgstr "Sarina: ?!?!"
+msgstr "Sarina: !?!?"
 
 #: 0019B4DE
 msgctxt "00000063"
@@ -563,7 +563,7 @@ msgstr "Yuuta: Leon."
 msgctxt "00000091"
 msgid ""
 "カイ＆バーク＆ミシリア：！？！？！？！"
-msgstr "Kai & Burke & Michelia: ?!?!?!"
+msgstr "Kai & Burke & Michelia: !?!?!?"
 
 #: 0019BB5D
 msgctxt "00000092"
@@ -791,7 +791,7 @@ msgstr "Very well. I'll tell you where you can find the ring and bracelet."
 msgctxt "00000129"
 msgid ""
 "サリナ：え！？おじいさんが持ってるんじゃないの？"
-msgstr "Sarina: Wait, what? You don't have them?!"
+msgstr "Sarina: Wait, what? You don't have them!?"
 
 #: 00224AB5
 msgctxt "00000130"
@@ -921,7 +921,7 @@ msgstr "Monster: I'll kill you!"
 msgctxt "00000150"
 msgid ""
 "カイ：な、なんだ！？"
-msgstr "Kai: Huh?!"
+msgstr "Kai: Huh!?"
 
 #: 00336517
 msgctxt "00000151"
