@@ -2189,6 +2189,10 @@ Party
 
 // Ptr: 000046F0
 #WRITE(PTR, $0008D70C)
+#WBB(PTR, $000421BC)
+#WUB(PTR, $000421BD)
+#WLB(PTR, $000421C0)
+#WHB(PTR, $000421C1)
 //そうび
 Equip
 <$00>
@@ -2196,6 +2200,10 @@ Equip
 
 // Ptr: 000046F8
 #WRITE(PTR, $0008D700)
+#WBB(PTR, $0003E6CC)
+#WUB(PTR, $0003E6CD)
+#WLB(PTR, $0003E6D0)
+#WHB(PTR, $0003E6D1)
 //アイテム
 Item
 <$00>
@@ -2210,6 +2218,14 @@ Stats
 
 // Ptr: 00004710
 #WRITE(PTR, $0008D6E8)
+#WBB(PTR, $0003E1D4)
+#WUB(PTR, $0003E1D5)
+#WLB(PTR, $0003E1D8)
+#WHB(PTR, $0003E1D9)
+#WBB(PTR, $0003E424)
+#WUB(PTR, $0003E425)
+#WLB(PTR, $0003E428)
+#WHB(PTR, $0003E429)
 //まほう
 Magic
 <$00>
@@ -2654,5 +2670,295 @@ Katakana
 
 #WARN($00004E94, "WARNME")
 
+#JMP($00004560)
 
-#WARN($00004E94, "WARNME")
+//P: 0000456C
+#WBB(PTR, $00042104)
+#WUB(PTR, $00042105)
+#WLB(PTR, $00042108)
+#WHB(PTR, $00042109)
+//だれがたたかいますか？
+Who will be in the party?
+<$00>
+
+//P: 0000458C
+#WBB(PTR, $00042338)
+#WUB(PTR, $00042339)
+#WLB(PTR, $0004233C)
+#WHB(PTR, $0004233D)
+//だれのそうびをへんこうしますか？
+Change whose equipment?
+<$00>
+
+//P: 000045B0
+#WBB(PTR, $00042394)
+#WUB(PTR, $00042395)
+#WLB(PTR, $00042398)
+#WHB(PTR, $00042399)
+//どのそうびをへんこうしますか？
+Change which equipment?
+<$00>
+
+//P: 000045D0
+#WBB(PTR, $000423B8)
+#WUB(PTR, $000423B9)
+#WLB(PTR, $000423BC)
+#WHB(PTR, $000423BD)
+#WBB(PTR, $000425E8)
+#WUB(PTR, $000425E9)
+#WLB(PTR, $000425EC)
+#WHB(PTR, $000425ED)
+#WBB(PTR, $000428D8)
+#WUB(PTR, $000428D9)
+#WLB(PTR, $000428DC)
+#WHB(PTR, $000428DD)
+//そうびしない
+Unequip
+<$00>
+
+//P: 000045E0
+#WBB(PTR, $00042480)
+#WUB(PTR, $00042481)
+#WLB(PTR, $00042484)
+#WHB(PTR, $00042485)
+//どれをそうびしますか？
+Select equipment.
+<$00>
+
+//P: 000045F8
+#WBB(PTR, $00042BF0)
+#WUB(PTR, $00042BF1)
+#WLB(PTR, $00042BF4)
+#WHB(PTR, $00042BF5)
+//なまえをいれてください
+Name yourself
+<$00>
+
+#WARN($00004610, "WARNME")
+
+#JMP($00004480)
+
+// Ptr: 00004480
+#WBB(PTR, $00040058)
+#WUB(PTR, $00040059)
+#WLB(PTR, $0004005C)
+#WHB(PTR, $0004005D)
+//なにをうりますか？
+What are you selling?
+<$00>
+
+//P: 00004494
+#WBB(PTR, $00040070)
+#WUB(PTR, $00040071)
+#WLB(PTR, $00040074)
+#WHB(PTR, $00040075)
+#WBB(PTR, $0003F55C)
+#WUB(PTR, $0003F55D)
+#WLB(PTR, $0003F560)
+#WHB(PTR, $0003F561)
+//アイテムがありません。
+No items.
+<$00>
+
+//P: 000044AC
+#WBB(PTR, $00040088)
+#WUB(PTR, $00040089)
+#WLB(PTR, $0004008C)
+#WHB(PTR, $0004008D)
+//いくつ、うりますか？
+How many are you selling?
+<$00>
+
+//P: 000044C4
+#WBB(PTR, $0004011C)
+#WUB(PTR, $0004011D)
+#WLB(PTR, $00040120)
+#WHB(PTR, $00040121)
+#WBB(PTR, $0003F758)
+#WUB(PTR, $0003F759)
+#WLB(PTR, $0003F75C)
+#WHB(PTR, $0003F75D)
+//%dガメです。よろしいですか？
+%d gahme. Is that okay?
+<$00>
+
+#WARN($000044E6, "@000044E2")
+
+#JMP($00004390)
+
+//P: 00004390
+#WBB(PTR, $0003F544)
+#WUB(PTR, $0003F545)
+#WLB(PTR, $0003F548)
+#WHB(PTR, $0003F549)
+//なにをかいますか？
+What are you buying?
+<$00>
+
+//P: 000043BC
+#WBB(PTR, $0003F6E4)
+#WUB(PTR, $0003F6E5)
+#WLB(PTR, $0003F6E8)
+#WHB(PTR, $0003F6E9)
+//いくつ、かいますか？
+How many are you buying?
+<$00>
+
+#WARN($000043F0, "WARNME")
+
+#JMP($00004228)
+
+//P: 00004228
+#WBB(PTR, $0003E108)
+#WUB(PTR, $0003E109)
+#WLB(PTR, $0003E10C)
+#WHB(PTR, $0003E10D)
+//だれがまほうをつかいますか？
+Select a character to use.
+<$00>
+
+//P: 00004250
+#WBB(PTR, $0003E330)
+#WUB(PTR, $0003E331)
+#WLB(PTR, $0003E334)
+#WHB(PTR, $0003E335)
+//どのまほうをつかいますか？
+Select a spell to use.
+<$00>
+
+//P: 0000426C
+#WBB(PTR, $0003E348)
+#WUB(PTR, $0003E349)
+#WLB(PTR, $0003E34C)
+#WHB(PTR, $0003E34D)
+//つかえるまほうがありません。
+No usable spells available.
+<$00>
+
+//P: 00004294
+#WBB(PTR, $0003E59C)
+#WUB(PTR, $0003E59D)
+#WLB(PTR, $0003E5A0)
+#WHB(PTR, $0003E5A1)
+//だれにつかいますか？
+Cast on who?
+<$00>
+
+//P: 000042B8
+#WBB(PTR, $0003E8B0)
+#WUB(PTR, $0003E8B1)
+#WLB(PTR, $0003E8B4)
+#WHB(PTR, $0003E8B5)
+//どれをつかいますか？
+Use which one?
+<$00>
+
+//P: 000042D0
+#WBB(PTR, $0003E8C8)
+#WUB(PTR, $0003E8C9)
+#WLB(PTR, $0003E8CC)
+#WHB(PTR, $0003E8CD)
+//つかえるアイテムがありません。
+No usable items available.
+<$00>
+
+
+#WARN($000042F0, "@000042F0")
+//P: 000042F0
+#WBB(PTR, $0003E92C)
+#WUB(PTR, $0003E92D)
+#WLB(PTR, $0003E930)
+#WHB(PTR, $0003E931)
+//だれにつかいますか？
+Use on who?
+<$00>
+
+//P: 00004320
+#WBB(PTR, $0003ED04)
+#WUB(PTR, $0003ED05)
+#WLB(PTR, $0003ED08)
+#WHB(PTR, $0003ED09)
+//なにかごようですか？
+How can I help you?
+<$00>
+
+//P: 00004348
+#WRITE(PTR, $0008D4D0)
+//これいじょう、もてません。
+<$00>
+
+//P: 00004364
+#WRITE(PTR, $0008D4CC)
+//おかねがたりません。
+Sorry, not enough gahme.
+<$00>
+
+#WARN($0000437A, "@0000437A")
+
+#JMP($0000419C)
+
+//P: 0000419C
+#WBB(PTR, $0003D42C)
+#WUB(PTR, $0003D42D)
+#WLB(PTR, $0003D430)
+#WHB(PTR, $0003D431)
+//だれのパラメータをみますか？
+View whose stats?
+<$00>
+
+#WARN($000041BA, "@000041BA")
+
+//P: 00001978
+#JMP($00001978)
+//ミシリア
+Michelia
+<$00><$00>
+#WARN($00001982, "@00001982")
+
+//P: 00001984
+#JMP($00001984)
+//バーク
+Burke
+<$00><$00>
+#WARN($0000198C, "@0000198C")
+
+//P: 0000198C
+#JMP($0000198C)
+//ファラ
+Fala
+<$00><$00>
+#WARN($00001994, "@00001994")
+
+//P: 00001994
+#JMP($00001994)
+//ミーナ
+Minna
+<$00><$00>
+#WARN($0000199C, "@0000199C")
+
+//P: 0000199C
+#JMP($0000199C)
+//マクロード
+McLeod
+<$00><$00>
+#WARN($000019A8, "@000019A8")
+//P: 000019A8
+
+#JMP($000019A8)
+//サリナ
+Sarina
+<$00><$00>
+#WARN($000019B0, "@000019B0")
+//P: 000019B0
+
+#JMP($000019B0)
+//バロア
+Baroa
+<$00><$00>
+#WARN($000019B8, "@000019B8")
+
+//P: 00001970
+#JMP($00001970)
+//カイ
+Ｋａｉ
+<$00><$00>
