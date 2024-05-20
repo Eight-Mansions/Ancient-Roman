@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-02-12 01:07+0000\n"
+"PO-Revision-Date: 2024-05-20 17:30+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s002/en/>\n"
@@ -500,7 +500,7 @@ msgstr "Things are getting pretty lively over there..."
 msgctxt "00000079"
 msgid ""
 "男：えっ、ルーンマルナの町がおそわれたって？！"
-msgstr "Man: What? Rune Malna was attacked?!"
+msgstr "Man: What? Rune Malna was attacked!?"
 
 #: 000893A7
 msgctxt "00000080"
@@ -512,7 +512,7 @@ msgstr "What the heck happened?"
 msgctxt "00000081"
 msgid ""
 "バーク：なんだ、今ごろそんな事を言ってるのか。"
-msgstr "Burke: The heck you think happened?!"
+msgstr "Burke: The heck you think happened!?"
 
 #: 0008941D
 msgctxt "00000082"
@@ -718,7 +718,7 @@ msgstr "Michelia: At the Rune Gate, sir."
 msgctxt "00000114"
 msgid ""
 "隊長：ルーンの関！？"
-msgstr "Captain: The Rune Gate?!"
+msgstr "Captain: The Rune Gate!?"
 
 #: 001125E8
 msgctxt "00000115"
@@ -1191,7 +1191,7 @@ msgstr "Kai: I-is this yours, by chance?"
 msgctxt "00000191"
 msgid ""
 "女：これ！！ど、どこにあったの！！"
-msgstr "Woman: WHAT?! W-where'd you find it?"
+msgstr "Woman: WHAT!? W-where'd you find it?"
 
 #: 00268C87
 msgctxt "00000192"
@@ -1758,7 +1758,7 @@ msgstr "Michelia: AHHHHHHHHHH!!!"
 msgctxt "00000285"
 msgid ""
 "カイ？！"
-msgstr "KAI?!"
+msgstr "KAI!?"
 
 #: 00336C0F
 msgctxt "00000286"
@@ -1800,7 +1800,7 @@ msgstr "Michelia: Huh...?"
 msgctxt "00000292"
 msgid ""
 "・・・・・・カイ？！"
-msgstr "...Kai?!"
+msgstr "...Kai!?"
 
 #: 00336D13
 msgctxt "00000293"
