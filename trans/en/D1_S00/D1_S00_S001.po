@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-06 19:30+0000\n"
+"PO-Revision-Date: 2024-05-20 17:30+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s001/en/>\n"
@@ -631,7 +631,7 @@ msgstr "Burke: Kai, I still say we crash here for the night."
 msgctxt "00000102"
 msgid ""
 "こっから一番近い町は北にあるレイクマウントだが、"
-msgstr "The closest town from here is Lake Mount, to the north."
+msgstr "The closest town from here is Lake Mount to the north."
 
 #: 0022470D
 msgctxt "00000103"
@@ -852,7 +852,7 @@ msgstr ""
 msgctxt "00000138"
 msgid ""
 "バーク：うーん、そんなこといわれてもなぁ。誰もいねぇぜ。"
-msgstr "Burke: I mean... say what you want, but this town's empty."
+msgstr "Burke: I mean... Say what you want, but this town's empty."
 
 #: 002AD459
 msgctxt "00000139"
@@ -914,7 +914,7 @@ msgstr "Flashy Woman: Oh, dear. I can't believe this!"
 msgctxt "00000148"
 msgid ""
 "あんなじじい１人、確実にやれないなんて。"
-msgstr "You couldn't even finish an old man off by yourself?!"
+msgstr "You couldn't even finish an old man off by yourself!?"
 
 #: 002AD779
 msgctxt "00000149"
@@ -1168,7 +1168,7 @@ msgstr "Burke: Oh boy..."
 msgctxt "00000190"
 msgid ""
 "・・・って、俺が見はりかぁ？"
-msgstr "...wait, does that mean I'm on watch?!"
+msgstr "...wait, does that mean I'm on watch!?"
 
 #: 002F1D7B
 msgctxt "00000191"
@@ -1198,7 +1198,7 @@ msgstr "Burke: Ugh, I shoulda gone with rock..."
 msgctxt "00000195"
 msgid ""
 "バーク：ふぁーぁ。眠たくなってきちまった。"
-msgstr "Burke: Yaaawn... I'm getting sleepy!"
+msgstr "Burke: *yaaawn...* I'm getting sleepy!"
 
 #: 003362F6
 msgctxt "00000196"
@@ -1276,7 +1276,7 @@ msgstr "Burke: Blasted monster!"
 msgctxt "00000208"
 msgid ""
 "怪物：ヒッ！！"
-msgstr "Monster: Waugh!"
+msgstr "Monster: WAUGH!"
 
 #: 0037ACED
 msgctxt "00000209"
@@ -1294,7 +1294,7 @@ msgstr "Hey, what are you?"
 msgctxt "00000211"
 msgid ""
 "あ・・・ことば分かるかな・・・？"
-msgstr "Can... you understand its words...?"
+msgstr "Can... you understand our words...?"
 
 #: 0037AD98
 msgctxt "00000212"
@@ -1330,7 +1330,7 @@ msgstr "I WAS ONCE A HUMAN OF THIS TOWN..."
 msgctxt "00000217"
 msgid ""
 "バーク：人間！？"
-msgstr "Burke: You WHAT?!"
+msgstr "Burke: You WHAT!?"
 
 #: 0037AEFA
 msgctxt "00000218"
@@ -1530,7 +1530,7 @@ msgstr "Kai: All right. Got it!"
 msgctxt "00000250"
 msgid ""
 "じゃあ、ブー＝レイも僕達といっしょに来ないか？"
-msgstr "Actually, do you want to come with us, Boo Rei?"
+msgstr "Actually, how about you come with us, Boo Rei?"
 
 #: 0037B719
 msgctxt "00000251"
@@ -1650,7 +1650,7 @@ msgstr "The party went to sleep."
 msgctxt "00000270"
 msgid ""
 "カイ：んー、よく眠った。"
-msgstr "Kai: Yawn... That was a good sleep!"
+msgstr "Kai: *yawn...* That was a good sleep!"
 
 #: 0037BC08
 msgctxt "00000271"
