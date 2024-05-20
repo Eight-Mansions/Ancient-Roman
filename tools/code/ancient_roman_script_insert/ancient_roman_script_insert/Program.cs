@@ -246,6 +246,7 @@ namespace ancient_roman_script_insert
             public string english;
             public byte[] encoded;
             public bool found;
+            public int maxLen;
         }
 
         static void Main(string[] args)
@@ -255,6 +256,7 @@ namespace ancient_roman_script_insert
             string tablefile = args[2];
             string widthsfile = args[3];
             int maxLen = Int32.Parse(args[4]);
+            int maxTinyLen = Int32.Parse(args[5]);
 
             Dictionary<string, int> widths = new Dictionary<string, int>();
             string[] widthLines = File.ReadAllLines(widthsfile);
@@ -364,6 +366,7 @@ namespace ancient_roman_script_insert
                     uint evtextStart = inBin.ReadUInt32() + evfhStart;
 
 
+                    int defaultTextBoxWidth = maxLen;
 
                     while (true)
                     {
@@ -377,6 +380,27 @@ namespace ancient_roman_script_insert
                         if ((aByte1 == 0x00 && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00) || (aByte1 == 0xFF && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00))
                         {
                             uint origPos = (uint)inBin.BaseStream.Position;
+
+                            inBin.BaseStream.Seek(-14, SeekOrigin.Current);
+                            byte isWindowCommand = inBin.ReadByte();
+
+                            if (isWindowCommand == 0x12)
+                            {
+                                inBin.BaseStream.Seek(6, SeekOrigin.Current);
+                                ushort textBoxWidth = inBin.ReadUInt16();
+                                if (textBoxWidth == 0x10)
+                                {
+                                    defaultTextBoxWidth = maxTinyLen;
+                                }
+                                else
+                                {
+                                    defaultTextBoxWidth = maxLen;
+                                }
+
+                            }
+
+                            inBin.BaseStream.Seek(origPos, SeekOrigin.Begin);
+
 
                             List<byte> letters = new List<byte>();
                             while (inBin.BaseStream.Position < inBin.BaseStream.Length)
@@ -397,10 +421,11 @@ namespace ancient_roman_script_insert
                                 if (!String.IsNullOrEmpty(poEntry.english) && (poEntry.japanese == myLine || poEntry.japanese.Replace("＿", "　") == myLine) && !poEntry.found)
                                 {
                                     poEntry.origPos = origPos;
-                                    string english = Format(poEntry.english, maxLen, widths);
+                                    string english = Format(poEntry.english, defaultTextBoxWidth, widths);
 
                                     poEntry.encoded = Encode(english, encodingTable);
                                     poEntry.found = true;
+                                    poEntry.maxLen = defaultTextBoxWidth;
                                     poEntries[i] = poEntry;
                                     break;
                                 }

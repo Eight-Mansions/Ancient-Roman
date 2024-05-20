@@ -357,37 +357,37 @@ framenum:
 	lui at, 0x8012
 
 .org 0x8004594c
-	sw v1, 0x065c(at)
+	sw v1, 0x165c(at)
 
 .org 0x800459b4
 	lui at, 0x8012
 	
 .org 0x800459bc
-	lw a0, 0x065c(at)
+	lw a0, 0x165c(at)
 	
 .org 0x80045a1c
 	lui at ,0x8012
-	sw v0, 0x061c(at)
+	sw v0, 0x161c(at)
 	lui at ,0x8012
-	sw v1, 0x0618(at)
+	sw v1, 0x1618(at)
 
 .org 0x8004600c
 	lui v1, 0x8012
-    lw v1, 0x061c(v1)
+    lw v1, 0x161c(v1)
 
 .org 0x80045fb4
 	lui v0, 0x8012
-    lw v0, 0x0618(v0)
+    lw v0, 0x1618(v0)
 
 .org 0x80045a78
 	lui at, 0x8012
-	sh v1, 0x0614(at)
+	sh v1, 0x1614(at)
 	lui at, 0x8012
-	sh a1, 0x0610(at)
+	sh a1, 0x1610(at)
 
 .org 0x80046104
 	lui a0, 0x8012
-    addiu a0, a0, 0x060c
+    addiu a0, a0, 0x160c
     addiu a1, a0, 0x1640
 	
 .org 0x8003f8b0
