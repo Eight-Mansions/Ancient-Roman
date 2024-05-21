@@ -31,7 +31,6 @@ tools\armips.exe code\ancient-roman-1.asm
 
 tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08.po trans\orig\SLPS_011.08.txt trans\SLPS_011.08.txt
 tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08_000818A4.po trans\orig\SLPS_011.08_000818A4.txt trans\SLPS_011.08_000818A4.txt
-tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08.po trans\orig\SLPS_011.09.txt trans\SLPS_011.09.txt
 
 del exe_error.txt
 echo trans\SLPS_011.08.txt.txt >> exe_error.txt
@@ -61,10 +60,12 @@ copy /y NUL cd\Ancient-Roman-Disc-2\CODE.DAT >NUL
 tools\armips.exe code\ancient-roman-2.asm
 
 tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08.po trans\orig\SLPS_011.09.txt trans\SLPS_011.09.txt
+tools\ancient_roman_exe_text_merge.exe trans\en\SLPS_011.08_000818A4.po trans\orig\SLPS_011.09_0008175C.txt trans\SLPS_011.09_0008175C.txt
 
 del exe_error-2.txt
 echo trans\SLPS_011.09.txt.txt >> exe_error-2.txt
 tools\atlas exe\SLPS_011.09 trans\SLPS_011.09.txt >> exe_error-2.txt
+tools\atlas exe\SLPS_011.09 trans\SLPS_011.09_0008175C.txt >> exe_error.txt
 
 del cd\Ancient-Roman-Disc-2\SLPS_011.09
 copy exe\SLPS_011.09 cd\Ancient-Roman-Disc-2\SLPS_011.09
