@@ -1,7 +1,7 @@
 @echo off
 set filename=Ancient-Roman-Disc-1-English
 set file_type=BIN
-set patch_file=patch.xdelta
+set patch_file=patch-d1.xdelta
 set patch_file_other=patch-other.xdelta
 
 pushd %~dp0
