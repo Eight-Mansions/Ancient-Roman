@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-20 17:30+0000\n"
+"PO-Revision-Date: 2024-05-22 04:06+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s003/en/>\n"
@@ -40,7 +40,7 @@ msgstr "Michelia: ...let's just forget about it."
 msgctxt "00000004"
 msgid ""
 "ミシリア：うーん、すごく気持ちよさそう。"
-msgstr "Michelia: Mhmm, looks really refreshing."
+msgstr "Michelia: Oooh, looks really refreshing!"
 
 #: 00000262
 msgctxt "00000005"
@@ -388,7 +388,7 @@ msgstr "Burke: Okay, let's hurry over to the clinic."
 msgctxt "00000062"
 msgid ""
 "薬屋：ウィー、ヒック。"
-msgstr "Pharmacist: Hiccup!"
+msgstr "Pharmacist: Ugh, *hiccup!*"
 
 #: 0011217D
 msgctxt "00000063"
@@ -406,7 +406,8 @@ msgstr "Michelia: Umm, we came here to buy medicine."
 msgctxt "00000065"
 msgid ""
 "薬屋：くすりぃー？どうすんだよ、そんなもん。ウィー"
-msgstr "Pharmacist: Mediciiiiine? Whatcha want something like THAT for-- Hicc!"
+msgstr ""
+"Pharmacist: Mediciiiiine? Whatcha want something like THAT for-- *hicc!*"
 
 #: 00112247
 msgctxt "00000066"
@@ -418,7 +419,7 @@ msgstr "Michelia: No, I mean..."
 msgctxt "00000067"
 msgid ""
 "バーク：おい、酔っぱらってんじゃねぇよ。さっさと出せって。"
-msgstr "Burke: Hey! You're drunk, aren't you! Just give us what we need."
+msgstr "Burke: Hey! You're drunk, aren't you!? Just give us what we need."
 
 #: 001122D0
 msgctxt "00000068"
@@ -430,7 +431,7 @@ msgstr "Pharmacist: WHAT!? Whwat part of me loooks drnk to you!?"
 msgctxt "00000069"
 msgid ""
 "ふんがー！ヒック。"
-msgstr "How rude! Hicc!"
+msgstr "How rude! *hicc!*"
 
 #: 0011233D
 msgctxt "00000070"
@@ -508,7 +509,7 @@ msgstr "Kai: Ah, y-yeah, let's go."
 msgctxt "00000082"
 msgid ""
 "薬屋：ウィー"
-msgstr "Pharmacist: Hicc!"
+msgstr "Pharmacist: *hicc!*"
 
 #: 0015699E
 msgctxt "00000083"
@@ -568,7 +569,7 @@ msgstr "Kai: Ah, sure..."
 msgctxt "00000092"
 msgid ""
 "医者：カギはあけておいた。"
-msgstr "Doctor: I'll leave the room unlocked."
+msgstr "Doctor: I left the room unlocked."
 
 #: 00156C12
 msgctxt "00000093"
@@ -634,7 +635,7 @@ msgstr "Doctor: Hmm? How can I help you?"
 msgctxt "00000103"
 msgid ""
 "カイ：すみません。"
-msgstr "Kai: I appreciate it."
+msgstr "Kai: Sorry to bother you."
 
 #: 00156F12
 msgctxt "00000104"
@@ -689,7 +690,7 @@ msgstr "Ah no, excuse me."
 msgctxt "00000112"
 msgid ""
 "傷はそんなにひどくないのだが、どうにも意識がもどらんのだ。"
-msgstr "It's not that bad, but he's still unconcious."
+msgstr "It's not that bad, but he's still unconscious."
 
 #: 00157158
 msgctxt "00000113"
@@ -1299,7 +1300,7 @@ msgstr "Burke: What's with the attitude?"
 msgctxt "00000213"
 msgid ""
 "それじゃ、今まで何を研究してきたって言うんだよ！"
-msgstr "Then what the blazes has all your research ever stood for!?"
+msgstr "Then what the blazes has all your research been for!?"
 
 #: 0019C321
 msgctxt "00000214"
@@ -1317,7 +1318,7 @@ msgstr "Can someone throw him out of here?"
 msgctxt "00000216"
 msgid ""
 "バーク：このクソじじいっ！"
-msgstr "Burke: You freaky old man!"
+msgstr "Burke: You shitty old man!"
 
 #: 0019C3B8
 msgctxt "00000217"
@@ -1347,13 +1348,13 @@ msgstr "I can't say for certain... But it feels like some external power..."
 msgctxt "00000221"
 msgid ""
 "わしらの知らない、何か外からの影響力が働いている。"
-msgstr "Some influence from some outside force."
+msgstr "Some influence from an outside force."
 
 #: 0019C4B2
 msgctxt "00000222"
 msgid ""
 "せめて、その正体だけでもハッキリすれば、あるいは・・・"
-msgstr "If only we could grasp it's true form..."
+msgstr "If only we could grasp its true form..."
 
 #: 0019C557
 msgctxt "00000223"
@@ -1371,19 +1372,19 @@ msgstr "Marl: Oh? That's a bold declaration."
 msgctxt "00000225"
 msgid ""
 "カイ：僕達は、その病気に苦しんでいる人を目の前にして"
-msgstr "Kai: We were powerless after seeing"
+msgstr "Kai: We saw someone suffering right before us..."
 
 #: 0019C5F7
 msgctxt "00000226"
 msgid ""
 "無力だった。"
-msgstr "someone suffering from this disease."
+msgstr "...but we couldn't even help them."
 
 #: 0019C607
 msgctxt "00000227"
 msgid ""
 "もし、僕達の力でその手助けができるんだったら・・・"
-msgstr "If there's anything we can do to help them..."
+msgstr "If there's anything we can do, please tell us..."
 
 #: 0019C64B
 msgctxt "00000228"
@@ -1425,7 +1426,7 @@ msgstr "You learned Ice Rock!"
 msgctxt "00000234"
 msgid ""
 "マール：これらの呪文は、魔物にダメージを与えるものだ。"
-msgstr "Marl: These spells will let you damage enemies of various elements."
+msgstr "Marl: These spells will let you damage enemies with various elements."
 
 #: 0019C7BC
 msgctxt "00000235"
@@ -1503,13 +1504,13 @@ msgstr "Someone there known as the Sage is an old friend of mine."
 msgctxt "00000247"
 msgid ""
 "わしの名前を出せば無下にはされんだろう。"
-msgstr "Tell him I sent you and he should give you the time of day."
+msgstr "Tell him I sent you, and he should give you the time of day."
 
 #: 0019CAB0
 msgctxt "00000248"
 msgid ""
 "それから"
-msgstr "Also:"
+msgstr "One more thing."
 
 #: 0019CABC
 msgctxt "00000249"
@@ -1521,7 +1522,7 @@ msgstr "Let me give you a warning, as someone wise in their years:"
 msgctxt "00000250"
 msgid ""
 "あの娘を連れ回すようなマネはやめておけ。"
-msgstr "Don't drag that Michelia girl with you on your journey."
+msgstr "don't drag that Michelia girl with you on your journey."
 
 #: 0019CB34
 msgctxt "00000251"
