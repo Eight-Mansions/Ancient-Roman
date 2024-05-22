@@ -1,9 +1,9 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-20 17:30+0000\n"
+"PO-Revision-Date: 2024-05-23 02:04+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s004/en/>\n"
@@ -970,7 +970,7 @@ msgstr "Burke: It's late. Let's just rest and think it over in bed, okay?"
 msgctxt "00000156"
 msgid ""
 "男：俺のつれが森に行ったきり帰ってこないんだ。"
-msgstr "Man: My partner went into the forest, but hasn't returned yet."
+msgstr "Man: My partner went into the forest but hasn't returned yet."
 
 #: 002690D8
 msgctxt "00000157"
@@ -1253,13 +1253,13 @@ msgstr "Old Man: Have you seen my son...?"
 msgctxt "00000203"
 msgid ""
 "森の方へ行ってなければいいのじゃが・・・"
-msgstr "I told him not to go to the woods..."
+msgstr "I told him not to go towards the woods..."
 
 #: 002F190D
 msgctxt "00000204"
 msgid ""
 "店員：いらっしゃいませ。"
-msgstr "Innkeep: Welcome."
+msgstr "Clerk: Welcome."
 
 #: 002F1929
 msgctxt "00000205"
@@ -1772,11 +1772,10 @@ msgstr ""
 msgctxt "00000289"
 msgid ""
 "マジックショップ"
-msgstr ""
+msgstr "Magic Shop"
 
 #: 00336143
 msgctxt "00000290"
 msgid ""
 "シェイダー"
-msgstr ""
-
+msgstr "Shady Business"
