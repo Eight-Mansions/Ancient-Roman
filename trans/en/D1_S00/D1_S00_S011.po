@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-20 17:30+0000\n"
+"PO-Revision-Date: 2024-05-22 04:06+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s011/en/>\n"
@@ -471,7 +471,7 @@ msgstr "Burke: That's true..."
 msgctxt "00000075"
 msgid ""
 "ぐううう"
-msgstr "Urk..."
+msgstr "*gruuu*..."
 
 #: 00268ADB
 msgctxt "00000076"
@@ -501,7 +501,9 @@ msgstr "Kai: Looks like a mushroom, but... where'd you find it?"
 msgctxt "00000080"
 msgid ""
 "バーク：へへ、鉱山の村にいた時にちょっとな・・・"
-msgstr "Burke: Hehe, I found them when we were in that digging camp earlier!"
+msgstr ""
+"Burke: Hehe, just a little something I snagged while we were in that digging "
+"camp~"
 
 #: 00268C3F
 msgctxt "00000081"
@@ -551,7 +553,7 @@ msgstr "Kai: I-I'm stuffed..."
 msgctxt "00000088"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
-msgstr "Michelia: Nom, nom, nom, nom, nom..."
+msgstr "Michelia: *...nom, nom, nom, nom, nom...*"
 
 #: 00268E6C
 msgctxt "00000089"
@@ -565,13 +567,13 @@ msgstr ""
 msgctxt "00000090"
 msgid ""
 "・・・なんか、リスみたいだがな。"
-msgstr "...she looks like a squirrel, eating that way."
+msgstr "...does she kinda look like a squirrel to you, the way she's eating?"
 
 #: 00268EE6
 msgctxt "00000091"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
-msgstr "Michelia: Nom, nom, nom, nom, nom..."
+msgstr "Michelia: *...nom, nom, nom, nom, nom...*"
 
 #: 00268F1E
 msgctxt "00000092"
@@ -601,7 +603,7 @@ msgstr "Kai: ...Burke, you seem a little off too."
 msgctxt "00000096"
 msgid ""
 "ミシリア：・・・むぐむぐむぐむぐ・・・"
-msgstr "Michelia: Nom, nom, nom, nom, nom..."
+msgstr "Michelia: *...nom, nom, nom, nom, nom...*"
 
 #: 0026902B
 msgctxt "00000097"
@@ -613,13 +615,13 @@ msgstr "..."
 msgctxt "00000098"
 msgid ""
 "クスクス"
-msgstr "Giggle, giggle!"
+msgstr "*giggle, giggle!*"
 
 #: 00269047
 msgctxt "00000099"
 msgid ""
 "クスクスクス・・・・・・"
-msgstr "*giggle, giggle, giggle*...!"
+msgstr "*giggle, giggle, giggle...!*"
 
 #: 00269090
 msgctxt "00000100"
