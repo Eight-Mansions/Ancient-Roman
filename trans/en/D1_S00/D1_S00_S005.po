@@ -1,9 +1,9 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2023-08-17 23:45+0000\n"
+"PO-Revision-Date: 2024-05-23 02:04+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s005/en/>\n"
@@ -1856,25 +1856,25 @@ msgstr "Female Knight: Please be careful, my prince."
 msgctxt "00000305"
 msgid ""
 "ソルディーナ"
-msgstr ""
+msgstr "Sharp Deals"
 
 #: 000CD948
 msgctxt "00000306"
 msgid ""
 "ホーリーナイト"
-msgstr ""
+msgstr "Holy Knight"
 
 #: 00112148
 msgctxt "00000307"
 msgid ""
 "シヌマヤ"
-msgstr ""
+msgstr "The Classy Hour"
 
 #: 00156948
 msgctxt "00000308"
 msgid ""
 "ヤクシンドウ"
-msgstr ""
+msgstr "Wonder Drugs"
 
 #: 002242C4
 msgctxt "00000309"
@@ -1923,4 +1923,3 @@ msgctxt "00000316"
 msgid ""
 "ベストガード"
 msgstr ""
-
