@@ -420,182 +420,182 @@ framenum:
 .org 0x8009CF38
 	.db 0x10	; Close
 
-; .org 0x8009d534
-	; .db 0x01	; Weapon
-; .org 0x8009d540
-	; .db 0x01	; Head
-; .org 0x8009d54c
-	; .db 0x01	; Armor
-; .org 0x8009d558
-	; .db 0x01	; Shield
-; .org 0x8009d564
-	; .db 0x01	; Accessory
-; .org 0x8009d570
-	; .db 0x01	; Accessory
-; .org 0x8009d57c
-	; .db 0x01	; Accessory
+.org 0x8009D3EC
+	.db 0x01	; Weapon
+.org 0x8009D3F8
+	.db 0x01	; Head
+.org 0x8009D404
+	.db 0x01	; Armor
+.org 0x8009D410
+	.db 0x01	; Shield
+.org 0x8009D41C
+	.db 0x01	; Accessory
+.org 0x8009D428
+	.db 0x01	; Accessory
+.org 0x8009D434
+	.db 0x01	; Accessory
 
-; .org 0x8009d588
-	; .db 0x10 ; Equipped Sword
-; .org 0x8009d594
-	; .db 0x10 ; Equipped Head
-; .org 0x8009d5a0
-	; .db 0x10 ; Equipped Armor
-; .org 0x8009d5ac
-	; .db 0x10 ; Equipped Shield
-; .org 0x8009d5b8
-	; .db 0x10 ; Equipped Accessory 1
-; .org 0x8009d5c4
-	; .db 0x10 ; Equipped Accessory 2
-; .org 0x8009d5d0
-	; .db 0x10 ; Equipped Accessory 3
+.org 0x8009D440
+	.db 0x10 ; Equipped Sword
+.org 0x8009D44C
+	.db 0x10 ; Equipped Head
+.org 0x8009D458
+	.db 0x10 ; Equipped Armor
+.org 0x8009D464
+	.db 0x10 ; Equipped Shield
+.org 0x8009D470
+	.db 0x10 ; Equipped Accessory 1
+.org 0x8009D47C
+	.db 0x10 ; Equipped Accessory 2
+.org 0x8009D488
+	.db 0x10 ; Equipped Accessory 3
 
-; .org 0x8009d1cc
-	; .db 0x10 ; Item 1
-; .org 0x8009d1d8
-	; .db 0x10 ; Item 2
-; .org 0x8009d1e4
-	; .db 0x10 ; Item 3
-; .org 0x8009d1f0
-	; .db 0x10 ; Item 4
-; .org 0x8009d1fc
-	; .db 0x10 ; Item 5
-; .org 0x8009d208
-	; .db 0x10 ; Item 6
-; .org 0x8009d214
-	; .db 0x10 ; Item 7
-; .org 0x8009d220
-	; .db 0x10 ; Item 8
-; .org 0x8009d22C
-	; .db 0x10 ; Item 9
-; .org 0x8009d238
-	; .db 0x10 ; Item 10
-; .org 0x8009d244
-	; .db 0x10 ; Item 11
-; .org 0x8009d250
-	; .db 0x10 ; Item 12
-; .org 0x8009d25C
-	; .db 0x10 ; Item 13
-; .org 0x8009d268
-	; .db 0x10 ; Item 14
+.org 0x8009D084
+	.db 0x10 ; Item 1
+.org 0x8009D090
+	.db 0x10 ; Item 2
+.org 0x8009D09C
+	.db 0x10 ; Item 3
+.org 0x8009D0A8
+	.db 0x10 ; Item 4
+.org 0x8009D0B4
+	.db 0x10 ; Item 5
+.org 0x8009D0C0
+	.db 0x10 ; Item 6
+.org 0x8009D0CC
+	.db 0x10 ; Item 7
+.org 0x8009D0D8
+	.db 0x10 ; Item 8
+.org 0x8009D0E4
+	.db 0x10 ; Item 9
+.org 0x8009D0F0
+	.db 0x10 ; Item 10
+.org 0x8009D0FC
+	.db 0x10 ; Item 11
+.org 0x8009D108
+	.db 0x10 ; Item 12
+.org 0x8009D114
+	.db 0x10 ; Item 13
+.org 0x8009D120
+	.db 0x10 ; Item 14
 	
-; .org 0x8009d74c
-	; .db 0x10 ; Item Shop 1
-; .org 0x8009D770
-	; .db 0x10 ; Item Shop 1
-; .org 0x8009D794
-	; .db 0x10 ; Item Shop 3
-; .org 0x8009D7B8
-	; .db 0x10 ; Item Shop 4
-; .org 0x8009D7DC
-	; .db 0x10 ; Item Shop 5
-; .org 0x8009D800
-	; .db 0x10 ; Item Shop 6
-; .org 0x8009D824
-	; .db 0x10 ; Item Shop 7
+.org 0x8009D604
+	.db 0x10 ; Item Shop 1
+.org 0x8009D610
+	.db 0x10 ; Item Shop 1
+.org 0x8009D61C
+	.db 0x10 ; Item Shop 3
+.org 0x8009D628
+	.db 0x10 ; Item Shop 4
+.org 0x8009D634
+	.db 0x10 ; Item Shop 5
+.org 0x8009D640
+	.db 0x10 ; Item Shop 6
+.org 0x8009D64C
+	.db 0x10 ; Item Shop 7
 	
-; .org 0x8009d0ac
-	; .db 0x10 ; Menu Spell 1
-; .org 0x8009D0B8
-	; .db 0x10 ; Menu Spell 2
-; .org 0x8009D0C4
-	; .db 0x10 ; Menu Spell 3
-; .org 0x8009D0D0
-	; .db 0x10 ; Menu Spell 4
-; .org 0x8009D0DC
-	; .db 0x10 ; Menu Spell 5
-; .org 0x8009D0E8
-	; .db 0x10 ; Menu Spell 6
-; .org 0x8009D0F4
-	; .db 0x10 ; Menu Spell 7
-; .org 0x8009D100
-	; .db 0x10 ; Menu Spell 8
-; .org 0x8009D10C
-	; .db 0x10 ; Menu Spell 9
-; .org 0x8009D118
-	; .db 0x10 ; Menu Spell 10
-; .org 0x8009D124
-	; .db 0x10 ; Menu Spell 11
-; .org 0x8009D130
-	; .db 0x10 ; Menu Spell 12
-; .org 0x8009D13C
-	; .db 0x10 ; Menu Spell 13
-; .org 0x8009D148
-	; .db 0x10 ; Menu Spell 14
-; .org 0x8009D154
-	; .db 0x10 ; Menu Spell 15
-; .org 0x8009D160
-	; .db 0x10 ; Menu Spell 16
-; .org 0x8009D16C
-	; .db 0x10 ; Menu Spell 17
-; .org 0x8009D178
-	; .db 0x10 ; Menu Spell 18
-; .org 0x8009D184
-	; .db 0x10 ; Menu Spell 19
-; .org 0x8009D190
-	; .db 0x10 ; Menu Spell 20
-; .org 0x8009D19C
-	; .db 0x10 ; Menu Spell 21
+.org 0x8009CF64
+	.db 0x10 ; Menu Spell 1
+.org 0x8009CF70
+	.db 0x10 ; Menu Spell 2
+.org 0x8009CF7C
+	.db 0x10 ; Menu Spell 3
+.org 0x8009CF88
+	.db 0x10 ; Menu Spell 4
+.org 0x8009CF94
+	.db 0x10 ; Menu Spell 5
+.org 0x8009CFA0
+	.db 0x10 ; Menu Spell 6
+.org 0x8009CFAC
+	.db 0x10 ; Menu Spell 7
+.org 0x8009CFB8
+	.db 0x10 ; Menu Spell 8
+.org 0x8009CFC4
+	.db 0x10 ; Menu Spell 9
+.org 0x8009CFD0
+	.db 0x10 ; Menu Spell 10
+.org 0x8009CFDC
+	.db 0x10 ; Menu Spell 11
+.org 0x8009CFE8
+	.db 0x10 ; Menu Spell 12
+.org 0x8009CFF4
+	.db 0x10 ; Menu Spell 13
+.org 0x8009D000
+	.db 0x10 ; Menu Spell 14
+.org 0x8009D00C
+	.db 0x10 ; Menu Spell 15
+.org 0x8009D018
+	.db 0x10 ; Menu Spell 16
+.org 0x8009D024
+	.db 0x10 ; Menu Spell 17
+.org 0x8009D030
+	.db 0x10 ; Menu Spell 18
+.org 0x8009D03C
+	.db 0x10 ; Menu Spell 19
+.org 0x8009D048
+	.db 0x10 ; Menu Spell 20
+.org 0x8009D054
+	.db 0x10 ; Menu Spell 21
 
-; .org 0x8009D8E4
-	; .db 0x10 ; Battle Spell 1
-; .org 0x8009D8F0
-	; .db 0x10 ; Battle Spell 2
-; .org 0x8009D8FC
-	; .db 0x10 ; Battle Spell 3
-; .org 0x8009D908
-	; .db 0x10 ; Battle Spell 4
-; .org 0x8009D914
-	; .db 0x10 ; Battle Spell 5
-; .org 0x8009D920
-	; .db 0x10 ; Battle Spell 6
-; .org 0x8009D92C
-	; .db 0x10 ; Battle Spell 7
-; .org 0x8009D938
-	; .db 0x10 ; Battle Spell 8
-; .org 0x8009D944
-	; .db 0x10 ; Battle Spell 9
+.org 0x8009D79C
+	.db 0x10 ; Battle Spell 1
+.org 0x8009D7A8
+	.db 0x10 ; Battle Spell 2
+.org 0x8009D7B4
+	.db 0x10 ; Battle Spell 3
+.org 0x8009D7C0
+	.db 0x10 ; Battle Spell 4
+.org 0x8009D7CC
+	.db 0x10 ; Battle Spell 5
+.org 0x8009D7D8
+	.db 0x10 ; Battle Spell 6
+.org 0x8009D7E4
+	.db 0x10 ; Battle Spell 7
+.org 0x8009D7F0
+	.db 0x10 ; Battle Spell 8
+.org 0x8009D7FC
+	.db 0x10 ; Battle Spell 9
 	
-; .org 0x8009dad0
-	; .db 0x20 ; Load from mem 1
-; .org 0x8009dadc
-	; .db 0x20 ; Load from mem 2
+.org 0x8009D988
+	.db 0x20 ; Load from mem 1
+.org 0x8009D994
+	.db 0x20 ; Load from mem 2
 	
-; .org 0x8009d884
-	; .db 0x06	; Attack
-; .org 0x8009d890
-	; .db 0x06	; Magic
-; .org 0x8009d89C
-	; .db 0x06	; Defend
-; .org 0x8009d8A8
-	; .db 0x06	; Item
-; .org 0x8009d8b4
-	; .db 0x06	; Run
+.org 0x8009D73C
+	.db 0x06	; Attack
+.org 0x8009D748
+	.db 0x06	; Magic
+.org 0x8009D754
+	.db 0x06	; Defend
+.org 0x8009D760
+	.db 0x06	; Item
+.org 0x8009D76C
+	.db 0x06	; Run
 
-; .org 0x8009D4BC
-	; .db 0x10
-; .org 0x8009D4C8
-	; .db 0x10
-; .org 0x8009D4D4
-	; .db 0x10
-; .org 0x8009D4E0
-	; .db 0x10
-; .org 0x8009D4EC
-	; .db 0x10
-; .org 0x8009D4F8
-	; .db 0x10	
-; .org 0x8009d504
-	; .db 0x20	; Select a character to
+.org 0x8009D374
+	.db 0x10
+.org 0x8009D380
+	.db 0x10
+.org 0x8009D38C
+	.db 0x10
+.org 0x8009D398
+	.db 0x10
+.org 0x8009D3A4
+	.db 0x10
+.org 0x8009D3B0
+	.db 0x10	
+.org 0x8009D3BC
+	.db 0x20	; Select a character to
 	
-; .org 0x8009d38c
-	; .db 0x10	; Michelia
+.org 0x8009D244
+	.db 0x10	; Michelia
 
-; .org 0x8009d988
-	; .db 0x10
-; .org 0x8009d994 ; Michelia
-	; .db 0x10
-; .org 0x8009D9A0
-	; .db 0x10
+.org 0x8009D840
+	.db 0x10
+.org 0x8009D84C ; Michelia
+	.db 0x10
+.org 0x8009D858
+	.db 0x10
 
 	
 .org 0x800B8500
