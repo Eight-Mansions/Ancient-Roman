@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -4429,3 +4429,40 @@ msgctxt "00000730"
 msgid ""
 "うちの商品はいいものばかりだよ。"
 msgstr "We only sell the finest!"
+
+#: 0004495E
+msgctxt "00000731"
+msgid ""
+"ぽたぽた屋"
+msgstr ""
+
+#: 00089173
+msgctxt "00000732"
+msgid ""
+"アニキ"
+msgstr ""
+
+#: 00112636
+msgctxt "00000733"
+msgid ""
+"ドランキー"
+msgstr ""
+
+#: 0019BDF7
+msgctxt "00000734"
+msgid ""
+"マール"
+msgstr ""
+
+#: 0037ABA6
+msgctxt "00000735"
+msgid ""
+"いぬら屋"
+msgstr ""
+
+#: 003BF179
+msgctxt "00000736"
+msgid ""
+"ぶきや"
+msgstr ""
+

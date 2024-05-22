@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1851,3 +1851,76 @@ msgctxt "00000304"
 msgid ""
 "女兵士：お気をつけて王子様。"
 msgstr "Female Knight: Please be careful, my prince."
+
+#: 00089148
+msgctxt "00000305"
+msgid ""
+"ソルディーナ"
+msgstr ""
+
+#: 000CD948
+msgctxt "00000306"
+msgid ""
+"ホーリーナイト"
+msgstr ""
+
+#: 00112148
+msgctxt "00000307"
+msgid ""
+"シヌマヤ"
+msgstr ""
+
+#: 00156948
+msgctxt "00000308"
+msgid ""
+"ヤクシンドウ"
+msgstr ""
+
+#: 002242C4
+msgctxt "00000309"
+msgid ""
+"あぶないおやじ"
+msgstr ""
+
+#: 002243C1
+msgctxt "00000310"
+msgid ""
+"あぶないおやじ"
+msgstr ""
+
+#: 00224476
+msgctxt "00000311"
+msgid ""
+"おとこの店"
+msgstr ""
+
+#: 00224528
+msgctxt "00000312"
+msgid ""
+"ガードホーン"
+msgstr ""
+
+#: 00268B08
+msgctxt "00000313"
+msgid ""
+"くすりのどらくや"
+msgstr ""
+
+#: 00268C18
+msgctxt "00000314"
+msgid ""
+"まっぽまっぽ"
+msgstr ""
+
+#: 002AD2A2
+msgctxt "00000315"
+msgid ""
+"バーテン"
+msgstr ""
+
+#: 003361A8
+msgctxt "00000316"
+msgid ""
+"ベストガード"
+msgstr ""
+

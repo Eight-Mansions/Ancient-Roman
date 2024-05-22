@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -2101,3 +2101,34 @@ msgctxt "00000341"
 msgid ""
 "何かにおそわれてケガしたんじゃ、シャレにならねぇ。"
 msgstr "to reach the clinic. It's ridiculous!"
+
+#: 000CD99C
+msgctxt "00000342"
+msgid ""
+"まほーかん"
+msgstr ""
+
+#: 00156961
+msgctxt "00000343"
+msgid ""
+"よろず屋"
+msgstr ""
+
+#: 0019B170
+msgctxt "00000344"
+msgid ""
+"ナイフ屋"
+msgstr ""
+
+#: 001DF96D
+msgctxt "00000345"
+msgid ""
+"やまにぼうぐ"
+msgstr ""
+
+#: 002241AE
+msgctxt "00000346"
+msgid ""
+"ジュエルルリ"
+msgstr ""
+

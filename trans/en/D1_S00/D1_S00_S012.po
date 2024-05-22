@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -2152,3 +2152,40 @@ msgctxt "00000350"
 msgid ""
 "ミシリア：・・・・・・"
 msgstr "Michelia: ..."
+
+#: 0026899B
+msgctxt "00000351"
+msgid ""
+"いぬら屋"
+msgstr ""
+
+#: 002AD186
+msgctxt "00000352"
+msgid ""
+"ぶきや"
+msgstr ""
+
+#: 002AD204
+msgctxt "00000353"
+msgid ""
+"ぶきや"
+msgstr ""
+
+#: 002F197A
+msgctxt "00000354"
+msgid ""
+"ぼうぐや"
+msgstr ""
+
+#: 002F1A12
+msgctxt "00000355"
+msgid ""
+"ぼうぐや"
+msgstr ""
+
+#: 0033617B
+msgctxt "00000356"
+msgid ""
+"カレンの店"
+msgstr ""
+

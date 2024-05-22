@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1993,3 +1993,22 @@ msgctxt "00000323"
 msgid ""
 "カイ：ええ、十分です。ありがとうございました。"
 msgstr "Kai: It was. Thank you very much!"
+
+#: 001123EB
+msgctxt "00000324"
+msgid ""
+"だいせいじゃ"
+msgstr ""
+
+#: 0026893C
+msgctxt "00000325"
+msgid ""
+"たい屋"
+msgstr ""
+
+#: 002AD21E
+msgctxt "00000326"
+msgid ""
+"マスターＡ"
+msgstr ""
+

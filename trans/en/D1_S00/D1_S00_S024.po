@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -972,3 +972,10 @@ msgctxt "00000155"
 msgid ""
 "何も見つからない。"
 msgstr "There's nothing here."
+
+#: 002AD216
+msgctxt "00000156"
+msgid ""
+"セラウオ"
+msgstr ""
+

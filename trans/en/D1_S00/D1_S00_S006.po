@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1482,3 +1482,34 @@ msgctxt "00000241"
 msgid ""
 "うちのくすりはききますよ。"
 msgstr "Our medicine's really effective!"
+
+#: 00224185
+msgctxt "00000242"
+msgid ""
+"エルフのぶき屋"
+msgstr ""
+
+#: 00268997
+msgctxt "00000243"
+msgid ""
+"エルフのよろず屋"
+msgstr ""
+
+#: 002AD16F
+msgctxt "00000244"
+msgid ""
+"ジュエリーミキ"
+msgstr ""
+
+#: 0037A96D
+msgctxt "00000245"
+msgid ""
+"ざっかざっか"
+msgstr ""
+
+#: 003BF174
+msgctxt "00000246"
+msgid ""
+"ジャンキリー"
+msgstr ""
+

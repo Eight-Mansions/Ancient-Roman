@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1664,3 +1664,28 @@ msgctxt "00000267"
 msgid ""
 "＿＿＿カイ達はねむった＿＿"
 msgstr "___The party went to sleep.___"
+
+#: 000449EC
+msgctxt "00000268"
+msgid ""
+"さすらいのしょうにん"
+msgstr ""
+
+#: 001DF9F9
+msgctxt "00000269"
+msgid ""
+"さすらいのしょうにん"
+msgstr ""
+
+#: 002AD1ED
+msgctxt "00000270"
+msgid ""
+"ようきなジョン"
+msgstr ""
+
+#: 002F2113
+msgctxt "00000271"
+msgid ""
+"シビヤなロイ"
+msgstr ""
+

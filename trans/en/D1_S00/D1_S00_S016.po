@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -595,3 +595,34 @@ msgctxt "00000095"
 msgid ""
 "ポセイドンスピアを手に入れた。"
 msgstr "You got Poseidon's Spear!"
+
+#: 000001A9
+msgctxt "00000096"
+msgid ""
+"やまのオカ"
+msgstr ""
+
+#: 00044955
+msgctxt "00000097"
+msgid ""
+"ジンコンドウ"
+msgstr ""
+
+#: 00112157
+msgctxt "00000098"
+msgid ""
+"どうぐ屋"
+msgstr ""
+
+#: 00156995
+msgctxt "00000099"
+msgid ""
+"エヴリ屋"
+msgstr ""
+
+#: 0019B16B
+msgctxt "00000100"
+msgid ""
+"マーセナル"
+msgstr ""
+
