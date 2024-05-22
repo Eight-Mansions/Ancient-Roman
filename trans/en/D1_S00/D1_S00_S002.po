@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-20 17:30+0000\n"
+"PO-Revision-Date: 2024-05-22 04:06+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s002/en/>\n"
@@ -614,7 +614,7 @@ msgstr "Care to find them?"
 msgctxt "00000097"
 msgid ""
 "ノクターンはてきを眠らせる事ができるんじゃ。"
-msgstr "You can put your foes to sleep with Nocturne."
+msgstr "You can put your foes to sleep with it."
 
 #: 001121EC
 msgctxt "00000098"
@@ -633,14 +633,13 @@ msgstr "If you have no business here, then please leave."
 msgctxt "00000100"
 msgid ""
 "カイ：いそがしい時にすみません。"
-msgstr "Kai: I'm sorry to bother you at such a busy time."
+msgstr "Kai: I'm sorry to bother you while you're busy."
 
 #: 001122A5
 msgctxt "00000101"
 msgid ""
 "この町に魔導師と呼ばれる方がいると聞いて来たのですが・・・"
-msgstr ""
-"We wished to ask you if you knew of a magician who might be in this town."
+msgstr "We wished to ask if you knew of a magician who might be in this town."
 
 #: 001122FA
 msgctxt "00000102"
@@ -724,13 +723,13 @@ msgstr "Captain: The Rune Gate!?"
 msgctxt "00000115"
 msgid ""
 "君達はあそこへ行ってきたと？"
-msgstr "You guys went over there?"
+msgstr "You guys came from over there?"
 
 #: 00112621
 msgctxt "00000116"
 msgid ""
 "カイ：うん。それから、ルーンマルナの町も・・・"
-msgstr "Kai: We did, and later passed through Rune Malna as well..."
+msgstr "Kai: We did. We passed through Rune Malna after as well..."
 
 #: 0011266A
 msgctxt "00000117"
@@ -905,7 +904,7 @@ msgstr "Captain: No, it was my pleasure."
 msgctxt "00000145"
 msgid ""
 "隊長：よろしくたのみます。"
-msgstr "Captain: And thank you as well."
+msgstr "Captain: Thank you once again."
 
 #: 00112D88
 msgctxt "00000146"
@@ -991,7 +990,7 @@ msgctxt "00000159"
 msgid ""
 "バーク：かぁー、男だったら告白ぐらい自分でしやがれ。"
 msgstr ""
-"Burke: Come on man. A real man doesn't make others confess love for him. "
+"Burke: Come on, man. A real man doesn't make others confess love for him. "
 "Jeez."
 
 #: 00224398
@@ -1010,7 +1009,7 @@ msgstr "Could we at least hear him out?"
 msgctxt "00000162"
 msgid ""
 "男：私、バーにいる女性とこんどけっこんするのですが・・・"
-msgstr "Man: I'm supposed to marry Baa soon, but..."
+msgstr "Man: I'm supposed to marry the woman in the bar soon, but..."
 
 #: 00224436
 msgctxt "00000163"
@@ -1022,14 +1021,13 @@ msgstr "It sounds like she lost the ring that I gave her."
 msgctxt "00000164"
 msgid ""
 "彼女はそれをたいへん気にしているようなので・・・"
-msgstr ""
-"She's really taking it personally, and won't talk to me because of it..."
+msgstr "She's really taking it personally and won't talk to me because of it..."
 
 #: 002244AC
 msgctxt "00000165"
 msgid ""
 "私も彼女に気づかれぬよう探したのですが、見つからなくて・・・"
-msgstr "I've tried looking for it too, without telling her, but no luck..."
+msgstr "I've tried looking for it too without telling her, but no luck..."
 
 #: 002244FA
 msgctxt "00000166"
@@ -1113,25 +1111,25 @@ msgstr "Man: This really means a lot to me!"
 msgctxt "00000179"
 msgid ""
 "マスター：いらっしゃいませ。"
-msgstr "Master: Welcome!"
+msgstr "Barkeeper: Welcome!"
 
 #: 00268976
 msgctxt "00000342"
 msgid ""
 "彼女はこの町一のうたひめなのですが、"
-msgstr "She's this town's songstress, but"
+msgstr "She's this town's songstress,"
 
 #: 0026899E
 msgctxt "00000180"
 msgid ""
 "何かなやみをかかえているようですね。"
-msgstr "You seem troubled. Something on you mind?"
+msgstr "but something seems to be weighing on her mind."
 
 #: 002689F8
 msgctxt "00000181"
 msgid ""
 "女：あぁ、どうしてこんなことに・・・"
-msgstr "Woman: Ahh, what do I do..."
+msgstr "Woman: Ahh, what do I do...?"
 
 #: 00268A20
 msgctxt "00000182"
@@ -1161,7 +1159,7 @@ msgstr "Woman: Sorry, I don't want to talk right now."
 msgctxt "00000186"
 msgid ""
 "マスター、おかわりもらえるかしら？"
-msgstr "Master, could I have another?"
+msgstr "Barkeep, could I have another?"
 
 #: 00268B89
 msgctxt "00000187"
@@ -1257,7 +1255,7 @@ msgstr "I gotta clean myself up now and go see him."
 msgctxt "00000202"
 msgid ""
 "女：あのときはほんとうにありがとう。"
-msgstr "Woman: Thank you for finding my ring earlier."
+msgstr "Woman: Thank you for finding my ring."
 
 #: 002AD115
 msgctxt "00000203"
@@ -1419,14 +1417,13 @@ msgstr "Hmm, now that you mention it,"
 msgctxt "00000229"
 msgid ""
 "こないだ、ケガをして運びこまれて来たおじいさんがいたけど"
-msgstr "There was an injured old man carried here earlier."
+msgstr "there was an injured old man carried here earlier."
 
 #: 002F1E55
 msgctxt "00000230"
 msgid ""
 "いかにも！って感じだったような気が・・・"
-msgstr ""
-"The thought, \"That's him!\" drilled itself into my head for some reason."
+msgstr "That's gotta hit the nail on the head, right? Right...?"
 
 #: 002F1EAD
 msgctxt "00000231"
@@ -1656,7 +1653,7 @@ msgstr "Michelia: Do you think that could be the magician...?"
 msgctxt "00000268"
 msgid ""
 "カイ：うん、確かめてみよう。"
-msgstr "Kai: I do think so. We should take a look."
+msgstr "Kai: It's gotta be. We should take a look."
 
 #: 003367AE
 msgctxt "00000269"
@@ -1758,13 +1755,13 @@ msgstr "Michelia: AHHHHHHHHHH!!!"
 msgctxt "00000285"
 msgid ""
 "カイ？！"
-msgstr "KAI!?"
+msgstr "Kai!?"
 
 #: 00336C0F
 msgctxt "00000286"
 msgid ""
 "カイ：ご、ごめん！これはバークがっっ！"
-msgstr "Kai: S-Sorry! Burke just--"
+msgstr "Kai: S-sorry! Burke just--"
 
 #: 00336C47
 msgctxt "00000287"
@@ -1782,13 +1779,13 @@ msgstr "Don't talk to me ever again!"
 msgctxt "00000289"
 msgid ""
 "かぽーんっ。"
-msgstr "Smack!"
+msgstr "*smack!*"
 
 #: 00336CAB
 msgctxt "00000290"
 msgid ""
 "ばたっ。"
-msgstr "Thud!"
+msgstr "*thud!*"
 
 #: 00336CDB
 msgctxt "00000291"
