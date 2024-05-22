@@ -278,6 +278,16 @@ framenum:
 	nop
 
 
+.org 0x800526cc	; Increase allowed characters for Gahme for Item shop
+	ori a0, r0, 0x100
+	ori a0, r0, 0x100
+	
+.org 0x80052708
+	ori v0, r0, 0x5
+
+.org 0x800527f0
+	ori a2, r0, 0x5
+	
 
 .org 0x8003f8fc	; Hard code copy length (although it will stop once it hits a 0)
 	slti v0, t4, 0x39
