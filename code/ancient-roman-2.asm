@@ -168,6 +168,9 @@ framenum:
 	
 .org 0x8001f120
 	jal LoadText
+	
+.org 0x8001b1b0
+	jal LoadText
 
 .org 0x8003e144
 	j CallGetSentenceWidthForDialogues

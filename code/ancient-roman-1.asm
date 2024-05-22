@@ -166,7 +166,10 @@ framenum:
 .org 0x80067258
 	nop
 	
-.org 0x8001f268
+.org 0x8001f268	; For Dialogue
+	jal LoadText
+	
+.org 0x8001b2f8	; For Shop Title
 	jal LoadText
 
 .org 0x8003e28c
