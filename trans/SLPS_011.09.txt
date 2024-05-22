@@ -219,21 +219,21 @@ Ice Rock
 // Ptr: 00001C34
 #WRITE(PTR, $0007CEDC)
 //トール・ジゴ
-Thor's Hell
+Thor Hell
 <$00>
 
 
 // Ptr: 00001C44
 #WRITE(PTR, $0007CE8C)
 //トール・ハイ
-Thor's High
+Thor High
 <$00>
 
 
 // Ptr: 00001C54
 #WRITE(PTR, $0007CE3C)
 //トール・ロー
-Thor's Low
+Thor Low
 <$00>
 
 
@@ -2254,7 +2254,7 @@ Magic
 // Ptr: 00004728
 #WRITE(PTR, $0008DAFC)
 //ＧＰ
-Gahme
+gahme
 <$00>
 
 
@@ -2368,7 +2368,7 @@ unused
 #WRITE(PTR, $0008DED4)
 #WRITE(PTR, $0008DEF8)
 //ガメ
-Gahme
+gahme
 <$00>
 
 

@@ -180,7 +180,11 @@ namespace ancient_roman_script_insert
             for (int i = 0; i < translatedLines.Length; i++)
             {
                 string translatedLine = translatedLines[i];
-                if (translatedLine.StartsWith("msgid"))
+                if (translatedLine.StartsWith("#:"))
+                {
+                    pos = translatedLine.Replace("#: ", "");
+                }
+                else if (translatedLine.StartsWith("msgid"))
                 {
                     japanese = "";
                     for (int j = i; j < translatedLines.Length; j++)
@@ -373,12 +377,58 @@ namespace ancient_roman_script_insert
                         if (inBin.BaseStream.Position >= nextFileStart)
                             break;
 
+                        if (inBin.BaseStream.Position >= 0x18C)
+                        {
+                            int boopme33 = 0;
+                        }
+
                         byte aByte1 = inBin.ReadByte();
                         byte aByte2 = inBin.ReadByte();
                         byte aByte3 = inBin.ReadByte();
                         byte aByte4 = inBin.ReadByte();
-                        if ((aByte1 == 0x00 && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00) || (aByte1 == 0xFF && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00))
+                        byte aByte5 = inBin.ReadByte();
+                        byte aByte6 = inBin.ReadByte();
+                        if (aByte1 == 0x1B && aByte6 == 0x1A)
                         {
+                            ushort dontCare = inBin.ReadUInt16();
+
+                            uint origPos = (uint)inBin.BaseStream.Position;
+
+                            List<byte> letters = new List<byte>();
+                            while (inBin.BaseStream.Position < inBin.BaseStream.Length)
+                            {
+                                byte aLetterByte = inBin.ReadByte();
+                                letters.Add(aLetterByte);
+                                if (aLetterByte == 0)
+                                {
+                                    inBin.BaseStream.Seek(-1, SeekOrigin.Current);
+                                    break;
+                                }
+                            }
+
+                            string myLine = GetEncodedLine(letters.ToArray(), table).Replace("//", "").Replace("\n<$00>", "");
+
+                            for (int i = 0; i < poEntries.Count; i++)
+                            {
+                                PoEntry poEntry = poEntries[i];
+                                if (!String.IsNullOrEmpty(poEntry.english) && (poEntry.japanese == myLine || poEntry.japanese.Replace("＿", "　") == myLine) && !poEntry.found)
+                                {
+                                    poEntry.origPos = origPos;
+                                    string english = Format(poEntry.english, defaultTextBoxWidth, widths);
+
+                                    poEntry.encoded = Encode(english, encodingTable);
+                                    poEntry.found = true;
+                                    poEntry.maxLen = defaultTextBoxWidth;
+                                    poEntries[i] = poEntry;
+                                    break;
+                                }
+                            }
+
+                        }
+                        else if ((aByte1 == 0x00 && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00) || (aByte1 == 0xFF && aByte2 == 0x13 && aByte3 == 0x00 && aByte4 == 0x00))
+                        {
+                            inBin.BaseStream.Seek(-2, SeekOrigin.Current);
+
                             uint origPos = (uint)inBin.BaseStream.Position;
 
                             inBin.BaseStream.Seek(-14, SeekOrigin.Current);
@@ -433,7 +483,16 @@ namespace ancient_roman_script_insert
                         }
                         else
                         {
-                            inBin.BaseStream.Seek(-3, SeekOrigin.Current);
+                            inBin.BaseStream.Seek(-5, SeekOrigin.Current);
+                        }
+                    }
+
+                    // Dear past me.  Why didn't we just use the text positions that we store in the po file instead of searching for 
+                    for (int i = 0; i < poEntries.Count; i++)
+                    {
+                        if (!poEntries[i].found)
+                        {
+                            int boopme3 = 0;
                         }
                     }
 
