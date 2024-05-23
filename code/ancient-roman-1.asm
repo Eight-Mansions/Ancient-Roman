@@ -611,6 +611,12 @@ framenum:
 .org 0x8009D9A0
 	.db 0x10
 
+.org 0x8009d764 ; Gahme
+	.db 0x10	
+.org 0x8009d6e4 ; Removed character when selling/buying
+	.db 0x00
+.org 0x8009d6f0
+	.db 0x20 	; How many are you buying/selling?
 	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"

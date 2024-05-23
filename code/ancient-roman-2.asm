@@ -609,6 +609,13 @@ framenum:
 	.db 0x10
 .org 0x8009D858
 	.db 0x10
+	
+.org 0x8009D61C ; Gahme
+	.db 0x10	
+.org 0x8009D59C ; Removed character when selling/buying
+	.db 0x00
+.org 0x8009D5A8
+	.db 0x20 	; How many are you buying/selling?
 
 	
 .org 0x800B8500
