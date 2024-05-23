@@ -1,9 +1,9 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-22 04:06+0000\n"
+"PO-Revision-Date: 2024-05-23 20:12+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s003/en/>\n"
@@ -1788,7 +1788,7 @@ msgstr "Man: This is New Heinrogue Castle's lower city."
 msgctxt "00000294"
 msgid ""
 "って、僕もさっき着いたばかりなんだけどね。"
-msgstr "Wait, I just arrived, myself. Why am I the one telling you?"
+msgstr "Wait, I just arrived myself. Why am I the one telling you?"
 
 #: 001E0742
 msgctxt "00000295"
@@ -2070,7 +2070,7 @@ msgstr "Says they're recruiting more guard soldiers."
 msgctxt "00000340"
 msgid ""
 "別にくわしく読む必要も無いだろう。"
-msgstr "Not really any need to read any further."
+msgstr "Not really any need to read further."
 
 #: 001E111E
 msgctxt "00000341"
@@ -2493,31 +2493,31 @@ msgstr "Old person: I'm glad they're taking this seriously."
 msgctxt "00000410"
 msgid ""
 "こっこ、こっこ、ここぉぉーーーーー"
-msgstr "Buk, buk, ba-gawk---"
+msgstr "*buk, buk, ba-gawk---*"
 
 #: 00224DCF
 msgctxt "00000411"
 msgid ""
 "こけこっこ"
-msgstr "Buk, buk"
+msgstr "*buk, buk*"
 
 #: 00224E0B
 msgctxt "00000412"
 msgid ""
 "こけ？"
-msgstr "Buk?"
+msgstr "*buk?*"
 
 #: 00224E30
 msgctxt "00000413"
 msgid ""
 "こけこっこ"
-msgstr "Buk, buk"
+msgstr "*buk, buk*"
 
 #: 00224E59
 msgctxt "00000414"
 msgid ""
 "こっこっこっこ、こけこぉー"
-msgstr "Buk-buk! Buk-buk, ba-gawk!"
+msgstr "*buk-buk! buk-buk, ba-gawk!*"
 
 #: 00224E85
 msgctxt "00000415"
@@ -2553,7 +2553,7 @@ msgstr "You learned Breath of Life!"
 msgctxt "00000420"
 msgid ""
 "こけ？"
-msgstr "Buk?"
+msgstr "*buk?*"
 
 #: 00224FEB
 msgctxt "00000421"
@@ -4434,19 +4434,19 @@ msgstr "We only sell the finest!"
 msgctxt "00000731"
 msgid ""
 "ぽたぽた屋"
-msgstr ""
+msgstr "Hot and Heavy"
 
 #: 00089173
 msgctxt "00000732"
 msgid ""
 "アニキ"
-msgstr ""
+msgstr "Bro"
 
 #: 00112636
 msgctxt "00000733"
 msgid ""
 "ドランキー"
-msgstr ""
+msgstr "Drunky"
 
 #: 0019BDF7
 msgctxt "00000734"
@@ -4465,4 +4465,3 @@ msgctxt "00000736"
 msgid ""
 "ぶきや"
 msgstr ""
-
