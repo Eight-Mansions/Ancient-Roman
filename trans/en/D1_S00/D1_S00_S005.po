@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-23 02:04+0000\n"
+"PO-Revision-Date: 2024-05-23 20:12+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s005/en/>\n"
@@ -136,7 +136,7 @@ msgstr "Proprietress: Ah, please don't worry about me."
 msgctxt "00000020"
 msgid ""
 "泊まっていって下さいな。"
-msgstr "Stay here. As thanks for delivering this."
+msgstr "Stay here on me, as thanks for delivering this."
 
 #: 00045009
 msgctxt "00000021"
@@ -160,13 +160,13 @@ msgstr "Burke: Thanks."
 msgctxt "00000024"
 msgid ""
 "おかみ：いえいえ、お礼を言うのはこちらの方ですよ。"
-msgstr "Proprietress: No, it's the least I could do."
+msgstr "Proprietress: Not at all, it's the least I could do."
 
 #: 00045105
 msgctxt "00000025"
 msgid ""
 "・・・朝・・・"
-msgstr "...Morning..."
+msgstr "___The next day___"
 
 #: 00045185
 msgctxt "00000026"
