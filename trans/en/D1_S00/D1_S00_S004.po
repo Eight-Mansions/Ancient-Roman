@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-23 20:12+0000\n"
+"PO-Revision-Date: 2024-05-24 16:15+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s004/en/>\n"
@@ -70,7 +70,7 @@ msgstr "Beautiful Young Woman: Welcome!"
 msgctxt "00000009"
 msgid ""
 "カレンのお店にようこそ▽"
-msgstr "Welcome to our humble restaurant! ▽"
+msgstr "Welcome to our humble shop! ▽"
 
 #: 00044955
 msgctxt "00000010"
@@ -130,13 +130,13 @@ msgstr "Minister: Dreams?"
 msgctxt "00000019"
 msgid ""
 "カイ：でも・・・"
-msgstr "Kai: Like..."
+msgstr "Kai: Well..."
 
 #: 000892C7
 msgctxt "00000020"
 msgid ""
 "これが現実にあった事なのか空想の出来事なのかわからないんだけど・・・"
-msgstr "Is any of this for real, or not?"
+msgstr "I'm not sure if they're dreams or memories..."
 
 #: 0008931D
 msgctxt "00000021"
@@ -340,7 +340,7 @@ msgstr "Minister: Now if you'll excuse me, I've got a feast to prepare."
 msgctxt "00000053"
 msgid ""
 "カイ：あ・・・"
-msgstr "Kai: Ah..."
+msgstr "Kai: I..."
 
 #: 00112136
 msgctxt "00000054"
@@ -412,7 +412,7 @@ msgstr "My friend Burke and I would like to apply."
 msgctxt "00000065"
 msgid ""
 "兵士：うむ。では、ここに名前を書いてくれ"
-msgstr "Soldier: Umm. Well then, please write your name here."
+msgstr "Soldier: Umm. Well then, please write your names here."
 
 #: 0019B2EB
 msgctxt "00000066"
@@ -498,7 +498,7 @@ msgstr "Solider: The test is early tomorrow morning."
 msgctxt "00000079"
 msgid ""
 "兵士：ここでは新ハインローグ城、"
-msgstr "Soldier: This is the New Heinrogue Castle."
+msgstr "Soldier: This is the New Heinrogue Castle"
 
 #: 0019B661
 msgctxt "00000080"
@@ -552,7 +552,7 @@ msgstr "Old Man: Need some magic?"
 msgctxt "00000088"
 msgid ""
 "旅のおともにさいてきじゃぞ。"
-msgstr "It's the traveling companion."
+msgstr "Magic makes quite the traveling companion."
 
 #: 001DF94E
 msgctxt "00000089"
@@ -564,7 +564,7 @@ msgstr "I recommend the Volvo spell."
 msgctxt "00000090"
 msgid ""
 "そこらの魔物の攻撃ではかすり傷ひとつおわんぞ。"
-msgstr "It'll reduce the damage them monsters do to you."
+msgstr "It'll reduce the damage monsters do to you."
 
 #: 001DF9ED
 msgctxt "00000091"
@@ -1754,19 +1754,19 @@ msgstr "Elder: What can this old man do for you?"
 msgctxt "00000286"
 msgid ""
 "ぼうぐや"
-msgstr ""
+msgstr "Armor Shop"
 
 #: 000449DA
 msgctxt "00000287"
 msgid ""
 "カレンの店"
-msgstr ""
+msgstr "Sweet Fashion"
 
 #: 001DF9D6
 msgctxt "00000288"
 msgid ""
 "マジック"
-msgstr ""
+msgstr "Magic Revamped"
 
 #: 002F19AD
 msgctxt "00000289"
