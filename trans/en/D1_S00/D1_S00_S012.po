@@ -1,9 +1,9 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-22 04:06+0000\n"
+"PO-Revision-Date: 2024-05-24 16:15+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s012/en/>\n"
@@ -1710,7 +1710,7 @@ msgstr "Knight: Sir Kai! What can we do for you?"
 msgctxt "00000277"
 msgid ""
 "いらっしゃいませ▽世界はひろしといえど"
-msgstr "Welcome to Dog's Shop! ▽"
+msgstr "Welcome to The Dog House! ▽"
 
 #: 0026893F
 msgctxt "00000278"
@@ -1730,7 +1730,7 @@ msgstr "Old Man: Welcome."
 msgctxt "00000280"
 msgid ""
 "うちの商品はいいものばかりだよ。"
-msgstr "We only sell the finest!"
+msgstr "We sell only the finest!"
 
 #: 002AD1A0
 msgctxt "00000281"
@@ -1742,7 +1742,7 @@ msgstr "Old Man: Welcome."
 msgctxt "00000282"
 msgid ""
 "うちの商品はいいものばかりだよ。"
-msgstr "We only sell the finest!"
+msgstr "We sell only the finest!"
 
 #: 002F1915
 msgctxt "00000283"
@@ -1778,7 +1778,7 @@ msgstr "Beautiful Young Woman: Welcome!"
 msgctxt "00000288"
 msgid ""
 "カレンのお店にようこそ▽"
-msgstr "Welcome to our humble restaurant! ▽"
+msgstr "Welcome to our humble shop! ▽"
 
 #: 00336194
 msgctxt "00000289"
@@ -1790,7 +1790,7 @@ msgstr "Beautiful Woman: Thank you very much."
 msgctxt "00000290"
 msgid ""
 "これからもカレンのお店をひいきにしてくださいね▽"
-msgstr "I'd love it if you stopped by to see me, Karen. ▽"
+msgstr "I'd love it if you stopped by to see us again soon. ▽"
 
 #: 003BF1B8
 msgctxt "00000291"
@@ -2157,35 +2157,34 @@ msgstr "Michelia: ..."
 msgctxt "00000351"
 msgid ""
 "いぬら屋"
-msgstr ""
+msgstr "The Dog House"
 
 #: 002AD186
 msgctxt "00000352"
 msgid ""
 "ぶきや"
-msgstr ""
+msgstr "The Chipped Blade"
 
 #: 002AD204
 msgctxt "00000353"
 msgid ""
 "ぶきや"
-msgstr ""
+msgstr "The Worn Blade"
 
 #: 002F197A
 msgctxt "00000354"
 msgid ""
 "ぼうぐや"
-msgstr ""
+msgstr "Better Armor Shop"
 
 #: 002F1A12
 msgctxt "00000355"
 msgid ""
 "ぼうぐや"
-msgstr ""
+msgstr "True Armor Shop"
 
 #: 0033617B
 msgctxt "00000356"
 msgid ""
 "カレンの店"
-msgstr ""
-
+msgstr "Sweet Fashion Updated"
