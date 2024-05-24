@@ -233,8 +233,8 @@ MovieSubtitlePart sub6_parts[] = {
 	{(const char*)partdata_52, 5, 255, 139, 194, 136, 206, 136, 206},
 };
 
-//\ZA0\MEETPIXY.STR;1 | Haven't see you before!
-const u8 partdata_53[] = {7, 26, 47, 30, 39, 62, 45, 76, 44, 30, 30, 76, 50, 40, 46, 76, 27, 30, 31, 40, 43, 30, 54};
+//\ZA0\MEETPIXY.STR;1 | Haven't seen you before!
+const u8 partdata_53[] = {7, 26, 47, 30, 39, 62, 45, 76, 44, 30, 30, 39, 76, 50, 40, 46, 76, 27, 30, 31, 40, 43, 30, 54};
 
 //\ZA0\MEETPIXY.STR;1 | Where'd you come from?
 const u8 partdata_54[] = {22, 33, 30, 43, 30, 62, 29, 76, 50, 40, 46, 76, 28, 40, 38, 30, 76, 31, 43, 40, 38, 55};
@@ -276,7 +276,7 @@ const u8 partdata_65[] = {44, 30, 30, 76, 48, 33, 50, 76, 39, 40, 45, 52};
 const u8 partdata_66[] = {24, 26, 50, 54, 54, 76, 22, 33, 30, 43, 30, 76, 48, 30, 76, 33, 30, 26, 29, 34, 39, 32, 55, 76, 11, 30, 45, 62, 44, 76, 32, 40, 54};
 
 MovieSubtitlePart sub7_parts[] = {
-	{(const char*)partdata_53, 23, 255, 7, 49, 64, 190, 64, 190},
+	{(const char*)partdata_53, 24, 255, 7, 49, 64, 190, 64, 190},
 	{(const char*)partdata_54, 22, 255, 7, 49, 72, 206, 72, 206},
 	{(const char*)partdata_55, 37, 255, 57, 127, 8, 190, 8, 190},
 	{(const char*)partdata_56, 5, 255, 57, 127, 136, 206, 136, 206},
