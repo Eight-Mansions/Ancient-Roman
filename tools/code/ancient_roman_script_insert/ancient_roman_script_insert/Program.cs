@@ -250,6 +250,7 @@ namespace ancient_roman_script_insert
             public string english;
             public byte[] encoded;
             public bool found;
+            public bool written;
             public int maxLen;
         }
 
@@ -336,6 +337,8 @@ namespace ancient_roman_script_insert
                     BinaryReader inBin = new BinaryReader(File.OpenRead(file));
                     inBin.BaseStream.Seek(4, SeekOrigin.Begin);
                     uint nextFilePos = inBin.ReadUInt32();
+                    if (file.Contains("S008_DAT\\0013"))
+                        nextFilePos = 0x4050;
 
 
                     long insTextPos = 0;
@@ -361,6 +364,9 @@ namespace ancient_roman_script_insert
                     inBin.BaseStream.Seek(0, SeekOrigin.Begin);
                     uint evfhStart = inBin.ReadUInt32();
                     uint nextFileStart = inBin.ReadUInt32();
+                    if (file.Contains("S008_DAT\\0013"))
+                        nextFileStart = 0x4050;
+
 
                     inBin.BaseStream.Seek(evfhStart, SeekOrigin.Begin);
 
@@ -418,6 +424,7 @@ namespace ancient_roman_script_insert
 
                                     poEntry.encoded = Encode(english, encodingTable);
                                     poEntry.found = true;
+                                    poEntry.written = false;
                                     poEntry.maxLen = defaultTextBoxWidth;
                                     poEntries[i] = poEntry;
                                     break;
@@ -508,7 +515,7 @@ namespace ancient_roman_script_insert
                     for(int i = 0; i < poEntries.Count; i++)
                     {
                         PoEntry poEntry = poEntries[i];
-                        if (poEntry.found)
+                        if (poEntry.found && !poEntry.written)
                         {
                             if (((newBin.BaseStream.Position - evfhStart) % 0x100) == 0)
                             {
@@ -531,11 +538,14 @@ namespace ancient_roman_script_insert
                     for (int i = 0; i < poEntries.Count; i++)
                     {
                         PoEntry poEntry = poEntries[i];
-                        if (poEntry.found)
+                        if (poEntry.found && !poEntry.written)
                         {
                             newBin.BaseStream.Seek(poEntry.origPos, SeekOrigin.Begin);
                             newBin.Write((byte)0x80);
                             newBin.Write((ushort)poEntry.insPos);
+
+                            poEntry.written = true;
+                            poEntries[i] = poEntry;
                         }
                     }
 

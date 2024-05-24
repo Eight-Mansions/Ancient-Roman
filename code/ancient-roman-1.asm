@@ -197,6 +197,9 @@ framenum:
 .org 0x80057e1c
 	jal SetBabyLetterWidths
 	li a3, 0x0D
+
+.org 0x80052870
+	jal SetBabyLetterWidths
 	
 .org 0x800388c8
 	lw v1, 0x1174(v1) ; Increase loading Kai's name to be 8 bytes vs 5
