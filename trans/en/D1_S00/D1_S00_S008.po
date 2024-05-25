@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:41-0400\n"
-"PO-Revision-Date: 2024-05-24 18:05+0000\n"
+"PO-Revision-Date: 2024-05-25 01:28+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s008/en/>\n"
@@ -89,7 +89,7 @@ msgctxt "00000012"
 msgid ""
 "その装備で大丈夫かい？なんなら僕が売ってあげるよ。"
 msgstr ""
-"Think that equipment of yours is good enough? I'll sell ya something REAL "
+"Think that equipment of yers is good enough? I'll sell ya something REAL "
 "nice."
 
 #: 00044A0F
@@ -231,7 +231,7 @@ msgctxt "00000035"
 msgid ""
 "その装備で大丈夫かい？なんなら僕が売ってあげるよ。"
 msgstr ""
-"Think that equipment of yours is good enough? I'll sell ya something REAL "
+"Think that equipment of yers is good enough? I'll sell ya something REAL "
 "nice."
 
 #: 001DFA1C
@@ -835,7 +835,7 @@ msgstr "Guard: Next up is training your mind by conquering the Tower of Spirit."
 msgctxt "00000133"
 msgid ""
 "そしてその塔の最上階にいる番人の杖をこの場に持ってくるのだ。"
-msgstr "Similarly, the guard at the top holds a rod you must return."
+msgstr "Similarly, the guard at the top holds a rod you must return with."
 
 #: 0037B056
 msgctxt "00000134"
@@ -1337,7 +1337,7 @@ msgstr "Burke: Yup, YOU'RE the one who bailed on him after finding out."
 msgctxt "00000213"
 msgid ""
 "王子様が私なんかにふり向いてくれないだろうって、勝手に思いこんでる。"
-msgstr "\"A prince wouldn't want to be near something like me!\""
+msgstr "\"A prince wouldn't want to be near someone like me!\""
 
 #: 0037C50B
 msgctxt "00000214"
@@ -1669,13 +1669,13 @@ msgstr "___The party went to sleep.___"
 msgctxt "00000268"
 msgid ""
 "さすらいのしょうにん"
-msgstr ""
+msgstr "Wandering Salesman"
 
 #: 001DF9F9
 msgctxt "00000269"
 msgid ""
 "さすらいのしょうにん"
-msgstr ""
+msgstr "Wandering Salesman"
 
 #: 002AD1ED
 msgctxt "00000270"
