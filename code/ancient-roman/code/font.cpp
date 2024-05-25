@@ -8,7 +8,7 @@ const u8 dialogueLetterWidths[] = {
 	0x08, // #
 	0x06, // $
 	0x07, // %
-	0x10, // &
+	0x0A, // &
 	
 	0x02, // '	
 	0x05, // (
