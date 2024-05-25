@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:41-0400\n"
-"PO-Revision-Date: 2024-05-25 01:28+0000\n"
+"PO-Revision-Date: 2024-05-26 00:32+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s008/en/>\n"
@@ -58,7 +58,7 @@ msgstr "Swordsman: Of course."
 msgctxt "00000007"
 msgid ""
 "ブラッドソードを手に入れた。"
-msgstr "You got the Broadsword!"
+msgstr "You got the Blood Sword!"
 
 #: 0000048D
 msgctxt "00000008"
@@ -150,9 +150,7 @@ msgstr "Burke: You say something?"
 msgctxt "00000022"
 msgid ""
 "ファラ：いえいえ、ぜんぜん、めっそうもございません。"
-msgstr ""
-"Fara: No, no. Not at all, not at all! Please, do not mind me at all, good "
-"sir."
+msgstr "Fara: No, no. Not at all, not at all! Please, do not mind me, good sir."
 
 #: 0019B542
 msgctxt "00000023"
@@ -164,25 +162,25 @@ msgstr "Burke: ..."
 msgctxt "00000024"
 msgid ""
 "ミシリア：ふ、ふふふ・・・・"
-msgstr "Michelia: Hehehe..."
+msgstr "Michelia: He... hehe..."
 
 #: 0019B64C
 msgctxt "00000025"
 msgid ""
 "カイ：杖はもらえるんだろうね？"
-msgstr "Kai: We've earned the rod now, right?"
+msgstr "Kai: So, about that rod...?"
 
 #: 0019B6DD
 msgctxt "00000026"
 msgid ""
 "魔導師：当然だぜ！"
-msgstr "Magician: Of course!"
+msgstr "Magician: Huh? O-oh, yes...!"
 
 #: 0019B737
 msgctxt "00000027"
 msgid ""
 "＿＿わはははははははははは＿＿"
-msgstr "___WAHAHAHAHA!!!___"
+msgstr "All: WAHAHAHAHA!!!"
 
 #: 0019B80F
 msgctxt "00000028"
