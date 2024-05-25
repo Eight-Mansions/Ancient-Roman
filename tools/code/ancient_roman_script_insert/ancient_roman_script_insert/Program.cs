@@ -522,6 +522,21 @@ namespace ancient_roman_script_insert
                                 newBin.BaseStream.Seek(2, SeekOrigin.Current);
                             }
 
+
+                            int insPosStart = (int)newBin.BaseStream.Position;
+                            int insPosEnd = (int)newBin.BaseStream.Position + poEntry.encoded.Length;
+
+                            if (insPosStart <= 0x4050 && 0x4050 <= insPosEnd)
+                            {
+                                newBin.BaseStream.Seek(0x4060, SeekOrigin.Begin);
+                            }
+                            if (insPosStart <= 0x429C && 0x429C <= insPosEnd)
+                            {
+                                newBin.BaseStream.Seek(0x42AC, SeekOrigin.Begin);
+                            }
+                            
+
+
                             poEntry.insPos = (uint)newBin.BaseStream.Position - evfhStart;
                             poEntries[i] = poEntry;
 

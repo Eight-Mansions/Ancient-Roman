@@ -667,7 +667,7 @@ Scimitar
 // Ptr: 00002020
 #WRITE(PTR, $0007DCA4)
 //ブラッドソード
-Blood Sword
+Broadsword
 <$00>
 
 
