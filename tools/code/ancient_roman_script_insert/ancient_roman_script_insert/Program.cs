@@ -515,7 +515,7 @@ namespace ancient_roman_script_insert
                     for(int i = 0; i < poEntries.Count; i++)
                     {
                         PoEntry poEntry = poEntries[i];
-                        if (poEntry.found && !poEntry.written)
+                        if (poEntry.found)
                         {
                             if (((newBin.BaseStream.Position - evfhStart) % 0x100) == 0)
                             {
@@ -538,14 +538,11 @@ namespace ancient_roman_script_insert
                     for (int i = 0; i < poEntries.Count; i++)
                     {
                         PoEntry poEntry = poEntries[i];
-                        if (poEntry.found && !poEntry.written)
+                        if (poEntry.found)
                         {
                             newBin.BaseStream.Seek(poEntry.origPos, SeekOrigin.Begin);
                             newBin.Write((byte)0x80);
                             newBin.Write((ushort)poEntry.insPos);
-
-                            poEntry.written = true;
-                            poEntries[i] = poEntry;
                         }
                     }
 
