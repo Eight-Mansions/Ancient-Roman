@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-26 00:32+0000\n"
+"PO-Revision-Date: 2024-05-26 20:14+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s006/en/>\n"
@@ -761,7 +761,7 @@ msgstr "Kai: We told the old woman in Mahtas"
 msgctxt "00000122"
 msgid ""
 "大事にしろって言われたのに・・・"
-msgstr "we'd take care of it..."
+msgstr "we'd take care of her..."
 
 #: 0019C452
 msgctxt "00000123"
@@ -1487,19 +1487,19 @@ msgstr "Our medicine's really effective!"
 msgctxt "00000242"
 msgid ""
 "エルフのぶき屋"
-msgstr ""
+msgstr "Weapon Shop but Elven"
 
 #: 00268997
 msgctxt "00000243"
 msgid ""
 "エルフのよろず屋"
-msgstr "General Store But Elven"
+msgstr "General Store but Elven"
 
 #: 002AD16F
 msgctxt "00000244"
 msgid ""
 "ジュエリーミキ"
-msgstr ""
+msgstr "Mickey's Jewels"
 
 #: 0037A96D
 msgctxt "00000245"
