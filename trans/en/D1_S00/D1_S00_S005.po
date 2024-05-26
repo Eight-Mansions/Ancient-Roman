@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-26 00:32+0000\n"
+"PO-Revision-Date: 2024-05-27 21:30+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s005/en/>\n"
@@ -460,7 +460,7 @@ msgstr " "
 msgctxt "00000074"
 msgid ""
 "管理者：それは王国所有の船です。"
-msgstr "Warden: That's the royal family's ship."
+msgstr "Manager: That's the royal family's ship."
 
 #: 0019B360
 msgctxt "00000075"
@@ -472,7 +472,7 @@ msgstr "Please stay away."
 msgctxt "00000076"
 msgid ""
 "管理者：船乗りがいないと船は出せません。"
-msgstr "Warden: We can't leave without any sailors."
+msgstr "Manager: We can't leave without any sailors."
 
 #: 0019B3FB
 msgctxt "00000077"
@@ -532,7 +532,7 @@ msgstr "Kai: Ah yes, that's me."
 msgctxt "00000086"
 msgid ""
 "管理者：そうですか、お待ちしておりました。"
-msgstr "Warden: I see, we've been waiting for your arrival, sir."
+msgstr "Manager: I see, we've been waiting for your arrival, sir."
 
 #: 0019B725
 msgctxt "00000087"
@@ -556,19 +556,19 @@ msgstr "Kai: It's not your fault. We'll help you find some."
 msgctxt "00000090"
 msgid ""
 "管理者：さっきから、そこの男がなにかしているんですが・・・"
-msgstr "Warden: That guy over there's been up to something..."
+msgstr "Manager: That guy over there's been up to something..."
 
 #: 0019B896
 msgctxt "00000091"
 msgid ""
 "管理者：今のままじゃ、船は動かせません。"
-msgstr "Warden: We can't set sail like this."
+msgstr "Manager: We can't set sail like this."
 
 #: 0019B8DA
 msgctxt "00000092"
 msgid ""
 "管理者：どうぞ、お気をつけて。カイ様。"
-msgstr "Warden: After you, Sir Kai. Do be careful."
+msgstr "Manager: After you, Sir Kai. Do be careful."
 
 #: 0019B920
 msgctxt "00000093"
@@ -598,7 +598,7 @@ msgstr "It's not much of a port without that, is it?"
 msgctxt "00000097"
 msgid ""
 "男：海には出たいんですが・・・魔物が・・・"
-msgstr "Man: I wanna go to see... But those wretched monsters..."
+msgstr "Man: I wanna go to sea... But those wretched monsters..."
 
 #: 0019BA2B
 msgctxt "00000098"
@@ -622,13 +622,13 @@ msgstr "Burke: Sup."
 msgctxt "00000101"
 msgid ""
 "どうしたんだ、出航の準備なんかして？"
-msgstr "So you gonna get the ship ready or what?"
+msgstr "So you getting the ship ready or what?"
 
 #: 0019BB0F
 msgctxt "00000102"
 msgid ""
 "カイ：これが答えなのかい？"
-msgstr "Kai: Is this the answer."
+msgstr "Kai: I suppose this means we have our answer."
 
 #: 0019BB4F
 msgctxt "00000103"
@@ -852,7 +852,7 @@ msgstr "Man: Ahh, our world's really gone to the wolves, hasn't it."
 msgctxt "00000139"
 msgid ""
 "ニワトリ：ここっ。"
-msgstr "Chicken: Kokoo."
+msgstr "Chicken: *bu-kawk*"
 
 #: 001E012B
 msgctxt "00000140"
@@ -1390,7 +1390,7 @@ msgstr "Sailor: For now, you guys should get a rest at the inn."
 msgctxt "00000228"
 msgid ""
 "こいつを見せれば、やすく泊めてもらえるはずだぜ。"
-msgstr "If you show them these, they'll give you a bargain."
+msgstr "If you show them this, they'll give you a bargain."
 
 #: 002ADEE5
 msgctxt "00000229"
@@ -1880,19 +1880,19 @@ msgstr "Wonder Drugs"
 msgctxt "00000309"
 msgid ""
 "あぶないおやじ"
-msgstr ""
+msgstr "Creeper"
 
 #: 002243C1
 msgctxt "00000310"
 msgid ""
 "あぶないおやじ"
-msgstr ""
+msgstr "Creeper"
 
 #: 00224476
 msgctxt "00000311"
 msgid ""
 "おとこの店"
-msgstr ""
+msgstr "Shop for Men"
 
 #: 00224528
 msgctxt "00000312"
@@ -1904,13 +1904,13 @@ msgstr ""
 msgctxt "00000313"
 msgid ""
 "くすりのどらくや"
-msgstr ""
+msgstr "Pharma-sea"
 
 #: 00268C18
 msgctxt "00000314"
 msgid ""
 "まっぽまっぽ"
-msgstr ""
+msgstr "Sea Spells Sea Shells"
 
 #: 002AD2A2
 msgctxt "00000315"
@@ -1922,4 +1922,4 @@ msgstr "Royal Flush"
 msgctxt "00000316"
 msgid ""
 "ベストガード"
-msgstr ""
+msgstr "Tough Nut"
