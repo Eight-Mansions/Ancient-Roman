@@ -72,7 +72,7 @@ Volvo
 // Ptr: 00001B00
 #WRITE(PTR, $0007D56C)
 //ラ・ポルシェ
-Ra Porsche
+All Porsche
 <$00>
 
 
@@ -86,7 +86,7 @@ Porsche
 // Ptr: 00001B1C
 #WRITE(PTR, $0007D4CC)
 //エヴリラヴァ
-All Charm
+All Lover
 <$00>
 
 
@@ -317,7 +317,7 @@ Heal
 // Ptr: 00001D00
 #WRITE(PTR, $0007EAFC)
 //きょじんのおの
-Giant's Hatchet
+Giant's Axe
 <$00>
 
 
@@ -513,7 +513,7 @@ Lightning Rod
 // Ptr: 00001EC4
 #WRITE(PTR, $0007E23C)
 //ひょうがのつえ
-Glacier Staff
+Glacier Rod
 <$00>
 
 
@@ -667,14 +667,14 @@ Scimitar
 // Ptr: 00002020
 #WRITE(PTR, $0007DB5C)
 //ブラッドソード
-Broadsword
+Blood Sword
 <$00>
 
 
 // Ptr: 00002030
 #WRITE(PTR, $0007DB0C)
 //ブロードソード
-Broardsword
+Arming Sword
 <$00>
 
 
@@ -786,14 +786,14 @@ Sailor Armor
 // Ptr: 0000212C
 #WRITE(PTR, $0007EFFC)
 //キングスアーマー
-King's Armor
+Royal Armor
 <$00>
 
 
 // Ptr: 00002140
 #WRITE(PTR, $0007EFAC)
 //プレートメイル
-Platemail
+Plate Mail
 <$00>
 
 
@@ -849,7 +849,7 @@ Ring Mail
 // Ptr: 000021D0
 #WRITE(PTR, $0007ED2C)
 //マジシャンローブ
-Magician Robe
+Mage Cloak
 <$00>
 
 
@@ -905,7 +905,7 @@ Dustpan
 // Ptr: 00002248
 #WRITE(PTR, $0007F72C)
 //かいおうのたて
-Neptune's Shield
+Neptune Shield
 <$00>
 
 
@@ -961,7 +961,7 @@ Fairy Shield
 // Ptr: 000022D4
 #WRITE(PTR, $0007F4AC)
 //デコールシールド
-Decor Shield
+Ornament Shield
 <$00>
 
 
@@ -1017,7 +1017,7 @@ Dragon Helm
 // Ptr: 00002358
 #WRITE(PTR, $0007FAEC)
 //けもののかぶと
-Beast Helmet
+Beast Helm
 <$00>
 
 
@@ -1066,7 +1066,7 @@ Student Bow
 // Ptr: 000023D0
 #WRITE(PTR, $0007F8BC)
 //フルヘルメット
-Full Helmet
+Full Helm
 <$00>
 
 
@@ -1136,7 +1136,7 @@ Student Uniform
 // Ptr: 00002458
 #WRITE(PTR, $0008067C)
 //セーラースカーフ
-Sailor Scarf
+Sailor Neckerchief
 <$00>
 
 
@@ -1171,7 +1171,7 @@ Leather Boots
 // Ptr: 000024B4
 #WRITE(PTR, $000804EC)
 //コンタクトレンズ
-Contact Lense
+Contacts
 <$00>
 
 
@@ -1241,14 +1241,14 @@ Belly Warmer
 // Ptr: 0000253C
 #WRITE(PTR, $000801CC)
 //ネクタイ
-Neck Tie
+Necktie
 <$00>
 
 
 // Ptr: 00002548
 #WRITE(PTR, $0008017C)
 //マフラー
-Scarf
+Knit Scarf
 <$00>
 
 
@@ -1493,7 +1493,7 @@ Life Horn
 // Ptr: 0000272C
 #WRITE(PTR, $00080C6C)
 //かっしんざい
-Angel Infusion
+Angelic Infusion
 <$00>
 
 

@@ -159,6 +159,42 @@ framenum:
 .definelabel FUN_8003eb04, 0x8003e9bc
 
 
+.org 0x800192bc
+	lui a1, 0x801F
+	nop
+
+.org 0x800194bc
+	lui a0, 0x801F
+	nop
+	
+.org 0x80019508
+	lui a2, 0x801F
+	nop
+	
+.org 0x80019574
+	lui a2, 0x801F
+	nop
+	
+.org 0x80019608
+	lui s0, 0x801F
+	nop
+	
+.org 0x8001fbe0
+	lui t1, 0x801F
+	nop
+	
+.org 0x80026814
+	lui s0, 0x801F
+	nop
+
+.org 0x80026830
+	lui v0, 0x801F
+	lw v0, 4(v0)
+	lui v1, 0x801F
+	lw v1, 8(v1)
+
+
+
 
 .org 0x800156bc
 	j LoadCodeFile

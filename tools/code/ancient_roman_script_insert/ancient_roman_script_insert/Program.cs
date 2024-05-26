@@ -337,7 +337,7 @@ namespace ancient_roman_script_insert
                     BinaryReader inBin = new BinaryReader(File.OpenRead(file));
                     inBin.BaseStream.Seek(4, SeekOrigin.Begin);
                     uint nextFilePos = inBin.ReadUInt32();
-                    if (file.Contains("S008_DAT\\0013"))
+                    if (file.Contains("S008_DAT\\0013") || file.Contains("S012_DAT\\0006"))
                         nextFilePos = 0x4050;
 
 
@@ -364,7 +364,7 @@ namespace ancient_roman_script_insert
                     inBin.BaseStream.Seek(0, SeekOrigin.Begin);
                     uint evfhStart = inBin.ReadUInt32();
                     uint nextFileStart = inBin.ReadUInt32();
-                    if (file.Contains("S008_DAT\\0013"))
+                    if (file.Contains("S008_DAT\\0013") || file.Contains("S012_DAT\\0006"))
                         nextFileStart = 0x4050;
 
 
@@ -525,17 +525,6 @@ namespace ancient_roman_script_insert
 
                             int insPosStart = (int)newBin.BaseStream.Position;
                             int insPosEnd = (int)newBin.BaseStream.Position + poEntry.encoded.Length;
-
-                            if (insPosStart <= 0x4050 && 0x4050 <= insPosEnd)
-                            {
-                                newBin.BaseStream.Seek(0x4060, SeekOrigin.Begin);
-                            }
-                            if (insPosStart <= 0x429C && 0x429C <= insPosEnd)
-                            {
-                                newBin.BaseStream.Seek(0x42AC, SeekOrigin.Begin);
-                            }
-                            
-
 
                             poEntry.insPos = (uint)newBin.BaseStream.Position - evfhStart;
                             poEntries[i] = poEntry;
