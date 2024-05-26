@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-20 17:30+0000\n"
+"PO-Revision-Date: 2024-05-26 20:14+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s009/en/>\n"
@@ -136,13 +136,13 @@ msgstr "Fara: No way!"
 msgctxt "00000020"
 msgid ""
 "ミシリア：ねえ、ファラが持っているの、"
-msgstr "Michelia: Hey, what about the stick Fara's holding?"
+msgstr "Michelia: Hey, you don't suppose we could use the thing Fara"
 
 #: 00112605
 msgctxt "00000021"
 msgid ""
 "あれ、おばあさんにもらった杖じゃ・・・"
-msgstr "The one from the old lady?"
+msgstr "received from the old lady, do you...?"
 
 #: 00112678
 msgctxt "00000022"
@@ -160,7 +160,7 @@ msgstr "Let's try going inside."
 msgctxt "00000024"
 msgid ""
 "バーク：だから、見せろって、言ってる、だろ！"
-msgstr "Burke: I thought of that! It's why I told her to show it to me!"
+msgstr "Burke: I thought of that first! It's why I told her to show it to me!"
 
 #: 0011272F
 msgctxt "00000025"
@@ -503,7 +503,7 @@ msgstr "Huh? It won't open."
 msgctxt "00000080"
 msgid ""
 "バーク：俺に任せてみろって。"
-msgstr "Burke: Stand back and leave it to the professionals."
+msgstr "Burke: Stand back and leave it to the professional."
 
 #: 002AD1D8
 msgctxt "00000081"
@@ -527,7 +527,7 @@ msgstr "There may be someone versed in magic we can talk to in town."
 msgctxt "00000084"
 msgid ""
 "ミシリア：そういえば・・・"
-msgstr "Michelia: Speaking of which..."
+msgstr "Michelia: A magician, you say..."
 
 #: 0033617E
 msgctxt "00000085"
