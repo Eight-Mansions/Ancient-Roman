@@ -1884,7 +1884,7 @@ Nautilus Port City
 // Ptr: 00004004
 #WRITE(PTR, $0008C878)
 //ピクシアンの森
-Pixie Forest
+Pixian Forest
 <$00>
 
 

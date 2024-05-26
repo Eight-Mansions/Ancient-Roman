@@ -119,6 +119,32 @@ CallGetHeaderNameCenter:
 	
 	j 0x800526ac
 	nop
+	
+CallGetHeaderNameCenterForShops:
+	addiu sp, sp, -20
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	sw a3, 16(sp)
+	
+	jal GetHeaderNameCenterForShops
+	addu a0, r0, s3
+	
+	sra a2, s1, 0x10
+	addu a2, a2, v0
+	
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a3, 16(sp)
+	
+	jal 0x8003d8b8
+	addiu sp, sp, 20
+	
+	
+	j 0x80057e0c
+	nop
 
 StoreFrameNumber:
 	lw v0, 0x18(sp)
@@ -222,6 +248,11 @@ framenum:
 	
 .org 0x8003dc40
 	j CallGetSentenceWidthForMenus
+
+; For cost in shops?	
+; .org 0x                             LAB_8003dab4                                    XREF[1]:     8003db84(j)  
+        ; 8003dab4 00 00 22 92     lbu        v0,0x0(s1)
+
 	
 .org 0x80040368
 	lh a3, 0x04(s0)
@@ -230,9 +261,9 @@ framenum:
 .org 0x800526bc
 	jal SetBabyLetterWidths
 	
-.org 0x80057e1c
+.org 0x80057e1c	; Shop titles
 	jal SetBabyLetterWidths
-	li a3, 0x0D
+	li a3, 0x1A
 
 .org 0x80052870
 	jal SetBabyLetterWidths
@@ -312,9 +343,30 @@ framenum:
 
 .org 0x800526a4
 	j CallGetHeaderNameCenter
-	
+
 .org 0x80052680
 	nop
+	
+.org 0x80057e04
+	j CallGetHeaderNameCenterForShops
+
+.org 0x80057de0
+	nop
+	
+
+
+.org 0x80057da8 ; Increase graphic reserve spots for shop names
+	ori a0 ,r0, 0x410
+	ori a0, r0, 0x410
+
+.org 0x80057dd0	; Increase initialzing graphic reserve spots for shop names
+	ori v1, r0, 0x1A
+
+.org 0x80057e94
+    ori a2, r0, 0x1A
+
+	
+
 
 
 .org 0x80052814	; Increase allowed characters for Gahme for Item shop
@@ -326,6 +378,12 @@ framenum:
 
 .org 0x8005293c
 	ori a2, r0, 0x5
+	
+.org 0x8005282c
+	addiu s2, 0x002f ; Tweak position of Gahme
+
+.org 0x800527d4
+	addiu a2, s2, -2
 
 	
 

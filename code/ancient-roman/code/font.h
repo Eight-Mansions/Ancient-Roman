@@ -30,6 +30,8 @@ extern "C" {
 
 	u32 GetHeaderNameCenter(u8* string);
 
+	u32 GetHeaderNameCenterForShops(u8* string);
+
 	extern u32 locationNameWidth;
 }
 

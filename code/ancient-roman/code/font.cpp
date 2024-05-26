@@ -124,7 +124,7 @@ const u8 menuLetterWidths[] = {
 	0x04, // ,
 	0x09, // -
 	0x03, // .
-	0x08, // /
+	0x07, // /
 	0x08, // 0
 	0x05, // 1
 	0x08, // 2
@@ -503,5 +503,51 @@ u32 GetHeaderNameCenter(u8* string)
 	}
 
 	return ((0x34 >> 1) - (width >> 1)) + 0x08; // 0x34 is width of the box
+}
+
+u32 GetHeaderNameCenterForShops(u8* string)
+{
+	u32 width = 0;
+	for (int i = 0; i < 0x20; i++)
+	{
+
+		ushort letter = string[i];
+		if (letter == 0)
+			break;
+
+		if (letter > 0x80)
+		{
+			letter = (letter << 0x8) + string[i + 1];
+			i++;
+
+			if (letter >= 0x8260 && letter <= 0x8279) // Uppercase
+			{
+				width += menuLetterWidths[letter - 0x823F];
+			}
+			else if (letter >= 0x8281 && letter <= 0x829A) // Lowecase
+			{
+				width += menuLetterWidths[letter - 0x8240];
+			}
+			else if (letter == 0x8148) // ?
+			{
+				width += menuLetterWidths[letter - 0x8129];
+			}
+			else if (letter == 0x8149) // !
+			{
+				width += menuLetterWidths[letter - 0x8148];
+			}
+			else
+			{
+				width += 15;
+			}
+		}
+		else
+		{
+			width += menuLetterWidths[letter - 0x20];
+		}
+
+	}
+
+	return (0x74 - width) / 2;
 }
 
