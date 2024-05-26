@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:41-0400\n"
-"PO-Revision-Date: 2024-05-26 00:32+0000\n"
+"PO-Revision-Date: 2024-05-26 20:51+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s008/en/>\n"
@@ -360,7 +360,7 @@ msgstr "I sense someone here. They seem to be in that building over there."
 msgctxt "00000056"
 msgid ""
 "バーク：あれか？・・・くんくん・・・"
-msgstr "Burke: That one? Sniff, sniff..."
+msgstr "Burke: That one? *sniff, sniff...*"
 
 #: 00224731
 msgctxt "00000057"
@@ -595,13 +595,13 @@ msgstr "You're just going to ignore that collapsed man?"
 msgctxt "00000094"
 msgid ""
 "男：やった！助けか？あんた、助けにきてくれたんだろ？"
-msgstr "Man: Yay! Gonna save me? Came here to save me?"
+msgstr "Man: Yay! Gonna save us? Came here to save us?"
 
 #: 003362A1
 msgctxt "00000095"
 msgid ""
 "こんだけいれば、今度こそ、この町も助かる！"
-msgstr "With just a bit of your help, then THIS TIME, we could save this town!"
+msgstr "With just a bit more muscle, THIS TIME the town can be saved!"
 
 #: 003362CF
 msgctxt "00000096"
@@ -613,19 +613,19 @@ msgstr "McLeod: What do you mean?"
 msgctxt "00000097"
 msgid ""
 "男：いや、元気な姉ちゃんが助けてやるって、"
-msgstr "Man: Well, that passionate girl declared that she'd help me, you know?"
+msgstr "Man: Well, a passionate girl declared that she'd help us, you hear?"
 
 #: 00336325
 msgctxt "00000098"
 msgid ""
 "この塔をのぼっていったんだよ。で、それっきりさ。"
-msgstr "You just gotta climb that tower. That's it!"
+msgstr "She went and climbed that tower, then not a peep since."
 
 #: 00336359
 msgctxt "00000099"
 msgid ""
 "カイ：・・・誰なんだろう？"
-msgstr "Kai: ...who was that?"
+msgstr "Kai: Who could that have been...?"
 
 #: 00336386
 msgctxt "00000100"
@@ -686,8 +686,8 @@ msgctxt "00000109"
 msgid ""
 "やつら、俺の酒をがばがばのみやがるんだ。なくなっちまわないうちにさ。"
 msgstr ""
-"They just keep downing all my sake! I don't care what you do, just make them "
-"disappear!"
+"They just keep downing all my booze! I don't care what you do, just make "
+"them disappear!"
 
 #: 00336571
 msgctxt "00000110"
@@ -699,7 +699,7 @@ msgstr "Item Shop: YEAH! NO IDEA WHAT'S GOING ON, BUT THE TOWN WAS ATTACKED."
 msgctxt "00000111"
 msgid ""
 "ミーノ商売ドーグ、ナクナッテナイカ心配デース。"
-msgstr "BETTER NOT HAVE LOOTED ALL MY SHOP TOOLS!"
+msgstr "BETTER NOT HAVE LOOTED ALL MY TOOLS!"
 
 #: 0037ABA6
 msgctxt "00000112"
