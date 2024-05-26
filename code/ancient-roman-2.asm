@@ -375,10 +375,10 @@ framenum:
 	ori a2, r0, 0x5
 	
 .org 0x800526e4
-	addiu s2, 0x002f ; Tweak position of Gahme
+	addiu s2, 0x0033 ; Tweak position of Gahme
 
 .org 0x8005268c
-	addiu a2, s2, -2
+	addiu a2, s2, 2
 
 	
 

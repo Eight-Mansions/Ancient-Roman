@@ -380,11 +380,10 @@ framenum:
 	ori a2, r0, 0x5
 	
 .org 0x8005282c
-	addiu s2, 0x002f ; Tweak position of Gahme
+	addiu s2, 0x0033 ; Tweak position of Gahme
 
 .org 0x800527d4
-	addiu a2, s2, -2
-
+	addiu a2, s2, 2
 	
 
 .org 0x8003fa44	; Hard code copy length (although it will stop once it hits a 0)
