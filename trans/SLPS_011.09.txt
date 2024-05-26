@@ -1101,7 +1101,7 @@ School Swimsuit
 // Ptr: 0000241C
 #WRITE(PTR, $0008080C)
 //スーパールーズ
-Super Loose Socks
+Loose Socks EX
 <$00>
 
 
@@ -1136,7 +1136,7 @@ Student Uniform
 // Ptr: 00002458
 #WRITE(PTR, $0008067C)
 //セーラースカーフ
-Sailor Neckerchief
+Sailor Scarf
 <$00>
 
 
@@ -2306,7 +2306,7 @@ HP
 #WRITE(PTR, $0008DC2C)
 #WRITE(PTR, $0008DC38)
 //かざり
-Accessory
+Trinket
 <$00>
 
 

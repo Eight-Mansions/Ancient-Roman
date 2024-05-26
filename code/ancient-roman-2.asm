@@ -527,19 +527,19 @@ framenum:
 	.db 0x10	; Close
 
 .org 0x8009D3EC
-	.db 0x01	; Weapon
+	.db 0x10	; Weapon
 .org 0x8009D3F8
-	.db 0x01	; Head
+	.db 0x10	; Head
 .org 0x8009D404
-	.db 0x01	; Armor
+	.db 0x10	; Armor
 .org 0x8009D410
-	.db 0x01	; Shield
+	.db 0x10	; Shield
 .org 0x8009D41C
-	.db 0x01	; Accessory
+	.db 0x10	; Accessory
 .org 0x8009D428
-	.db 0x01	; Accessory
+	.db 0x10	; Accessory
 .org 0x8009D434
-	.db 0x01	; Accessory
+	.db 0x10	; Accessory
 
 .org 0x8009D440
 	.db 0x10 ; Equipped Sword
