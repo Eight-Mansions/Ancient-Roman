@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:33-0400\n"
-"PO-Revision-Date: 2024-05-26 00:32+0000\n"
+"PO-Revision-Date: 2024-05-26 17:49+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s007/en/>\n"
@@ -747,7 +747,7 @@ msgstr "See that workshop over there? That's where he works."
 msgctxt "00000119"
 msgid ""
 "男：他に何か聞きたいことはないの？"
-msgstr "Man: Umm, didn't you need something else?"
+msgstr "Man: Umm, did you need something else?"
 
 #: 00156C2F
 msgctxt "00000120"
@@ -843,7 +843,7 @@ msgstr "Kai: Ah, that's too bad."
 msgctxt "00000135"
 msgid ""
 "スバノフ：・・・それじゃ"
-msgstr "Subahnoff: ...how about meeting me at the bar tonight?"
+msgstr "Subahnoff: How about meeting me at the bar tonight instead?"
 
 #: 00157047
 msgctxt "00000136"
@@ -1046,8 +1046,7 @@ msgctxt "00000168"
 msgid ""
 "おばさん：魔導師だなんて、名前を聞いただけでふるえちゃうわ。"
 msgstr ""
-"Older Lady: Even just hearing that mage's name will send a shiver down your "
-"spine."
+"Older Lady: Even just hearing that mage's name sends a shiver down my spine."
 
 #: 0019B4EA
 msgctxt "00000169"
@@ -1083,7 +1082,7 @@ msgstr "He's always working when I walk by. Does that man ever rest?"
 msgctxt "00000174"
 msgid ""
 "おばさん：うちの人ってやたら飲むのよね。"
-msgstr "Older Lady: My man, however, just drinks."
+msgstr "Older Lady: My man, that oaf, just drinks."
 
 #: 0019B631
 msgctxt "00000175"
@@ -1125,13 +1124,13 @@ msgstr "It's locked."
 msgctxt "00000181"
 msgid ""
 "老女：・・・むにゃむにゃ。"
-msgstr "Elderly Woman: Snore, snore..."
+msgstr "Elderly Woman: *...snore, snore...*"
 
 #: 001DFA39
 msgctxt "00000182"
 msgid ""
 "気持ち良さそうに寝ている。"
-msgstr "She seems to be sleeping soundly."
+msgstr "She's sleeping soundly."
 
 #: 001DFA83
 msgctxt "00000183"
@@ -1209,7 +1208,7 @@ msgstr "Maybe she's got a clue."
 msgctxt "00000195"
 msgid ""
 "うすぎたないほこらがある。"
-msgstr "There's a filthy shrine here."
+msgstr "There's a dirty shrine here."
 
 #: 001DFD07
 msgctxt "00000196"
@@ -1697,7 +1696,7 @@ msgstr "From then on, do as you please."
 msgctxt "00000275"
 msgid ""
 "カイ：ハア・・・どうもありがとうございます。"
-msgstr "Kai: Sigh... Thank you very much."
+msgstr "Kai: *sigh...* Thank you very much."
 
 #: 00224965
 msgctxt "00000276"
@@ -1878,7 +1877,7 @@ msgstr "...ahh, just thinking about it makes me want to chop down trees."
 msgctxt "00000305"
 msgid ""
 "スバノフ：ああ、すみません。お手数かけます。"
-msgstr "Subahnoff: Ahh, sorry. The head went to the clouds there."
+msgstr "Subahnoff: Ahh, sorry. Thanks for being patient."
 
 #: 002AD342
 msgctxt "00000306"
@@ -1890,7 +1889,7 @@ msgstr "Kai: Not at all! We bothered you while you were busy working."
 msgctxt "00000307"
 msgid ""
 "スバノフ：昼間は、いつもあんな感じですよ。"
-msgstr "Subahnoff: It's always like this around noon."
+msgstr "Subahnoff: I'm usually like that during the day."
 
 #: 002AD3C4
 msgctxt "00000308"
@@ -1902,7 +1901,7 @@ msgstr "I can't calm down if I'm not working."
 msgctxt "00000309"
 msgid ""
 "カイ：ところで、エルフの事を聞きたいんですけど・・・"
-msgstr "Kai: By the way, we wanted to ask you about the elves..."
+msgstr "Kai: So, about the elves..."
 
 #: 002AD458
 msgctxt "00000310"
@@ -1974,7 +1973,7 @@ msgctxt "00000320"
 msgid ""
 "まあ、世の中にはアナタのような人もいたんですねえ。"
 msgstr ""
-"Although, I suppose there's people like yourselves asking, aren't there."
+"Although, I suppose there's people like yourselves asking, aren't there?"
 
 #: 002AD759
 msgctxt "00000321"
@@ -2004,10 +2003,10 @@ msgstr ""
 msgctxt "00000325"
 msgid ""
 "たい屋"
-msgstr ""
+msgstr "Whatever"
 
 #: 002AD21E
 msgctxt "00000326"
 msgid ""
 "マスターＡ"
-msgstr ""
+msgstr "Ordinary Bartender"
