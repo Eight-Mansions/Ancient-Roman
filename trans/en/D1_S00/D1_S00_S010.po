@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-26 00:32+0000\n"
+"PO-Revision-Date: 2024-05-26 20:14+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s010/en/>\n"
@@ -40,7 +40,7 @@ msgstr "All that's left is to follow the path you believe in."
 msgctxt "00000004"
 msgid ""
 "エルフの女：・・・以上です。長老。"
-msgstr "Female Elf: ...that's all, Elder."
+msgstr "Female Elf: ...that's all, elder."
 
 #: 00000300
 msgctxt "00000005"
@@ -130,7 +130,7 @@ msgstr "But, at this rate, I fear I cannot atone for what we did."
 msgctxt "00000019"
 msgid ""
 "エルフの女：・・・長老。"
-msgstr "Female Elf: ...Elder."
+msgstr "Female Elf: ...elder."
 
 #: 000006AB
 msgctxt "00000020"
@@ -178,13 +178,13 @@ msgstr "Burke: I'm against it--"
 msgctxt "00000027"
 msgid ""
 "カイ：ありがとうございます。"
-msgstr "Kai: Thank you very much."
+msgstr "Kai: We'd gladly accept."
 
 #: 0000086D
 msgctxt "00000028"
 msgid ""
 "バーク：俺もさんせいです・・・"
-msgstr "Burke: Okay, I'm in."
+msgstr "Burke: Okay, I'm in..."
 
 #: 0000089D
 msgctxt "00000029"
