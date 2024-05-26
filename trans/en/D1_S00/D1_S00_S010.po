@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-26 20:14+0000\n"
+"PO-Revision-Date: 2024-05-27 21:30+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s010/en/>\n"
@@ -244,7 +244,7 @@ msgstr "Kai: Okay, let's return to New Heinrogue Castle."
 msgctxt "00000038"
 msgid ""
 "マクロード：それでは、ルーンの関までお供しましょう。"
-msgstr "McLeod: That means we're off to the Rune Gate."
+msgstr "McLeod: I'll accompany you as far as the Rune Gate."
 
 #: 000449DD
 msgctxt "00000039"
@@ -664,7 +664,7 @@ msgstr "McLeod: Lord Kai, please continue your search."
 msgctxt "00000106"
 msgid ""
 "サリナ：ちくしょう・・・"
-msgstr "Sarina: Darn..."
+msgstr "Sarina: Damn it..."
 
 #: 00156B32
 msgctxt "00000107"
@@ -748,7 +748,7 @@ msgstr "Kai: Please do. I'll come back later."
 msgctxt "00000120"
 msgid ""
 "サリナ：やっっっと、もどってきたかい。"
-msgstr "Sarina: Oh, hey! Finally back, I see!"
+msgstr "Sarina: Oh, hey! Took you long enough."
 
 #: 00157024
 msgctxt "00000121"
@@ -760,19 +760,19 @@ msgstr "Kai: Sarina..."
 msgctxt "00000122"
 msgid ""
 "バーク：いやに元気になったじゃねえか。さっきとは、えらい違いだな。"
-msgstr "Burke: You're weirdly perky about this. Very different than before."
+msgstr "Burke: You're weirdly perky. Very different than before."
 
 #: 001570AB
 msgctxt "00000123"
 msgid ""
 "サリナ：このサリナ様が、これぐらいでくじけてたまるかっつーの。"
-msgstr "Sarina: As if one such as I could be so disheartened by such play!"
+msgstr "Sarina: As if one such as I could be disheartened by such play!"
 
 #: 001570ED
 msgctxt "00000124"
 msgid ""
 "親の死に目に会えただけでも、マシってもんさ。"
-msgstr "Compared to seeing my father die in front of me, this is nothing!"
+msgstr "Not even seeing my father die in front of me could hold me back!"
 
 #: 0015712B
 msgctxt "00000125"
@@ -791,7 +791,8 @@ msgctxt "00000127"
 msgid ""
 "サリナ：モタモタしてるなら、先に行くぜ。"
 msgstr ""
-"Sarina: Get a move on already. There's no need to wait around here with us."
+"Sarina: Get a move on already. There's no need for us to wait around any "
+"longer."
 
 #: 0015720A
 msgctxt "00000128"
