@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-26 20:51+0000\n"
+"PO-Revision-Date: 2024-05-27 21:30+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s012/en/>\n"
@@ -843,7 +843,7 @@ msgstr "I'm Minister Selbu McCullen. Do you remember me?"
 msgctxt "00000136"
 msgid ""
 "サリナ：ちゃ、ちゃんと覚えてるってば。"
-msgstr "Sarina: Tsk! Yeah, yeah, I remember you."
+msgstr "Sarina: *tsk!* Yeah, yeah, I remember you."
 
 #: 0019CC32
 msgctxt "00000137"
@@ -861,7 +861,7 @@ msgstr "Sarina: ..."
 msgctxt "00000139"
 msgid ""
 "大臣：ブロアには気の毒なことをした。"
-msgstr "Minister: I'm sorry for what happened to your father, Sir Blore."
+msgstr "Minister: I'm sorry for what happened to Sir Blore, your father."
 
 #: 0019CCD0
 msgctxt "00000140"
@@ -1018,13 +1018,13 @@ msgstr "Burke: Huh? You say something?"
 msgctxt "00000165"
 msgid ""
 "ミーナ：いや、べつに。"
-msgstr "Minna: Nope, nothing at all!"
+msgstr "Minna: Nope, nothing at all."
 
 #: 0019D302
 msgctxt "00000166"
 msgid ""
 "大臣：「封印の島」の洞くつに、昔から伝わる"
-msgstr "Minister: There's a legend of powerful equipment"
+msgstr "Minister: There's a legend that speaks of powerful equipment"
 
 #: 0019D330
 msgctxt "00000167"
@@ -1802,7 +1802,7 @@ msgstr "Sarina: Hey, Kai. What are you, anyway?"
 msgctxt "00000292"
 msgid ""
 "カイ：え、何者・・・って？"
-msgstr "Kai: Huh? What am i?"
+msgstr "Kai: Huh? What am I?"
 
 #: 003BF245
 msgctxt "00000293"
@@ -1905,7 +1905,7 @@ msgstr "Burke: Hey, don't laugh at me!"
 msgctxt "00000309"
 msgid ""
 "ミシリア：くすくす・・・"
-msgstr "Michelia: Giggle, giggle!"
+msgstr "Michelia: *giggle, giggle...*"
 
 #: 003BF6BE
 msgctxt "00000310"
@@ -1965,7 +1965,7 @@ msgstr "Minna: Hahaha!"
 msgctxt "00000319"
 msgid ""
 "ミシリア：くすくすくす・・・"
-msgstr "Michelia: *giggle, giggle, giggle*..."
+msgstr "Michelia: *giggle, giggle, giggle...*"
 
 #: 003BF931
 msgctxt "00000320"
