@@ -1,8 +1,10 @@
 #include "text.h"
 
+#define GetPtr(x)	*((u32*)(x))
+
 void LoadText(char* dest, char* src)
 {
-	u16* textBoxInfo = (u16*)0x8013acd4;
+	u16* textBoxInfo = (u16*)NumWindowLinesPos;
 	if (textBoxInfo[0] == 0xB4 && textBoxInfo[1] == 0x13) // Regular dialogue
 		textBoxInfo[0] = 0xA8;
 

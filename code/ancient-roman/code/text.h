@@ -11,6 +11,8 @@ extern "C" {
 	extern void CopyString(char* dest, char* src);
 
 	u8 CountLetters(char* line);
+
+	extern u32 NumWindowLinesPos;
 }
 
 #endif

@@ -169,6 +169,8 @@ DisplayMovieSubs:
 
 framenum:
 	.dw 0
+NumWindowLinesPos:
+	.dw 0x8013ab8c
 .close
 
 .open "exe\SLPS_011.09",0x8000F800

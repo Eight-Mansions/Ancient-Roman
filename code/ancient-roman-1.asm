@@ -169,6 +169,8 @@ DisplayMovieSubs:
 
 framenum:
 	.dw 0
+NumWindowLinesPos:
+	.dw 0x8013acd4
 .close
 
 .open "exe\SLPS_011.08",0x8000F800
@@ -563,7 +565,7 @@ framenum:
 .org 0x8009d57c
 	.db 0x10	; Accessory
 	
-.org 0x8009d580
+.org 0x8009d584
 	.db 0x28 ; Equipped Sword x position
 .org 0x8009d590
 	.db 0x28 ; Equipped Head x position
