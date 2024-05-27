@@ -139,7 +139,7 @@ CallGetHeaderNameCenterForShops:
 	lw a1, 8(sp)
 	lw a3, 16(sp)
 	
-	jal 0x8003d8b8
+	jal 0x8003d770
 	addiu sp, sp, 20
 	
 	
@@ -344,10 +344,10 @@ framenum:
 .org 0x80052538
 	nop
 	
-.org 0x80057e04
+.org 0x80057cbc
 	j CallGetHeaderNameCenterForShops
 
-.org 0x80057de0
+.org 0x80057c98
 	nop
 	
 
@@ -619,17 +619,17 @@ framenum:
 	
 .org 0x8009D604
 	.db 0x10 ; Item Shop 1
-.org 0x8009D610
-	.db 0x10 ; Item Shop 1
-.org 0x8009D61C
-	.db 0x10 ; Item Shop 3
 .org 0x8009D628
-	.db 0x10 ; Item Shop 4
-.org 0x8009D634
-	.db 0x10 ; Item Shop 5
-.org 0x8009D640
-	.db 0x10 ; Item Shop 6
+	.db 0x10 ; Item Shop 1
 .org 0x8009D64C
+	.db 0x10 ; Item Shop 3
+.org 0x8009D670
+	.db 0x10 ; Item Shop 4
+.org 0x8009D694
+	.db 0x10 ; Item Shop 5
+.org 0x8009D6B8
+	.db 0x10 ; Item Shop 6
+.org 0x8009D6DC
 	.db 0x10 ; Item Shop 7
 	
 .org 0x8009CF64
@@ -740,7 +740,7 @@ framenum:
 
 .org 0x8009D60C ; Item cost x position
 	.db 0x65
-.org 0x8009D60C ; Item cost x position
+.org 0x8009D630 ; Item cost x position
 	.db 0x65
 .org 0x8009D654 ; Item cost x position
 	.db 0x65

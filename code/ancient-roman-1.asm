@@ -621,7 +621,7 @@ framenum:
 	.db 0x10 ; Item 13
 .org 0x8009d268
 	.db 0x10 ; Item 14
-	
+
 .org 0x8009d74c
 	.db 0x10 ; Item Shop 1
 .org 0x8009D770
