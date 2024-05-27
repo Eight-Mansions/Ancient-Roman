@@ -218,7 +218,9 @@ framenum:
 	lw v0, 4(v0)
 	lui v1, 0x801F
 	lw v1, 8(v1)
+	
 
+	
 
 
 
@@ -259,7 +261,7 @@ framenum:
 .org 0x80057cd4	; Shop titles
 	jal SetBabyLetterWidths
 	li a3, 0x1A
-	
+
 .org 0x80052728
 	jal SetBabyLetterWidths
 	
@@ -371,7 +373,7 @@ framenum:
 .org 0x80052708
 	ori v0, r0, 0x5
 
-.org 0x800527f0
+.org 0x800527f4
 	ori a2, r0, 0x5
 	
 .org 0x800526e4
@@ -379,7 +381,6 @@ framenum:
 
 .org 0x8005268c
 	addiu a2, s2, 2
-
 	
 
 .org 0x8003f8fc	; Hard code copy length (although it will stop once it hits a 0)
@@ -525,6 +526,22 @@ framenum:
 	.db 0x10	; Load
 .org 0x8009CF38
 	.db 0x10	; Close
+	
+	
+.org 0x8009D3E8
+	.db 0x04	; Weapon x position
+.org 0x8009D3F4
+	.db 0x04	; Head x position
+.org 0x8009D400
+	.db 0x04	; Armor x position
+.org 0x8009D40C
+	.db 0x04	; Shield x position
+.org 0x8009D418
+	.db 0x04	; Accessory x position
+.org 0x8009D424
+	.db 0x04	; Accessory x position
+.org 0x8009D430
+	.db 0x04	; Accessory x position
 
 .org 0x8009D3EC
 	.db 0x10	; Weapon
@@ -540,6 +557,21 @@ framenum:
 	.db 0x10	; Accessory
 .org 0x8009D434
 	.db 0x10	; Accessory
+	
+.org 0x8009D43c
+	.db 0x28 ; Equipped Sword x position
+.org 0x8009D448
+	.db 0x28 ; Equipped Head x position
+.org 0x8009D454
+	.db 0x28 ; Equipped Armor x position
+.org 0x8009D460
+	.db 0x28 ; Equipped Shield x position
+.org 0x8009D46c
+	.db 0x28 ; Equipped Accessory 1 x position
+.org 0x8009D478
+	.db 0x28 ; Equipped Accessory 2 x position
+.org 0x8009D484
+	.db 0x28 ; Equipped Accessory 3 x position
 
 .org 0x8009D440
 	.db 0x10 ; Equipped Sword
@@ -702,7 +734,10 @@ framenum:
 	.db 0x10
 .org 0x8009D858
 	.db 0x10
-	
+
+
+
+
 .org 0x8009D60C ; Item cost x position
 	.db 0x65
 .org 0x8009D60C ; Item cost x position

@@ -222,6 +222,8 @@ framenum:
 
 	
 
+
+
 .org 0x800156c4
 	j LoadCodeFile
 
@@ -529,6 +531,22 @@ framenum:
 	.db 0x10	; Load
 .org 0x8009d080
 	.db 0x10	; Close
+	
+	
+.org 0x8009d530
+	.db 0x04	; Weapon x position
+.org 0x8009d53c
+	.db 0x04	; Head x position
+.org 0x8009d548
+	.db 0x04	; Armor x position
+.org 0x8009d554
+	.db 0x04	; Shield x position
+.org 0x8009d560
+	.db 0x04	; Accessory x position
+.org 0x8009d56c
+	.db 0x04	; Accessory x position
+.org 0x8009d578
+	.db 0x04	; Accessory x position
 
 .org 0x8009d534
 	.db 0x10	; Weapon
@@ -544,6 +562,21 @@ framenum:
 	.db 0x10	; Accessory
 .org 0x8009d57c
 	.db 0x10	; Accessory
+	
+.org 0x8009d580
+	.db 0x28 ; Equipped Sword x position
+.org 0x8009d590
+	.db 0x28 ; Equipped Head x position
+.org 0x8009d59c
+	.db 0x28 ; Equipped Armor x position
+.org 0x8009d5a8
+	.db 0x28 ; Equipped Shield x position
+.org 0x8009d5b4
+	.db 0x28 ; Equipped Accessory 1 x position
+.org 0x8009d5c0
+	.db 0x28 ; Equipped Accessory 2 x position
+.org 0x8009d5cc
+	.db 0x28 ; Equipped Accessory 3 x position
 
 .org 0x8009d588
 	.db 0x10 ; Equipped Sword
