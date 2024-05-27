@@ -707,6 +707,39 @@ framenum:
 .org 0x8009D9A0
 	.db 0x10
 
+
+
+
+.org 0x8009d754 ; Item cost x position
+	.db 0x65
+.org 0x8009d778 ; Item cost x position
+	.db 0x65
+.org 0x8009d79c ; Item cost x position
+	.db 0x65
+.org 0x8009D7C0 ; Item cost x position
+	.db 0x65
+.org 0x8009D7E4 ; Item cost x position
+	.db 0x65
+.org 0x8009D808 ; Item cost x position
+	.db 0x65
+.org 0x8009D82C ; Item cost x position
+	.db 0x65
+
+.org 0x8009d760 ; Gahme x position
+	.db 0x97	
+.org 0x8009d784
+	.db 0x97
+.org 0x8009d7a8
+	.db 0x97	
+.org 0x8009d7cc
+	.db 0x97
+.org 0x8009d7f0
+	.db 0x97
+.org 0x8009d814
+	.db 0x97
+.org 0x8009d838
+	.db 0x97
+	
 .org 0x8009d764 ; Gahme
 	.db 0x10	
 .org 0x8009d788
