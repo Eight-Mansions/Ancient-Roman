@@ -2,485 +2,485 @@
 msgctxt "00000000"
 msgid ""
 "カイ：これは人形だ・・・"
-msgstr ""
+msgstr "Kai: What's a doll doing here?"
 
 #: 0019B1DE
 msgctxt "00000001"
 msgid ""
 "ミーナ：おそらくここを守るために、古代に設置されたものでしょう。"
-msgstr ""
+msgstr "Minna: This must have been placed here to protect this place many years ago."
 
 #: 0019B230
 msgctxt "00000002"
 msgid ""
 "バーク：おっ、いいもんもってるぜ。"
-msgstr ""
+msgstr "Burke: Hey, check out what it's holding!"
 
 #: 0019B26C
 msgctxt "00000003"
 msgid ""
 "こわれた人形からウィンドソードを手に入れた。"
-msgstr ""
+msgstr "You found a Wind Sword in the broken doll's hands!"
 
 #: 0019B2C9
 msgctxt "00000004"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 0019B2FF
 msgctxt "00000005"
 msgid ""
 "カイ：もうなにもないな。"
-msgstr ""
+msgstr "Kai: There's nothing else here."
 
 #: 0019B33A
 msgctxt "00000006"
 msgid ""
 "バーク：なに見ているんだ？"
-msgstr ""
+msgstr "Burke: What're you looking at?"
 
 #: 0019B377
 msgctxt "00000007"
 msgid ""
 "ミシリア：カイ、どうしたの？"
-msgstr ""
+msgstr "Michelia: Kai, what's up?"
 
 #: 0019B3B6
 msgctxt "00000008"
 msgid ""
 "サリナ：カイ、なに見てんだよ？"
-msgstr ""
+msgstr "Sarina: Kai, what'cha looking at?"
 
 #: 0019B3F7
 msgctxt "00000009"
 msgid ""
 "カイ：あっ！"
-msgstr ""
+msgstr "Kai: Ahh!"
 
 #: 0019B40A
 msgctxt "00000010"
 msgid ""
 "なんだ、ごみか・・・"
-msgstr ""
+msgstr "Aw, it's just trash..."
 
 #: 0019B44B
 msgctxt "00000011"
 msgid ""
 "カイ：もうなにもないよ・・・あっ！！"
-msgstr ""
+msgstr "Kai: There's nothing else-- Woah!"
 
 #: 0019B476
 msgctxt "00000012"
 msgid ""
 "こわれた人形の中からをバンパイアスピアを見つけた。"
-msgstr ""
+msgstr "You found a Vampire Spear inside the broken doll!"
 
 #: 0019B4AF
 msgctxt "00000013"
 msgid ""
 "カイ：探してみるもんだな。"
-msgstr ""
+msgstr "Kai: Might as well check it out."
 
 #: 0019B4F9
 msgctxt "00000014"
 msgid ""
 "カイ：さすがにもうなにもないみたいだ。"
-msgstr ""
+msgstr "Kai: There can't be anything else here."
 
 #: 0019B579
 msgctxt "00000015"
 msgid ""
 "カイ：もうなにもない・・・"
-msgstr ""
+msgstr "Kai: There's nothing else here..."
 
 #: 0019B5D3
 msgctxt "00000016"
 msgid ""
 "カイ：これは人形だ・・・"
-msgstr ""
+msgstr "Kai: What's a doll doing here?"
 
 #: 0019B5FD
 msgctxt "00000017"
 msgid ""
 "ミーナ：おそらくここを守るために、古代に設置されたものでしょう。"
-msgstr ""
+msgstr "Minna: This must have been placed here to protect this place many years ago."
 
 #: 0019B64F
 msgctxt "00000018"
 msgid ""
 "バーク：おっ、いいもんもってるぜ。"
-msgstr ""
+msgstr "Burke: Hey, check out what it's holding!"
 
 #: 0019B68B
 msgctxt "00000019"
 msgid ""
 "こわれた人形からアイスアックスを手に入れた。"
-msgstr ""
+msgstr "You found an Ice Axe inside of the broken doll!"
 
 #: 0019B6E8
 msgctxt "00000020"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 0019B71E
 msgctxt "00000021"
 msgid ""
 "カイ：もうなにもないな。"
-msgstr ""
+msgstr "Kai: There's nothing else here."
 
 #: 0019B759
 msgctxt "00000022"
 msgid ""
 "バロア：なにか気になるのか？"
-msgstr ""
+msgstr "Baroa: Something catch your eye?"
 
 #: 0019B798
 msgctxt "00000023"
 msgid ""
 "ミーナ：カイ、どうしました？"
-msgstr ""
+msgstr "Minna: Kai, what is it?"
 
 #: 0019B7D7
 msgctxt "00000024"
 msgid ""
 "ミシリア：カイ、どうしたの？"
-msgstr ""
+msgstr "Michelia: Kai, what's up?"
 
 #: 0019B820
 msgctxt "00000025"
 msgid ""
 "カイ：もうなにもないよ・・・あっ！！"
-msgstr ""
+msgstr "Kai: There's nothing else-- Woah!"
 
 #: 0019B84B
 msgctxt "00000026"
 msgid ""
 "こわれた人形の中からセーラー服を見つけた。"
-msgstr ""
+msgstr "You found a Sailor Uniform inside the broken doll."
 
 #: 0019B87C
 msgctxt "00000027"
 msgid ""
 "カイ：探してみるもんだな"
-msgstr ""
+msgstr "Kai: Might as well check it out."
 
 #: 0019B8C5
 msgctxt "00000028"
 msgid ""
 "これ以上もてない。"
-msgstr ""
+msgstr "You can't carry any more."
 
 #: 0019B902
 msgctxt "00000029"
 msgid ""
 "カイ：さすがにもうなにもないよ。"
-msgstr ""
+msgstr "Kai: There can't be anything else here."
 
 #: 0019B974
 msgctxt "00000030"
 msgid ""
 "カイ：もうなにもない・・・"
-msgstr ""
+msgstr "Kai: There's nothing else here..."
 
 #: 0019B9DA
 msgctxt "00000031"
 msgid ""
 "われらが神聖な聖地をけがす、ふとどきものよ。立ち去れい。"
-msgstr ""
+msgstr "You who dares defile this sacred place, leave at once!"
 
 #: 0019BA19
 msgctxt "00000032"
 msgid ""
 "警告は２度、無いと思え。"
-msgstr ""
+msgstr "We will not ask again!"
 
 #: 0019BA65
 msgctxt "00000033"
 msgid ""
 "警告をまもらぬおろかものどもに死を！！"
-msgstr ""
+msgstr "Fools who do not heed our warning shall perish!"
 
 #: 0019BAFE
 msgctxt "00000034"
 msgid ""
 "警告をまもらぬおろかものどもに死を！！"
-msgstr ""
+msgstr "Fools who do not heed our warning shall perish!"
 
 #: 00268944
 msgctxt "00000035"
 msgid ""
 "ヒーローアーマーを手に入れた。"
-msgstr ""
+msgstr "You got the Hero Armor!"
 
 #: 00268986
 msgctxt "00000036"
 msgid ""
 "何も見つからない。"
-msgstr ""
+msgstr "There's nothing here."
 
 #: 002F1925
 msgctxt "00000037"
 msgid ""
 "扉はかたくとざされている"
-msgstr ""
+msgstr "The door is firmly sealed."
 
 #: 003361CA
 msgctxt "00000038"
 msgid ""
 "こえ：なんじが選ばれし剣士ならば。その力をためさん。"
-msgstr ""
+msgstr "Voice: If you are the chosen warrior, then complete our test."
 
 #: 003362B9
 msgctxt "00000039"
 msgid ""
 "バロア：おっ・・・と。また体が動かなくなったぜ。"
-msgstr ""
+msgstr "Baroa: Ugh... Oh, boy. I can't move my body again."
 
 #: 003362FB
 msgctxt "00000040"
 msgid ""
 "バーク：自分の体が動かないってのは・・・"
-msgstr ""
+msgstr "Burke: Really isn't a pleasant feeling"
 
 #: 00336327
 msgctxt "00000041"
 msgid ""
 "あまり気持ちのいいもんじゃねえな。"
-msgstr ""
+msgstr "not being able to move your own body..."
 
 #: 0033636F
 msgctxt "00000042"
 msgid ""
 "サリナ：神様はあたしを選んだようね。"
-msgstr ""
+msgstr "Sarina: Seems I'm the chosen one this time."
 
 #: 003363A5
 msgctxt "00000043"
 msgid ""
 "カイ：サリナ・・・"
-msgstr ""
+msgstr "Kai: Sarina..."
 
 #: 003363C9
 msgctxt "00000044"
 msgid ""
 "サリナ：そんな心配そうな目で見るなよ。大丈夫だって。"
-msgstr ""
+msgstr "Sarina: Don't look so worried. I'll be just fine."
 
 #: 0033640F
 msgctxt "00000045"
 msgid ""
 "ミーナ：サリナさん、気をつけて・・・"
-msgstr ""
+msgstr "Minna: Sarina, be careful!"
 
 #: 00336450
 msgctxt "00000046"
 msgid ""
 "サリナ：まかせとけって。"
-msgstr ""
+msgstr "Sarina: I've got it covered."
 
 #: 0033651C
 msgctxt "00000047"
 msgid ""
 "サリナ：すげえな、神様の力って。"
-msgstr ""
+msgstr "Sarina: Wow, this divine power is incredible!"
 
 #: 0033654E
 msgctxt "00000048"
 msgid ""
 "バーク：そんなに実感できるのか？"
-msgstr ""
+msgstr "Burke: Can you actually feel it?"
 
 #: 0033658B
 msgctxt "00000049"
 msgid ""
 "サリナ：あんたとは違うんだよ。"
-msgstr ""
+msgstr "Sarina: Unlike you, yes."
 
 #: 003365D1
 msgctxt "00000050"
 msgid ""
 "バーク：はいはい分かりましたよ。"
-msgstr ""
+msgstr "Burke: Hahaha, yeah, yeah."
 
 #: 0033660C
 msgctxt "00000051"
 msgid ""
 "ミシリア：カイ・・・"
-msgstr ""
+msgstr "Michelia: Kai..."
 
 #: 00336646
 msgctxt "00000052"
 msgid ""
 "カイ：うん、分かっている。みんな次の神様の所へ急ごう。"
-msgstr ""
+msgstr "Kai: All right, let's hurry to the next god!"
 
 #: 00336721
 msgctxt "00000053"
 msgid ""
 "勇士の神の力を手に入れた"
-msgstr ""
+msgstr "You got the Warrior God's divine power!"
 
 #: 0037A937
 msgctxt "00000054"
 msgid ""
 "カイ：扉にくぼみが２つあるぞ。"
-msgstr ""
+msgstr "Kai: There's two openings in the door."
 
 #: 0037A991
 msgctxt "00000055"
 msgid ""
 "これはもしかすると・・・"
-msgstr ""
+msgstr "Maybe, just maybe..."
 
 #: 0037A9BE
 msgctxt "00000056"
 msgid ""
 "扉に、女神の指輪とブレスレットをはめこんだ。"
-msgstr ""
+msgstr "You insert the Goddess Ring and Bracelet into the door."
 
 #: 0037A9FC
 msgctxt "00000057"
 msgid ""
 "ミーナ：先ほどまで進入を拒んでいた空気がはれていきます。"
-msgstr ""
+msgstr "Minna: Seems the power holding us back has vanished."
 
 #: 0037AA46
 msgctxt "00000058"
 msgid ""
 "バーク：よくそんなことがわかるな。"
-msgstr ""
+msgstr "Burke: I'm surprised you can tell from here."
 
 #: 0037AA7A
 msgctxt "00000059"
 msgid ""
 "カイ：よし、入れるようになったなら、中に行こう。"
-msgstr ""
+msgstr "Kai: All right, let's head inside."
 
 #: 0037AAD6
 msgctxt "00000060"
 msgid ""
 "カギがかかっている。"
-msgstr ""
+msgstr "It's locked."
 
 #: 0037AAFC
 msgctxt "00000061"
 msgid ""
 "カイ：扉にくぼみが２つあるな・・・"
-msgstr ""
+msgstr "Kai: There's two openings in the door..."
 
 #: 0037AB22
 msgctxt "00000062"
 msgid ""
 "なんだろう？"
-msgstr ""
+msgstr "What could they be for?"
 
 #: 003BF221
 msgctxt "00000063"
 msgid ""
 "ミシリア：・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 003BF249
 msgctxt "00000064"
 msgid ""
 "カイ：大丈夫かい？ミシリア。"
-msgstr ""
+msgstr "Kai: You okay, Michelia?"
 
 #: 003BF28B
 msgctxt "00000065"
 msgid ""
 "ミシリア：うん、平気。"
-msgstr ""
+msgstr "Michelia: Yeah, I'm okay."
 
 #: 003BF2A5
 msgctxt "00000066"
 msgid ""
 "・・・・・・"
-msgstr ""
+msgstr "..."
 
 #: 003BF2C3
 msgctxt "00000067"
 msgid ""
 "カイ：・・・・・・"
-msgstr ""
+msgstr "Kai: ..."
 
 #: 003BF2E7
 msgctxt "00000068"
 msgid ""
 "ミシリア：・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 003BF344
 msgctxt "00000069"
 msgid ""
 "バーク：そうか。ミシリアちゃんが女神の力か・・・。ぴったりだな。"
-msgstr ""
+msgstr "Burke: Wait, Michelia gets the Goddess's divine power? Talk a out fitting!"
 
 #: 003BF3C4
 msgctxt "00000070"
 msgid ""
 "ミシリア：もう、バークさんたら・・・"
-msgstr ""
+msgstr "Michelia: Come on, Burke."
 
 #: 003BF40E
 msgctxt "00000071"
 msgid ""
 "サリナ：いや、あたしもぴったりだと思うよ。"
-msgstr ""
+msgstr "Sarina: No, he's right. It suits you."
 
 #: 003BF447
 msgctxt "00000072"
 msgid ""
 "な、カイもそう思うだろ？"
-msgstr ""
+msgstr "Don't you agree, Kai?"
 
 #: 003BF485
 msgctxt "00000073"
 msgid ""
 "カイ：え？・・・"
-msgstr ""
+msgstr "Kai: Me? Uh..."
 
 #: 003BF4A4
 msgctxt "00000074"
 msgid ""
 "う、うんそうだね。ミシリアらしいよ"
-msgstr ""
+msgstr "Y-yeah. It's very like her."
 
 #: 003BF4F1
 msgctxt "00000075"
 msgid ""
 "ミシリア：・・・・・・"
-msgstr ""
+msgstr "Michelia: ..."
 
 #: 003BF527
 msgctxt "00000076"
 msgid ""
 "サリナ：あははは！！てれてるてれてる！！かっわいー！！！"
-msgstr ""
+msgstr "Sarina: Ahahaha! You're blushing like a beet again! How precious!"
 
 #: 003BF59B
 msgctxt "00000077"
 msgid ""
 "ミシリア：もう、サリナさん・・・"
-msgstr ""
+msgstr "Michelia: Don't tease him, Sarina..."
 
 #: 003BF636
 msgctxt "00000078"
 msgid ""
 "バロア：女神の力も手に入ったし、次の神様の所にでも行きますか。"
-msgstr ""
+msgstr "Baroa: Now that we've got the Goddess's divine power, let's move onto the next god!"
 
 #: 003BF694
 msgctxt "00000079"
 msgid ""
 "カイ：うん。そうだね。次の神様の所へ行こう。"
-msgstr ""
+msgstr "Kai: Right. Let's get going."
 
 #: 003BF6D2
 msgctxt "00000080"
 msgid ""
 "女神の力を手に入れた"
-msgstr ""
+msgstr "You got the Goddess's divine power!"
 

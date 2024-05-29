@@ -2,95 +2,95 @@
 msgctxt "00000000"
 msgid ""
 "カイ：これが残りの半分か・・・"
-msgstr ""
+msgstr "Kai: This looks like the missing half."
 
 #: 002689C9
 msgctxt "00000001"
 msgid ""
 "冥界の像を手に入れた。"
-msgstr ""
+msgstr "You got the Underworld Idol!"
 
 #: 00268A16
 msgctxt "00000002"
 msgid ""
 "カイ：これがかぎとなる像か。"
-msgstr ""
+msgstr "Kai: This idol should be the key."
 
 #: 00268A57
 msgctxt "00000003"
 msgid ""
 "冥界の像を手に入れた。"
-msgstr ""
+msgstr "You got the Underworld Idol!"
 
 #: 0033617A
 msgctxt "00000004"
 msgid ""
 "アクアローゼを憶えた。"
-msgstr ""
+msgstr "You learned Aqua Rose!"
 
 #: 003361EA
 msgctxt "00000005"
 msgid ""
 "何も入っていない。"
-msgstr ""
+msgstr "There's nothing inside."
 
 #: 0037A984
 msgctxt "00000006"
 msgid ""
 "カイ：これが残りの半分か・・・"
-msgstr ""
+msgstr "Kai: This looks like the missing half."
 
 #: 0037A9B9
 msgctxt "00000007"
 msgid ""
 "冥界の像を手に入れた。"
-msgstr ""
+msgstr "You got the Underworld Idol!"
 
 #: 0037AA0B
 msgctxt "00000008"
 msgid ""
 "カイ：これが聖者の言ってた像だな。"
-msgstr ""
+msgstr "Kai: This is the idol the sage spoke of."
 
 #: 0037AA4D
 msgctxt "00000009"
 msgid ""
 "冥界の像を手に入れた。"
-msgstr ""
+msgstr "You got the Underworld Idol!"
 
 #: 003BF151
 msgctxt "00000010"
 msgid ""
 "カイ：あれ？どうして進めないんだ？"
-msgstr ""
+msgstr "Kai: Hmm? Why can't we get through?"
 
 #: 003BF185
 msgctxt "00000011"
 msgid ""
 "ミーナ：これは封印の呪文がほどこしてあります。"
-msgstr ""
+msgstr "Minna: This seems to be held fast by the sealing spell."
 
 #: 003BF1B7
 msgctxt "00000012"
 msgid ""
 "これを無理矢理はいじょするのはおそらく無理でしょう。"
-msgstr ""
+msgstr "It's probably impossible to force this out."
 
 #: 003BF1EF
 msgctxt "00000013"
 msgid ""
 "封印を解く装置がどこかにあるはずです。それを探しましょう。"
-msgstr ""
+msgstr "There should be some way to dispel the magic. Let's look for it."
 
 #: 003BF250
 msgctxt "00000014"
 msgid ""
 "ミーナ：封印を解く装置がどこかにあるはずです。"
-msgstr ""
+msgstr "Minna: There should be some way to dispel the magic."
 
 #: 003BF282
 msgctxt "00000015"
 msgid ""
 "それを探しましょう。"
-msgstr ""
+msgstr "Let's look for it."
 
