@@ -334,7 +334,7 @@ namespace ancient_roman_script_extract
                 while (script_bin.BaseStream.Position + blockID.Length < script_bin.BaseStream.Length)
                 {
                     string magicid = Encoding.GetEncoding("SJIS").GetString(script_bin.ReadBytes(blockID.Length));
-                    //if (magicid == "EVTEXT")
+                    if (magicid == "EVTEXT")
                     {
                         script_block_start = (uint)script_bin.BaseStream.Position;
                         ptr_block_start = (uint)script_bin.BaseStream.Position;
@@ -353,7 +353,7 @@ namespace ancient_roman_script_extract
                             }
                             script_bin.BaseStream.Seek(-3, SeekOrigin.Current);
                         }
-                        //break;
+                        break;
                     }
                     script_bin.BaseStream.Seek(-5, SeekOrigin.Current);
                 }

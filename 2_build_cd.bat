@@ -52,7 +52,7 @@ echo:
 
 REM Build disc 2
 del /s /q cd\Ancient-Roman-Disc-2\S00\*
-copy ins\D1_S00\*.DAT cd\Ancient-Roman-Disc-2\S00\ 1>nul
+copy ins\D2_S00\*.DAT cd\Ancient-Roman-Disc-2\S00\ 1>nul
 
 del exe\SLPS_011.09
 copy exe\orig\SLPS_011.09 exe\SLPS_011.09
