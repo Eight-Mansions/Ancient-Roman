@@ -1,4 +1,20 @@
-﻿#: 0004496A
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-28 22:29-0400\n"
+"PO-Revision-Date: 2024-05-29 02:29+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s001/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 0004496A
 msgctxt "00000000"
 msgid ""
 "ヘカの木を見つけた。"
@@ -248,7 +264,7 @@ msgstr "Hmm? There's something carved into the nameplate."
 msgctxt "00000042"
 msgid ""
 "新ハインローグ守備隊、第１連隊・・・兵隊みたいだな。"
-msgstr ""
+msgstr "Heinrogue Garrison Regiment No. 1. Must have been a soldier."
 
 #: 0019B29A
 msgctxt "00000043"
@@ -1989,4 +2005,3 @@ msgctxt "00000332"
 msgid ""
 "兵士：いいことなんだろうけれど、何か物足りないなぁ。"
 msgstr "Soldier: It's good, but it feels like something's missing."
-
