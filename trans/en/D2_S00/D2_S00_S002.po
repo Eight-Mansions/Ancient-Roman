@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-28 22:29-0400\n"
-"PO-Revision-Date: 2024-05-29 02:29+0000\n"
+"PO-Revision-Date: 2024-05-31 21:01+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d2_s00_s002/en/>\n"
@@ -276,67 +276,67 @@ msgstr "Ahh, Captain McLeod, please come back soon!"
 msgctxt "00000044"
 msgid ""
 "娘：マクロード隊長がいないとさびしくて仕方ないわ。"
-msgstr ""
+msgstr "Girl: I can't help but feel sad when Captain McLeod's away."
 
 #: 00044CC1
 msgctxt "00000045"
 msgid ""
 "子供：おとうさんが今度、ルーンマルナに家をたてるんだ。"
-msgstr ""
+msgstr "Child: My dad's making us a house in Rune Malna."
 
 #: 00044CFB
 msgctxt "00000046"
 msgid ""
 "ダンロがある家なんだって。楽しみだな。"
-msgstr ""
+msgstr "He says there'll be a fireplace! I'm excited~"
 
 #: 00044D40
 msgctxt "00000047"
 msgid ""
 "子供：はやくお家がたたないかな。"
-msgstr ""
+msgstr "Child: How much longer till it's done??"
 
 #: 00044D7D
 msgctxt "00000048"
 msgid ""
 "男：マクロード隊長の後任にやってきた女がなかなかいいんだよ。"
-msgstr ""
+msgstr "Man: McLeod's replacement is quite the fine lady."
 
 #: 00044DBD
 msgctxt "00000049"
 msgid ""
 "俺、彼女のファンになっちなったぜ。"
-msgstr ""
+msgstr "Hell, I'd call myself a fan of hers!"
 
 #: 00044DFE
 msgctxt "00000050"
 msgid ""
 "男：彼女の名前は何というのかな？"
-msgstr ""
+msgstr "Man: What was her name again...?"
 
 #: 00044E3B
 msgctxt "00000051"
 msgid ""
 "女：旅のかた、ルーンマルナの町はどうなってしまったんだろう。"
-msgstr ""
+msgstr "Woman: Travelers, what has become of Rune Malna?"
 
 #: 00044E7B
 msgctxt "00000052"
 msgid ""
 "ブー＝レイの坊やはどこへ行ってしまったんだろう？"
-msgstr ""
+msgstr "Where'd that boy Boo Rei disappear to?"
 
 #: 00044EAF
 msgctxt "00000053"
 msgid ""
 "はぁー、無事にいてくれるといいんだけど。"
-msgstr ""
+msgstr "*haa*... I hope he's safe."
 
 #: 00044EF6
 msgctxt "00000054"
 msgid ""
 "女：ブー＝レイの坊や、無事にいておくれよ。"
-msgstr ""
+msgstr "Woman: I hope that boy Boo Rei is safe."
 
 #: 00089260
 msgctxt "00000055"
@@ -360,13 +360,13 @@ msgstr "Man: That large building over there is the barracks."
 msgctxt "00000058"
 msgid ""
 "最近、新しい隊長がやってきたみたいだよ。"
-msgstr ""
+msgstr "There's been a new captain in charge as of late."
 
 #: 0008939A
 msgctxt "00000059"
 msgid ""
 "男：くわしくはしらないんだけどさ、いい女らしぜ。"
-msgstr ""
+msgstr "Man: I don't know the details, but she looks like a fine woman."
 
 #: 000893E7
 msgctxt "00000060"
@@ -384,19 +384,19 @@ msgstr "I think he said his hip pain was getting worse, so he left for Sanitas V
 msgctxt "00000062"
 msgid ""
 "ずいぶんと長いあいだ帰ってこないけど、何かあったのかな。"
-msgstr ""
+msgstr "He's been gone for a long time. Did something happen to him?"
 
 #: 000894B0
 msgctxt "00000063"
 msgid ""
 "そんなに温泉が気にいったのかな？"
-msgstr ""
+msgstr "Did he just really love those hot springs?"
 
 #: 000894D4
 msgctxt "00000064"
 msgid ""
 "年寄りの考える事はわからないなぁ。"
-msgstr ""
+msgstr "It's hard to know what old people are really thinking."
 
 #: 00089509
 msgctxt "00000065"
@@ -408,7 +408,7 @@ msgstr "Soldier: This is the barracks of Heinrogue Garrison Regiment No. 1."
 msgctxt "00000066"
 msgid ""
 "現在は、第１連隊隊長代理のエリア様の兵舎である。"
-msgstr ""
+msgstr "Right now it's stationed by Acting Captain Aria."
 
 #: 000CD915
 msgctxt "00000067"
@@ -444,103 +444,105 @@ msgstr "You can put your foes to sleep with it."
 msgctxt "00000072"
 msgid ""
 "隊長代理：どなたです？"
-msgstr ""
+msgstr "Acting Captain: Who might you be?"
 
 #: 00112179
 msgctxt "00000073"
 msgid ""
 "ここはハインローグ守備隊第１連隊の詰め所です。"
-msgstr ""
+msgstr "This is the station for Heinrogue Garrison Regiment No. 1."
 
 #: 001121AB
 msgctxt "00000074"
 msgid ""
 "用のないかたは立ち入らないで・・・"
-msgstr ""
+msgstr "Civilians should not enter without--"
 
 #: 001121EA
 msgctxt "00000075"
 msgid ""
 "隊長代理：！！！！"
-msgstr ""
+msgstr "Acting Captain: !!!!"
 
 #: 00112200
 msgctxt "00000076"
 msgid ""
 "カイ王子様！！このようなところに何ようですか！？"
-msgstr ""
+msgstr "Prince Kai!! To what honor do I owe this visit?"
 
 #: 0011224D
 msgctxt "00000077"
 msgid ""
 "カイ：・・・・・！？"
-msgstr ""
+msgstr "Kai: ...!?"
 
 #: 0011227E
 msgctxt "00000078"
 msgid ""
 "隊長代理：お忘れですか！？"
-msgstr ""
+msgstr "Acting Captain: Did you forget me!?"
 
 #: 0011229C
 msgctxt "00000079"
 msgid ""
 "王子様とは聖者の道の入り口でお会いいたしました。"
-msgstr ""
+msgstr "We met at the entrance to the Sage's Road, remember?"
 
 #: 001122EC
 msgctxt "00000080"
 msgid ""
 "カイ：ああっ、君はたしか・・・"
-msgstr ""
+msgstr "Kai: A-ah, yes, of course..."
 
 #: 0011231C
 msgctxt "00000081"
 msgid ""
 "隊長代理：はい。王子様。"
-msgstr ""
+msgstr "Acting Captain: Phew, I'm glad you remember."
 
 #: 00112338
 msgctxt "00000082"
 msgid ""
 "ところで、王子様、何ようでしょうか？"
-msgstr ""
+msgstr "Enough of that, what may I help you with today?"
 
 #: 0011236E
 msgctxt "00000083"
 msgid ""
 "カイ：いや、別にこれといって用はないんだけど・・・"
-msgstr ""
+msgstr "Kai: Ah, nothing really, was just checking in..."
 
 #: 001123B5
 msgctxt "00000084"
 msgid ""
 "隊長代理：そうですか、何もありませんがゆっくりしていってください。"
 msgstr ""
+"Acting Captain: Very well then. We don't have much here, but make yourself "
+"at home."
 
 #: 00112416
 msgctxt "00000085"
 msgid ""
 "隊長代理：何もありませんがゆっくりしていってください。"
-msgstr ""
+msgstr "Acting Captain: We don't have much here, but make yourself at home."
 
 #: 00112463
 msgctxt "00000086"
 msgid ""
 "隊長代理：どなたです？"
-msgstr ""
+msgstr "Acting Captain: Who might you be?"
 
 #: 0011247D
 msgctxt "00000087"
 msgid ""
 "ここはハインローグ守備隊第１連隊の詰め所です。"
-msgstr ""
+msgstr "This is the station for Heinrogue Garrison Regiment No. 1."
 
 #: 001124AF
 msgctxt "00000088"
 msgid ""
 "用のないかたは立ち入らないでください。"
-msgstr ""
+msgstr "Civilians should not enter without permission."
 
 #: 00156915
 msgctxt "00000089"
@@ -1230,7 +1232,7 @@ msgstr "And it leaves your skin feeling nice and smooth!"
 msgctxt "00000203"
 msgid ""
 "女：この間、変なおじいさんが運びこまれきたのよ。"
-msgstr ""
+msgstr "Woman: A weird old man was carried here the other day."
 
 #: 003366F5
 msgctxt "00000204"
@@ -1242,7 +1244,7 @@ msgstr "He was covered in blood..."
 msgctxt "00000205"
 msgid ""
 "ぶるぶるぶる・・・"
-msgstr "(Shudders.)"
+msgstr "(Shudders...)"
 
 #: 00336737
 msgctxt "00000206"
