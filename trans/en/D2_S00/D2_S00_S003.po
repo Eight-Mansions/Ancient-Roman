@@ -1,4 +1,20 @@
-﻿#: 00000151
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-01 18:22-0400\n"
+"PO-Revision-Date: 2024-06-01 22:22+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s003/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00000151
 msgctxt "00000000"
 msgid ""
 "バーク：温泉か。ほろ苦い思い出がよみがえるな。"
@@ -320,7 +336,7 @@ msgstr "Michelia: Goodnight..."
 msgctxt "00000053"
 msgid ""
 "バーク：よし、追いかけようぜ。"
-msgstr ""
+msgstr "Burke: Alright! Let's chase after them."
 
 #: 000CE06F
 msgctxt "00000054"
@@ -350,7 +366,7 @@ msgstr "Michelia: ...my head hurts."
 msgctxt "00000058"
 msgid ""
 "バーク：はは・・・さ、早く療養所に行こうゼ。"
-msgstr ""
+msgstr "Burke: Urgh... Let's just back to that doctor already."
 
 #: 000CE161
 msgctxt "00000059"
@@ -1562,7 +1578,7 @@ msgstr "Kai: Burke?"
 msgctxt "00000261"
 msgid ""
 "バーク：へへっ、酒を飲みに行くんだろ？"
-msgstr ""
+msgstr "Burke: Hehe~ You're going for drinks, aren't ya?"
 
 #: 001DFD34
 msgctxt "00000262"
@@ -1604,7 +1620,7 @@ msgstr "Fara: (Pouts.)"
 msgctxt "00000268"
 msgid ""
 " カイ：ミ、ミシリア・・・"
-msgstr ""
+msgstr "Kai: M-michelia..."
 
 #: 001DFF9D
 msgctxt "00000269"
@@ -1706,7 +1722,7 @@ msgstr "One-two! One-two! Time to live your life anew!"
 msgctxt "00000285"
 msgid ""
 "男：今、けいび兵のテストに向けてくんれん中なんだ。"
-msgstr ""
+msgstr "Man: Right now they're in the middle of the guard test."
 
 #: 001E0527
 msgctxt "00000286"
@@ -1718,13 +1734,13 @@ msgstr "Man: I feel like someone's been watching me lately."
 msgctxt "00000287"
 msgid ""
 "男：君もけいび兵のテストを受けるって？"
-msgstr ""
+msgstr "Man: You wish to take the test too?"
 
 #: 001E0599
 msgctxt "00000288"
 msgid ""
 "男：これはうかうかしてられないな。"
-msgstr ""
+msgstr "Man: Can't be careless now."
 
 #: 001E05F8
 msgctxt "00000289"
@@ -1736,7 +1752,7 @@ msgstr "Man: I can't lose now!"
 msgctxt "00000290"
 msgid ""
 "男：今、けいび兵のテストに向けてくんれん中なんだ。"
-msgstr ""
+msgstr "Man: Right now they're in the middle of the guard test."
 
 #: 001E06A8
 msgctxt "00000291"
@@ -1754,13 +1770,13 @@ msgstr "Wait, I just arrived, myself. Why am I the one telling you?"
 msgctxt "00000293"
 msgid ""
 "男：王子様が発見されたせいで、けいび兵の話"
-msgstr ""
+msgstr "Man: With the sudden prince's discovering,"
 
 #: 001E073F
 msgctxt "00000294"
 msgid ""
 "がうやむやになってしまった。"
-msgstr ""
+msgstr "the topic of new guards fell off the wayside."
 
 #: 001E075F
 msgctxt "00000295"
@@ -2270,7 +2286,7 @@ msgstr "Man: That's right! I'm outta sight, hahahaha!"
 msgctxt "00000379"
 msgid ""
 "男：どうだい、旅の方、あんたも一杯？"
-msgstr ""
+msgstr "Man: How's about it, travelers? Care for a pint?"
 
 #: 002246F6
 msgctxt "00000380"
@@ -2288,7 +2304,7 @@ msgstr "Kai: What do you think, Burke?"
 msgctxt "00000382"
 msgid ""
 "ミシリア：カイ、登録をすませてからのほうが・・・"
-msgstr ""
+msgstr "Michelia: Kai, we should really finish registering first..."
 
 #: 002247A8
 msgctxt "00000383"
@@ -2330,19 +2346,19 @@ msgstr "Man: How 'bout it, traveling folk? Care for a share?"
 msgctxt "00000389"
 msgid ""
 "ファラ：飲みに行くぅ。"
-msgstr ""
+msgstr "Fara: Drinks??"
 
 #: 002248FE
 msgctxt "00000390"
 msgid ""
 "カイ：よし飲みに行こうか。"
-msgstr ""
+msgstr "Kai: Alright, I suppose we can go."
 
 #: 0022492A
 msgctxt "00000391"
 msgid ""
 "ファラ：わーい、やったぁ！！"
-msgstr ""
+msgstr "Fara: YAY, DRINKS!!"
 
 #: 00224958
 msgctxt "00000392"
@@ -2594,7 +2610,7 @@ msgstr "Kai: Ugh... huh? Fara? What's wrong?"
 msgctxt "00000433"
 msgid ""
 "ファラ：カイ、お酒飲みに行こうよ。"
-msgstr ""
+msgstr "Fara: Kai, wake up! Let's go drinking!!"
 
 #: 00268B81
 msgctxt "00000434"
@@ -3188,13 +3204,13 @@ msgstr "Sage: Before you continue your journey, please use our"
 msgctxt "00000532"
 msgid ""
 "［聖者の島］へ行って来ると良いでしょう。"
-msgstr ""
+msgstr "training grounds at the Sage's Tower."
 
 #: 002AE666
 msgctxt "00000533"
 msgid ""
 "カイ：聖者の島？"
-msgstr ""
+msgstr "Kai: Sage's Tower?"
 
 #: 002AE6A7
 msgctxt "00000534"
@@ -3218,7 +3234,7 @@ msgstr "Kai: Okay, works for me."
 msgctxt "00000537"
 msgid ""
 "聖者：聖者の島には大聖者様がいます。"
-msgstr ""
+msgstr "Sage: The Grand Sage awaits at the Sage's Tower."
 
 #: 002AE771
 msgctxt "00000538"
@@ -3260,7 +3276,7 @@ msgstr "Minister: ... well then, Lord Kai, I do hope you'll be careful."
 msgctxt "00000544"
 msgid ""
 "うん"
-msgstr ""
+msgstr "I will."
 
 #: 002AE97A
 msgctxt "00000545"
@@ -3344,7 +3360,7 @@ msgstr "Sage: Hmm, I see."
 msgctxt "00000558"
 msgid ""
 "聖者：聖者の島には聖者の道を通って行きます。"
-msgstr ""
+msgstr "Sage: You can reach the Sage's Tower by taking the Sage's Road."
 
 #: 002AED66
 msgctxt "00000559"
@@ -3368,7 +3384,7 @@ msgstr "Sage: Well then, I pray for your success."
 msgctxt "00000562"
 msgid ""
 "聖者：聖者の島には聖者の道を通って行きます。"
-msgstr ""
+msgstr "Sage: You can reach the Sage's Tower by taking the Sage's Road."
 
 #: 002AEEB6
 msgctxt "00000563"
@@ -3398,7 +3414,7 @@ msgstr "Kai: How'd he know I'd ask the way there...?"
 msgctxt "00000567"
 msgid ""
 "＿＿＿新ハインローグ城広場＿＿＿"
-msgstr ""
+msgstr "__ New Heinrogue Castle - Training Grounds ___"
 
 #: 002F1A67
 msgctxt "00000568"
@@ -3836,7 +3852,7 @@ msgstr "___Kai explained everything."
 msgctxt "00000640"
 msgid ""
 "バーク：聖者の島ねぇ。まあ、いいや"
-msgstr ""
+msgstr "Burke: Sage's Tower, huh? All right, don't see why not."
 
 #: 00336898
 msgctxt "00000641"
@@ -3854,7 +3870,7 @@ msgstr "Kai: Yup, that's the plan."
 msgctxt "00000643"
 msgid ""
 "「聖者の島」に行くには"
-msgstr ""
+msgstr "To reach the Sage's Tower,"
 
 #: 00336931
 msgctxt "00000644"
@@ -3986,7 +4002,7 @@ msgstr "___Kai explained everything."
 msgctxt "00000665"
 msgid ""
 "バーク：聖者の島ねぇ。で、どうやって行くんだい？"
-msgstr ""
+msgstr "Burke: Sage's Tower, right? How do we get there?"
 
 #: 003371AB
 msgctxt "00000666"
@@ -4046,7 +4062,7 @@ msgstr "Kai: I was able to ask him."
 msgctxt "00000675"
 msgid ""
 "「聖者の島」に行くには"
-msgstr ""
+msgstr "To reach the Sage's Tower,"
 
 #: 0033757F
 msgctxt "00000676"
@@ -4274,13 +4290,13 @@ msgstr "A Nut Man will protect you against magic."
 msgctxt "00000713"
 msgid ""
 "ヘカまんを食べると体力が回復して"
-msgstr ""
+msgstr "Heka Man will give you more life."
 
 #: 0037AB23
 msgctxt "00000714"
 msgid ""
 "マカまんを食べると魔力が回復して"
-msgstr ""
+msgstr "Maka Man will extend your magic power."
 
 #: 0037AB47
 msgctxt "00000715"
@@ -4340,13 +4356,13 @@ msgstr "You learned Thor High!"
 msgctxt "00000724"
 msgid ""
 "聖者：それではご武運をおいのりしております。"
-msgstr ""
+msgstr "Sage: Now go. I shall pray for your travels."
 
 #: 0037AD98
 msgctxt "00000725"
 msgid ""
 "聖者：ご武運を。"
-msgstr ""
+msgstr "Sage: Safe travels."
 
 #: 003BF115
 msgctxt "00000726"
@@ -4359,4 +4375,3 @@ msgctxt "00000727"
 msgid ""
 "うちの商品はいいものばかりだよ。"
 msgstr "We only sell the finest!"
-
