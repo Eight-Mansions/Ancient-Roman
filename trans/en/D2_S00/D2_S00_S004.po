@@ -1,4 +1,20 @@
-﻿#: 00000134
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-01 18:22-0400\n"
+"PO-Revision-Date: 2024-06-01 22:22+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s004/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00000134
 msgctxt "00000000"
 msgid ""
 "主人：いらっしゃい。おや、お客さん。"
@@ -278,7 +294,7 @@ msgstr "Kai: I'm... a prince...?"
 msgctxt "00000046"
 msgid ""
 "大臣：聖者よ"
-msgstr ""
+msgstr "Minister: Sage."
 
 #: 00089969
 msgctxt "00000047"
@@ -776,19 +792,19 @@ msgstr "Woman: There's not much to do here, but please enjoy your stay."
 msgctxt "00000129"
 msgid ""
 "ここは、新ハインローグ城に続いている。"
-msgstr ""
+msgstr "This continues to New Heinrogue Castle."
 
 #: 00224E66
 msgctxt "00000130"
 msgid ""
 "ここは、サナトリの村へ続いている。"
-msgstr ""
+msgstr "This continues to Sanitas Village."
 
 #: 00224EB8
 msgctxt "00000131"
 msgid ""
 "バーク：今日はもう遅い。一泊宿にとまっていこうぜ。"
-msgstr ""
+msgstr "Burke: It's getting late, let's crash for the night."
 
 #: 00224F01
 msgctxt "00000132"
@@ -1376,25 +1392,27 @@ msgstr "Older Man: Please watch over her for us."
 msgctxt "00000229"
 msgid ""
 "おば：ミシリアはお前さんたちについて行きたがっておる。"
-msgstr ""
+msgstr "Older Woman: She wishes to go with you guys."
 
 #: 0037B1C9
 msgctxt "00000230"
 msgid ""
 "どうか連れていってやってくれんか。"
-msgstr ""
+msgstr "Could you please bring her on your journey?"
 
 #: 0037B1EF
 msgctxt "00000231"
 msgid ""
 "ミシリアにこえをかけてやってくれ。"
-msgstr ""
+msgstr "Please cheer her on."
 
 #: 0037B235
 msgctxt "00000232"
 msgid ""
 "おば：何じゃあんたらは。人の家に勝手に入りこんで。"
 msgstr ""
+"Older Woman: The hell are you guy's doing, barging into someone else's "
+"house!?"
 
 #: 0037B26B
 msgctxt "00000233"
@@ -1419,6 +1437,7 @@ msgctxt "00000236"
 msgid ""
 "カイ：これからの旅は今までいじょうにに危険なものになる。"
 msgstr ""
+"Kai: Our journey's only going to become more dangerous from here on out."
 
 #: 0037B368
 msgctxt "00000237"
@@ -1701,4 +1720,3 @@ msgctxt "00000283"
 msgid ""
 "長老：この年寄りに何かごようかな。"
 msgstr "Elder: What can this old man do for you?"
-
