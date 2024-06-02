@@ -1,20 +1,4 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 18:22-0400\n"
-"PO-Revision-Date: 2024-06-01 22:22+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
-"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
-"d2_s00_s004/en/>\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.2\n"
-
-#: 00000134
+﻿#: 00000134
 msgctxt "00000000"
 msgid ""
 "主人：いらっしゃい。おや、お客さん。"
@@ -66,7 +50,7 @@ msgstr "Beautiful Young Woman: Welcome!"
 msgctxt "00000008"
 msgid ""
 "カレンのお店にようこそ▽"
-msgstr "Welcome to our humble restaurant! ▽"
+msgstr "Welcome to our humble shop! ▽"
 
 #: 00044955
 msgctxt "00000009"
@@ -126,13 +110,13 @@ msgstr "Minister: Dreams?"
 msgctxt "00000018"
 msgid ""
 "カイ：でも・・・"
-msgstr "Kai: Like..."
+msgstr "Kai: Well..."
 
 #: 000892C7
 msgctxt "00000019"
 msgid ""
 "これが現実にあった事なのか空想の出来事なのかわからないんだけど・・・"
-msgstr "Is any of this for real, or not?"
+msgstr "I'm not sure if they're dreams or memories..."
 
 #: 0008931D
 msgctxt "00000020"
@@ -330,7 +314,7 @@ msgstr "Minister: Now if you'll excuse me, I've got a feast to prepare."
 msgctxt "00000052"
 msgid ""
 "カイ：あ・・・"
-msgstr "Kai: Ah..."
+msgstr "Kai: I..."
 
 #: 00112136
 msgctxt "00000053"
@@ -402,7 +386,7 @@ msgstr "My friend Burke and I would like to apply."
 msgctxt "00000064"
 msgid ""
 "兵士：うむ。では、ここに名前を書いてくれ"
-msgstr "Soldier: Umm. Well then, please write your name here."
+msgstr "Soldier: Umm. Well then, please write your names here."
 
 #: 0019B2EB
 msgctxt "00000065"
@@ -486,7 +470,7 @@ msgstr "Solider: The test is early tomorrow morning."
 msgctxt "00000078"
 msgid ""
 "兵士：ここでは新ハインローグ城、"
-msgstr "Soldier: This is the New Heinrogue Castle."
+msgstr "Soldier: This is the New Heinrogue Castle"
 
 #: 0019B661
 msgctxt "00000079"
@@ -540,7 +524,7 @@ msgstr "Old Man: Need some magic?"
 msgctxt "00000087"
 msgid ""
 "旅のおともにさいてきじゃぞ。"
-msgstr "It's the traveling companion."
+msgstr "Magic makes quite the traveling companion."
 
 #: 001DF94E
 msgctxt "00000088"
@@ -552,7 +536,7 @@ msgstr "I recommend the Volvo spell."
 msgctxt "00000089"
 msgid ""
 "そこらの魔物の攻撃ではかすり傷ひとつおわんぞ。"
-msgstr "It'll reduce the damage them monsters do to you."
+msgstr "It'll reduce the damage monsters do to you."
 
 #: 001DF9ED
 msgctxt "00000090"
@@ -822,7 +806,7 @@ msgstr "Burke: H-hey, wait up!"
 msgctxt "00000134"
 msgid ""
 "まてっていってんだろ。カイ。"
-msgstr "I said \"wait,\" gosh dangit!"
+msgstr "I said \"wait,\" damn it!"
 
 #: 00268BB8
 msgctxt "00000135"
@@ -840,7 +824,7 @@ msgstr "Burke: Come on, man! Do you really think leaving Michelia here is the ri
 msgctxt "00000137"
 msgid ""
 "カイ：・・・もちろん。"
-msgstr "Kai... of course I do."
+msgstr "Kai: ...of course I do."
 
 #: 00268C75
 msgctxt "00000138"
@@ -942,7 +926,7 @@ msgstr "Burke: It's late. Let's just rest and think it over in bed, okay?"
 msgctxt "00000154"
 msgid ""
 "男：俺のつれが森に行ったきり帰ってこないんだ。"
-msgstr "Man: My partner went into the forest, but hasn't returned yet."
+msgstr "Man: My partner went into the forest but hasn't returned yet."
 
 #: 002690D8
 msgctxt "00000155"
@@ -978,7 +962,7 @@ msgstr "Kai: Hello. My name is Kai Orpheus."
 msgctxt "00000160"
 msgid ""
 "失礼ですが「クオーレ」という女性をご存知ですか？"
-msgstr "I'm sorry to bother you, but do you know a woman named \"Cuore\"?"
+msgstr "I'm sorry to bother you, but do you know a woman named Cuore?"
 
 #: 00269293
 msgctxt "00000161"
@@ -1224,13 +1208,13 @@ msgstr "Old Man: Have you seen my son...?"
 msgctxt "00000201"
 msgid ""
 "森の方へ行ってなければいいのじゃが・・・"
-msgstr "I told him not to go to the woods..."
+msgstr "I told him not to go towards the woods..."
 
 #: 002F190D
 msgctxt "00000202"
 msgid ""
 "店員：いらっしゃいませ。"
-msgstr "Innkeep: Welcome."
+msgstr "Clerk: Welcome."
 
 #: 002F1929
 msgctxt "00000203"
@@ -1411,8 +1395,6 @@ msgctxt "00000232"
 msgid ""
 "おば：何じゃあんたらは。人の家に勝手に入りこんで。"
 msgstr ""
-"Older Woman: The hell are you guy's doing, barging into someone else's "
-"house!?"
 
 #: 0037B26B
 msgctxt "00000233"
@@ -1437,7 +1419,6 @@ msgctxt "00000236"
 msgid ""
 "カイ：これからの旅は今までいじょうにに危険なものになる。"
 msgstr ""
-"Kai: Our journey's only going to become more dangerous from here on out."
 
 #: 0037B368
 msgctxt "00000237"
@@ -1539,7 +1520,7 @@ msgstr "Elder: Family, huh?"
 msgctxt "00000253"
 msgid ""
 "娘さん、名はなんと言うんじゃ？"
-msgstr "Young lady, what's your name."
+msgstr "Young lady, what's your name?"
 
 #: 003BF3E2
 msgctxt "00000254"
@@ -1659,7 +1640,7 @@ msgstr "Elder: Indeed. She used to live her. She was a beautiful woman..."
 msgctxt "00000273"
 msgid ""
 "たしか、どこかの港町に住んでいた若者と結ばれたと聞いたがな・・・"
-msgstr "But I heard she eloped with some young guy from some port city."
+msgstr "But I heard she eloped with a young guy from some port city."
 
 #: 003BF973
 msgctxt "00000274"
@@ -1677,7 +1658,7 @@ msgstr "Elder: Michelia. If you're looking for family,"
 msgctxt "00000276"
 msgid ""
 "この町の西にあるあばら家に住んでおる。"
-msgstr "there's some related in the house to the west."
+msgstr "there's some related folks in the house to the west."
 
 #: 003BFA12
 msgctxt "00000277"
@@ -1695,7 +1676,7 @@ msgstr "Michelia: ..."
 msgctxt "00000279"
 msgid ""
 "カイ：どうもありがとう、長老さん。"
-msgstr "Kai: Thank you very much, Elder."
+msgstr "Kai: Thank you very much, elder."
 
 #: 003BFACD
 msgctxt "00000280"
@@ -1720,3 +1701,4 @@ msgctxt "00000283"
 msgid ""
 "長老：この年寄りに何かごようかな。"
 msgstr "Elder: What can this old man do for you?"
+

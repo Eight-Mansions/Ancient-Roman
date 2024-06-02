@@ -188,7 +188,7 @@ msgstr "There's nothing here."
 msgctxt "00000031"
 msgid ""
 "ポールアックスを手に入れた。"
-msgstr "You got the Pole Axe!"
+msgstr "You got the Poleaxe!"
 
 #: 001DFADF
 msgctxt "00000032"

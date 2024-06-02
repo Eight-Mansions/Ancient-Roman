@@ -1,20 +1,4 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 17:01-0400\n"
-"PO-Revision-Date: 2024-05-31 21:01+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
-"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
-"d2_s00_s005/en/>\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.2\n"
-
-#: 00044923
+﻿#: 00044923
 msgctxt "00000000"
 msgid ""
 "フロント：いらっしゃいませ。お泊まりでしょうか？"
@@ -132,7 +116,7 @@ msgstr "Proprietress: Ah, please don't worry about me."
 msgctxt "00000019"
 msgid ""
 "泊まっていって下さいな。"
-msgstr "Stay here. As thanks for delivering this."
+msgstr "Stay here on me, as thanks for delivering this."
 
 #: 00045009
 msgctxt "00000020"
@@ -156,13 +140,13 @@ msgstr "Burke: Thanks."
 msgctxt "00000023"
 msgid ""
 "おかみ：いえいえ、お礼を言うのはこちらの方ですよ。"
-msgstr "Proprietress: No, it's the least I could do."
+msgstr "Proprietress: Not at all, it's the least I could do."
 
 #: 00045105
 msgctxt "00000024"
 msgid ""
 "・・・朝・・・"
-msgstr "...Morning..."
+msgstr "___The next day___"
 
 #: 00045185
 msgctxt "00000025"
@@ -204,7 +188,7 @@ msgstr "Burke: We're back for another night."
 msgctxt "00000031"
 msgid ""
 "・・・朝・・・"
-msgstr "...Morning..."
+msgstr "___The next day___"
 
 #: 0004531A
 msgctxt "00000032"
@@ -348,7 +332,7 @@ msgstr "Burke: We're back for another night."
 msgctxt "00000055"
 msgid ""
 "・・・朝・・・"
-msgstr "...Morning..."
+msgstr "___The next day___"
 
 #: 00045B25
 msgctxt "00000056"
@@ -450,7 +434,7 @@ msgstr "Shopkeep: Welcome."
 msgctxt "00000073"
 msgid ""
 "管理者：それは王国所有の船です。"
-msgstr "Warden: That's the royal family's ship."
+msgstr "Manager: That's the royal family's ship."
 
 #: 0019B389
 msgctxt "00000074"
@@ -462,7 +446,7 @@ msgstr "Please stay away."
 msgctxt "00000075"
 msgid ""
 "管理者：船乗りがいないと船は出せません。"
-msgstr "Warden: We can't leave without any sailors."
+msgstr "Manager: We can't leave without any sailors."
 
 #: 0019B42E
 msgctxt "00000076"
@@ -492,7 +476,7 @@ msgstr "Kai: Ah yes, that's me."
 msgctxt "00000080"
 msgid ""
 "管理者：そうですか、お待ちしておりました。"
-msgstr "Warden: I see, we've been waiting for your arrival, sir."
+msgstr "Manager: I see, we've been waiting for your arrival, sir."
 
 #: 0019B54A
 msgctxt "00000081"
@@ -516,19 +500,19 @@ msgstr "Kai: It's not your fault. We'll help you find some."
 msgctxt "00000084"
 msgid ""
 "管理者：さっきから、そこの男がなにかしているんですが・・・"
-msgstr "Warden: That guy over there's been up to something..."
+msgstr "Manager: That guy over there's been up to something..."
 
 #: 0019B6BB
 msgctxt "00000085"
 msgid ""
 "管理者：今のままじゃ、船は動かせません。"
-msgstr "Warden: We can't set sail like this."
+msgstr "Manager: We can't set sail like this."
 
 #: 0019B6FF
 msgctxt "00000086"
 msgid ""
 "管理者：どうぞ、お気をつけて。カイ様。"
-msgstr "Warden: After you, Sir Kai. Do be careful."
+msgstr "Manager: After you, Sir Kai. Do be careful."
 
 #: 0019B742
 msgctxt "00000087"
@@ -541,14 +525,12 @@ msgctxt "00000088"
 msgid ""
 "娘：ようやく船がでるようになって、これでほかのみんなも勇気がでるわ。"
 msgstr ""
-"Girl: Finally, ships can set sail once again. This will surely get people "
-"excited again!"
 
 #: 0019B7DE
 msgctxt "00000089"
 msgid ""
 "男：海には出たいんですが・・・魔物が・・・"
-msgstr "Man: I wanna go to see... But those wretched monsters..."
+msgstr "Man: I wanna go to sea... But those wretched monsters..."
 
 #: 0019B80C
 msgctxt "00000090"
@@ -578,13 +560,13 @@ msgstr "Burke: Sup."
 msgctxt "00000094"
 msgid ""
 "どうしたんだ、出航の準備なんかして？"
-msgstr "So you gonna get the ship ready or what?"
+msgstr "So you getting the ship ready or what?"
 
 #: 0019B91E
 msgctxt "00000095"
 msgid ""
 "カイ：これが答えなのかい？"
-msgstr "Kai: Is this the answer."
+msgstr "Kai: I suppose this means we have our answer."
 
 #: 0019B95E
 msgctxt "00000096"
@@ -788,7 +770,7 @@ msgstr "Man: Ahh, our world's really gone to the wolves, hasn't it."
 msgctxt "00000129"
 msgid ""
 "ニワトリ：ここっ。"
-msgstr "Chicken: Kokoo."
+msgstr "Chicken: *bu-kawk*"
 
 #: 001DFFD8
 msgctxt "00000130"
@@ -1340,13 +1322,13 @@ msgstr "Sarina: Sounds great! Let's go drinking, Kai!"
 msgctxt "00000221"
 msgid ""
 "カイ：う、うん。"
-msgstr "Kai: S-sure."
+msgstr "Kai: Yeah."
 
 #: 002AE202
 msgctxt "00000222"
 msgid ""
 "ふみっ"
-msgstr "*stomp, stomp!*"
+msgstr "Stomp, stomp!"
 
 #: 002AE225
 msgctxt "00000223"
@@ -1623,3 +1605,4 @@ msgctxt "00000268"
 msgid ""
 "女兵士：お気をつけて王子様。"
 msgstr "Female Knight: Please be careful, my prince."
+

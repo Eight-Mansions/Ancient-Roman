@@ -116,13 +116,13 @@ msgstr "Fara: No way!"
 msgctxt "00000019"
 msgid ""
 "ミシリア：ねえ、ファラが持っているの、"
-msgstr "Michelia: Hey, what about the stick Fara's holding?"
+msgstr "Michelia: Hey, you don't suppose we could use the thing Fara"
 
 #: 00112605
 msgctxt "00000020"
 msgid ""
 "あれ、おばあさんにもらった杖じゃ・・・"
-msgstr "The one from the old lady?"
+msgstr "received from the old lady, do you...?"
 
 #: 00112678
 msgctxt "00000021"
@@ -140,7 +140,7 @@ msgstr "Let's try going inside."
 msgctxt "00000023"
 msgid ""
 "バーク：だから、見せろって、言ってる、だろ！"
-msgstr "Burke: I thought of that! It's why I told her to show it to me!"
+msgstr "Burke: I thought of that first! It's why I told her to show it to me!"
 
 #: 0011272F
 msgctxt "00000024"
@@ -212,7 +212,7 @@ msgstr "McLeod: I'm afraid to admit it, but I cannot proceed either."
 msgctxt "00000035"
 msgid ""
 "気持ちは前向きなのですが、体がいやがっているような・・・"
-msgstr "My mind's ready to go, but it's like my body is saying, \"Nooo...\""
+msgstr "My mind's ready to go, but it's like my body is saying no..."
 
 #: 001DFB32
 msgctxt "00000036"
@@ -422,7 +422,7 @@ msgstr "Burke: As long as you understand, let's let bygones by bygones."
 msgctxt "00000070"
 msgid ""
 "カイ：とにかく、早くここを出よう・・・とほほ。"
-msgstr "Kai: We should really get out of here now, or... Cough!"
+msgstr "Kai: We should really get out of here now, or... *cough!*"
 
 #: 002246F3
 msgctxt "00000071"
@@ -476,7 +476,7 @@ msgstr "Huh? It won't open."
 msgctxt "00000079"
 msgid ""
 "バーク：俺に任せてみろって。"
-msgstr "Burke: Stand back and leave it to the professionals."
+msgstr "Burke: Stand back and leave it to the professional."
 
 #: 002AD1D8
 msgctxt "00000080"
@@ -500,7 +500,7 @@ msgstr "There may be someone versed in magic we can talk to in town."
 msgctxt "00000083"
 msgid ""
 "ミシリア：そういえば・・・"
-msgstr "Michelia: Speaking of which..."
+msgstr "Michelia: A magician, you say..."
 
 #: 0033617E
 msgctxt "00000084"
@@ -566,7 +566,7 @@ msgstr "Baroa: This mean's everyone's here now, aye?"
 msgctxt "00000094"
 msgid ""
 "バーク：これで悪の親玉を、ぶっとばせるってわけだな！"
-msgstr "Burke: Now we can kick the big baddy's keister, right?"
+msgstr "Burke: Now we can kick the big baddy's ass, right?"
 
 #: 00336471
 msgctxt "00000095"
@@ -590,7 +590,7 @@ msgstr "Minna: It's Gizafeal."
 msgctxt "00000098"
 msgid ""
 "バーク：お、サンキュー。そうそう、ギゼフィルをぶっとばすんだ。"
-msgstr "Burke: Oh, thanks! Right, right, let's go kick Gizafeal's keister!"
+msgstr "Burke: Oh, thanks! Right, right, let's go kick Gizafeal's ass!"
 
 #: 0033656D
 msgctxt "00000099"

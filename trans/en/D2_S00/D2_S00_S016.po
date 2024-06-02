@@ -26,7 +26,7 @@ msgstr "Pharmacist: Welcome."
 msgctxt "00000004"
 msgid ""
 "店員：いらっしゃいませ。"
-msgstr "Innkeep: Welcome."
+msgstr "Clerk: Welcome."
 
 #: 00089131
 msgctxt "00000005"

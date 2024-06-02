@@ -1,20 +1,4 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 17:01-0400\n"
-"PO-Revision-Date: 2024-05-31 21:01+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
-"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
-"d2_s00_s006/en/>\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.2\n"
-
-#: 00044989
+﻿#: 00044989
 msgctxt "00000000"
 msgid ""
 "エルフスティックを手に入れた。"
@@ -450,7 +434,7 @@ msgstr "Please try it on!"
 msgctxt "00000072"
 msgid ""
 "マフラーを手に入れた。"
-msgstr "You got a Scarf!"
+msgstr "You got a Knit Scarf!"
 
 #: 0019B7E6
 msgctxt "00000073"
@@ -744,7 +728,7 @@ msgstr "Kai: We told the old woman in Mahtas"
 msgctxt "00000121"
 msgid ""
 "大事にしろって言われたのに・・・"
-msgstr "we'd take care of it..."
+msgstr "we'd take care of her..."
 
 #: 0019C440
 msgctxt "00000122"
@@ -1351,8 +1335,6 @@ msgctxt "00000222"
 msgid ""
 "番人：今度は隠者の里か。船を出しますので乗って下さい。"
 msgstr ""
-"Guard: Off to the Hermit's Island? We'll be leaving soon, so please get on "
-"board."
 
 #: 00336179
 msgctxt "00000223"
@@ -1430,7 +1412,7 @@ msgstr "I'm very grateful for everything. ▽"
 msgctxt "00000235"
 msgid ""
 "おやじ：いらっしゃいませ。"
-msgstr "Middle-age Man: Welcome."
+msgstr "Middle-aged Man: Welcome."
 
 #: 0037A988
 msgctxt "00000236"
@@ -1449,3 +1431,4 @@ msgctxt "00000238"
 msgid ""
 "うちのくすりはききますよ。"
 msgstr "Our medicine's really effective!"
+

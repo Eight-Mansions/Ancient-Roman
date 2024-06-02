@@ -14,7 +14,7 @@ msgstr "All that's left is to follow the path you believe in."
 msgctxt "00000002"
 msgid ""
 "エルフの女：・・・以上です。長老。"
-msgstr "Female Elf: ...that's all, Elder."
+msgstr "Female Elf: ...that's all, elder."
 
 #: 000002B1
 msgctxt "00000003"
@@ -104,7 +104,7 @@ msgstr "But, at this rate, I fear I cannot atone for what we did."
 msgctxt "00000017"
 msgid ""
 "エルフの女：・・・長老。"
-msgstr "Female Elf: ...Elder."
+msgstr "Female Elf: ...elder."
 
 #: 0000065C
 msgctxt "00000018"
@@ -152,13 +152,13 @@ msgstr "Burke: I'm against it--"
 msgctxt "00000025"
 msgid ""
 "カイ：ありがとうございます。"
-msgstr "Kai: Thank you very much."
+msgstr "Kai: We'd gladly accept."
 
 #: 0000081E
 msgctxt "00000026"
 msgid ""
 "バーク：俺もさんせいです・・・"
-msgstr "Burke: Okay, I'm in."
+msgstr "Burke: Okay, I'm in..."
 
 #: 0000084E
 msgctxt "00000027"
@@ -218,7 +218,7 @@ msgstr "Kai: Okay, let's return to New Heinrogue Castle."
 msgctxt "00000036"
 msgid ""
 "マクロード：それでは、ルーンの関までお供しましょう。"
-msgstr "McLeod: That means we're off to the Rune Gate."
+msgstr "McLeod: I'll accompany you as far as the Rune Gate."
 
 #: 000449C1
 msgctxt "00000037"
@@ -326,7 +326,7 @@ msgstr "Minister: Here. It would honor him to know you wore it."
 msgctxt "00000054"
 msgid ""
 "キングスアーマーを手に入れた。"
-msgstr "You got the King's Armor!"
+msgstr "You got the Royal Armor!"
 
 #: 000895AF
 msgctxt "00000055"
@@ -626,7 +626,7 @@ msgstr "McLeod: Lord Kai, please continue your search."
 msgctxt "00000104"
 msgid ""
 "サリナ：ちくしょう・・・"
-msgstr "Sarina: Darn..."
+msgstr "Sarina: Damn it..."
 
 #: 00156B32
 msgctxt "00000105"
@@ -710,7 +710,7 @@ msgstr "Kai: Please do. I'll come back later."
 msgctxt "00000118"
 msgid ""
 "サリナ：やっっっと、もどってきたかい。"
-msgstr "Sarina: Oh, hey! Finally back, I see!"
+msgstr "Sarina: Oh, hey! Took you long enough."
 
 #: 0015701E
 msgctxt "00000119"
@@ -722,19 +722,19 @@ msgstr "Kai: Sarina..."
 msgctxt "00000120"
 msgid ""
 "バーク：いやに元気になったじゃねえか。さっきとは、えらい違いだな。"
-msgstr "Burke: You're weirdly perky about this. Very different than before."
+msgstr "Burke: You're weirdly perky. Very different than before."
 
 #: 001570A5
 msgctxt "00000121"
 msgid ""
 "サリナ：このサリナ様が、これぐらいでくじけてたまるかっつーの。"
-msgstr "Sarina: As if one such as I could be so disheartened by such play!"
+msgstr "Sarina: As if one such as I could be disheartened by such play!"
 
 #: 001570E7
 msgctxt "00000122"
 msgid ""
 "親の死に目に会えただけでも、マシってもんさ。"
-msgstr "Compared to seeing my father die in front of me, this is nothing!"
+msgstr "Not even seeing my father die in front of me could hold me back!"
 
 #: 00157125
 msgctxt "00000123"
@@ -752,7 +752,7 @@ msgstr "..."
 msgctxt "00000125"
 msgid ""
 "サリナ：モタモタしてるなら、先に行くぜ。"
-msgstr "Sarina: Get a move on already. There's no need to wait around here with us."
+msgstr "Sarina: Get a move on already. There's no need for us to wait around any longer."
 
 #: 00157204
 msgctxt "00000126"
@@ -1604,7 +1604,7 @@ msgstr "Burke: Yup, totally lost!"
 msgctxt "00000267"
 msgid ""
 "カイ＆ミシリア：いばっていうなぁーーー！！！！"
-msgstr "Kai & Michelia: That's no thing to \"yup\" about!"
+msgstr "Kai & Michelia: What do you mean \"yup\"!?"
 
 #: 0037AD7F
 msgctxt "00000268"

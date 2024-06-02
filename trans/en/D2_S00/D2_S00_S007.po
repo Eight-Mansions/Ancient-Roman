@@ -308,7 +308,7 @@ msgstr "Sage: No, no. Here."
 msgctxt "00000051"
 msgid ""
 "聖者：ようこそ"
-msgstr "Sage: Welcome"
+msgstr "Sage: Welcome."
 
 #: 000CE00F
 msgctxt "00000052"
@@ -410,7 +410,7 @@ msgstr ""
 msgctxt "00000068"
 msgid ""
 "くわしい事はそこにいる聖者に説明させる。"
-msgstr "The Sage over there will explain further."
+msgstr "The sage over there will explain further."
 
 #: 0011281B
 msgctxt "00000069"
@@ -506,7 +506,7 @@ msgstr "How many years has it been..."
 msgctxt "00000084"
 msgid ""
 "ここまで来た者は・・・"
-msgstr "Since someone made it this far...?"
+msgstr "since someone made it this far...?"
 
 #: 00112CFE
 msgctxt "00000085"
@@ -716,7 +716,7 @@ msgstr "See that workshop over there? That's where he works."
 msgctxt "00000119"
 msgid ""
 "男：他に何か聞きたいことはないの？"
-msgstr "Man: Umm, didn't you need something else?"
+msgstr "Man: Umm, did you need something else?"
 
 #: 00156C2F
 msgctxt "00000120"
@@ -812,7 +812,7 @@ msgstr "Kai: Ah, that's too bad."
 msgctxt "00000135"
 msgid ""
 "スバノフ：・・・それじゃ"
-msgstr "Subahnoff: ...how about meeting me at the bar tonight?"
+msgstr "Subahnoff: How about meeting me at the bar tonight instead?"
 
 #: 00157047
 msgctxt "00000136"
@@ -998,7 +998,7 @@ msgstr "What's her deal?"
 msgctxt "00000166"
 msgid ""
 "おばさん：魔導師だなんて、名前を聞いただけでふるえちゃうわ。"
-msgstr "Older Lady: Even just hearing that mage's name will send a shiver down your spine."
+msgstr "Older Lady: Even just hearing that mage's name sends a shiver down my spine."
 
 #: 0019B4EA
 msgctxt "00000167"
@@ -1034,7 +1034,7 @@ msgstr "He's always working when I walk by. Does that man ever rest?"
 msgctxt "00000172"
 msgid ""
 "おばさん：うちの人ってやたら飲むのよね。"
-msgstr "Older Lady: My man, however, just drinks."
+msgstr "Older Lady: My man, that oaf, just drinks."
 
 #: 0019B631
 msgctxt "00000173"
@@ -1070,13 +1070,13 @@ msgstr "Hahaha, I'm just kidding!"
 msgctxt "00000178"
 msgid ""
 "老女：・・・むにゃむにゃ。"
-msgstr "Elderly Woman: Snore, snore..."
+msgstr "Elderly Woman: *...snore, snore...*"
 
 #: 001DFA39
 msgctxt "00000179"
 msgid ""
 "気持ち良さそうに寝ている。"
-msgstr "She seems to be sleeping soundly."
+msgstr "She's sleeping soundly."
 
 #: 001DFA83
 msgctxt "00000180"
@@ -1154,7 +1154,7 @@ msgstr "Maybe she's got a clue."
 msgctxt "00000192"
 msgid ""
 "うすぎたないほこらがある。"
-msgstr "There's a filthy shrine here."
+msgstr "There's a dirty shrine here."
 
 #: 001DFCF1
 msgctxt "00000193"
@@ -1508,7 +1508,7 @@ msgstr "Leon: All right, that's enough. What do you want?"
 msgctxt "00000251"
 msgid ""
 "カイ：新ハインローグ城の聖者よりあずかってきた手紙があります。"
-msgstr "Kai: We have a letter for you from the Sage at New Heinrogue Castle."
+msgstr "Kai: We have a letter for you from the sage at New Heinrogue Castle."
 
 #: 0022456C
 msgctxt "00000252"
@@ -1616,7 +1616,7 @@ msgstr "From then on, do as you please."
 msgctxt "00000269"
 msgid ""
 "カイ：ハア・・・どうもありがとうございます。"
-msgstr "Kai: Sigh... Thank you very much."
+msgstr "Kai: *sigh...* Thank you very much."
 
 #: 00224983
 msgctxt "00000270"
@@ -1790,7 +1790,7 @@ msgstr "Just look for the most grand, inspiring tree imaginable."
 msgctxt "00000298"
 msgid ""
 "スバノフ：ああ、すみません。お手数かけます。"
-msgstr "Subahnoff: Ahh, sorry. The head went to the clouds there."
+msgstr "Subahnoff: Ahh, sorry. Thanks for being patient."
 
 #: 002AD30C
 msgctxt "00000299"
@@ -1802,7 +1802,7 @@ msgstr "Kai: Not at all! We bothered you while you were busy working."
 msgctxt "00000300"
 msgid ""
 "スバノフ：昼間は、いつもあんな感じですよ。"
-msgstr "Subahnoff: It's always like this around noon."
+msgstr "Subahnoff: I'm usually like that during the day."
 
 #: 002AD38E
 msgctxt "00000301"
@@ -1814,7 +1814,7 @@ msgstr "I can't calm down if I'm not working."
 msgctxt "00000302"
 msgid ""
 "カイ：ところで、エルフの事を聞きたいんですけど・・・"
-msgstr "Kai: By the way, we wanted to ask you about the elves..."
+msgstr "Kai: So, about the elves..."
 
 #: 002AD422
 msgctxt "00000303"
@@ -1880,7 +1880,7 @@ msgstr "Subahnoff: I figured no one would believe me, even if I tried telling th
 msgctxt "00000313"
 msgid ""
 "まあ、世の中にはアナタのような人もいたんですねえ。"
-msgstr "Although, I suppose there's people like yourselves asking, aren't there."
+msgstr "Although, I suppose there's people like yourselves asking, aren't there?"
 
 #: 002AD723
 msgctxt "00000314"

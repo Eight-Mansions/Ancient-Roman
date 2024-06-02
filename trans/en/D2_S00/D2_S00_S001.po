@@ -1,20 +1,4 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 22:29-0400\n"
-"PO-Revision-Date: 2024-05-29 02:29+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
-"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
-"d2_s00_s001/en/>\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.2\n"
-
-#: 0004496A
+﻿#: 0004496A
 msgctxt "00000000"
 msgid ""
 "ヘカの木を見つけた。"
@@ -414,7 +398,7 @@ msgstr "Sarina: Hmph. I see..."
 msgctxt "00000067"
 msgid ""
 "マクロード：何か私にできることがあったら、"
-msgstr "McLeod: If there's every anything I can do for you guys,"
+msgstr "McLeod: If there's ever anything I can do for you guys,"
 
 #: 001DFBA4
 msgctxt "00000068"
@@ -492,13 +476,13 @@ msgstr "McLeod: Please, stay safe."
 msgctxt "00000080"
 msgid ""
 "兵士：守備隊長殿が、バロスメイアの町に行ってしまった。"
-msgstr "Soldier: Captain sir, when you left and went to Barrows May,"
+msgstr "Soldier: The captain left for Barrows May."
 
 #: 001DFEE8
 msgctxt "00000081"
 msgid ""
 "私も追いかけたいところだが、持ち場を離れるわけにも・・・"
-msgstr "I wanted to come with, but I couldn't abandon my post."
+msgstr "I wanted to go with him, but I couldn't abandon my post."
 
 #: 001DFF3B
 msgctxt "00000082"
@@ -1674,7 +1658,7 @@ msgstr "Captain McLeod is in charge, but he's currently over at the Rune Gate."
 msgctxt "00000277"
 msgid ""
 "兵士：これはマクロード隊長。作業は順調に進んでおります。"
-msgstr "Solider: This is Captain McLeod. Work is progressing smoothly."
+msgstr "Solider: Captain McLeod, sir. Work is progressing smoothly."
 
 #: 003BF4A3
 msgctxt "00000278"
@@ -1920,25 +1904,25 @@ msgstr "Woman: Hehehehe! ▽"
 msgctxt "00000318"
 msgid ""
 "彼は私を愛してる。みんな私を応援してる▽"
-msgstr "He's madly in love with me. Everyone's cheering for me! ▽"
+msgstr "Fall madly in love with me. Everyone's cheers for me! ▽"
 
 #: 003BFE59
 msgctxt "00000319"
 msgid ""
 "マクロード：そうだ。がんばってくだされ。"
-msgstr "McLeod: I see. Then good luck from me as well."
+msgstr "McLeod: I see. Then I shall cheer for you as well."
 
 #: 003BFE93
 msgctxt "00000320"
 msgid ""
 "ミーナ：魔法か・・・"
-msgstr "Minna: Magic...?"
+msgstr "Minna: Was that magic...?"
 
 #: 003BFEB9
 msgctxt "00000321"
 msgid ""
 "エヴリラヴァを憶えた。"
-msgstr "You learned All Charm!"
+msgstr "You learned All Lover!"
 
 #: 003BFEF3
 msgctxt "00000322"
@@ -2005,3 +1989,4 @@ msgctxt "00000332"
 msgid ""
 "兵士：いいことなんだろうけれど、何か物足りないなぁ。"
 msgstr "Soldier: It's good, but it feels like something's missing."
+

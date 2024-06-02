@@ -1,20 +1,4 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 22:29-0400\n"
-"PO-Revision-Date: 2024-05-31 21:01+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
-"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
-"d2_s00_s002/en/>\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.2\n"
-
-#: 0000034D
+﻿#: 0000034D
 msgctxt "00000000"
 msgid ""
 "兵士：この近くで怪しい生き物をとらえたんだが、"
@@ -517,8 +501,6 @@ msgctxt "00000084"
 msgid ""
 "隊長代理：そうですか、何もありませんがゆっくりしていってください。"
 msgstr ""
-"Acting Captain: Very well then. We don't have much here, but make yourself "
-"at home."
 
 #: 00112416
 msgctxt "00000085"
@@ -1244,7 +1226,7 @@ msgstr "He was covered in blood..."
 msgctxt "00000205"
 msgid ""
 "ぶるぶるぶる・・・"
-msgstr "(Shudders...)"
+msgstr "(Shudders.)"
 
 #: 00336737
 msgctxt "00000206"
@@ -1292,7 +1274,7 @@ msgstr "He kept complaining that his back hurts."
 msgctxt "00000213"
 msgid ""
 "うるさいのよ。"
-msgstr "It's got really annoying."
+msgstr "It just got really annoying that I gave in and came here."
 
 #: 003368B9
 msgctxt "00000214"
@@ -1695,3 +1677,4 @@ msgctxt "00000280"
 msgid ""
 "何かにおそわれてケガしたんじゃ、シャレにならねぇ。"
 msgstr "to reach the clinic. It's ridiculous!"
+

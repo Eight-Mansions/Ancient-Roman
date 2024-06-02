@@ -170,7 +170,7 @@ msgstr "Fara: (We can't talk about that!)"
 msgctxt "00000030"
 msgid ""
 "バーク：（おっと、そうだったな、ちびすけ。すまねぇ）"
-msgstr "Burke: (Oh, right, right. Sorry. Short stop.)"
+msgstr "Burke: (Oh, right, right. Sorry, short stop.)"
 
 #: 000CE53F
 msgctxt "00000031"
@@ -278,13 +278,13 @@ msgstr "they won't let me see him. Why?"
 msgctxt "00000048"
 msgid ""
 "ニワトリ：ここっ"
-msgstr "Chicken: Cuckoo!"
+msgstr "Chicken: *buk, buk*"
 
 #: 001124F7
 msgctxt "00000049"
 msgid ""
 "ニワトリ：こけっこ"
-msgstr "Chicken: Cuckoo-coo!"
+msgstr "Chicken: *ba-gawk*"
 
 #: 00156910
 msgctxt "00000050"
@@ -728,7 +728,7 @@ msgstr ""
 msgctxt "00000123"
 msgid ""
 "いらっしゃいませ▽世界はひろしといえど"
-msgstr "Welcome to Dog's Shop! ▽"
+msgstr "Welcome to The Dog's Shop! ▽"
 
 #: 0026893F
 msgctxt "00000124"
@@ -746,7 +746,7 @@ msgstr "Old Man: Welcome."
 msgctxt "00000126"
 msgid ""
 "うちの商品はいいものばかりだよ。"
-msgstr "We only sell the finest!"
+msgstr "We sell only the finest!"
 
 #: 002AD1A0
 msgctxt "00000127"
@@ -758,7 +758,7 @@ msgstr "Old Man: Welcome."
 msgctxt "00000128"
 msgid ""
 "うちの商品はいいものばかりだよ。"
-msgstr "We only sell the finest!"
+msgstr "We sell only the finest!"
 
 #: 002F1915
 msgctxt "00000129"
@@ -794,7 +794,7 @@ msgstr "Beautiful Young Woman: Welcome!"
 msgctxt "00000134"
 msgid ""
 "カレンのお店にようこそ▽"
-msgstr "Welcome to our humble restaurant! ▽"
+msgstr "Welcome to our humble shop! ▽"
 
 #: 00336194
 msgctxt "00000135"
@@ -806,7 +806,7 @@ msgstr "Beautiful Woman: Thank you very much."
 msgctxt "00000136"
 msgid ""
 "これからもカレンのお店をひいきにしてくださいね▽"
-msgstr "I'd love it if you stopped by to see me, Karen. ▽"
+msgstr "I'd love it if you stopped by to see us again soon. ▽"
 
 #: 0037A958
 msgctxt "00000137"
@@ -1118,7 +1118,7 @@ msgstr "Sarina: Hey, Kai. What are you, anyway?"
 msgctxt "00000188"
 msgid ""
 "カイ：え、何者・・・って？"
-msgstr "Kai: Huh? What am i?"
+msgstr "Kai: Huh? What am I?"
 
 #: 003BF245
 msgctxt "00000189"
@@ -1220,7 +1220,7 @@ msgstr "Burke: Hey, don't laugh at me!"
 msgctxt "00000205"
 msgid ""
 "ミシリア：くすくす・・・"
-msgstr "Michelia: Giggle, giggle!"
+msgstr "Michelia: *giggle, giggle...*"
 
 #: 003BF6BE
 msgctxt "00000206"
@@ -1280,7 +1280,7 @@ msgstr "Minna: Hahaha!"
 msgctxt "00000215"
 msgid ""
 "ミシリア：くすくすくす・・・"
-msgstr "Michelia: *giggle, giggle, giggle*..."
+msgstr "Michelia: *giggle, giggle, giggle...*"
 
 #: 003BF931
 msgctxt "00000216"

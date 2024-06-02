@@ -1184,13 +1184,13 @@ msgstr "The iron is too rusted to use."
 msgctxt "00000198"
 msgid ""
 "が、えの部分は使えそうだ。"
-msgstr "The handle, however, still looks handy!"
+msgstr "But part of the handle, however, still looks handy!"
 
 #: 001DFA4B
 msgctxt "00000199"
 msgid ""
 "バトンとして使えそうだ。バトンを手に入れた。"
-msgstr "You took the axe head off. You got a Staff!"
+msgstr "You took the axe head off. You got a Baton!"
 
 #: 001DFAB0
 msgctxt "00000200"

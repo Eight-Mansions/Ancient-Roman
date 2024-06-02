@@ -38,7 +38,7 @@ msgstr "Swordsman: Of course."
 msgctxt "00000006"
 msgid ""
 "ブラッドソードを手に入れた。"
-msgstr "You got the Broadsword!"
+msgstr "You got the Blood Sword!"
 
 #: 0000048D
 msgctxt "00000007"
@@ -68,7 +68,7 @@ msgstr "Man: Hey, hey! Going to the Tower of Trials?"
 msgctxt "00000011"
 msgid ""
 "その装備で大丈夫かい？なんなら僕が売ってあげるよ。"
-msgstr "Think that equipment of yours is good enough? I'll sell ya something REAL nice."
+msgstr "Think that equipment of yers is good enough? I'll sell ya something REAL nice."
 
 #: 00044A0F
 msgctxt "00000012"
@@ -128,7 +128,7 @@ msgstr "Burke: You say something?"
 msgctxt "00000021"
 msgid ""
 "ファラ：いえいえ、ぜんぜん、めっそうもございません。"
-msgstr "Fara: No, no. Not at all, not at all! Please, do not mind me at all, good sir."
+msgstr "Fara: No, no. Not at all, not at all! Please, do not mind me, good sir."
 
 #: 0019B542
 msgctxt "00000022"
@@ -140,25 +140,25 @@ msgstr "Burke: ..."
 msgctxt "00000023"
 msgid ""
 "ミシリア：ふ、ふふふ・・・・"
-msgstr "Michelia: Hehehe..."
+msgstr "Michelia: He... hehe..."
 
 #: 0019B64C
 msgctxt "00000024"
 msgid ""
 "カイ：杖はもらえるんだろうね？"
-msgstr "Kai: We've earned the rod now, right?"
+msgstr "Kai: So, about that rod...?"
 
 #: 0019B6DD
 msgctxt "00000025"
 msgid ""
 "魔導師：当然だぜ！"
-msgstr "Magician: Of course!"
+msgstr "Magician: Huh? O-oh, yes...!"
 
 #: 0019B737
 msgctxt "00000026"
 msgid ""
 "＿＿わはははははははははは＿＿"
-msgstr "___WAHAHAHAHA!!!___"
+msgstr "All: WAHAHAHAHA!!!"
 
 #: 0019B80F
 msgctxt "00000027"
@@ -206,7 +206,7 @@ msgstr "Man: Hey, hey! Going to the Tower of Trials?"
 msgctxt "00000034"
 msgid ""
 "その装備で大丈夫かい？なんなら僕が売ってあげるよ。"
-msgstr "Think that equipment of yours is good enough? I'll sell ya something REAL nice."
+msgstr "Think that equipment of yers is good enough? I'll sell ya something REAL nice."
 
 #: 001DFA1C
 msgctxt "00000035"
@@ -332,7 +332,7 @@ msgstr "I sense someone here. They seem to be in that building over there."
 msgctxt "00000055"
 msgid ""
 "バーク：あれか？・・・くんくん・・・"
-msgstr "Burke: That one? Sniff, sniff..."
+msgstr "Burke: That one? *sniff, sniff...*"
 
 #: 00224731
 msgctxt "00000056"
@@ -560,13 +560,13 @@ msgstr "You're just going to ignore that collapsed man?"
 msgctxt "00000093"
 msgid ""
 "男：やった！助けか？あんた、助けにきてくれたんだろ？"
-msgstr "Man: Yay! Gonna save me? Came here to save me?"
+msgstr "Man: Yay! Gonna save us? Came here to save us?"
 
 #: 003362A1
 msgctxt "00000094"
 msgid ""
 "こんだけいれば、今度こそ、この町も助かる！"
-msgstr "With just a bit of your help, then THIS TIME, we could save this town!"
+msgstr "With just a bit more muscle, THIS TIME the town can be saved!"
 
 #: 003362CF
 msgctxt "00000095"
@@ -578,19 +578,19 @@ msgstr "McLeod: What do you mean?"
 msgctxt "00000096"
 msgid ""
 "男：いや、元気な姉ちゃんが助けてやるって、"
-msgstr "Man: Well, that passionate girl declared that she'd help me, you know?"
+msgstr "Man: Well, a passionate girl declared that she'd help us, you hear?"
 
 #: 00336325
 msgctxt "00000097"
 msgid ""
 "この塔をのぼっていったんだよ。で、それっきりさ。"
-msgstr "You just gotta climb that tower. That's it!"
+msgstr "She went and climbed that tower, then not a peep since."
 
 #: 00336359
 msgctxt "00000098"
 msgid ""
 "カイ：・・・誰なんだろう？"
-msgstr "Kai: ...who was that?"
+msgstr "Kai: Who could that have been...?"
 
 #: 00336386
 msgctxt "00000099"
@@ -650,7 +650,7 @@ msgstr "Barkeeper: Anyway, help quick!"
 msgctxt "00000108"
 msgid ""
 "やつら、俺の酒をがばがばのみやがるんだ。なくなっちまわないうちにさ。"
-msgstr "They just keep downing all my sake! I don't care what you do, just make them disappear!"
+msgstr "They just keep downing all my booze! I don't care what you do, just make them disappear!"
 
 #: 00336571
 msgctxt "00000109"
@@ -662,7 +662,7 @@ msgstr "Item Shop: YEAH! NO IDEA WHAT'S GOING ON, BUT THE TOWN WAS ATTACKED."
 msgctxt "00000110"
 msgid ""
 "ミーノ商売ドーグ、ナクナッテナイカ心配デース。"
-msgstr "I'M WORRIED IF MY SHOP DOG, MINO, BIT THE DUST."
+msgstr "BETTER NOT HAVE LOOTED ALL MY TOOLS!"
 
 #: 0037ABA6
 msgctxt "00000111"
@@ -794,7 +794,7 @@ msgstr "Guard: Next up is training your mind by conquering the Tower of Spirit."
 msgctxt "00000132"
 msgid ""
 "そしてその塔の最上階にいる番人の杖をこの場に持ってくるのだ。"
-msgstr "Similarly, the guard at the top holds a rod you must return."
+msgstr "Similarly, the guard at the top holds a rod you must return with."
 
 #: 0037B056
 msgctxt "00000133"
@@ -1070,7 +1070,7 @@ msgstr "Man: WHAT!? You cleared the Tower of Spirit as well?"
 msgctxt "00000178"
 msgid ""
 "くそっー僕もやってやるぞー！！"
-msgstr "Darnit! I won't be shown up by you!"
+msgstr "Shit! I won't be shown up by you!"
 
 #: 0037BB12
 msgctxt "00000179"
@@ -1238,7 +1238,7 @@ msgstr "Burke: Yup, YOU'RE the one who bailed on him after finding out."
 msgctxt "00000206"
 msgid ""
 "王子様が私なんかにふり向いてくれないだろうって、勝手に思いこんでる。"
-msgstr "\"A prince wouldn't want to be near something like me!\""
+msgstr "\"A prince wouldn't want to be near someone like me!\""
 
 #: 0037C30A
 msgctxt "00000207"

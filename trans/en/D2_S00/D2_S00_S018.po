@@ -8,7 +8,7 @@ msgstr "???"
 msgctxt "00000002"
 msgid ""
 "けもののかぶとを手に入れた。"
-msgstr "You got the Beast Helmet!"
+msgstr "You got the Beast Helm!"
 
 #: 00000259
 msgctxt "00000003"
@@ -512,7 +512,7 @@ msgstr "Burke: You guys worry too much. I said it's fine!"
 msgctxt "00000086"
 msgid ""
 "＿＿＿＿ぼこぼこ＿＿＿＿"
-msgstr "___Blam, blam, blam!___"
+msgstr "___*blam, blam, blam!*___"
 
 #: 000CDD52
 msgctxt "00000087"
@@ -566,7 +566,7 @@ msgstr "Sarina: Ow... That was rough!"
 msgctxt "00000095"
 msgid ""
 "まったく。"
-msgstr "Darnit."
+msgstr "Jeez."
 
 #: 00112380
 msgctxt "00000096"
@@ -644,7 +644,7 @@ msgstr "Kai: A-anyway, let's take the stairs!"
 msgctxt "00000108"
 msgid ""
 "スピードココアを手に入れた。"
-msgstr "You got the Speed Cocoa!"
+msgstr "You got some Speed Cocoa!"
 
 #: 0019B273
 msgctxt "00000109"

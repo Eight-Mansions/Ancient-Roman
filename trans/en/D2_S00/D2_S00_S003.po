@@ -1,20 +1,4 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 18:22-0400\n"
-"PO-Revision-Date: 2024-06-01 22:22+0000\n"
-"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
-"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
-"d2_s00_s003/en/>\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.2\n"
-
-#: 00000151
+﻿#: 00000151
 msgctxt "00000000"
 msgid ""
 "バーク：温泉か。ほろ苦い思い出がよみがえるな。"
@@ -936,7 +920,7 @@ msgstr "It's been a long time since I've seen someone as courteous as you."
 msgctxt "00000153"
 msgid ""
 "バーク：（おい、今、ほめられたのか？）"
-msgstr "Burke: (Wait, did we just complement him?)"
+msgstr "Burke: (Wait, did he just complement us?)"
 
 #: 0019B6EA
 msgctxt "00000154"
@@ -1134,7 +1118,7 @@ msgstr "Could you buy some of my magic?"
 msgctxt "00000186"
 msgid ""
 "マール：すまんのう・・・うー、ゴホゴホ。"
-msgstr "Marl: Sorry about this... Cough, cough!"
+msgstr "Marl: Sorry about this... *cough, cough!*"
 
 #: 0019BE38
 msgctxt "00000187"
@@ -1482,7 +1466,7 @@ msgstr "Oh, right. You should try going to New Heinrogue Castle at least once."
 msgctxt "00000244"
 msgid ""
 "そこの聖者とか呼ばれているやつとは、知り合いでな。"
-msgstr "Someone there known as the Sage is an old friend of mine."
+msgstr "Someone there known as the sage is an old friend of mine."
 
 #: 0019CA76
 msgctxt "00000245"
@@ -1764,7 +1748,7 @@ msgstr "Man: This is New Heinrogue Castle's lower city."
 msgctxt "00000292"
 msgid ""
 "って、僕もさっき着いたばかりなんだけどね。"
-msgstr "Wait, I just arrived, myself. Why am I the one telling you?"
+msgstr "Wait, I just arrived myself. Why am I the one telling you?"
 
 #: 001E0711
 msgctxt "00000293"
@@ -2040,7 +2024,7 @@ msgstr "Says they're recruiting more guard soldiers."
 msgctxt "00000338"
 msgid ""
 "別にくわしく読む必要も無いだろう。"
-msgstr "Not really any need to read any further."
+msgstr "Not really any need to read further."
 
 #: 001E10EF
 msgctxt "00000339"
@@ -2082,13 +2066,13 @@ msgstr "Kai: O-ow! My ears!"
 msgctxt "00000345"
 msgid ""
 "バーク：これだよ、これ、この城のけいび兵になりゃ、"
-msgstr "Burke: This, here. See? We become castle guards,"
+msgstr "Burke: This here. See? We become castle guards,"
 
 #: 001E13C4
 msgctxt "00000346"
 msgid ""
 "バーク：聖者とやらにも会えるかもしれねーだろ？"
-msgstr "Burke: then we can meet the Sage guy, yeah?"
+msgstr "then we can meet the sage guy, yeah?"
 
 #: 001E1428
 msgctxt "00000347"
@@ -2124,7 +2108,7 @@ msgstr "Michelia: Are you both serious?"
 msgctxt "00000352"
 msgid ""
 "ミシリア：そこまでして聖者様に会わなければならないの？"
-msgstr "Michelia: Is there really not a less roundabout way to meet the Sage?"
+msgstr "Michelia: Do we really need to see this sage that badly?"
 
 #: 001E15AD
 msgctxt "00000353"
@@ -2460,31 +2444,31 @@ msgstr "Old person: I'm glad they're taking this seriously."
 msgctxt "00000408"
 msgid ""
 "こっこ、こっこ、ここぉぉーーーーー"
-msgstr "Buk, buk, ba-gawk---"
+msgstr "*buk, buk, ba-gawk---*"
 
 #: 00224D89
 msgctxt "00000409"
 msgid ""
 "こけこっこ"
-msgstr "Buk, buk"
+msgstr "*buk, buk*"
 
 #: 00224DC5
 msgctxt "00000410"
 msgid ""
 "こけ？"
-msgstr "Buk?"
+msgstr "*buk?*"
 
 #: 00224DEA
 msgctxt "00000411"
 msgid ""
 "こけこっこ"
-msgstr "Buk, buk"
+msgstr "*buk, buk*"
 
 #: 00224E13
 msgctxt "00000412"
 msgid ""
 "こっこっこっこ、こけこぉー"
-msgstr "Buk-buk! Buk-buk, ba-gawk!"
+msgstr "*buk-buk! buk-buk, ba-gawk!*"
 
 #: 00224E3F
 msgctxt "00000413"
@@ -2520,7 +2504,7 @@ msgstr "You learned Breath of Life!"
 msgctxt "00000418"
 msgid ""
 "こけ？"
-msgstr "Buk?"
+msgstr "*buk?*"
 
 #: 00224FA5
 msgctxt "00000419"
@@ -2574,19 +2558,19 @@ msgstr "Woman: Welcome! Staying the night?"
 msgctxt "00000427"
 msgid ""
 "・・・・・・・その夜・・・・・・・"
-msgstr ".....That night....."
+msgstr "___That night___"
 
 #: 00268A5E
 msgctxt "00000428"
 msgid ""
 "＿＿＿＿＿ごそごそ＿＿＿＿＿＿＿＿"
-msgstr "_____Rustle, rustle._____"
+msgstr "_____*rustle, rustle*_____"
 
 #: 00268A92
 msgctxt "00000429"
 msgid ""
 "カイ、カイってば！！"
-msgstr "Kai! Kaaai!"
+msgstr "Kai! Hey Kai!"
 
 #: 00268AB8
 msgctxt "00000430"
@@ -2634,7 +2618,7 @@ msgstr "Kai: ...all right, fine. Let's go."
 msgctxt "00000437"
 msgid ""
 "ファラ：わーい、わーい。"
-msgstr "Fara: Yaaay! Wooo!"
+msgstr "Fara: Yaaay! Woohoo!"
 
 #: 00268C53
 msgctxt "00000438"
@@ -2754,7 +2738,7 @@ msgstr "Please come again."
 msgctxt "00000457"
 msgid ""
 "＿＿新ハインローグ城＿王の間＿"
-msgstr "___ New Heinrogue Castle _ Royal Chambers___"
+msgstr "New Heinrogue Castle, Royal Chambers"
 
 #: 002AD1D5
 msgctxt "00000458"
@@ -2778,7 +2762,7 @@ msgstr "Soldier: Yes, sir!"
 msgctxt "00000461"
 msgid ""
 "大臣：もう少しちこう。"
-msgstr "Minister: Now, let's see..."
+msgstr "Minister: Come a little closer..."
 
 #: 002AD320
 msgctxt "00000462"
@@ -2844,7 +2828,7 @@ msgstr "Kai: Okay..."
 msgctxt "00000472"
 msgid ""
 "＿＿新ハインローグ城＿王の間"
-msgstr "___ New Heinrogue Castle _ Royal Chambers___"
+msgstr "New Heinrogue Castle, Royal Chambers"
 
 #: 002AD6B5
 msgctxt "00000473"
@@ -2928,7 +2912,7 @@ msgstr "Michelia: Kai? A prince...?"
 msgctxt "00000486"
 msgid ""
 "＿＿新ハインローグ城＿王の間＿＿"
-msgstr "___ New Heinrogue Castle _ Royal Chambers___"
+msgstr "New Heinrogue Castle, Royal Chambers"
 
 #: 002ADB20
 msgctxt "00000487"
@@ -2958,7 +2942,7 @@ msgstr "Kai: I wish to thank you guys,"
 msgctxt "00000491"
 msgid ""
 "ありがとう。"
-msgstr "for giving me such a warm welcome."
+msgstr "for giving me such a warm welcome home."
 
 #: 002ADC41
 msgctxt "00000492"
@@ -3240,7 +3224,7 @@ msgstr "Sage: The Grand Sage awaits at the Sage's Tower."
 msgctxt "00000538"
 msgid ""
 "その方への手紙を書きましょう。"
-msgstr "Please hand him this letter."
+msgstr "I'll write you a letter to give him."
 
 #: 002AE7A1
 msgctxt "00000539"
@@ -3270,7 +3254,7 @@ msgstr "Kai: Thank you."
 msgctxt "00000543"
 msgid ""
 "大臣：・・・ではカイ様、体にはくれぐれもお気をつけて。"
-msgstr "Minister: ... well then, Lord Kai, I do hope you'll be careful."
+msgstr "Minister: ...well then, Lord Kai, I do hope you'll be careful."
 
 #: 002AE964
 msgctxt "00000544"
@@ -3480,7 +3464,7 @@ msgstr "Minister: Start!"
 msgctxt "00000578"
 msgid ""
 "バーク：うおしゃあーー！！いくぜ！！"
-msgstr "Burke: WOOO! TAKE THAT!"
+msgstr "Burke: WOOO! TAKE THIS!"
 
 #: 002F1EDB
 msgctxt "00000579"
@@ -3558,7 +3542,7 @@ msgstr "Fara: What was that? (Glares.)"
 msgctxt "00000591"
 msgid ""
 "バーク：いえいえ、ぜんぜん、めっそうもございません。"
-msgstr "Burke: N,o no. Nothing, nothing at all! Don't pay me any mind."
+msgstr "Burke: No, no. Nothing, nothing at all! Don't pay me any mind."
 
 #: 002F2372
 msgctxt "00000592"
@@ -3642,7 +3626,7 @@ msgstr "Kai: It is what it is. We'll have to think of something else then."
 msgctxt "00000605"
 msgid ""
 "カイ：ところでファラはどうしたんだい？"
-msgstr "Kai: By the way, have you see Fara?"
+msgstr "Kai: By the way, have you seen Fara?"
 
 #: 002F296F
 msgctxt "00000606"
@@ -4236,7 +4220,7 @@ msgstr "Kai: Okay, let's go everyone!"
 msgctxt "00000704"
 msgid ""
 "いぬら屋本舗にようこそ▽世界はひろしといえど"
-msgstr "Welcome to the world-renowned Dog's Shop's main store! ▽"
+msgstr "Welcome to the world-renowned The Dog Shop's main store! ▽"
 
 #: 0037A98B
 msgctxt "00000705"
@@ -4338,7 +4322,7 @@ msgstr "Sage: Oh, right. I wanted to give you something."
 msgctxt "00000721"
 msgid ""
 "ごそごそ・・・・"
-msgstr "Rustle, rustle."
+msgstr "*rustle, rustle...*"
 
 #: 0037ACF4
 msgctxt "00000722"
@@ -4374,4 +4358,5 @@ msgstr "Old Man: Welcome."
 msgctxt "00000727"
 msgid ""
 "うちの商品はいいものばかりだよ。"
-msgstr "We only sell the finest!"
+msgstr "We sell only the finest!"
+
