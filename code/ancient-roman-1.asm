@@ -796,6 +796,9 @@ NumWindowLinesPos:
 .org 0x8009d6f0
 	.db 0x20 	; How many are you buying/selling?
 	
+.org 0x8009d9c4
+	.db 0x0C
+	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
 

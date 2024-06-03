@@ -790,6 +790,9 @@ NumWindowLinesPos:
 	.db 0x00
 .org 0x8009D5A8
 	.db 0x20 	; How many are you buying/selling?
+	
+.org 0x8009D87C
+	.db 0x0C
 
 	
 .org 0x800B8500
