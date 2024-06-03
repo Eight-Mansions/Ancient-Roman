@@ -507,6 +507,9 @@ NumWindowLinesPos:
 .org 0x8003f9f8
 	nop
 	
+.org 0x8005a92c
+	li v0, 0x2E	; Set width of highligh for New Game
+	
 .org 0x8009db24
 	.db 0x10 ; New Game
 .org 0x8009db30
