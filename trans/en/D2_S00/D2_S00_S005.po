@@ -1,4 +1,20 @@
-﻿#: 00044923
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 13:30-0400\n"
+"PO-Revision-Date: 2024-06-05 17:30+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s005/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00044923
 msgctxt "00000000"
 msgid ""
 "フロント：いらっしゃいませ。お泊まりでしょうか？"
@@ -525,6 +541,8 @@ msgctxt "00000088"
 msgid ""
 "娘：ようやく船がでるようになって、これでほかのみんなも勇気がでるわ。"
 msgstr ""
+"Girl: Finally, ships can set sail once again. This will surely get people "
+"excited again!"
 
 #: 0019B7DE
 msgctxt "00000089"
@@ -1605,4 +1623,3 @@ msgctxt "00000268"
 msgid ""
 "女兵士：お気をつけて王子様。"
 msgstr "Female Knight: Please be careful, my prince."
-
