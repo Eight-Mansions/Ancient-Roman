@@ -1,4 +1,20 @@
-﻿#: 0000034D
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 13:30-0400\n"
+"PO-Revision-Date: 2024-06-05 17:30+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s002/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 0000034D
 msgctxt "00000000"
 msgid ""
 "兵士：この近くで怪しい生き物をとらえたんだが、"
@@ -501,6 +517,8 @@ msgctxt "00000084"
 msgid ""
 "隊長代理：そうですか、何もありませんがゆっくりしていってください。"
 msgstr ""
+"Acting Captain: Very well then. In that case, you're welcome to take a "
+"moment to relax here."
 
 #: 00112416
 msgctxt "00000085"
@@ -1677,4 +1695,3 @@ msgctxt "00000280"
 msgid ""
 "何かにおそわれてケガしたんじゃ、シャレにならねぇ。"
 msgstr "to reach the clinic. It's ridiculous!"
-
