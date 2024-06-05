@@ -1,4 +1,20 @@
-﻿#: 00089136
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s021/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00089136
 msgctxt "00000000"
 msgid ""
 "どこからともなくこえがひびいた。"
@@ -74,7 +90,7 @@ msgstr "We shall grant you magical power."
 msgctxt "00000012"
 msgid ""
 "セイント・ローを憶えた。"
-msgstr ""
+msgstr "You learned Saint Row!"
 
 #: 001569C2
 msgctxt "00000013"
@@ -429,4 +445,3 @@ msgctxt "00000071"
 msgid ""
 "サリナ：そんなこったと思ったよ・・・"
 msgstr "Sarina: Yeah, I was afraid of that."
-
