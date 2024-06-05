@@ -1,4 +1,20 @@
-﻿#: 00044971
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s024/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00044971
 msgctxt "00000000"
 msgid ""
 "いんがの杖を手に入れた。"
@@ -14,25 +30,25 @@ msgstr "It's empty."
 msgctxt "00000002"
 msgid ""
 "カイ：あれ？ユータ君がいない。"
-msgstr ""
+msgstr "Kai: Huh? Yuuta's not here."
 
 #: 00089147
 msgctxt "00000003"
 msgid ""
 "バーク：俺達が、あまりにあちこち連れまわすから"
-msgstr ""
+msgstr "Burke: We did drag him around everywhere."
 
 #: 00089179
 msgctxt "00000004"
 msgid ""
 "いやになって逃げたんじゃねえのか？"
-msgstr ""
+msgstr "Maybe he got tired of it and ran off?"
 
 #: 000891AD
 msgctxt "00000005"
 msgid ""
 "バロア：そりゃ、悪い事したな・・・"
-msgstr ""
+msgstr "Baroa: Oh jeez, we messed up..."
 
 #: 00089216
 msgctxt "00000006"
@@ -62,7 +78,7 @@ msgstr "Kai: We want to get into the Goddess Shrine. Do you know how to enter?"
 msgctxt "00000010"
 msgid ""
 "男：何だ？女神の力でも手に入れようってのか？"
-msgstr ""
+msgstr "Man: Huh? Are you're trying to claim the Goddess's divine power?"
 
 #: 00156A2A
 msgctxt "00000011"
@@ -488,7 +504,7 @@ msgstr "Kai: Okay, we'll leave Minna to you, Burke. We'll search Hanba Village."
 msgctxt "00000081"
 msgid ""
 "マーモ島草原"
-msgstr ""
+msgstr "Marmo Island Plains"
 
 #: 0019BA38
 msgctxt "00000082"
@@ -728,7 +744,7 @@ msgstr "Elder: Hahaha! Quite a sight, isn't it?"
 msgctxt "00000121"
 msgid ""
 "ここは元々、争いを好まない者達の集まった村、"
-msgstr ""
+msgstr "This is a haven for those who lack any desire for conflict."
 
 #: 00268B95
 msgctxt "00000122"
@@ -818,13 +834,13 @@ msgstr "Gizafeal's castle should still be there."
 msgctxt "00000136"
 msgid ""
 "その城門はかたくとざされていて、なんびとたりともこばむ、"
-msgstr ""
+msgstr "The gate is firmly shut, however, with no entrances for outsiders."
 
 #: 00268FE0
 msgctxt "00000137"
 msgid ""
 "それを開くには、あの島にある２つの塔の奥にある"
-msgstr ""
+msgstr "To open it, you must search inside the two neighboring towers."
 
 #: 00269012
 msgctxt "00000138"
@@ -951,4 +967,3 @@ msgctxt "00000158"
 msgid ""
 "何も見つからない。"
 msgstr "There's nothing here."
-
