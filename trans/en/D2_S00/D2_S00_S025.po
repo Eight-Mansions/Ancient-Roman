@@ -1,4 +1,20 @@
-﻿#: 0000016B
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s025/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 0000016B
 msgctxt "00000000"
 msgid ""
 "バロア：行きたいとこを言ってくれれば、船を出すぜ。"
@@ -273,6 +289,8 @@ msgctxt "00000045"
 msgid ""
 "ギゼフィル：お初にお目にかかる。おろかな生物の代表者達。"
 msgstr ""
+"Gizafeal: The pleasure's all mine. You must be the worms who represent the "
+"foolish creatures known as man."
 
 #: 00156C82
 msgctxt "00000046"
@@ -284,13 +302,13 @@ msgstr "Baroa: Jeez, does this guy hate mankind or something?"
 msgctxt "00000047"
 msgid ""
 "ギゼフィル：くく、お前達は人間の総意を"
-msgstr ""
+msgstr "Gizafeal: Hah, but of course."
 
 #: 00156D09
 msgctxt "00000048"
 msgid ""
 "代表して来たつもりでいるのだろう？"
-msgstr ""
+msgstr "After all, are you not here to represent the will of man?"
 
 #: 00156D2F
 msgctxt "00000049"
@@ -314,13 +332,15 @@ msgstr "Michelia: That's, umm..."
 msgctxt "00000052"
 msgid ""
 "ギゼフィル：私を倒したところで、世界にとっては何も変わらぬよ。"
-msgstr ""
+msgstr "Gizafeal: Even if you defeat me, the world shall not change."
 
 #: 00156E4D
 msgctxt "00000053"
 msgid ""
 "ただ、すべての生物の王になるのが、私か、お前かの違いだけだ。"
-msgstr "The only question that remains is, \"Who sits on the throne of all-- me, or you?\""
+msgstr ""
+"The only question that remains is, \"Who sits on the throne of all--me, or "
+"you?\""
 
 #: 00156EA6
 msgctxt "00000054"
@@ -332,7 +352,7 @@ msgstr "Kai: That's enough!"
 msgctxt "00000055"
 msgid ""
 "ギゼフィル：私の言うことがまちがっていると言えるのか？"
-msgstr ""
+msgstr "Gizafeal: Can you refute these words of mine, I wonder."
 
 #: 00156F0E
 msgctxt "00000056"
@@ -356,13 +376,13 @@ msgstr "Kai: SHUT UP!"
 msgctxt "00000059"
 msgid ""
 "ギゼフィル：かつて人間でないからと"
-msgstr ""
+msgstr "Gizafeal: Those who aren't of man"
 
 #: 00157005
 msgctxt "00000060"
 msgid ""
 "不当な仕打ちを受けた種族の話を知るまい。"
-msgstr ""
+msgstr "know well man's transgressions."
 
 #: 00157031
 msgctxt "00000061"
@@ -386,13 +406,13 @@ msgstr "What do you even know about us!?"
 msgctxt "00000064"
 msgid ""
 "バロア：カイは違うぜ。"
-msgstr ""
+msgstr "Baroa: Kai is different."
 
 #: 0015713C
 msgctxt "00000065"
 msgid ""
 "少なくとも、お前のようなやつとは出来が違うんだよ。"
-msgstr ""
+msgstr "At least, he's leagues better than you!"
 
 #: 00157172
 msgctxt "00000066"
@@ -506,7 +526,7 @@ msgstr "Unlike you, who only believes in yourself, you pitiful creature!"
 msgctxt "00000084"
 msgid ""
 "ギゼフィル：・・・貴様、私のことをあわれな生き物だと。"
-msgstr ""
+msgstr "Gizafeal: ...you dare call me a pitiful creature?"
 
 #: 001576A4
 msgctxt "00000085"
@@ -1040,7 +1060,7 @@ msgstr "Everyone, take my power!"
 msgctxt "00000233"
 msgid ""
 "ＨＰ・ＭＰが回復した。"
-msgstr ""
+msgstr "HP and MP restored!"
 
 #: 002ADA65
 msgctxt "00000234"
@@ -1143,4 +1163,3 @@ msgctxt "00000250"
 msgid ""
 "・・・・・・"
 msgstr "..."
-
