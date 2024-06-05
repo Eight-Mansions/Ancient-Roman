@@ -1,4 +1,20 @@
-﻿#: 000449B9
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s017/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 000449B9
 msgctxt "00000000"
 msgid ""
 "カイ：・・・よし、開いた。"
@@ -614,7 +630,7 @@ msgstr "___(Reading ensues.)___"
 msgctxt "00000102"
 msgid ""
 "＿＿読書おしまい＿＿"
-msgstr ""
+msgstr "___(Reading complete!)___"
 
 #: 00224732
 msgctxt "00000103"
@@ -1076,7 +1092,7 @@ msgstr "Burke: ..."
 msgctxt "00000179"
 msgid ""
 "ミシリア：・・・確かにそれが正しいのかもしれません。"
-msgstr ""
+msgstr "Michelia: ...you may be right."
 
 #: 00269085
 msgctxt "00000180"
@@ -1251,4 +1267,3 @@ msgctxt "00000208"
 msgid ""
 "老人：今後の旅の無事をお祈りしております。"
 msgstr "Old Man: I'll pray that your journey keeps you safe."
-
