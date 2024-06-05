@@ -700,9 +700,9 @@ NumWindowLinesPos:
 	.db 0x10 ; Battle Spell 9
 	
 .org 0x8009D988
-	.db 0x20 ; Load from mem 1
+	.db 0x30 ; Load from mem 1
 .org 0x8009D994
-	.db 0x20 ; Load from mem 2
+	.db 0x30 ; Load from mem 2
 	
 .org 0x8009D73C
 	.db 0x06	; Attack
@@ -794,8 +794,10 @@ NumWindowLinesPos:
 .org 0x8009D5A8
 	.db 0x20 	; How many are you buying/selling?
 	
-.org 0x8009D87C
+.org 0x8009D87C	; Update arrow for Loading complete
 	.db 0x0C
+.org 0x8009D87B	; Update arrow for No save
+	.db 0x13
 
 	
 .org 0x800B8500

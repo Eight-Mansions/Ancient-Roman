@@ -705,9 +705,9 @@ NumWindowLinesPos:
 	.db 0x10 ; Battle Spell 9
 	
 .org 0x8009dad0
-	.db 0x20 ; Load from mem 1
+	.db 0x30 ; Load from mem 1
 .org 0x8009dadc
-	.db 0x20 ; Load from mem 2
+	.db 0x30 ; Load from mem 2
 	
 .org 0x8009d884
 	.db 0x06	; Attack
@@ -799,8 +799,10 @@ NumWindowLinesPos:
 .org 0x8009d6f0
 	.db 0x20 	; How many are you buying/selling?
 	
-.org 0x8009d9c4
+.org 0x8009d9c4	; Update arrow for Loading complete
 	.db 0x0C
+.org 0x8009d9c3	; Update arrow for No save
+	.db 0x13
 	
 .org 0x800B8500
 	.importobj "code\ancient-roman\obj\loadfile.obj"
