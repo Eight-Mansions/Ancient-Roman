@@ -1,4 +1,20 @@
-﻿#: 00000166
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s007/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00000166
 msgctxt "00000000"
 msgid ""
 "カイ：今、逃げ出すわけにはいかない。"
@@ -182,7 +198,7 @@ msgstr "Sage: It's time to fight!!!"
 msgctxt "00000030"
 msgid ""
 "聖者：おみごと"
-msgstr ""
+msgstr "Sage: Well done."
 
 #: 000CDA9D
 msgctxt "00000031"
@@ -404,7 +420,7 @@ msgstr "Grand Sage: I will have you all train both your \"spirit\" and \"strengt
 msgctxt "00000067"
 msgid ""
 "試練は［試練の島］で行う。"
-msgstr ""
+msgstr "The trials will take place at the Island of Trials."
 
 #: 00112758
 msgctxt "00000068"
@@ -417,6 +433,8 @@ msgctxt "00000069"
 msgid ""
 "聖者：[試練]の島の試練は常人にはつらくかこくなものだ。"
 msgstr ""
+"Sage: The trials you'll face on the island are too intense for the average "
+"person."
 
 #: 00112858
 msgctxt "00000070"
@@ -584,7 +602,7 @@ msgstr "Kai: What happened?"
 msgctxt "00000097"
 msgid ""
 "兵士：急いでハインローグ城へもどられたし、とのことです。"
-msgstr ""
+msgstr "Soldier: Please return to New Heinrogue Castle at once!"
 
 #: 001131F7
 msgctxt "00000098"
@@ -669,6 +687,8 @@ msgctxt "00000111"
 msgid ""
 "くわしくは帰らずの港から「隠者の里」に行くといい。"
 msgstr ""
+"You may learn more if you travel to the Hermit's Island from the Port of No "
+"Return."
 
 #: 001134F2
 msgctxt "00000112"
@@ -860,7 +880,7 @@ msgstr "Maybe we'll find something new."
 msgctxt "00000143"
 msgid ""
 "夜に酒場です。忘れないでくださいよ。"
-msgstr ""
+msgstr "Subahnoff: Let's meet at the bar tonight. Don't forget, please!"
 
 #: 0015726B
 msgctxt "00000144"
@@ -872,13 +892,15 @@ msgstr "Subahnoff: Oh yes, at that time, I went to the forest."
 msgctxt "00000145"
 msgid ""
 "大事なおのを湖に落としちゃいまして・・・そしたら、"
-msgstr ""
+msgstr "I messed up and dropped my precious hatchet in the lake."
 
 #: 001572DB
 msgctxt "00000146"
 msgid ""
 "湖から女の人が出てきて、「アナタが落としたのはこのおのですか」って"
 msgstr ""
+"Suddenly, a women appeared from the water and asked, \"Did you drop this "
+"hatchet?\""
 
 #: 00157321
 msgctxt "00000147"
@@ -890,13 +912,13 @@ msgstr "She held up a different one, so I said that wasn't it."
 msgctxt "00000148"
 msgid ""
 "「アナタは正直者ですね」って、別のおのを置いていきまして。"
-msgstr ""
+msgstr "\"You're an honest man,\" she said, then gave me a different hatchet."
 
 #: 00157385
 msgctxt "00000149"
 msgid ""
 "とても立派なおのなんですが、あまりしっくりこないんです。"
-msgstr ""
+msgstr "I mean, it's a fine hatchet, sure, but it's not the same to me."
 
 #: 001573C1
 msgctxt "00000150"
@@ -914,13 +936,13 @@ msgstr "You got the Crystal Hatchet!"
 msgctxt "00000152"
 msgid ""
 "スバノフ：あー、いい天気だな。"
-msgstr ""
+msgstr "Subahnoff: Ahh, what fine weather today."
 
 #: 0015745D
 msgctxt "00000153"
 msgid ""
 "今日もバリバリはたらくぞ。"
-msgstr ""
+msgstr "Really gives you the energy to hop right to work!"
 
 #: 0019B243
 msgctxt "00000154"
@@ -1418,13 +1440,13 @@ msgstr "Leon: Hmph, never showed a hint of gratitude."
 msgctxt "00000236"
 msgid ""
 "レイヨン：何をしに、わざわざこんな所に来るんだ？"
-msgstr ""
+msgstr "Leon: Why'd you come all the way out here?"
 
 #: 0022425C
 msgctxt "00000237"
 msgid ""
 "ああ、なにも言うな。別に聞きたいとも思わん。"
-msgstr ""
+msgstr "Don't answer that, I don't actually care."
 
 #: 0022429F
 msgctxt "00000238"
@@ -1754,7 +1776,7 @@ msgstr "Barkeeper: Subahnoff?"
 msgctxt "00000292"
 msgid ""
 "もう材木を探しに行きましたよ。"
-msgstr ""
+msgstr "He left to go look for more lumber."
 
 #: 002AD1AA
 msgctxt "00000293"
@@ -1899,4 +1921,3 @@ msgctxt "00000316"
 msgid ""
 "カイ：ええ、十分です。ありがとうございました。"
 msgstr "Kai: It was. Thank you very much!"
-
