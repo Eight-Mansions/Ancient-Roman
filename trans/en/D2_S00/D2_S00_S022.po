@@ -1,4 +1,20 @@
-﻿#: 00044994
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s022/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00044994
 msgctxt "00000001"
 msgid ""
 "神官：道中、くれぐれもご無事で・・・"
@@ -170,7 +186,7 @@ msgstr "Priest: Please, be careful."
 msgctxt "00000029"
 msgid ""
 "力を求める者、その自らのふさわしきを示せ。"
-msgstr ""
+msgstr "He who seeks power, prove your worth!"
 
 #: 000CDA76
 msgctxt "00000030"
@@ -332,7 +348,7 @@ msgstr "Kai: ...let's go!"
 msgctxt "00000056"
 msgid ""
 "装置をかいじょした。"
-msgstr ""
+msgstr "You released the device."
 
 #: 001DFB08
 msgctxt "00000057"
@@ -500,7 +516,7 @@ msgstr "Burke: ..."
 msgctxt "00000084"
 msgid ""
 "装置をかいじょした。"
-msgstr ""
+msgstr "You released the device."
 
 #: 002F1F73
 msgctxt "00000085"
@@ -561,4 +577,3 @@ msgctxt "00000094"
 msgid ""
 "カイ：よし、行くぞ。"
 msgstr "Kai: All right, let's go."
-
