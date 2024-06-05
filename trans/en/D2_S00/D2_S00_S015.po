@@ -1,4 +1,20 @@
-﻿#: 0011214C
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s015/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 0011214C
 msgctxt "00000000"
 msgid ""
 "ミシリア：見て、壁にひびが・・・"
@@ -98,7 +114,7 @@ msgstr "Michelia: ...wow, you punched him all the way to the wall."
 msgctxt "00000016"
 msgid ""
 "バーク：さ、最初からこいつがやりゃあよかったんじゃ・・・ばた。"
-msgstr ""
+msgstr "Burke: I have no regrets... (Faints.)"
 
 #: 00156D86
 msgctxt "00000017"
@@ -140,7 +156,7 @@ msgstr "Kai: Yup, let's go see."
 msgctxt "00000023"
 msgid ""
 "カイ：なんだろう、これ？"
-msgstr ""
+msgstr "Kai: Huh, what's this?"
 
 #: 00156FD0
 msgctxt "00000024"
@@ -152,7 +168,7 @@ msgstr "Kai: Huh!?"
 msgctxt "00000025"
 msgid ""
 "ミシリア：カイ、表のほうで音がしたわ。"
-msgstr ""
+msgstr "Michelia: Kai, I heard a sound coming from outside."
 
 #: 00157020
 msgctxt "00000026"
@@ -711,4 +727,3 @@ msgctxt "00000118"
 msgid ""
 "それとも、うふ、私をごしめいくださるかしら▽"
 msgstr "Or do you have \"something else\" you'd like to ask me? Hehe! ▽"
-
