@@ -1,4 +1,20 @@
-﻿#: 00000158
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s010/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00000158
 msgctxt "00000000"
 msgid ""
 "長老：もう、ここには用はないだろう。"
@@ -584,7 +600,7 @@ msgstr "Minister: Yes. The location of the sealed spells was also written in the
 msgctxt "00000097"
 msgid ""
 "バーシスのはいきょの奥ふかくの封印をとけ。"
-msgstr ""
+msgstr "Unseal the spell deep within Ruins of Bahsis."
 
 #: 00089F8F
 msgctxt "00000098"
@@ -1683,4 +1699,3 @@ msgctxt "00000280"
 msgid ""
 "こっち、こっから北に行くの！！"
 msgstr "We just gotta go north from here!"
-
