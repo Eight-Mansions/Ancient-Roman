@@ -1,4 +1,20 @@
-﻿#: 00000222
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s008/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00000222
 msgctxt "00000000"
 msgid ""
 "カイ：あなたの持っている剣をいただきたい。"
@@ -482,7 +498,7 @@ msgstr "Minna: You abandoned them to save yourself."
 msgctxt "00000080"
 msgid ""
 "・・・ルーンの関の方々が心配していましたよ。"
-msgstr ""
+msgstr "...the soldiers at Rune Gate must be worried too."
 
 #: 002F1E6A
 msgctxt "00000081"
@@ -986,7 +1002,7 @@ msgstr "Guard: Will do, thanks."
 msgctxt "00000164"
 msgid ""
 "カイ：じゃあ、大聖者様のところにいこう。"
-msgstr ""
+msgstr "Kai: All right, let's return to the Grand Sage."
 
 #: 0037B72C
 msgctxt "00000165"
@@ -1358,7 +1374,7 @@ msgstr "I could ask you the same thing, Kai..."
 msgctxt "00000226"
 msgid ""
 "カイ：んー、バークが話があるから外で待ってろて・・・"
-msgstr ""
+msgstr "Kai: Well, Burke told me he had something to talk about outside..."
 
 #: 0037C943
 msgctxt "00000227"
@@ -1563,4 +1579,3 @@ msgctxt "00000260"
 msgid ""
 "＿＿＿カイ達はねむった＿＿"
 msgstr "___The party went to sleep.___"
-
