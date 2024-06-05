@@ -1,4 +1,20 @@
-﻿#: 00000186
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s009/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00000186
 msgctxt "00000000"
 msgid ""
 "マカの実を手に入れた。"
@@ -536,7 +552,7 @@ msgstr "Burke: What's going on? There's a sword sticking out of the dragon statu
 msgctxt "00000089"
 msgid ""
 "ミーナ：ドラゴンソードを上回る、強い魔力を感じます。"
-msgstr ""
+msgstr "Minna: I feel a magic power far stronger than the Dragon Sword."
 
 #: 00336312
 msgctxt "00000090"
@@ -572,7 +588,7 @@ msgstr "Burke: Now we can kick the big baddy's ass, right?"
 msgctxt "00000095"
 msgid ""
 "サリナ：で、どこの何てヤツを倒すんだっけねぇ？"
-msgstr ""
+msgstr "Sarina: And, who and where would that be?"
 
 #: 003364B1
 msgctxt "00000096"
@@ -638,7 +654,7 @@ msgstr "then think of what to do next."
 msgctxt "00000106"
 msgid ""
 "全員：おおっ！"
-msgstr ""
+msgstr "Everyone: Yeah!!!"
 
 #: 0033679C
 msgctxt "00000107"
@@ -699,4 +715,3 @@ msgctxt "00000116"
 msgid ""
 "聖者：あれが聖者の塔です"
 msgstr "Sage: That's the Sage's Tower."
-
