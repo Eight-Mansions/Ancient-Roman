@@ -1,4 +1,20 @@
-﻿#: 00044986
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s011/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00044986
 msgctxt "00000000"
 msgid ""
 "スニーカーを手に入れた。"
@@ -56,7 +72,7 @@ msgstr "Burke: GAHAHAHAHAHAHAHA!!!"
 msgctxt "00000009"
 msgid ""
 "このバーク様が、この町に巣くうワル者を退治にしきてやったぜ！"
-msgstr ""
+msgstr "I, THE ALL POWERFUL BURKE, SHALL RID THIS TOWN OF ITS EVIL VERMIN!"
 
 #: 00156A98
 msgctxt "00000010"
@@ -536,7 +552,7 @@ msgstr "Burke: No need to be so sloppy, Michelia! The stew's not running away an
 msgctxt "00000089"
 msgid ""
 "・・・なんか、リスみたいだな。"
-msgstr ""
+msgstr "...does she kinda look like a squirrel to you, the way she's eating?"
 
 #: 00268ED2
 msgctxt "00000090"
@@ -554,7 +570,7 @@ msgstr "Kai: Something's not right."
 msgctxt "00000092"
 msgid ""
 "バーク：そうか？いつもと変わらないと思うが・・・"
-msgstr ""
+msgstr "Burke: Really? She seems the same to me!"
 
 #: 00268F82
 msgctxt "00000093"
@@ -590,7 +606,7 @@ msgstr "Burke: Huh? She ran off."
 msgctxt "00000098"
 msgid ""
 "なんか悪いものでも食ったんかなぁ？がっはっは！"
-msgstr ""
+msgstr "Think she ate something bad?"
 
 #: 00269110
 msgctxt "00000099"
@@ -603,4 +619,3 @@ msgctxt "00000100"
 msgid ""
 "ミシリア：ええ。"
 msgstr "Michelia: Yeah."
-
