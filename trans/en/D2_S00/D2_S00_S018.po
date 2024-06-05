@@ -1,4 +1,20 @@
-﻿#: 000001C4
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:09-0400\n"
+"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s018/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 000001C4
 msgctxt "00000001"
 msgid ""
 "？？？"
@@ -44,19 +60,19 @@ msgstr "Burke: HYAAA!!!"
 msgctxt "00000008"
 msgid ""
 "どんっ！"
-msgstr ""
+msgstr "(WHAM!)"
 
 #: 00044AF7
 msgctxt "00000009"
 msgid ""
 "どさどさっ！"
-msgstr ""
+msgstr "(WHAM BAM!)"
 
 #: 00044B15
 msgctxt "00000010"
 msgid ""
 "バーク：これだけあれば足りるか？"
-msgstr ""
+msgstr "Kai: Think this is enough?"
 
 #: 00044B47
 msgctxt "00000011"
@@ -74,7 +90,7 @@ msgstr "I believe it'll be plenty."
 msgctxt "00000013"
 msgid ""
 "エスカの実を手に入れた。"
-msgstr ""
+msgstr "You got the Esca Fruit."
 
 #: 00044BE1
 msgctxt "00000014"
@@ -230,13 +246,13 @@ msgstr "That tree is the Esca Tree."
 msgctxt "00000039"
 msgid ""
 "カイ：よし、とにかく船の場所までもどろう。"
-msgstr ""
+msgstr "Kai: Okay, let's return to the boat."
 
 #: 00089877
 msgctxt "00000040"
 msgid ""
 "「エスカの実」を手に入れるんだ。"
-msgstr ""
+msgstr "Then we can set out to find the Esca Fruit."
 
 #: 000898B6
 msgctxt "00000041"
@@ -686,13 +702,13 @@ msgstr "You can't carry any more."
 msgctxt "00000115"
 msgid ""
 "箱のうらに文字が書かれている。"
-msgstr ""
+msgstr "On the back of the treasure chest is some writing."
 
 #: 0019B52F
 msgctxt "00000116"
 msgid ""
 "エヴリヘカリを憶えた。"
-msgstr ""
+msgstr "You learned Every Heal!"
 
 #: 0019B5AA
 msgctxt "00000117"
@@ -903,4 +919,3 @@ msgctxt "00000151"
 msgid ""
 "ミーナ：冥界の門が開こうとしている・・・"
 msgstr "Minna: The gate to the Underworld is opening...!"
-
