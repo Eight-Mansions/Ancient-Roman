@@ -1,4 +1,20 @@
-﻿#: 000CD966
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:41-0400\n"
+"PO-Revision-Date: 2024-06-06 00:41+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s023/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 000CD966
 msgctxt "00000000"
 msgid ""
 "「カギ」が必要のようだ"
@@ -866,121 +882,123 @@ msgstr "Fisco: Be careful."
 msgctxt "00000144"
 msgid ""
 "ルーシア：この小屋に火をつけちゃって。"
-msgstr ""
+msgstr "Lucia: Whoops, lit this little house on fire~"
 
 #: 00336244
 msgctxt "00000145"
 msgid ""
 "ルーシア：・・・あんた、ほんとに無口ね。まあ、そこがいいとこなんだけど。"
 msgstr ""
+"Lucia: ...you really don't care about anything, do you? I'm not complaining, "
+"lets me have more fun."
 
 #: 003362D1
 msgctxt "00000146"
 msgid ""
 "ロミアス：待て！！ルーシア！！"
-msgstr ""
+msgstr "Romias: Hold it, Lucia!!"
 
 #: 00336322
 msgctxt "00000147"
 msgid ""
 "ルーシア：あっちゃー、いやな奴がきちゃったわ。"
-msgstr ""
+msgstr "Lucia: Urgh, the annoying one's arrived."
 
 #: 00336362
 msgctxt "00000148"
 msgid ""
 "ロミアス：貴様の任務は古代魔法のたんさくだったはずだ。"
-msgstr ""
+msgstr "Romias: Your task should have been to search for the ancient magic."
 
 #: 0033639C
 msgctxt "00000149"
 msgid ""
 "私の仕事のじゃまをしないでもらおう。"
-msgstr ""
+msgstr "Don't interfere with my work."
 
 #: 003363D2
 msgctxt "00000150"
 msgid ""
 "ルーシア：はいはい、わかってるわよ。"
-msgstr ""
+msgstr "Lucia: I know, I know."
 
 #: 00336411
 msgctxt "00000151"
 msgid ""
 "だいたいあんたの任務は玉を手にいれることじゃなかったのかしらねぇ？"
-msgstr ""
+msgstr "Wasn't your job to find that orb anyway?"
 
 #: 00336457
 msgctxt "00000152"
 msgid ""
 "それが、こわされていました、で、すんじゃうんですものねぇ。"
-msgstr ""
+msgstr "And with that broken, now you're all pouty, right?"
 
 #: 00336495
 msgctxt "00000153"
 msgid ""
 "いいわね。ギゼフィル様の信頼がおあつい事で▽"
-msgstr ""
+msgstr "Oh, how benevolent of our lord Gizafeal to keep his trust in you▽"
 
 #: 003364D3
 msgctxt "00000154"
 msgid ""
 "ロミアス：ぐっ・・・"
-msgstr ""
+msgstr "Romias: Grr..."
 
 #: 00336503
 msgctxt "00000155"
 msgid ""
 "ルーシア：わたしなんかせっかく伝説の武器を手に入れてきたのに"
-msgstr ""
+msgstr "Lucia: I came all this way to secure those legendary weapons"
 
 #: 00336543
 msgctxt "00000156"
 msgid ""
 "それじゃない、の一言だけですものねぇ。"
-msgstr ""
+msgstr "only to come up empty handed."
 
 #: 00336586
 msgctxt "00000157"
 msgid ""
 "ルーシア：じゃあね。せいぜいお仕事がんばって。"
-msgstr ""
+msgstr "Lucia: Oh well, I'm off. Good luck with your work, I suppose."
 
 #: 003365C3
 msgctxt "00000158"
 msgid ""
 "いくわよ。"
-msgstr ""
+msgstr "Bye!"
 
 #: 0033665F
 msgctxt "00000159"
 msgid ""
 "ロミアス：・・・・ちぃ。"
-msgstr ""
+msgstr "Romias: ...*tsk*."
 
 #: 00336694
 msgctxt "00000160"
 msgid ""
 "ロミアス：このような所に村人をとじこめておけ、とは・・・"
-msgstr ""
+msgstr "Romias: Secure all the villagers in a place like this, huh..."
 
 #: 003366D0
 msgctxt "00000161"
 msgid ""
 "いったいなんの意味があるというのだ？"
-msgstr ""
+msgstr "What point does any of this serve?"
 
 #: 003366F8
 msgctxt "00000162"
 msgid ""
 "ギゼフィル様のお考えが私にはわからぬ・・・"
-msgstr ""
+msgstr "Sometimes I don't understand what Gizafeal's thinking..."
 
 #: 00336731
 msgctxt "00000163"
 msgid ""
 "さて、次のご命令を聞きにもどるとするか・・・"
-msgstr ""
+msgstr "Either way, about time I report back for my next orders."
 
 #: 0037A91F
 msgctxt "00000165"
@@ -1004,7 +1022,7 @@ msgstr "or even Bahsis Island. It's close enough, right?"
 msgctxt "00000168"
 msgid ""
 "なんなら、マーモ島のダンの港という手もある。"
-msgstr ""
+msgstr "Or if you'd rather, Marmo Island's Dan Port is another option."
 
 #: 0037A9D7
 msgctxt "00000169"
@@ -1022,11 +1040,10 @@ msgstr "Baroa: All right, where to next?"
 msgctxt "00000171"
 msgid ""
 "まだ行ったことのない島にでもいってみっか？"
-msgstr ""
+msgstr "How about we try an island we haven't been to yet."
 
 #: 0037AA6A
 msgctxt "00000172"
 msgid ""
 "なんかあるかもしれねぇしな。案内してやるよ。"
-msgstr ""
-
+msgstr "May have a clue we haven't picked up on yet. I'll guide us."
