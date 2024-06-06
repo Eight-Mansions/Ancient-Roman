@@ -1921,3 +1921,21 @@ msgctxt "00000316"
 msgid ""
 "カイ：ええ、十分です。ありがとうございました。"
 msgstr "Kai: It was. Thank you very much!"
+
+#: 001123EB
+msgctxt "00000324"
+msgid ""
+"だいせいじゃ"
+msgstr "Grand Sage"
+
+#: 0026893C
+msgctxt "00000325"
+msgid ""
+"たい屋"
+msgstr "Whatever"
+
+#: 002AD21E
+msgctxt "00000326"
+msgid ""
+"マスターＡ"
+msgstr "Ordinary Bartender"

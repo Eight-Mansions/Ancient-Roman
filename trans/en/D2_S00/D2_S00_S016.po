@@ -691,3 +691,33 @@ msgctxt "00000112"
 msgid ""
 "ポセイドンスピアを手に入れた。"
 msgstr "You got Poseidon's Spear!"
+
+#: 000001A9
+msgctxt "00000113"
+msgid ""
+"やまのオカ"
+msgstr ""
+
+#: 00044955
+msgctxt "00000114"
+msgid ""
+"ジンコンドウ"
+msgstr ""
+
+#: 00112157
+msgctxt "00000115"
+msgid ""
+"どうぐ屋"
+msgstr ""
+
+#: 00156995
+msgctxt "00000116"
+msgid ""
+"エヴリ屋"
+msgstr ""
+
+#: 0019B16B
+msgctxt "00000117"
+msgid ""
+"マーセナル"
+msgstr ""

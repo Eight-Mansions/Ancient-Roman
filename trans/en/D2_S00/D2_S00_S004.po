@@ -1720,3 +1720,33 @@ msgctxt "00000283"
 msgid ""
 "長老：この年寄りに何かごようかな。"
 msgstr "Elder: What can this old man do for you?"
+
+#: 00000280
+msgctxt "00000286"
+msgid ""
+"ぼうぐや"
+msgstr "Armor Shop"
+
+#: 000449DA
+msgctxt "00000287"
+msgid ""
+"カレンの店"
+msgstr "Sweet Fashion"
+
+#: 001DF9D6
+msgctxt "00000288"
+msgid ""
+"マジック"
+msgstr "Magic Revamped"
+
+#: 002F19AD
+msgctxt "00000289"
+msgid ""
+"マジックショップ"
+msgstr "Magic Shop"
+
+#: 00336143
+msgctxt "00000290"
+msgid ""
+"シェイダー"
+msgstr "Shady Business"

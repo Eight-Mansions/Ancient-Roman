@@ -1695,3 +1695,33 @@ msgctxt "00000280"
 msgid ""
 "何かにおそわれてケガしたんじゃ、シャレにならねぇ。"
 msgstr "to reach the clinic. It's ridiculous!"
+
+#: 000CD99C
+msgctxt "00000342"
+msgid ""
+"まほーかん"
+msgstr "Magical Sights"
+
+#: 00156961
+msgctxt "00000343"
+msgid ""
+"よろず屋"
+msgstr "General Store"
+
+#: 0019B170
+msgctxt "00000344"
+msgid ""
+"ナイフ屋"
+msgstr "Knife Store"
+
+#: 001DF96D
+msgctxt "00000345"
+msgid ""
+"やまにぼうぐ"
+msgstr "The Armor Pile"
+
+#: 002241AE
+msgctxt "00000346"
+msgid ""
+"ジュエルルリ"
+msgstr "Jewel Lily"

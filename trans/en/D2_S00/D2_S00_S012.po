@@ -1468,3 +1468,38 @@ msgid ""
 "ミシリア：・・・・・・"
 msgstr "Michelia: ..."
 
+#: 0026899B
+msgctxt "00000351"
+msgid ""
+"いぬら屋"
+msgstr "The Dog's Shop"
+
+#: 002AD186
+msgctxt "00000352"
+msgid ""
+"ぶきや"
+msgstr "The Chipped Blade"
+
+#: 002AD204
+msgctxt "00000353"
+msgid ""
+"ぶきや"
+msgstr "The Worn Blade"
+
+#: 002F197A
+msgctxt "00000354"
+msgid ""
+"ぼうぐや"
+msgstr "Better Armor Shop"
+
+#: 002F1A12
+msgctxt "00000355"
+msgid ""
+"ぼうぐや"
+msgstr "True Armor Shop"
+
+#: 0033617B
+msgctxt "00000356"
+msgid ""
+"カレンの店"
+msgstr "Sweet Fashion Updated"

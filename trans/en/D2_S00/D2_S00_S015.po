@@ -727,3 +727,15 @@ msgctxt "00000118"
 msgid ""
 "それとも、うふ、私をごしめいくださるかしら▽"
 msgstr "Or do you have \"something else\" you'd like to ask me? Hehe! ▽"
+
+#: 00336157
+msgctxt "00000119"
+msgid ""
+"サイファン"
+msgstr ""
+
+#: 003BF16B
+msgctxt "00000120"
+msgid ""
+"バー　ムーンチャイルド"
+msgstr ""

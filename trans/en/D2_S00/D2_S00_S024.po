@@ -967,3 +967,9 @@ msgctxt "00000158"
 msgid ""
 "何も見つからない。"
 msgstr "There's nothing here."
+
+#: 002AD216
+msgctxt "00000159"
+msgid ""
+"セラウオ"
+msgstr ""

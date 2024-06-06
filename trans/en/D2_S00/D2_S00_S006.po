@@ -1449,3 +1449,33 @@ msgctxt "00000238"
 msgid ""
 "うちのくすりはききますよ。"
 msgstr "Our medicine's really effective!"
+
+#: 00224185
+msgctxt "00000242"
+msgid ""
+"エルフのぶき屋"
+msgstr "Weapon Shop but Elven"
+
+#: 00268997
+msgctxt "00000243"
+msgid ""
+"エルフのよろず屋"
+msgstr "General Store but Elven"
+
+#: 002AD16F
+msgctxt "00000244"
+msgid ""
+"ジュエリーミキ"
+msgstr "Mickey's Jewels"
+
+#: 0037A96D
+msgctxt "00000245"
+msgid ""
+"ざっかざっか"
+msgstr "Knick Knacks"
+
+#: 003BF174
+msgctxt "00000246"
+msgid ""
+"ジャンキリー"
+msgstr "Junk Shop"

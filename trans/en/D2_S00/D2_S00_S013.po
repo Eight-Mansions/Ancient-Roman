@@ -106,3 +106,14 @@ msgid ""
 "高いところにすむ人が最強の魔法を売っているそうだ。"
 msgstr "They say a man who lives in a high place sells the most powerful of spells."
 
+#: 000CD96B
+msgctxt "00000019"
+msgid ""
+"マジック"
+msgstr "Magic"
+
+#: 000CDA43
+msgctxt "00000020"
+msgid ""
+"マジック"
+msgstr "Magic Recharged"
