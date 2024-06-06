@@ -1,4 +1,20 @@
-﻿#: 00000115
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-05 20:41-0400\n"
+"PO-Revision-Date: 2024-06-06 00:41+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s016/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00000115
 msgctxt "00000000"
 msgid ""
 "装飾屋：イラッシャイマセー▽"
@@ -314,121 +330,121 @@ msgstr "Baroa: W-woah, what was that?"
 msgctxt "00000052"
 msgid ""
 "ミシリア：見て、門が少し開いているわ。"
-msgstr ""
+msgstr "Michelia: Look. The gate opened a little!"
 
 #: 0022427B
 msgctxt "00000053"
 msgid ""
 "カイ：よし、みんな、門を開けてみよう。"
-msgstr ""
+msgstr "Kai: Okay everyone, let's push it open!"
 
 #: 002242E4
 msgctxt "00000054"
 msgid ""
 "＿＿＿がん、がん！！"
-msgstr ""
+msgstr "*WHAM*!!"
 
 #: 0022431C
 msgctxt "00000055"
 msgid ""
 "ルーシアと呼ばれていた派手な女：もー、なんで開かないのよ！！"
-msgstr ""
+msgstr "Flashy Woman Named Lucia: Ugh, why won't this damn this open!?"
 
 #: 0022435C
 msgctxt "00000056"
 msgid ""
 "これじゃ、中に入れないじゃないの！！"
-msgstr ""
+msgstr "How are we supposed to get inside!?"
 
 #: 00224384
 msgctxt "00000057"
 msgid ""
 "もー、チョーむかつく！！！"
-msgstr ""
+msgstr "Uggh, this is so annoying!!"
 
 #: 002243B9
 msgctxt "00000058"
 msgid ""
 "ルーシアと呼ばれていた派手な女：！！"
-msgstr ""
+msgstr "Flashy Woman Named Lucia: !!"
 
 #: 002243E1
 msgctxt "00000059"
 msgid ""
 "やばっ、誰かきちゃう！！"
-msgstr ""
+msgstr "Oh shit, someone's coming!!"
 
 #: 002243FD
 msgctxt "00000060"
 msgid ""
 "魔王様になるべく人目につかないようにっていわれてるのよねぇ。"
-msgstr ""
+msgstr "Our lord said to avoid being noticed at all cost,"
 
 #: 0022443D
 msgctxt "00000061"
 msgid ""
 "しょーがないから、かえろっかな。"
-msgstr ""
+msgstr "so guess this means I can leave early."
 
 #: 00224461
 msgctxt "00000062"
 msgid ""
 "どーせ、だれもはいれないでしょ。"
-msgstr ""
+msgstr "Not like they'll be able to get through anyway."
 
 #: 00224498
 msgctxt "00000063"
 msgid ""
 "＿＿＿がん、がん！！"
-msgstr ""
+msgstr "___SLAM!!___"
 
 #: 002244D0
 msgctxt "00000064"
 msgid ""
 "派手な女：もー、なんで開かないのよ！！"
-msgstr ""
+msgstr "Flashy Woman: Ugh, why won't this damn this open!?"
 
 #: 002244FA
 msgctxt "00000065"
 msgid ""
 "これじゃ、中に入れないじゃないの！！"
-msgstr ""
+msgstr "How are we supposed to get inside!?"
 
 #: 00224522
 msgctxt "00000066"
 msgid ""
 "もー、チョーむかつく！！！"
-msgstr ""
+msgstr "Uggh, this is so annoying!!"
 
 #: 00224557
 msgctxt "00000067"
 msgid ""
 "派手な女：！！！！"
-msgstr ""
+msgstr "Flashy Woman: !!!!"
 
 #: 0022456D
 msgctxt "00000068"
 msgid ""
 "やばっ、誰かきちゃう！！"
-msgstr ""
+msgstr "Oh shit, someone's coming!!"
 
 #: 00224589
 msgctxt "00000069"
 msgid ""
 "なるべく人目につかないようにっていわれてるのよねぇ。"
-msgstr ""
+msgstr "Our lord said to avoid being noticed at all cost,"
 
 #: 002245C1
 msgctxt "00000070"
 msgid ""
 "しょーがないから、かえろっかな。"
-msgstr ""
+msgstr "so guess this means I can leave early."
 
 #: 002245E5
 msgctxt "00000071"
 msgid ""
 "どーせ、だれもはいれないでしょ。"
-msgstr ""
+msgstr "Not like they'll be able to get through anyway."
 
 #: 002AD16B
 msgctxt "00000072"
@@ -675,4 +691,3 @@ msgctxt "00000112"
 msgid ""
 "ポセイドンスピアを手に入れた。"
 msgstr "You got Poseidon's Spear!"
-
