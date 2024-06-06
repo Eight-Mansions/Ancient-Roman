@@ -1,4 +1,20 @@
-﻿#: 000CDC06
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-06 17:14-0400\n"
+"PO-Revision-Date: 2024-06-06 21:14+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s012/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 000CDC06
 msgctxt "00000002"
 msgid ""
 "男：あの時はどうもありがとう。おかげで助かりました。"
@@ -404,13 +420,13 @@ msgstr "Minister: Oh, Lord Kai! I'm glad to see you safe."
 msgctxt "00000069"
 msgid ""
 "船乗りが見つかったそうで、ノーザラスから知らせが入っておりますぞ。"
-msgstr ""
+msgstr "We've received work from Nautilus that a sailor has been found."
 
 #: 0019B5D7
 msgctxt "00000070"
 msgid ""
 "それで封印の洞窟は、いかがでしたか？"
-msgstr ""
+msgstr "So, how was the Sealed Island?"
 
 #: 0019B618
 msgctxt "00000071"
@@ -434,13 +450,13 @@ msgstr "Sage: What do you mean?"
 msgctxt "00000074"
 msgid ""
 "カイ：武器は見つけたんだけど、神の力を宿していないと"
-msgstr ""
+msgstr "Kai: We found the weapons, but since we didn't have any divine power,"
 
 #: 0019B703
 msgctxt "00000075"
 msgid ""
 "取れないみたいなんだ。"
-msgstr ""
+msgstr "we couldn't take them."
 
 #: 0019B73F
 msgctxt "00000076"
@@ -567,6 +583,8 @@ msgctxt "00000096"
 msgid ""
 "サリナなら家がらももうしぶんなく、立派な王妃様に。"
 msgstr ""
+"Don't worry. Sarina comes from a fine lineage, so she'd make a spectacular "
+"queen."
 
 #: 0019BD37
 msgctxt "00000097"
@@ -674,7 +692,7 @@ msgstr "Sage: Please don't tell the Minister about this."
 msgctxt "00000114"
 msgid ""
 "サリナ：用はすんだかい？"
-msgstr ""
+msgstr "Sarina: Got everything wrapped up?"
 
 #: 002242B4
 msgctxt "00000115"
@@ -686,43 +704,43 @@ msgstr "Knight: Sir Kai! What can we do for you?"
 msgctxt "00000116"
 msgid ""
 "サリナ：ちょっと待って。"
-msgstr ""
+msgstr "Sarina: Hang on a sec."
 
 #: 002243FF
 msgctxt "00000117"
 msgid ""
 "サリナ：うーん、こっから先はあたしはパスしとくわ。"
-msgstr ""
+msgstr "Sarina: I'll pass on this part myself."
 
 #: 00224435
 msgctxt "00000118"
 msgid ""
 "王宮のかたぐるしい空気も性にあわないし・・・・"
-msgstr ""
+msgstr "I don't mess well with prim and proper noble things..."
 
 #: 00224467
 msgctxt "00000119"
 msgid ""
 "正直な話、あの大臣のじいさんが昔から苦手なのよ。"
-msgstr ""
+msgstr "To be honest, I never meshed well with that minister."
 
 #: 002244FD
 msgctxt "00000120"
 msgid ""
 "バロア：そーゆうことなら俺様も付き合うぜ。"
-msgstr ""
+msgstr "Baroa: In that case, I'll keep ya company."
 
 #: 0022452B
 msgctxt "00000121"
 msgid ""
 "ここでまっててやっから、はやく行ってきな。"
-msgstr ""
+msgstr "We'll be right here, so hurry up and get going."
 
 #: 00224583
 msgctxt "00000122"
 msgid ""
 "カイ：わかった、行ってくるよ。"
-msgstr ""
+msgstr "Kai: Got it, we'll be back soon."
 
 #: 00268915
 msgctxt "00000123"
@@ -812,163 +830,169 @@ msgstr "I'd love it if you stopped by to see us again soon. ▽"
 msgctxt "00000137"
 msgid ""
 "聖者：カイ殿、ご無事で何よりです。"
-msgstr ""
+msgstr "Sage: Lord Kai, I'm glad to see you're well."
 
 #: 0037A97E
 msgctxt "00000138"
 msgid ""
 "ごしゅびはいかがですか？"
-msgstr ""
+msgstr "How has your progress been?"
 
 #: 0037A9B3
 msgctxt "00000139"
 msgid ""
 "カイ：うん。全ての神の力を手にいれたよ"
-msgstr ""
+msgstr "Kai: We've obtained all the god's power."
 
 #: 0037A9F6
 msgctxt "00000140"
 msgid ""
 "聖者：それはようございましたな。"
-msgstr ""
+msgstr "Sage: That's fantastic news."
 
 #: 0037AA33
 msgctxt "00000141"
 msgid ""
 "カイ：ううん、まだまだだよ。"
-msgstr ""
+msgstr "Kai: We're getting there."
 
 #: 0037AA53
 msgctxt "00000142"
 msgid ""
 "実は、精霊の神殿の神官に、魔物達の支配者がいること"
-msgstr ""
+msgstr "We learned from the priest at the Spirit Temple"
 
 #: 0037AA89
 msgctxt "00000143"
 msgid ""
 "を教えてもらったんだ。"
-msgstr ""
+msgstr "that there's someone controlling the demons."
 
 #: 0037AABC
 msgctxt "00000144"
 msgid ""
 "聖者：なんと・・・"
-msgstr ""
+msgstr "Sage: Oh dear..."
 
 #: 0037AAE0
 msgctxt "00000145"
 msgid ""
 "カイ：その支配者、「ギゼフィル」を倒さない限り"
-msgstr ""
+msgstr "Kai: If we don't defeat that ruler, Gizafeal,"
 
 #: 0037AB12
 msgctxt "00000146"
 msgid ""
 "魔物達の横行も、怪物になる病気も、無くなることはないんだ。"
 msgstr ""
+"then monsters will continue to rampage, and the People Becoming Monsters "
+"Disease will not abate."
 
 #: 0037AB5E
 msgctxt "00000147"
 msgid ""
 "聖者：そうですか・・・"
-msgstr ""
+msgstr "Sage: I see..."
 
 #: 0037AB91
 msgctxt "00000148"
 msgid ""
 "カイ：もちろん、僕達は「ギゼフィル」を倒すまで"
-msgstr ""
+msgstr "Kai: Of course, I plan to keep journeying"
 
 #: 0037ABC3
 msgctxt "00000149"
 msgid ""
 "この旅を続けるつもりです。"
-msgstr ""
+msgstr "and defeat Gizafeal."
 
 #: 0037ABEF
 msgctxt "00000150"
 msgid ""
 "聖者：ダメといっても行くのでしょう？"
-msgstr ""
+msgstr "Sage: You'd go even if I advised against it?"
 
 #: 0037AC25
 msgctxt "00000151"
 msgid ""
 "カイ：はい。"
-msgstr ""
+msgstr "Kai: Yes."
 
 #: 0037AC4E
 msgctxt "00000152"
 msgid ""
 "聖者：仕方ないですね。私はカイ殿が最後まで無事に"
-msgstr ""
+msgstr "Sage: I understand."
 
 #: 0037AC82
 msgctxt "00000153"
 msgid ""
 "やりとげられるのを、祈っております。"
-msgstr ""
+msgstr "I'll be praying for your success to the very end."
 
 #: 0037ACCE
 msgctxt "00000154"
 msgid ""
 "カイ：ところで聖者様、大臣の姿が見えないようだけど"
-msgstr ""
+msgstr "Kai: By the way, I haven't seen the minister around."
 
 #: 0037AD12
 msgctxt "00000155"
 msgid ""
 "聖者：あの人はいま、旧ハインローグ城にいます。"
-msgstr ""
+msgstr "Sage: Oh, he's over at the Old Heinrogue Castle."
 
 #: 0037AD44
 msgctxt "00000156"
 msgid ""
 "あの城には魔物がいなくなったので、再けんのため走り回っておられます。"
 msgstr ""
+"Since the monster have been driven out, he's looking into reconstruction "
+"efforts."
 
 #: 0037AD9A
 msgctxt "00000157"
 msgid ""
 "カイ：なるほど。"
-msgstr ""
+msgstr "Kai: I see."
 
 #: 0037ADC7
 msgctxt "00000158"
 msgid ""
 "聖者：・・・ところでみなさんは「冥界」という所をご存知ですか？"
 msgstr ""
+"Sage: Pardon me for the sudden topic shift, but... have you heard of the "
+"Underworld?"
 
 #: 0037AE22
 msgctxt "00000159"
 msgid ""
 "カイ：冥界？"
-msgstr ""
+msgstr "Kai: Underworld?"
 
 #: 0037AE40
 msgctxt "00000160"
 msgid ""
 "ミーナ：なくなった者のたましいの行き先ですね。"
-msgstr ""
+msgstr "Minna: The place where the spirits of the dead gather, right?"
 
 #: 0037AE80
 msgctxt "00000161"
 msgid ""
 "聖者：その通りです。「冥界」は死者のねむる地です。"
-msgstr ""
+msgstr "Sage: That is correct. The Underworld is the resting place of the dead."
 
 #: 0037AEB6
 msgctxt "00000162"
 msgid ""
 "私はカイ殿に、一度冥界に行かれることをおすすめいたします。"
-msgstr ""
+msgstr "I'd recommend you visit the Underworld, Lord Kai."
 
 #: 0037AF02
 msgctxt "00000163"
 msgid ""
 "カイ：え、「冥界」に・・・？"
-msgstr ""
+msgstr "Kai: Eh? You want me to GO to the Underworld...?"
 
 #: 0037AF3B
 msgctxt "00000164"
