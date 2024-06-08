@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-02-12 01:07+0000\n"
+"PO-Revision-Date: 2024-06-09 01:51+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s017/en/>\n"
@@ -623,19 +623,19 @@ msgstr "Burke & Sarina & Baroa: Hehehe..."
 msgctxt "00000100"
 msgid ""
 "＿＿ただいま読書中＿＿"
-msgstr "___(Reading ensues.)___"
+msgstr "___(Reading in progress..)___"
 
 #: 002245CE
 msgctxt "00000101"
 msgid ""
 "＿＿ただいま読書中＿＿"
-msgstr "___(Reading ensues.)___"
+msgstr "___(Reading in progress..)___"
 
 #: 00224641
 msgctxt "00000102"
 msgid ""
 "＿＿ただいま読書中＿＿"
-msgstr "___(Reading ensues.)___"
+msgstr "___(Reading in progress...)___"
 
 #: 002246B4
 msgctxt "00000103"
@@ -701,7 +701,7 @@ msgstr "The Mountain God in Cuden River."
 msgctxt "00000113"
 msgid ""
 "海王はピカの浅瀬に、でもその前にギアスの塔か"
-msgstr "Poseidon in Pika Shoal, but Geass Tower is required first."
+msgstr "the Ocean God in Pika Shoal, but Geass Tower is required first."
 
 #: 00224905
 msgctxt "00000114"
@@ -839,7 +839,7 @@ msgstr "I believe I have an idea where this Fukaki Forest lies."
 msgctxt "00000136"
 msgid ""
 "おそらく、この前、立ち寄ったバロスメイアの町の"
-msgstr "I believe it's the forest to the north of"
+msgstr "It should be the forest to the north of"
 
 #: 00224D9B
 msgctxt "00000137"
@@ -912,13 +912,13 @@ msgstr "Baroa: Hmm, the one I read"
 msgctxt "00000148"
 msgid ""
 "海王について書いてあったぜ。"
-msgstr "was about Poseidon."
+msgstr "was about the Ocean God."
 
 #: 0022501B
 msgctxt "00000149"
 msgid ""
 "んー、なんでもギアスの塔とか言う所にある杖を持って"
-msgstr "Hmm, something about using a rod from the Geass Tower"
+msgstr "Something about using a rod from the Geass Tower"
 
 #: 00225051
 msgctxt "00000150"
@@ -985,13 +985,13 @@ msgstr "Old Man: Ooh, divine power? Hmm."
 msgctxt "00000160"
 msgid ""
 "カイ：この島に神のことについて書かれた"
-msgstr "Kai: We read in some old books"
+msgstr "Kai: We heard there were some old books here"
 
 #: 00268BD7
 msgctxt "00000161"
 msgid ""
 "古文書があると聞いたのですが・・・"
-msgstr "that we could learn more here."
+msgstr "that we could use to learn more."
 
 #: 00268C16
 msgctxt "00000162"
@@ -1234,7 +1234,7 @@ msgstr ""
 msgctxt "00000210"
 msgid ""
 "そのふだはその洞窟の入り口を開くものじゃ。"
-msgstr "That talisman will allow you to enter the cavern."
+msgstr "That amulet will allow you to enter the cavern."
 
 #: 002694DE
 msgctxt "00000201"
