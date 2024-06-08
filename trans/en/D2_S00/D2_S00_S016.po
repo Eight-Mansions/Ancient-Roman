@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-05 20:41-0400\n"
-"PO-Revision-Date: 2024-06-06 00:41+0000\n"
+"PO-Revision-Date: 2024-06-09 01:51+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d2_s00_s016/en/>\n"
@@ -162,7 +162,7 @@ msgstr "Baroa: That's the spirit! All right, the gate's to the south of here."
 msgctxt "00000024"
 msgid ""
 "サリナ：あーあー、結局むだ足か。"
-msgstr "Sarina: Well, well, well. Seems like even we can't open it."
+msgstr "Sarina: Well, THAT was pointless."
 
 #: 001DFC22
 msgctxt "00000025"
@@ -336,7 +336,7 @@ msgstr "Michelia: Look. The gate opened a little!"
 msgctxt "00000053"
 msgid ""
 "カイ：よし、みんな、門を開けてみよう。"
-msgstr "Kai: Okay everyone, let's push it open!"
+msgstr "Kai: Okay everyone, let's push it the rest of the way!"
 
 #: 002242E4
 msgctxt "00000054"
@@ -348,7 +348,7 @@ msgstr "*WHAM*!!"
 msgctxt "00000055"
 msgid ""
 "ルーシアと呼ばれていた派手な女：もー、なんで開かないのよ！！"
-msgstr "Flashy Woman Named Lucia: Ugh, why won't this damn this open!?"
+msgstr "Flashy Woman Named Lucia: Ugh, why won't this damn door open!?"
 
 #: 0022435C
 msgctxt "00000056"
@@ -402,7 +402,7 @@ msgstr "___SLAM!!___"
 msgctxt "00000064"
 msgid ""
 "派手な女：もー、なんで開かないのよ！！"
-msgstr "Flashy Woman: Ugh, why won't this damn this open!?"
+msgstr "Flashy Woman: Ugh, why won't this damn door open!?"
 
 #: 002244FA
 msgctxt "00000065"
@@ -522,7 +522,7 @@ msgstr "Kai: You okay, Sarina?"
 msgctxt "00000084"
 msgid ""
 "ここにあるは神の武器。"
-msgstr "The God's Weapons lay here."
+msgstr "The God Weapons lay here."
 
 #: 0033632D
 msgctxt "00000085"
@@ -534,7 +534,7 @@ msgstr "Only those with divine power may wield them."
 msgctxt "00000086"
 msgid ""
 "カイ：神の武器？"
-msgstr "Kai: God's Weapons?"
+msgstr "Kai: God Weapons?"
 
 #: 003363DB
 msgctxt "00000087"
@@ -546,7 +546,7 @@ msgstr "Kai: W-what? My body is-- UWAAAHAHH!"
 msgctxt "00000088"
 msgid ""
 "ここにあるは神の武器。神の力をその身に宿したもの"
-msgstr "The God's Weapons lay here. Those housing divine power"
+msgstr "The God Weapons lay here. Those housing divine power"
 
 #: 0033647F
 msgctxt "00000089"
