@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-06 17:14-0400\n"
-"PO-Revision-Date: 2024-06-06 21:14+0000\n"
+"PO-Revision-Date: 2024-06-08 16:55+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d2_s00_s012/en/>\n"
@@ -998,139 +998,140 @@ msgstr "Kai: Eh? You want me to GO to the Underworld...?"
 msgctxt "00000164"
 msgid ""
 "聖者：はい。これはあくまで私のおくそくなのですが、もしかしたら・・・"
-msgstr ""
+msgstr "Sage: That is correct. Now, this is just my theory..."
 
 #: 0037AF83
 msgctxt "00000165"
 msgid ""
 "あなたのお父上は、魔物にあやつられているかもしれません。"
-msgstr ""
+msgstr "But I believe your father was being manipulated by demons."
 
 #: 0037AFCD
 msgctxt "00000166"
 msgid ""
 "カイ：え！？。"
-msgstr ""
+msgstr "Kai: What!?"
 
 #: 0037AFED
 msgctxt "00000167"
 msgid ""
 "サリナ：あたいの親父のように・・・か。"
-msgstr ""
+msgstr "Sarina: Like my father... right?"
 
 #: 0037B030
 msgctxt "00000168"
 msgid ""
 "聖者：一度冥界に行き、お父上のたましいがあられるかどうかを"
-msgstr ""
+msgstr "Sage: If you head to the Underworld,"
 
 #: 0037B06E
 msgctxt "00000169"
 msgid ""
 "見てこられると良いと存じます。"
-msgstr ""
+msgstr "you may be able to meet his soul and learn the truth."
 
 #: 0037B0A9
 msgctxt "00000170"
 msgid ""
 "カイ：でも・・・"
-msgstr ""
+msgstr "Kai: That's..."
 
 #: 0037B0CB
 msgctxt "00000171"
 msgid ""
 "バーク：いいじゃねぇか、カイ。いってみようぜ。"
-msgstr ""
+msgstr "Burke: I'd say let's go, Kai."
 
 #: 0037B0FD
 msgctxt "00000172"
 msgid ""
 "そのほうがすっきりするぜ？"
-msgstr ""
+msgstr "Couldn't hurt to try, and the closure would be worth the trip."
 
 #: 0037B129
 msgctxt "00000173"
 msgid ""
 "聖者：冥界の門はモンス島にございます。"
-msgstr ""
+msgstr "Sage: The gate to the Underworld is at Mons Island."
 
 #: 0037B161
 msgctxt "00000174"
 msgid ""
 "バロア：ピカの浅瀬を南に行ったメクアの港のあるとこだな。"
-msgstr ""
+msgstr "Baroa: That'd be south of Pika Shoal, near Mekua Port then."
 
 #: 0037B1AB
 msgctxt "00000175"
 msgid ""
 "聖者：さすがですね。その通りでございます。"
-msgstr ""
+msgstr "Sage: Your knowledge of the sea is rivaled by none, I see!"
 
 #: 0037B1E7
 msgctxt "00000176"
 msgid ""
 "バーク：よっしゃ！！行こうぜ、カイ！！"
-msgstr ""
+msgstr "Burke: We got a plan, let's go to hell!!"
 
 #: 0037B21F
 msgctxt "00000177"
 msgid ""
 "カイ：うん。"
-msgstr ""
+msgstr "Kai: Right."
 
 #: 0037B23D
 msgctxt "00000178"
 msgid ""
 "聖者：おまちください。冥界の門はモンス島にあるのですが、"
-msgstr ""
+msgstr "Sage: One moment, please. The gate is at Mons Island, sure,"
 
 #: 0037B279
 msgctxt "00000179"
 msgid ""
 "門を開くカギとなる物は東西アルナスの洞窟に有ります。"
-msgstr ""
+msgstr "but it requires two keys found in the east and west Alnas Caves."
 
 #: 0037B2B4
 msgctxt "00000180"
 msgid ""
 "東と西の洞窟の中に像がありますので、その像を一つにあわせて"
-msgstr ""
+msgstr "There's a statue in each cave. Combine them together,"
 
 #: 0037B2F2
 msgctxt "00000181"
 msgid ""
 "冥界の門のさいだんに置いて下さい。"
-msgstr ""
+msgstr "then place them on the alter."
 
 #: 0037B318
 msgctxt "00000182"
 msgid ""
 "そうすれば、門は開くでしょう。"
-msgstr ""
+msgstr "With that, you'll be granted passage."
 
 #: 0037B348
 msgctxt "00000183"
 msgid ""
 "カイ：わかったよ。アルナス山脈だね。バロア、知ってるかい？"
-msgstr ""
+msgstr "Kai: Understood. Alnas Mountains. You know where that is, Baroa?"
 
 #: 0037B394
 msgctxt "00000184"
 msgid ""
 "バロア：任せておけ。この前、でけぇ木があったろ？あそこから歩いて行けるぜ。"
 msgstr ""
+"Baroa: Leave it to me! Remember that huge tree? You can just walk from there."
 
 #: 0037B3F0
 msgctxt "00000185"
 msgid ""
 "カイ：ありがとう。よし、それじゃあ行こう。"
-msgstr ""
+msgstr "Kai: Thanks. Okay, let's get going."
 
 #: 0037B449
 msgctxt "00000186"
 msgid ""
 "聖者：ご武運を。"
-msgstr ""
+msgstr "Sage: Safe travels."
 
 #: 003BF1B8
 msgctxt "00000187"
