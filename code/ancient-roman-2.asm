@@ -171,6 +171,8 @@ framenum:
 	.dw 0
 NumWindowLinesPos:
 	.dw 0x8013ab8c
+cursorPosition:
+	.dw 0
 .close
 
 .open "exe\SLPS_011.09",0x8000F800
@@ -185,6 +187,7 @@ NumWindowLinesPos:
 .definelabel ExitCriticalSection, 0x80084e90
 .definelabel AddPrim, 0x8007f4c4
 .definelabel FUN_8003eb04, 0x8003e9bc
+.definelabel FUN_8003f958, 0x8003f810
 
 
 .org 0x800192bc
@@ -240,7 +243,21 @@ NumWindowLinesPos:
 
 .org 0x8003e144
 	j CallGetSentenceWidthForDialogues
+
+.org 0x8003e8b8
+	jal GetArrowPlacementForDialogue
 	
+.org 0x8003f12c
+	la v0, cursorPosition
+	lw v1, 0(v0)
+	b 0x8003f148
+	sll a3, a0, 0x04
+
+.org 0x8003f148
+	addu a2, r0, v1
+	nop
+	nop
+
 .org 0x8003e8d0
 	jal InitDialogueText
 	

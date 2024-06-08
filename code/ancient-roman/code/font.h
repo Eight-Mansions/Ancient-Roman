@@ -33,6 +33,12 @@ extern "C" {
 	u32 GetHeaderNameCenterForShops(u8* string);
 
 	extern u32 locationNameWidth;
+
+	void GetArrowPlacementForDialogue(u8* string, u32 unk1, u32 unk2);
+
+	extern void FUN_8003f958(u8* string, u32 unk1, u32 unk2);
+
+	extern u32 cursorPosition;
 }
 
 #endif
