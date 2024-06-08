@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:33-0400\n"
-"PO-Revision-Date: 2024-06-06 00:41+0000\n"
+"PO-Revision-Date: 2024-06-09 01:51+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s007/en/>\n"
@@ -679,7 +679,7 @@ msgctxt "00000108"
 msgid ""
 "大聖者：・・・神とは、「山神」「海王」「勇士の神」「女神」「精霊の神」"
 msgstr ""
-"Grand Sage: ...the Mountain God, Poseidon, the Warrior God, the Goddess,"
+"Grand Sage: ...the Mountain God, the Ocean God, the Warrior God, the Goddess,"
 
 #: 00113452
 msgctxt "00000109"
@@ -777,7 +777,7 @@ msgstr "He should be working right about now..."
 msgctxt "00000124"
 msgid ""
 "女：ようこそ、マウタスの町へ！"
-msgstr "Women: Welcome to Mahtas!"
+msgstr "Woman: Welcome to Mahtas!"
 
 #: 00156D82
 msgctxt "00000125"
@@ -897,7 +897,7 @@ msgstr "Subahnoff: Let's meet at the bar tonight. Don't forget, please!"
 msgctxt "00000144"
 msgid ""
 "スバノフ：そうそう、この間、また森に行ったんですけど、"
-msgstr "Subahnoff: Oh yes, at that time, I went to the forest."
+msgstr "Subahnoff: Oh hey, so a while ago, I went to the forest."
 
 #: 001572AF
 msgctxt "00000145"
@@ -910,7 +910,7 @@ msgctxt "00000146"
 msgid ""
 "湖から女の人が出てきて、「アナタが落としたのはこの斧ですか」って"
 msgstr ""
-"Suddenly, a women appeared from the water and asked, \"Did you drop this "
+"Suddenly, a woman appeared from the water and asked, \"Did you drop this "
 "hatchet?\""
 
 #: 00157323
@@ -1250,7 +1250,7 @@ msgstr "Elderly Woman: ...huh?"
 msgctxt "00000202"
 msgid ""
 "いたいけな老人の昼寝をジャマするのは誰かえ？"
-msgstr "Who's getting in the way of this innocent women's afternoon nap?"
+msgstr "Who's getting in the way of this innocent woman's afternoon nap?"
 
 #: 001DFED5
 msgctxt "00000203"
@@ -1374,7 +1374,7 @@ msgstr "Fara: What?"
 msgctxt "00000222"
 msgid ""
 "老女：なんと・・・まだピクシーが・・・"
-msgstr "Elderly Women: A p-p-p-pixie... came back..."
+msgstr "Elderly Woman: A p-p-p-pixie... came back..."
 
 #: 001E02B2
 msgctxt "00000223"
