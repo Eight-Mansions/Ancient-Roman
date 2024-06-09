@@ -566,19 +566,19 @@ cursorPosition:
 	.db 0x04	; Accessory x position
 
 .org 0x8009D3EC
-	.db 0x10	; Weapon
+	.db 0x07	; Weapon
 .org 0x8009D3F8
-	.db 0x10	; Head
+	.db 0x07	; Head
 .org 0x8009D404
-	.db 0x10	; Armor
+	.db 0x07	; Armor
 .org 0x8009D410
-	.db 0x10	; Shield
+	.db 0x07	; Shield
 .org 0x8009D41C
-	.db 0x10	; Accessory
+	.db 0x07	; Accessory
 .org 0x8009D428
-	.db 0x10	; Accessory
+	.db 0x07	; Accessory
 .org 0x8009D434
-	.db 0x10	; Accessory
+	.db 0x07	; Accessory
 	
 .org 0x8009D43c
 	.db 0x28 ; Equipped Sword x position
@@ -748,14 +748,14 @@ cursorPosition:
 	.db 0x20	; Select a character to
 	
 .org 0x8009D244
-	.db 0x10	; Michelia
+	.db 0x08	; Michelia
 
 .org 0x8009D840
-	.db 0x10
+	.db 0x08
 .org 0x8009D84C ; Michelia
-	.db 0x10
+	.db 0x08
 .org 0x8009D858
-	.db 0x10
+	.db 0x08
 
 
 
