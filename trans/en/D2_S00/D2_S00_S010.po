@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-05 20:09-0400\n"
-"PO-Revision-Date: 2024-06-06 00:09+0000\n"
+"PO-Revision-Date: 2024-06-09 05:22+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d2_s00_s010/en/>\n"
@@ -390,7 +390,7 @@ msgstr "Minister: By the way, after we started construction on some new faciliti
 msgctxt "00000062"
 msgid ""
 "面白いものが見つかりましてな。"
-msgstr "We found something quite amusing."
+msgstr "we found something quite amusing."
 
 #: 000897C6
 msgctxt "00000063"
