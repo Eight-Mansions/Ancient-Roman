@@ -390,7 +390,7 @@ Deluga
 
 #JMP($00082DB4)
 //ƒMƒ[ƒtƒBƒ‹
-Gizafael
+Gizafeal
 <$00>
 
 #WARN($00082DC4, "@00082DC4")
@@ -418,14 +418,14 @@ Lucia
 
 #JMP($00082F54)
 //ƒMƒ[ƒtƒBƒ‹
-Gizafael
+Gizafeal
 <$00>
 
 #WARN($00082F64, "@00082F64")
 
 #JMP($00082FBC)
 //ƒMƒ[ƒtƒBƒ‹
-Gizafael
+Gizafeal
 <$00>
 
 #WARN($00082FCC, "@00082FCC")
