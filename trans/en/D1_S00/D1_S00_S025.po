@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:34-0400\n"
-"PO-Revision-Date: 2024-06-09 01:51+0000\n"
+"PO-Revision-Date: 2024-06-09 04:14+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s025/en/>\n"
@@ -867,19 +867,19 @@ msgstr "Sarina: Come on, be more excited! Show some emotion, will you!"
 msgctxt "00000136"
 msgid ""
 "バロア：男は、派手には喜ばないもんさ。"
-msgstr "Baroa: A man is to contain his emotions."
+msgstr "Baroa: A man should not flaunt his emotions."
 
 #: 00268CF3
 msgctxt "00000137"
 msgid ""
 "どんなにうれしくても、苦しくてもな、"
-msgstr "Whether they're happy or sad,"
+msgstr "Whether he's happy or sad,"
 
 #: 00268D1B
 msgctxt "00000138"
 msgid ""
 "ニヤリと笑うところがいいのさ。"
-msgstr "a smile or a laugh won't kill you."
+msgstr "a mere smile or laugh will suffice."
 
 #: 00268D56
 msgctxt "00000139"
