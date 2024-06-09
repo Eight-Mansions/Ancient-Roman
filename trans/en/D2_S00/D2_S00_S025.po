@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-05 20:09-0400\n"
-"PO-Revision-Date: 2024-06-09 04:14+0000\n"
+"PO-Revision-Date: 2024-06-09 05:54+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d2_s00_s025/en/>\n"
@@ -264,13 +264,15 @@ msgstr "Swordsman: No matter the era, fools never fail to make an appearance."
 msgctxt "00000041"
 msgid ""
 "過去にハインローグの王、今は私の部下達、そしてお前達だ。"
-msgstr "First it was the King of Heinrogue. Now, it's your lot and my men."
+msgstr ""
+"First it was the King of Heinrogue. Now, it's you lot and those fools who "
+"call themselves my underlings."
 
 #: 00156B30
 msgctxt "00000042"
 msgid ""
 "おっと、お前の父を忘れていたな。ジェナトスの娘よ。"
-msgstr "Ah, wait. I forgot about your father, Daughter of Jenatos."
+msgstr "Ah, wait. I forgot about your father, daughter of Jenatos."
 
 #: 00156B7F
 msgctxt "00000043"
@@ -320,7 +322,9 @@ msgstr "Man wishes to defeat me, Gizafeal, and save the world from darkness."
 msgctxt "00000050"
 msgid ""
 "そして、人間の好き勝手にできる世界を作り、平和と称する。"
-msgstr "Afterwards, man will build whatever world man pleases, and preach man's peace throughout to other men."
+msgstr ""
+"Afterwards, mankind will build whatever world they please, and preach their "
+"peace to others."
 
 #: 00156DCB
 msgctxt "00000051"
@@ -454,13 +458,13 @@ msgstr "Those who seek to lead cannot be trusted to rule over everyone."
 msgctxt "00000072"
 msgid ""
 "確かに私は、全ての人間を信用することはできませんが、今、"
-msgstr "I may not trust all of mankind, but now,"
+msgstr "I may not trust all of mankind,"
 
 #: 0015739F
 msgctxt "00000073"
 msgid ""
 "ここにいる人たちのためになら、いのちをかけることもためらわないでしょう。"
-msgstr "here and now, I'd gladly give my life for my friends."
+msgstr "but I'd gladly give my life for my friends here."
 
 #: 00157415
 msgctxt "00000074"
