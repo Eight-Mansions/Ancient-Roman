@@ -1,4 +1,20 @@
-﻿#: 0019B1B4
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-09 00:14-0400\n"
+"PO-Revision-Date: 2024-06-09 04:14+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s019/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 0019B1B4
 msgctxt "00000000"
 msgid ""
 "カイ：これは人形だ・・・"
@@ -230,7 +246,7 @@ msgstr "The door is firmly sealed."
 msgctxt "00000038"
 msgid ""
 "こえ：なんじが選ばれし剣士ならば。その力をためさん。"
-msgstr "Voice: If you are the chosen warrior, then complete our test."
+msgstr "Voice: If you are the chosen warrior, then complete my test."
 
 #: 003362B9
 msgctxt "00000039"
@@ -416,7 +432,8 @@ msgstr "Michelia: ..."
 msgctxt "00000069"
 msgid ""
 "バーク：そうか。ミシリアちゃんが女神の力か・・・。ぴったりだな。"
-msgstr "Burke: Wait, Michelia gets the Goddess's divine power? Talk a out fitting!"
+msgstr ""
+"Burke: Wait, Michelia gets the Goddess's divine power? Talk about fitting!"
 
 #: 003BF3C4
 msgctxt "00000070"
@@ -483,4 +500,3 @@ msgctxt "00000080"
 msgid ""
 "女神の力を手に入れた"
 msgstr "You got the Goddess's divine power!"
-
