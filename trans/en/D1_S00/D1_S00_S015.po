@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:41-0400\n"
-"PO-Revision-Date: 2024-06-09 04:14+0000\n"
+"PO-Revision-Date: 2024-06-09 05:22+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s015/en/>\n"
@@ -76,13 +76,13 @@ msgstr "Burke: Heheh, come onnn! You can be honest with me."
 msgctxt "00000010"
 msgid ""
 "よっ！！"
-msgstr "Yoo!"
+msgstr "Yaa!"
 
 #: 00156AE1
 msgctxt "00000011"
 msgid ""
 "＿＿＿＿＿＿ふみゅ▽"
-msgstr "_____▽"
+msgstr "_____*squeeze*▽"
 
 #: 00156B12
 msgctxt "00000012"
@@ -142,7 +142,7 @@ msgstr "Kai: Huh!?"
 msgctxt "00000021"
 msgid ""
 "ミシリア：カイ、これで表の洞窟の封印がとかれたはずよ？"
-msgstr "Michelia: Kai, that should remove the seal from the cave, right?"
+msgstr "Michelia: Kai, that should remove the seal from the caves, right?"
 
 #: 00156EC2
 msgctxt "00000022"
