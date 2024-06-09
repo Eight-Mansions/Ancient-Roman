@@ -401,7 +401,7 @@ Hand Axe
 // Ptr: 00001DD8
 #WRITE(PTR, $0007E884)
 //ポセイドンスピア
-Poseidon's Spear
+Poseidon Spear
 <$00>
 
 
@@ -1807,7 +1807,7 @@ Conton Ruins
 // Ptr: 00003F5C
 #WRITE(PTR, $0008CCB0)
 //アルナの関所
-Aluna Damn
+Aluna Dam
 <$00>
 
 
