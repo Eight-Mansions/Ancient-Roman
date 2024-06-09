@@ -1267,3 +1267,9 @@ msgctxt "00000208"
 msgid ""
 "老人：今後の旅の無事をお祈りしております。"
 msgstr "Old Man: I'll pray that your journey keeps you safe."
+
+#: 002694A0
+msgctxt "00000210"
+msgid ""
+"そのふだはその洞窟の入り口を開くものじゃ。"
+msgstr "That amulet will allow you to enter the cavern."
