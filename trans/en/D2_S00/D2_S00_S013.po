@@ -117,3 +117,9 @@ msgctxt "00000020"
 msgid ""
 "マジック"
 msgstr "Magic Recharged"
+
+#: 000449C3
+msgctxt "00000021"
+msgid ""
+"バーテン"
+msgstr "Royal Flush"
