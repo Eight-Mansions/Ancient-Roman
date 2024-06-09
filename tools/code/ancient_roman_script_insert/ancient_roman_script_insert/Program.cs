@@ -545,7 +545,7 @@ namespace ancient_roman_script_insert
                         if (poEntry.found)
                         {
                             newBin.BaseStream.Seek(poEntry.origPos, SeekOrigin.Begin);
-                            newBin.Write((byte)0x80);
+                           // newBin.Write((byte)0x80);
                             newBin.Write((ushort)poEntry.insPos);
                         }
                     }

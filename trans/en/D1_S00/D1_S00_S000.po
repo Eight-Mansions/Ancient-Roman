@@ -1131,6 +1131,12 @@ msgid ""
 "大男：むしゃむしゃむしゃ・・・"
 msgstr "Big Man: *nom, nom, nom...*"
 
+#: 00156996
+msgctxt "00000182"
+msgid ""
+"！"
+msgstr "!"
+
 #: 001569EB
 msgctxt "00000183"
 msgid ""

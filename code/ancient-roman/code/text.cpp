@@ -8,9 +8,9 @@ void LoadText(char* dest, char* src)
 	if (textBoxInfo[0] == 0xB4 && textBoxInfo[1] == 0x13) // Regular dialogue
 		textBoxInfo[0] = 0xA8;
 
-	if (src[0] == 0x80)
+	//if (src[0] == 0x80)
 	{
-		uint16_t newPos = src[1] | src[2] << 8;
+		uint16_t newPos = src[0] | src[1] << 8;
 		src = (char*)(0x801F0000 + newPos);
 	}
 
