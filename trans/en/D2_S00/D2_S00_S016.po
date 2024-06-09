@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-05 20:41-0400\n"
-"PO-Revision-Date: 2024-06-09 01:51+0000\n"
+"PO-Revision-Date: 2024-06-09 04:14+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d2_s00_s016/en/>\n"
@@ -666,7 +666,7 @@ msgstr "All right, I'll call this the Jenatos Sword!"
 msgctxt "00000108"
 msgid ""
 "ジェナトスソードを手に入れた。"
-msgstr "You got the Jenatos Sword!"
+msgstr "Now it's the Jenatos Sword!"
 
 #: 00336C42
 msgctxt "00000109"
@@ -690,34 +690,34 @@ msgstr "Baroa: Heck yeah!"
 msgctxt "00000112"
 msgid ""
 "ポセイドンスピアを手に入れた。"
-msgstr "You got Poseidon's Spear!"
+msgstr "You got Poseidon Spear!"
 
 #: 000001A9
 msgctxt "00000113"
 msgid ""
 "やまのオカ"
-msgstr ""
+msgstr "Peak Jewelers"
 
 #: 00044955
 msgctxt "00000114"
 msgid ""
 "ジンコンドウ"
-msgstr ""
+msgstr "Potted Pills"
 
 #: 00112157
 msgctxt "00000115"
 msgid ""
 "どうぐ屋"
-msgstr ""
+msgstr "Trinkets"
 
 #: 00156995
 msgctxt "00000116"
 msgid ""
 "エヴリ屋"
-msgstr ""
+msgstr "Every Store"
 
 #: 0019B16B
 msgctxt "00000117"
 msgid ""
 "マーセナル"
-msgstr ""
+msgstr "Mana Arsenal"
