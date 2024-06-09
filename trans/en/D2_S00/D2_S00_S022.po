@@ -577,3 +577,9 @@ msgctxt "00000094"
 msgid ""
 "カイ：よし、行くぞ。"
 msgstr "Kai: All right, let's go."
+
+#: 002694A0
+msgctxt "00000096"
+msgid ""
+"よし、次はロミアスだね・・・。"
+msgstr "Okay, next is Romius..."

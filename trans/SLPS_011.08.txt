@@ -44,7 +44,7 @@ Chariot
 // Ptr: 00001ACC
 #WRITE(PTR, $0007D7F4)
 //エヴリマカガ
-All Maka Guard
+All M. Guard
 <$00>
 
 
@@ -128,7 +128,7 @@ Nematode
 // Ptr: 00001B74
 #WRITE(PTR, $0007D434)
 //セイントロー
-Saint Row
+Saint's Toils
 <$00>
 
 
@@ -1493,7 +1493,7 @@ Life Horn
 // Ptr: 0000272C
 #WRITE(PTR, $00080DB4)
 //かっしんざい
-Angelic Infusion
+Angel Drop
 <$00>
 
 
