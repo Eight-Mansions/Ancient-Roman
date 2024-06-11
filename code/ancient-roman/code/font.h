@@ -39,6 +39,10 @@ extern "C" {
 	extern void FUN_8003f958(u8* string, u32 unk1, u32 unk2);
 
 	extern u32 cursorPosition;
+
+	extern u32 lineLength[4];
+	
+	extern u32 lineCount;
 }
 
 #endif

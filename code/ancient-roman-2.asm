@@ -172,7 +172,7 @@ framenum:
 NumWindowLinesPos:
 	.dw 0x8013ab8c
 cursorPosition:
-	.dw 0
+	.dw 254
 .close
 
 .open "exe\SLPS_011.09",0x8000F800
@@ -188,6 +188,8 @@ cursorPosition:
 .definelabel AddPrim, 0x8007f4c4
 .definelabel FUN_8003eb04, 0x8003e9bc
 .definelabel FUN_8003f958, 0x8003f810
+.definelabel lineLength, 0x80102404
+.definelabel lineCount, 0x80102400
 
 
 .org 0x800192bc
