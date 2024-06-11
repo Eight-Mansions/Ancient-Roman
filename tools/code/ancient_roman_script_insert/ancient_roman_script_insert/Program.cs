@@ -52,7 +52,10 @@ namespace ancient_roman_script_insert
                     else
                     {
                         line_cnt++;
-                        outme += formatted.Replace("\n", "\\n").Trim() + "\\n";
+                        if (!String.IsNullOrEmpty(formatted))
+                        {
+                            outme += formatted.Replace("\n", "\\n").Trim() + "\\n";
+                        }
                         formatted = pieces[k] + " ";
                     }
                 }

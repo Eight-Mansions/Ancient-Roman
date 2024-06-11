@@ -998,7 +998,7 @@ msgstr "UWA--"
 msgctxt "00000222"
 msgid ""
 "おおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお"
-msgstr "UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUGH!"
+msgstr "UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAUGH!"
 
 #: 002AD7A0
 msgctxt "00000223"
@@ -1149,6 +1149,12 @@ msgctxt "00000247"
 msgid ""
 "ま、いいか。本当にすごいこと、やっちまったんだしね。"
 msgstr "Oh well. We really did something unbelievable, didn't we?"
+
+#: 002ADDAA
+msgctxt "00000251"
+msgid ""
+"ねえ、カイ。あんたは、これからどうするんだい？"
+msgstr "So, what are you gonna do now, Kai?"
 
 #: 002ADDF5
 msgctxt "00000248"
