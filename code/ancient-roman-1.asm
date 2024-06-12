@@ -227,6 +227,16 @@ cursorPosition:
 	lw v1, 8(v1)
 	
 
+.org 0x8005006c
+	li a0,-0x44
+	
+.org 0x80059828
+	li v0, 0x3e
+	
+.org 0x80059bd4
+	addiu v1, v1, -0x1
+
+
 	
 
 
@@ -704,22 +714,40 @@ cursorPosition:
 .org 0x8009D19C
 	.db 0x10 ; Menu Spell 21
 
+.org 0x8009D8E0
+	.db 0x0A ; Battle spell 1 x
 .org 0x8009D8E4
 	.db 0x10 ; Battle Spell 1
+.org 0x8009D8EC
+	.db 0x47 ; Battle Spell 2 x
 .org 0x8009D8F0
 	.db 0x10 ; Battle Spell 2
+.org 0x8009D8F8
+	.db 0x84 ; Battle Spell 3 x
 .org 0x8009D8FC
 	.db 0x10 ; Battle Spell 3
+.org 0x8009D904
+	.db 0x0A ; Battle Spell 4 x
 .org 0x8009D908
 	.db 0x10 ; Battle Spell 4
+.org 0x8009D910
+	.db 0x47 ; Battle Spell 5 x
 .org 0x8009D914
 	.db 0x10 ; Battle Spell 5
+.org 0x8009D91C
+	.db 0x84 ; Battle Spell 6 x
 .org 0x8009D920
 	.db 0x10 ; Battle Spell 6
+.org 0x8009D928
+	.db 0x0A ; Battle Spell 7 x
 .org 0x8009D92C
 	.db 0x10 ; Battle Spell 7
+.org 0x8009D934
+	.db 0x47 ; Battle Spell 8 x
 .org 0x8009D938
 	.db 0x10 ; Battle Spell 8
+.org 0x8009D940
+	.db 0x84 ; Battle Spell 9 x
 .org 0x8009D944
 	.db 0x10 ; Battle Spell 9
 	
