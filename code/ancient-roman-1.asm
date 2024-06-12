@@ -227,14 +227,14 @@ cursorPosition:
 	lw v1, 8(v1)
 	
 
-.org 0x8005006c
+.org 0x8005006c	; Update x placement of spells/items in battle menu
 	li a0,-0x44
 	
-.org 0x80059828
+.org 0x80059828	; Update highlight width of spells/items in battle menu
 	li v0, 0x3e
 	
 .org 0x80059bd4
-	addiu v1, v1, -0x1
+	addiu v1, v1, -0x1 ; Tweak x placement of highlight for spells/items in battle menu
 
 
 	
