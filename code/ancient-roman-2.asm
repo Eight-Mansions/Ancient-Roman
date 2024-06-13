@@ -192,6 +192,7 @@ cursorPosition:
 .definelabel lineCount, 0x80102400
 .definelabel nameEntryCol, 0x8011638c ; Unused
 .definelabel nameEntryRow, 0x80116390 ; Unused
+.definelabel FUN_8003dc00, 0x8003dc00 ; Unused
 
 .org 0x800192bc
 	lui a1, 0x801F

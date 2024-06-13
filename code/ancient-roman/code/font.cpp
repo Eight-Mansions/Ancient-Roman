@@ -231,7 +231,11 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic, const u8 letterW
 	u8* xpos = graphic - 0x15;
 
 
-	if (letter == 0)
+	if (!vwfOn)
+	{
+		width = defaultWidth;
+	}
+	else if (letter == 0)
 	{
 		width = defaultWidth;
 	}
@@ -568,4 +572,11 @@ void IgnoreHiriganaEnglishButtons()
 	nameEntryRowPrev = nameEntryRow;
 
 	nameEntryCol = 0x0E;
+}
+
+void DisableVwfOnNamingScreen(u32* unk1, u8* unk2, u32 unk3, u32 unk4)
+{
+	vwfOn = false;
+	FUN_8003dc00(unk1, unk2, unk3, unk4);
+	vwfOn = true;
 }

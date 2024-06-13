@@ -48,6 +48,12 @@ extern "C" {
 	static u8 nameEntryRowPrev = 0;
 	extern u8 nameEntryCol;
 	extern u8 nameEntryRow;
+
+	void DisableVwfOnNamingScreen(u32* unk1, u8* unk2, u32 unk3, u32 unk4);
+
+	extern void FUN_8003dc00(u32* unk1, u8* unk2, u32 unk3, u32 unk4);
+
+	static bool vwfOn = true;
 	
 }
 
