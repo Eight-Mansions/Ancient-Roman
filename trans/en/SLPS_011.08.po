@@ -1504,11 +1504,11 @@ msgstr "Confirm"
 
 msgctxt "00000575"
 msgid "えいすう"
-msgstr "English"
+msgstr ""
 
 msgctxt "00000576"
 msgid "ひらがな"
-msgstr "Hiragana"
+msgstr ""
 
 msgctxt "00000577"
 msgid "スペース"

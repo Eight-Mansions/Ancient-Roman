@@ -558,3 +558,13 @@ void GetArrowPlacementForDialogue(u8* string, u32 unk1, u32 unk2)
 	if (lineCount == 0)
 		lineCount++;
 }
+
+void IgnoreHiriganaEnglishButtons()
+{
+	if (nameEntryRow == 4 || nameEntryRow == 5)
+	{
+		nameEntryRowPrev = nameEntryRow = (nameEntryRowPrev == 6) ? 3 : 6;
+	}
+
+	nameEntryCol = 0x0E;
+}

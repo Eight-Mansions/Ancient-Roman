@@ -2658,7 +2658,6 @@ Confirm
 #WRITE(PTR, $0008E7B0)
 #WRITE(PTR, $0008E7C0)
 //‚¦‚¢‚·‚¤
-English
 <$00>
 
 
@@ -2667,7 +2666,6 @@ English
 #WRITE(PTR, $0008E7AC)
 #WRITE(PTR, $0008E7D0)
 //‚Ð‚ç‚ª‚È
-Hiragana
 <$00>
 
 

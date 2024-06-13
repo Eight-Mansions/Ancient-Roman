@@ -40,9 +40,15 @@ extern "C" {
 
 	extern u32 cursorPosition;
 
-	extern u32 lineLength[4];
-	
+	extern u32 lineLength[4];	
 	extern u32 lineCount;
+
+	void IgnoreHiriganaEnglishButtons();
+
+	static u8 nameEntryRowPrev = 0;
+	extern u8 nameEntryCol;
+	extern u8 nameEntryRow;
+	
 }
 
 #endif

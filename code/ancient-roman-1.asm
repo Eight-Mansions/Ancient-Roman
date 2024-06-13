@@ -166,6 +166,17 @@ DisplayMovieSubs:
 	
 	j 0x80018554
 	nop
+	
+CallIgnoreHiriganaEnglishButtons:
+	addiu sp, sp, -4
+	sw ra, 0(sp)
+	
+	jal IgnoreHiriganaEnglishButtons
+	nop
+	
+	lw ra, 0(sp)	
+	j 0x8005b8a8
+	addiu sp, sp, 4
 
 framenum:
 	.dw 0
@@ -190,7 +201,8 @@ cursorPosition:
 .definelabel FUN_8003f958, 0x8003f958
 .definelabel lineLength, 0x8010254c
 .definelabel lineCount, 0x80102548
-
+.definelabel nameEntryCol, 0x8011638c
+.definelabel nameEntryRow, 0x80116390
 
 .org 0x80019404
 	lui a1, 0x801F
@@ -235,11 +247,12 @@ cursorPosition:
 	
 .org 0x80059bd4
 	addiu v1, v1, -0x1 ; Tweak x placement of highlight for spells/items in battle menu
-
-
 	
 
 
+.org 0x8005b818
+	j CallIgnoreHiriganaEnglishButtons
+	nop
 
 .org 0x800156c4
 	j LoadCodeFile
