@@ -563,8 +563,9 @@ void IgnoreHiriganaEnglishButtons()
 {
 	if (nameEntryRow == 4 || nameEntryRow == 5)
 	{
-		nameEntryRowPrev = nameEntryRow = (nameEntryRowPrev == 6) ? 3 : 6;
+		nameEntryRow = (nameEntryRowPrev == 6) ? 3 : 6;
 	}
+	nameEntryRowPrev = nameEntryRow;
 
 	nameEntryCol = 0x0E;
 }
