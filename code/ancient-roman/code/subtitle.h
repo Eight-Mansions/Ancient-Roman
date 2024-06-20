@@ -18,6 +18,8 @@ extern "C" {
 
 	extern void PlayAudio(const char* audioFilename, u32 id, u32 unk1);
 
+	extern void SetBabyLetterWidths(POLY_FT4* p1, POLY_FT4* p2, char* text, ushort length);
+
 	u32 InitMovieSubtitle(void* videoname);
 
 	extern u32 PlayMovie(void* videoname);

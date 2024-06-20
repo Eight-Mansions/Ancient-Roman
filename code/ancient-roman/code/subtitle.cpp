@@ -44,17 +44,22 @@ int GetTimInfo(const uint32_t* tim, TIM_IMAGE* info) {
 
 void InitAudioSubtitle(const char* audioFilename, u32 id, u32 unk1)
 {
-	//DisplayString("Bitch-sama!", -0x3a, 0x50);
+	int audionamehash = sdbmHash(audioFilename);
+	for (int i = 0; i < audioSubtitlesCount; i++)
+	{
+		if (audionamehash == audioSubtitles[i].id && id == audioSubtitles[i].id2)
+		{
+			audioSubIdx = i;
+			AudioSubtitlePart* audioSubs = audioSubtitles[i].parts;
 
-	const char* line = "Bitch-sama!";
+			int strLen = audioSubs[0].len;
+			audioSubitlesGraphicsList1 = MemoryAllocate(strLen * 0x28);
+			audioSubitlesGraphicsList2 = MemoryAllocate(strLen * 0x28);
 
-	audioSubitlesGraphicsList1 = MemoryAllocate(0x780);
-	audioSubitlesGraphicsList2 = MemoryAllocate(0x780);
-
-	InitGraphicPrimitives(audioSubitlesGraphicsList1, audioSubitlesGraphicsList1, -0x3a, 0x50, 16);
-	SetGraphicPrimitives(audioSubitlesGraphicsList1, audioSubitlesGraphicsList2, (char*)line, 7);
-
-	audioSubIdx = 1;
+			InitGraphicPrimitives(audioSubitlesGraphicsList1, audioSubitlesGraphicsList1, -0x3a, 0x50, strLen);
+			SetBabyLetterWidths((POLY_FT4*)audioSubitlesGraphicsList1, (POLY_FT4*)audioSubitlesGraphicsList2, (char*)audioSubs[0].text, strLen);
+		}
+	}
 
 	PlayAudio(audioFilename, id, unk1);
 }
@@ -63,8 +68,8 @@ void DrawShopAudioSubtitle(void* otag)
 {
 	if (audioSubIdx != -1)
 	{
-		DrawGraphics(otag, audioSubitlesGraphicsList1, 11);
-		//4DrawGraphics(otag, audioSubitlesGraphicsList2, 11);
+		AudioSubtitlePart* audioSubs = audioSubtitles[audioSubIdx].parts;
+		DrawGraphics(otag, audioSubitlesGraphicsList1, audioSubs[0].len);
 	}
 
 	DrawShopGraphics(otag);
