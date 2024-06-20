@@ -23,7 +23,7 @@ FONT_SRC = font.cpp
 TEXT_SRC = text.cpp
 LOAD_SRC = loadfile.cpp
 LOAD2_SRC = loadfile2.cpp
-SUBTITLE_SRC = subtitle.cpp generated_movie.cpp
+SUBTITLE_SRC = subtitle.cpp generated_movie.cpp generated_audio.cpp
 
 ## build object names from types ##
 #CORE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obj, ${CORE_SRC})

@@ -41,6 +41,36 @@ int GetTimInfo(const uint32_t* tim, TIM_IMAGE* info) {
 	return 0;
 }
 
+
+void InitAudioSubtitle(const char* audioFilename, u32 id, u32 unk1)
+{
+	//DisplayString("Bitch-sama!", -0x3a, 0x50);
+
+	const char* line = "Bitch-sama!";
+
+	audioSubitlesGraphicsList1 = MemoryAllocate(0x780);
+	audioSubitlesGraphicsList2 = MemoryAllocate(0x780);
+
+	InitGraphicPrimitives(audioSubitlesGraphicsList1, audioSubitlesGraphicsList1, -0x3a, 0x50, 16);
+	SetGraphicPrimitives(audioSubitlesGraphicsList1, audioSubitlesGraphicsList2, (char*)line, 7);
+
+	audioSubIdx = 1;
+
+	PlayAudio(audioFilename, id, unk1);
+}
+
+void DrawShopAudioSubtitle(void* otag)
+{
+	if (audioSubIdx != -1)
+	{
+		DrawGraphics(otag, audioSubitlesGraphicsList1, 11);
+		//4DrawGraphics(otag, audioSubitlesGraphicsList2, 11);
+	}
+
+	DrawShopGraphics(otag);
+}
+
+
 u32 InitMovieSubtitle(void* videoname)
 {
 	if (letterPosition[1] == 0)								

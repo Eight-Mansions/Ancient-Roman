@@ -16,6 +16,7 @@ del /q cd\Ancient-Roman-Disc-2\DATA0000\BASE.FBS
 copy graphics\DATA0000\BASE.FBS cd\Ancient-Roman-Disc-2\DATA0000\BASE.FBS
 
 tools\ancient_roman_generate_movie_subtitles.exe videos tools\movie_mapping.txt
+tools\ancient_roman_generate_audio_subtitles.exe audio
 
 pushd code\ancient-roman
 pmake -e RELMODE=DEBUG clean
