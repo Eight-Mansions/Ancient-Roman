@@ -213,9 +213,11 @@ audioSubitlesGraphicsList:
 .definelabel InitGraphicPrimitives, 0x8003d8b8
 .definelabel SetGraphicPrimitives, 0x8003dba8
 .definelabel DrawShopGraphics, 0x80057e44
+.definelabel DrawBattleGraphics, 0x8004e4e4
 .definelabel DrawGraphics, 0x8003dda8
 .definelabel AudioIsPlaying1, 0x800b76bc
 .definelabel AudioIsPlaying2, 0x800b76c0
+.definelabel otag, 0x80122024
 
 .org 0x80019404
 	lui a1, 0x801F
@@ -526,7 +528,7 @@ audioSubitlesGraphicsList:
 	
 
 
-
+; Shop subtitles
 .org 0x8004ed98
 	jal InitAudioSubtitle
 	
@@ -553,6 +555,14 @@ audioSubitlesGraphicsList:
 
 .org 0x80052594
 	jal DrawShopAudioSubtitle
+	
+;Battle subtitles
+.org 0x80042d24
+	jal InitAudioSubtitle
+	
+ .org 0x8004e458
+	jal DrawBattleAudioSubtitle
+
 	
 	
 ; Move stuff that will get overwritten by expanded vram for menus

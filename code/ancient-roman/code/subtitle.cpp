@@ -85,6 +85,26 @@ void DrawShopAudioSubtitle(void* otag)
 	currentAudioFrame++;
 }
 
+void DrawBattleAudioSubtitle()
+{
+	if (AudioIsPlaying1 > AudioIsPlaying2)
+	{
+		audioSubIdx = -1;
+	}
+
+	if (audioSubIdx != -1)
+	{
+		AudioSubtitlePart current = audioSubtitles[audioSubIdx].parts[0];
+		if (current.startFrame <= currentAudioFrame && currentAudioFrame < current.endFrame)
+		{
+			DrawGraphics(otag, audioSubitlesGraphicsList1, current.len);
+		}
+	}
+
+	DrawBattleGraphics();
+	currentAudioFrame++;
+}
+
 u32 InitMovieSubtitle(void* videoname)
 {
 	if (letterPosition[1] == 0)								

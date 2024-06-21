@@ -10,7 +10,11 @@ extern "C" {
 
 	void DrawShopAudioSubtitle(void* otag);
 
+	void DrawBattleAudioSubtitle();
+
 	extern void DrawShopGraphics(void* otag);
+
+	extern void DrawBattleGraphics();
 
 	extern void DrawGraphics(void* otag, u32* add, u32 size);
 
@@ -48,9 +52,9 @@ extern "C" {
 
 	extern void SetGraphicPrimitives(u32* addr1, u32* addr2, char* string, int unk1);
 
-	extern void ShopDisplay(u32* otag);
-
 	extern u32 audioSubitlesGraphicsList;
+
+	extern void* otag;
 
 	
 
