@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ancient_roman_generate_audio_subtitles": {
+      "commandName": "Project",
+      "commandLineArgs": "audio code\\ancient-roman\\code\\font.cpp"
+    }
+  }
+}

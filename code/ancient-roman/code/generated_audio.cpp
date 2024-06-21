@@ -4,112 +4,112 @@
 const u8 partdata_0[] = {76, 101, 116, 39, 115, 32, 103, 111, 33};
 
 AudioSubtitlePart sub0_parts[] = {
-	{(const char*)partdata_0, 9, 4, 14, -30, -76},
+	{(const char*)partdata_0, 9, 4, 14, -17, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 1 | It's on!
 const u8 partdata_1[] = {73, 116, 39, 115, 32, 111, 110, 33};
 
 AudioSubtitlePart sub1_parts[] = {
-	{(const char*)partdata_1, 8, 5, 18, -22, -76},
+	{(const char*)partdata_1, 8, 5, 18, -10, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 10 | It's our victory!
 const u8 partdata_2[] = {73, 116, 39, 115, 32, 111, 117, 114, 32, 118, 105, 99, 116, 111, 114, 121, 33};
 
 AudioSubtitlePart sub2_parts[] = {
-	{(const char*)partdata_2, 17, 2, 13, -62, -76},
+	{(const char*)partdata_2, 17, 2, 13, -40, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 11 | Here it comes!
 const u8 partdata_3[] = {72, 101, 114, 101, 32, 105, 116, 32, 99, 111, 109, 101, 115, 33};
 
 AudioSubtitlePart sub3_parts[] = {
-	{(const char*)partdata_3, 14, 3, 15, -46, -76},
+	{(const char*)partdata_3, 14, 3, 15, -28, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 12 | Alright, bring it on!
 const u8 partdata_4[] = {65, 108, 114, 105, 103, 104, 116, 44, 32, 98, 114, 105, 110, 103, 32, 105, 116, 32, 111, 110, 33};
 
 AudioSubtitlePart sub4_parts[] = {
-	{(const char*)partdata_4, 21, 2, 30, -78, -76},
+	{(const char*)partdata_4, 21, 2, 30, -38, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 13 | Here I come!
 const u8 partdata_5[] = {72, 101, 114, 101, 32, 73, 32, 99, 111, 109, 101, 33};
 
 AudioSubtitlePart sub5_parts[] = {
-	{(const char*)partdata_5, 12, 3, 12, -38, -76},
+	{(const char*)partdata_5, 12, 3, 12, -21, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 14 | Let's do this!
 const u8 partdata_6[] = {76, 101, 116, 39, 115, 32, 100, 111, 32, 116, 104, 105, 115, 33};
 
 AudioSubtitlePart sub6_parts[] = {
-	{(const char*)partdata_6, 14, 6, 27, -46, -76},
+	{(const char*)partdata_6, 14, 6, 27, -32, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 15 | Time for me to shine!
 const u8 partdata_7[] = {84, 105, 109, 101, 32, 102, 111, 114, 32, 109, 101, 32, 116, 111, 32, 115, 104, 105, 110, 101, 33};
 
 AudioSubtitlePart sub7_parts[] = {
-	{(const char*)partdata_7, 21, 3, 26, -78, -76},
+	{(const char*)partdata_7, 21, 3, 26, -50, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 2 | Here I go!
 const u8 partdata_8[] = {72, 101, 114, 101, 32, 73, 32, 103, 111, 33};
 
 AudioSubtitlePart sub8_parts[] = {
-	{(const char*)partdata_8, 10, 5, 21, -30, -76},
+	{(const char*)partdata_8, 10, 5, 21, -10, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 3 | Don't underestimate me!
 const u8 partdata_9[] = {68, 111, 110, 39, 116, 32, 117, 110, 100, 101, 114, 101, 115, 116, 105, 109, 97, 116, 101, 32, 109, 101, 33};
 
 AudioSubtitlePart sub9_parts[] = {
-	{(const char*)partdata_9, 23, 5, 27, -86, -76},
+	{(const char*)partdata_9, 23, 5, 27, -73, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 4 | Let's get pounding already!
 const u8 partdata_10[] = {76, 101, 116, 39, 115, 32, 103, 101, 116, 32, 112, 111, 117, 110, 100, 105, 110, 103, 32, 97, 108, 114, 101, 97, 100, 121, 33};
 
 AudioSubtitlePart sub10_parts[] = {
-	{(const char*)partdata_10, 27, 5, 24, -102, -76},
+	{(const char*)partdata_10, 27, 5, 24, -82, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 5 | Time for violence!
 const u8 partdata_11[] = {84, 105, 109, 101, 32, 102, 111, 114, 32, 118, 105, 111, 108, 101, 110, 99, 101, 33};
 
 AudioSubtitlePart sub11_parts[] = {
-	{(const char*)partdata_11, 18, 2, 20, -62, -76},
+	{(const char*)partdata_11, 18, 2, 20, -40, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 6 | To battle! To battle!
 const u8 partdata_12[] = {84, 111, 32, 98, 97, 116, 116, 108, 101, 33, 32, 84, 111, 32, 98, 97, 116, 116, 108, 101, 33};
 
 AudioSubtitlePart sub12_parts[] = {
-	{(const char*)partdata_12, 21, 3, 24, -78, -76},
+	{(const char*)partdata_12, 21, 3, 24, -47, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 7 | Let's go!
 const u8 partdata_13[] = {76, 101, 116, 39, 115, 32, 103, 111, 33};
 
 AudioSubtitlePart sub13_parts[] = {
-	{(const char*)partdata_13, 9, 2, 21, -30, -76},
+	{(const char*)partdata_13, 9, 2, 21, -17, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 8 | To arms.
 const u8 partdata_14[] = {84, 111, 32, 97, 114, 109, 115, 46};
 
 AudioSubtitlePart sub14_parts[] = {
-	{(const char*)partdata_14, 8, 2, 15, -22, -76},
+	{(const char*)partdata_14, 8, 2, 15, -9, -76},
 };
 
 //\XAEFF\BTLKOE.XA;1 | 9 | Are you prepared?
 const u8 partdata_15[] = {65, 114, 101, 32, 121, 111, 117, 32, 112, 114, 101, 112, 97, 114, 101, 100, 63};
 
 AudioSubtitlePart sub15_parts[] = {
-	{(const char*)partdata_15, 17, 2, 19, -62, -76},
+	{(const char*)partdata_15, 17, 2, 19, -45, -76},
 };
 
 //\XAEFF\SHOP.XA;1 | 0 | Could you buy this for me?

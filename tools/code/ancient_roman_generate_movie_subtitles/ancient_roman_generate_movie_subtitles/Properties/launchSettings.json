@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ancient_roman_generate_movie_subtitles": {
+      "commandName": "Project",
+      "commandLineArgs": "videos tools\\movie_mapping.txt"
+    }
+  }
+}
