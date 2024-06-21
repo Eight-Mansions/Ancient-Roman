@@ -37,6 +37,10 @@ extern "C" {
 	static int audioSubIdx = -1;
 	static u32* audioSubitlesGraphicsList1;
 	static u32* audioSubitlesGraphicsList2;
+	static u32 currentAudioFrame = 0;
+
+	extern int AudioIsPlaying1;
+	extern int AudioIsPlaying2;
 
 	extern u32* MemoryAllocate(int size);
 
@@ -45,6 +49,10 @@ extern "C" {
 	extern void SetGraphicPrimitives(u32* addr1, u32* addr2, char* string, int unk1);
 
 	extern void ShopDisplay(u32* otag);
+
+	extern u32 audioSubitlesGraphicsList;
+
+	
 
 
 

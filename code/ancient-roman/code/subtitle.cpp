@@ -53,11 +53,12 @@ void InitAudioSubtitle(const char* audioFilename, u32 id, u32 unk1)
 			AudioSubtitlePart* audioSubs = audioSubtitles[i].parts;
 
 			int strLen = audioSubs[0].len;
-			audioSubitlesGraphicsList1 = MemoryAllocate(strLen * 0x28);
-			audioSubitlesGraphicsList2 = MemoryAllocate(strLen * 0x28);
+			audioSubitlesGraphicsList1 = (u32*)0x801ea000;
+			audioSubitlesGraphicsList2 = (u32*)(0x801ea000 + (strLen * 0x28));
 
-			InitGraphicPrimitives(audioSubitlesGraphicsList1, audioSubitlesGraphicsList1, -0x3a, 0x50, strLen);
+			InitGraphicPrimitives(audioSubitlesGraphicsList1, audioSubitlesGraphicsList2, audioSubs[0].x, audioSubs[0].y, strLen);
 			SetBabyLetterWidths((POLY_FT4*)audioSubitlesGraphicsList1, (POLY_FT4*)audioSubitlesGraphicsList2, (char*)audioSubs[0].text, strLen);
+			currentAudioFrame = 0;
 		}
 	}
 
@@ -66,15 +67,23 @@ void InitAudioSubtitle(const char* audioFilename, u32 id, u32 unk1)
 
 void DrawShopAudioSubtitle(void* otag)
 {
+	if (AudioIsPlaying1 > AudioIsPlaying2)
+	{
+		audioSubIdx = -1;
+	}
+
 	if (audioSubIdx != -1)
 	{
-		AudioSubtitlePart* audioSubs = audioSubtitles[audioSubIdx].parts;
-		DrawGraphics(otag, audioSubitlesGraphicsList1, audioSubs[0].len);
+		AudioSubtitlePart current = audioSubtitles[audioSubIdx].parts[0];
+		if (current.startFrame <= currentAudioFrame && currentAudioFrame < current.endFrame)
+		{
+			DrawGraphics(otag, audioSubitlesGraphicsList1, current.len);
+		}
 	}
 
 	DrawShopGraphics(otag);
+	currentAudioFrame++;
 }
-
 
 u32 InitMovieSubtitle(void* videoname)
 {

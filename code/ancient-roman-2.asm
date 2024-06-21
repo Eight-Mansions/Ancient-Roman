@@ -3,6 +3,7 @@
 	.importobj "code\ancient-roman\obj\text.obj"
 	.importobj "code\ancient-roman\obj\font.obj"
 	.importobj "code\ancient-roman\obj\generated_movie.obj"
+	.importobj "code\ancient-roman\obj\generated_audio.obj"
 	.importobj "code\ancient-roman\obj\subtitle.obj"
 SubFont:
 	.incbin "graphics\sub_font.bin" ; Font used for subtitles
@@ -173,6 +174,8 @@ NumWindowLinesPos:
 	.dw 0x8013ab8c
 cursorPosition:
 	.dw 254
+audioSubitlesGraphicsList:
+	.dw 0
 .close
 
 .open "exe\SLPS_011.09",0x8000F800
@@ -193,6 +196,15 @@ cursorPosition:
 .definelabel nameEntryCol, 0x8011638c ; Unused
 .definelabel nameEntryRow, 0x80116390 ; Unused
 .definelabel FUN_8003dc00, 0x8003dc00 ; Unused
+.definelabel DisplayString, 0x800570f8
+.definelabel PlayAudio, 0x80045784
+.definelabel MemoryAllocate, 0x800457c4
+.definelabel InitGraphicPrimitives, 0x8003d770
+.definelabel SetGraphicPrimitives, 0x8003d94c
+.definelabel DrawShopGraphics, 0x80057cfc
+.definelabel DrawGraphics, 0x8003dc60
+.definelabel AudioIsPlaying1, 0x800b7574
+.definelabel AudioIsPlaying2, 0x800b7578
 
 .org 0x800192bc
 	lui a1, 0x801F
@@ -491,7 +503,38 @@ cursorPosition:
 	
 .org 0x80018404
 	j DisplayMovieSubs
+	
 
+
+
+.org 0x8004ec50
+	jal InitAudioSubtitle
+	
+.org 0x8004ecdc
+	jal InitAudioSubtitle
+
+.org 0x8004f014
+	jal InitAudioSubtitle
+
+.org 0x8004f06c
+	jal InitAudioSubtitle
+
+.org 0x8004f344
+	jal InitAudioSubtitle
+	
+.org 0x8004e4e8
+	jal DrawShopAudioSubtitle
+	
+.org 0x8004eb40
+	jal DrawShopAudioSubtitle
+	
+.org 0x8004f75c
+	jal DrawShopAudioSubtitle
+
+.org 0x8005244c
+	jal DrawShopAudioSubtitle
+	
+	
 ; Move stuff that will get overwritten by expanded vram for menus
 .org 0x80045944
 	lui at, 0x8012

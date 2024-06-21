@@ -8,8 +8,8 @@ struct AudioSubtitlePart {
 	const u8 len;
 	const u16 startFrame;
 	const u16 endFrame;
-	const u8 x;
-	const u8 y;
+	const i16 x;
+	const i16 y;
 };
 struct AudioSubtitle {
 	const i32 id;

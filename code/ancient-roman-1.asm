@@ -185,6 +185,8 @@ NumWindowLinesPos:
 	.dw 0x8013acd4
 cursorPosition:
 	.dw 254
+audioSubitlesGraphicsList:
+	.dw 0
 .close
 
 .open "exe\SLPS_011.08",0x8000F800
@@ -212,6 +214,8 @@ cursorPosition:
 .definelabel SetGraphicPrimitives, 0x8003dba8
 .definelabel DrawShopGraphics, 0x80057e44
 .definelabel DrawGraphics, 0x8003dda8
+.definelabel AudioIsPlaying1, 0x800b76bc
+.definelabel AudioIsPlaying2, 0x800b76c0
 
 .org 0x80019404
 	lui a1, 0x801F

@@ -6,7 +6,7 @@ void LoadFile()
 
 	u32* srcPos = (u32*)0x8015829c;
 	u32* destPos = (u32*)0x801E1000;
-	u32 cnt = 0x7C00 / 4;
+	u32 cnt = 0x7D00 / 4;
 	for (int i = 0; i < cnt; i++)
 	{
 		destPos[i] = srcPos[i];
