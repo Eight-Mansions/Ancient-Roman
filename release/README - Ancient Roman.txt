@@ -7,7 +7,7 @@ The legendary kusoge—the Final Fantasy 7 killer—now arrives in English
 for the first time!
 
 Join Kai, a tragic prince who was kidnapped as a baby and forced to work
-for demons as they sought ancient evil power that lived underground. Met
+for demons as they sought ancient evil power that lived underground. Meet
 various allies to rid the world of darkness once and for all, one (broken
 music, laggy sound, and nonsense plot) step at a time!
 
