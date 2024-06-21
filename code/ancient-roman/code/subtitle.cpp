@@ -77,7 +77,14 @@ void DrawShopAudioSubtitle(void* otag)
 		AudioSubtitlePart current = audioSubtitles[audioSubIdx].parts[0];
 		if (current.startFrame <= currentAudioFrame && currentAudioFrame < current.endFrame)
 		{
-			DrawGraphics(otag, audioSubitlesGraphicsList1, current.len);
+			if (activeBuffer == 0)
+			{
+				DrawGraphics(otag, audioSubitlesGraphicsList1, current.len);
+			}
+			else
+			{
+				DrawGraphics(otag, audioSubitlesGraphicsList2, current.len);
+			}
 		}
 	}
 
@@ -97,7 +104,14 @@ void DrawBattleAudioSubtitle()
 		AudioSubtitlePart current = audioSubtitles[audioSubIdx].parts[0];
 		if (current.startFrame <= currentAudioFrame && currentAudioFrame < current.endFrame)
 		{
-			DrawGraphics(otag, audioSubitlesGraphicsList1, current.len);
+			if (activeBuffer == 0)
+			{
+				DrawGraphics(otag, audioSubitlesGraphicsList1, current.len);
+			}
+			else
+			{
+				DrawGraphics(otag, audioSubitlesGraphicsList2, current.len);
+			}
 		}
 	}
 

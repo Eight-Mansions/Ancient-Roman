@@ -55,6 +55,7 @@ extern "C" {
 	extern u32 audioSubitlesGraphicsList;
 
 	extern void* otag;
+	extern int activeBuffer;
 
 	
 

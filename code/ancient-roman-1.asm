@@ -218,6 +218,7 @@ audioSubitlesGraphicsList:
 .definelabel AudioIsPlaying1, 0x800b76bc
 .definelabel AudioIsPlaying2, 0x800b76c0
 .definelabel otag, 0x80122024
+.definelabel activeBuffer, 0x8011ce2c
 
 .org 0x80019404
 	lui a1, 0x801F
