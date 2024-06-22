@@ -663,19 +663,19 @@ audioSubitlesGraphicsList:
 	.db 0x04	; Accessory x position
 
 .org 0x8009d534
-	.db 0x10	; Weapon
+	.db 0x06	; Weapon
 .org 0x8009d540
-	.db 0x10	; Head
+	.db 0x05	; Head
 .org 0x8009d54c
-	.db 0x10	; Armor
+	.db 0x05	; Armor
 .org 0x8009d558
-	.db 0x10	; Shield
+	.db 0x06	; Shield
 .org 0x8009d564
-	.db 0x10	; Accessory
+	.db 0x09	; Accessory
 .org 0x8009d570
-	.db 0x10	; Accessory
+	.db 0x09	; Accessory
 .org 0x8009d57c
-	.db 0x10	; Accessory
+	.db 0x09	; Accessory
 	
 .org 0x8009d584
 	.db 0x28 ; Equipped Sword x position
