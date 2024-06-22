@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\Documents\\Visual Studio 2022\\Projects\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles.csproj": {}
+    "D:\\projects\\p_transprojects\\Ancient-Roman\\tools\\code\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\Documents\\Visual Studio 2022\\Projects\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles.csproj": {
+    "D:\\projects\\p_transprojects\\Ancient-Roman\\tools\\code\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\Documents\\Visual Studio 2022\\Projects\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles.csproj",
+        "projectUniqueName": "D:\\projects\\p_transprojects\\Ancient-Roman\\tools\\code\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles.csproj",
         "projectName": "ancient_roman_generate_audio_subtitles",
-        "projectPath": "C:\\Users\\dougl\\Documents\\Visual Studio 2022\\Projects\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles.csproj",
+        "projectPath": "D:\\projects\\p_transprojects\\Ancient-Roman\\tools\\code\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\Documents\\Visual Studio 2022\\Projects\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\obj\\",
+        "outputPath": "D:\\projects\\p_transprojects\\Ancient-Roman\\tools\\code\\ancient_roman_generate_audio_subtitles\\ancient_roman_generate_audio_subtitles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",

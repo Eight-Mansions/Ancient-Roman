@@ -403,14 +403,14 @@ MovieSubtitlePart sub12_parts[] = {
 	{(const char*)partdata_90, 34, 255, 279, 328, 24, 190, 24, 190},
 };
 
-//\ZA0\PROG.STR;1 | 1,000 years past...
-const u8 partdata_91[] = {65, 53, 64, 64, 64, 76, 50, 30, 26, 43, 44, 76, 41, 26, 44, 45, 52, 52, 52};
+//\ZA0\PROG.STR;1 | 1,000 years passed...
+const u8 partdata_91[] = {65, 53, 64, 64, 64, 76, 50, 30, 26, 43, 44, 76, 41, 26, 44, 44, 30, 29, 52, 52, 52};
 
 //\ZA0\PROG.STR;1 | 17 years later
 const u8 partdata_92[] = {65, 71, 76, 50, 30, 26, 43, 44, 76, 37, 26, 45, 30, 43};
 
 MovieSubtitlePart sub13_parts[] = {
-	{(const char*)partdata_91, 19, 255, 736, 781, 80, 190, 80, 190},
+	{(const char*)partdata_91, 21, 255, 736, 781, 72, 190, 72, 190},
 	{(const char*)partdata_92, 14, 255, 2007, 2067, 104, 190, 104, 190},
 };
 

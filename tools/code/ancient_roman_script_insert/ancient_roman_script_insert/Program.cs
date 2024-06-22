@@ -10,6 +10,9 @@ namespace ancient_roman_script_insert
 {
     class Program
     {
+
+        static int maxLineLen = 0;
+
         static int GetCurWidth(string line, Dictionary<string, int> widths)
         {
             int cur_len = 0;
@@ -35,7 +38,7 @@ namespace ancient_roman_script_insert
         {
             string outme = "";
             int cur_len = 0;
-            int maxHardLen = 99;
+            int maxHardLen = 0x2D;
 
             string[] splitRs = line.Split(new string[] { "\\n" }, StringSplitOptions.RemoveEmptyEntries);
             for (int r = 0; r < splitRs.Length; r++)
@@ -51,6 +54,10 @@ namespace ancient_roman_script_insert
                     }
                     else
                     {
+                        if (formatted.Length > maxLineLen)
+                        {
+                            
+                        }
                         line_cnt++;
                         if (!String.IsNullOrEmpty(formatted))
                         {
@@ -63,6 +70,19 @@ namespace ancient_roman_script_insert
 
                 if (r + 1 != splitRs.Length)
                     outme += " \\n";
+            }
+
+            foreach (string s in outme.Split(new string[] { "\\n" }, StringSplitOptions.RemoveEmptyEntries))
+            {
+                if (maxLineLen < Encoding.ASCII.GetBytes(s).Length)
+                {
+
+                    maxLineLen = Encoding.ASCII.GetBytes(s).Length;
+                    if (maxLineLen == 0x3E)
+                    {
+                        int boopmeeee = 0;
+                    }
+                }
             }
 
             return outme.Trim();
