@@ -557,6 +557,13 @@ void GetArrowPlacementForDialogue(u8* string, u32 unk1, u32 unk2)
 
 	if (lineCount == 0)
 		lineCount++;
+
+	u16* textBoxInfo = (u16*)NumWindowLinesPos;
+	if (textBoxInfo[1] == 0x10) // Smaller box
+		cursorPosition = 212;
+	else if (textBoxInfo[1] == 0x13)
+		cursorPosition = 254;
+		
 }
 
 void IgnoreHiriganaEnglishButtons()
