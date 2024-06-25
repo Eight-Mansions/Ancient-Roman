@@ -1409,7 +1409,7 @@ Nut Man
 // Ptr: 00002680
 #WRITE(PTR, $0008102C)
 //オムレツまん
-Omelet Mna
+Omelet Man
 <$00>
 
 
@@ -1807,7 +1807,7 @@ Conton Ruins
 // Ptr: 00003F5C
 #WRITE(PTR, $0008CB68)
 //アルナの関所
-Aluna Dam
+Alna Dam
 <$00>
 
 
@@ -1968,7 +1968,7 @@ New Heinrogue Castle
 // Ptr: 000040B8
 #WRITE(PTR, $0008C578)
 //ファーナスの町
-Farnus City
+Farnas
 <$00>
 
 
