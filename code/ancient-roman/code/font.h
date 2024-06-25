@@ -54,6 +54,10 @@ extern "C" {
 	extern void FUN_8003dc00(u32* unk1, u8* unk2, u32 unk3, u32 unk4);
 
 	static bool vwfOn = true;
+
+	extern u32 NumWindowLinesPos;
+	
+	extern u32 cursorPosition;
 	
 }
 

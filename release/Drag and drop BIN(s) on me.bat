@@ -4,6 +4,8 @@ set filename_2=Ancient-Roman-Disc-2-English
 set file_type=BIN
 set patch_file_1=patch-d1.xdelta
 set patch_file_2=patch-d2.xdelta
+set patch_file_1-other=patch-d1-other.xdelta
+set patch_file_2-other=patch-d2-other.xdelta
 
 set found_disc=
 
@@ -28,6 +30,30 @@ for %%A in (%*) do (
     )
 
     patch_data\xdelta.exe -d -f -s %%A patch_data\%patch_file_2% "%filename_2%.bin" 2>nul
+    if not errorlevel 1 (
+        set found_disc=true
+        
+        echo Disc 2 found!
+
+        echo FILE "%filename_2%.bin" BINARY>%filename_2%.cue
+        echo   TRACK 01 MODE2/2352>>%filename_2%.cue
+        echo     INDEX 01 00:00:00>>%filename_2%.cue
+        echo.
+    )
+	
+	patch_data\xdelta.exe -d -f -s %%A patch_data\%patch_file_1-other% "%filename_1%.bin" 2>nul
+    if not errorlevel 1 (
+        set found_disc=true
+
+        echo Disc 1 found!
+
+        echo FILE "%filename_1%.bin" BINARY>%filename_1%.cue
+        echo   TRACK 01 MODE2/2352>>%filename_1%.cue
+        echo     INDEX 01 00:00:00>>%filename_1%.cue
+        echo.
+    )
+
+    patch_data\xdelta.exe -d -f -s %%A patch_data\%patch_file_2-other% "%filename_2%.bin" 2>nul
     if not errorlevel 1 (
         set found_disc=true
         

@@ -1,4 +1,20 @@
-﻿#: 00000151
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-22 20:30-0400\n"
+"PO-Revision-Date: 2024-06-25 01:34+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s003/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00000151
 msgctxt "00000000"
 msgid ""
 "バーク：温泉か。ほろ苦い思い出がよみがえるな。"
@@ -2738,7 +2754,7 @@ msgstr "Please come again."
 msgctxt "00000457"
 msgid ""
 "＿＿新ハインローグ城＿王の間＿"
-msgstr "New Heinrogue Castle, Royal Chambers"
+msgstr "New Heinrogue Castle - Royal Chambers"
 
 #: 002AD1D5
 msgctxt "00000458"
@@ -2828,7 +2844,7 @@ msgstr "Kai: Okay..."
 msgctxt "00000472"
 msgid ""
 "＿＿新ハインローグ城＿王の間"
-msgstr "New Heinrogue Castle, Royal Chambers"
+msgstr "New Heinrogue Castle - Royal Chambers"
 
 #: 002AD6B5
 msgctxt "00000473"
@@ -2912,7 +2928,7 @@ msgstr "Michelia: Kai? A prince...?"
 msgctxt "00000486"
 msgid ""
 "＿＿新ハインローグ城＿王の間＿＿"
-msgstr "New Heinrogue Castle, Royal Chambers"
+msgstr "New Heinrogue Castle - Royal Chambers"
 
 #: 002ADB20
 msgctxt "00000487"
@@ -3398,7 +3414,7 @@ msgstr "Kai: How'd he know I'd ask the way there...?"
 msgctxt "00000567"
 msgid ""
 "＿＿＿新ハインローグ城広場＿＿＿"
-msgstr "__ New Heinrogue Castle - Training Grounds ___"
+msgstr "New Heinrogue Castle - Training Grounds"
 
 #: 002F1A67
 msgctxt "00000568"
@@ -4388,7 +4404,7 @@ msgstr "Marl"
 msgctxt "00000735"
 msgid ""
 "いぬら屋"
-msgstr "The Dog's Shop Restocked"
+msgstr "The Dog's Shop"
 
 #: 003BF179
 msgctxt "00000736"

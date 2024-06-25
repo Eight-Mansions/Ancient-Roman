@@ -5,7 +5,7 @@ const u8 dialogueLetterWidths[] = {
 	0x02, // !
 	0x04, // "
 
-	0x08, // #
+	0x09, // #
 	0x06, // $
 	0x07, // %
 	0x0A, // &
@@ -392,7 +392,7 @@ i32 SetupDialogueText(POLY_FT4* p, u8* string, long maxLen, int len, int unk1)
 
 	if (!found)
 	{
-		FUN_8003e238(p, string, 0x39, 0x39, unk1);
+		FUN_8003e238(p, string, 0x2D, 0x2D, unk1);
 
 		displayedLines[dIdx] = (u32)p;
 	}
@@ -403,7 +403,7 @@ void DisplayDialogueText(u32* ot, POLY_FT4* p, int maxLen)
 {
 	EnterCriticalSection();
 
-	for (int i = 0; i < 0x39; i++)
+	for (int i = 0; i < 0x2D; i++)
 	{
 		AddPrim(ot, p);
 		p = (POLY_FT4*)(((u8*)p) + sizeof(POLY_FT4));
@@ -557,6 +557,13 @@ void GetArrowPlacementForDialogue(u8* string, u32 unk1, u32 unk2)
 
 	if (lineCount == 0)
 		lineCount++;
+
+	u16* textBoxInfo = (u16*)NumWindowLinesPos;
+	if (textBoxInfo[1] == 0x10) // Smaller box
+		cursorPosition = 212;
+	else if (textBoxInfo[1] == 0x13)
+		cursorPosition = 254;
+		
 }
 
 void IgnoreHiriganaEnglishButtons()
