@@ -82,6 +82,7 @@ Cargodin - Editing
 ## Special Thanks ##
 Hilltop - Hacking support and jolly friend
 TurnipTheBeet, blueskyrunner, Yuvi, Telephone_Ghost - The IKUZE Test Squad
+YoshistarBaxter - Transparentified the logo~
 
 ## Contact ##
 Have any issues or run into any problems? Feel free to drop by our discord here:
