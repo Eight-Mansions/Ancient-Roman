@@ -255,7 +255,11 @@ audioSubitlesGraphicsList:
 
 
 	
-
+.org 0x80045a7c
+	nop
+	
+.org 0x80045a74	; Clobber unused(?) write
+	nop
 
 
 .org 0x800156bc
