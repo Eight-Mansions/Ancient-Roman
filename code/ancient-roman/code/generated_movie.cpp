@@ -30,11 +30,11 @@ const u8 partdata_8[] = {44, 41, 34, 43, 34, 45, 52};
 //\ZA0\DIEKAIFA.STR;1 | I'm sure he'll inherit our love of
 const u8 partdata_9[] = {8, 62, 38, 76, 44, 46, 43, 30, 76, 33, 30, 62, 37, 37, 76, 34, 39, 33, 30, 43, 34, 45, 76, 40, 46, 43, 76, 37, 40, 47, 30, 76, 40, 31};
 
-//\ZA0\DIEKAIFA.STR;1 | this kingdom and our will to keep it
-const u8 partdata_10[] = {45, 33, 34, 44, 76, 36, 34, 39, 32, 29, 40, 38, 76, 26, 39, 29, 76, 40, 46, 43, 76, 48, 34, 37, 37, 76, 45, 40, 76, 36, 30, 30, 41, 76, 34, 45};
+//\ZA0\DIEKAIFA.STR;1 | this kingdom
+const u8 partdata_10[] = {45, 33, 34, 44, 76, 36, 34, 39, 32, 29, 40, 38};
 
-//\ZA0\DIEKAIFA.STR;1 | safe.
-const u8 partdata_11[] = {44, 26, 31, 30, 52};
+//\ZA0\DIEKAIFA.STR;1 | and our will to keep it safe.
+const u8 partdata_11[] = {26, 39, 29, 76, 40, 46, 43, 76, 48, 34, 37, 37, 76, 45, 40, 76, 36, 30, 30, 41, 76, 34, 45, 76, 44, 26, 31, 30, 52};
 
 MovieSubtitlePart sub0_parts[] = {
 	{(const char*)partdata_0, 34, 255, 233, 303, 24, 190, 24, 190},
@@ -46,9 +46,9 @@ MovieSubtitlePart sub0_parts[] = {
 	{(const char*)partdata_6, 4, 255, 592, 613, 144, 190, 144, 190},
 	{(const char*)partdata_7, 31, 255, 613, 667, 32, 190, 32, 190},
 	{(const char*)partdata_8, 7, 255, 613, 667, 128, 206, 128, 206},
-	{(const char*)partdata_9, 34, 255, 667, 754, 24, 190, 24, 190},
-	{(const char*)partdata_10, 36, 255, 667, 754, 16, 206, 16, 206},
-	{(const char*)partdata_11, 5, 255, 667, 754, 136, 222, 136, 222},
+	{(const char*)partdata_9, 34, 255, 667, 710, 24, 190, 24, 190},
+	{(const char*)partdata_10, 12, 255, 667, 710, 112, 206, 112, 206},
+	{(const char*)partdata_11, 29, 255, 710, 754, 40, 190, 40, 190},
 };
 
 //\ZA0\ELF_DARK.STR;1 | Kanna!
