@@ -48,7 +48,7 @@ namespace ancient_roman_script_insert
                 int line_cnt = 1;
                 for (int k = 0; k < pieces.Length; k++)
                 {
-                    if (GetCurWidth(formatted + pieces[k].Replace("カイ", "○○○○○") + " ", widths) < max_len && (formatted.Replace("カイ:", "○○○○○:") + pieces[k] + " ").Length < maxHardLen)
+                    if (GetCurWidth(formatted.Replace("カイ", "○○○○○") + pieces[k].Replace("カイ", "○○○○○") + " ", widths) < max_len && (formatted.Replace("カイ:", "○○○○○:") + pieces[k] + " ").Length < maxHardLen)
                     {
                         formatted += pieces[k] + " ";
                     }
