@@ -81,7 +81,7 @@ Cargodin - Editing
 
 ## Special Thanks ##
 Hilltop - Hacking support and jolly friend
-TurnipTheBeet, blueskyrunner, Yuvi, Telephone_Ghost - The IKUZE Test Squad
+TurnipTheBeet, blueskyrunner, Yuvi, Telephone_Ghost, Shentok - The IKUZE Test Squad
 YoshistarBaxter - Transparentified the logo~
 
 ## Contact ##
