@@ -175,11 +175,11 @@ AudioSubtitlePart sub24_parts[] = {
 	{(const char*)partdata_24, 40, 4, 31, -42, 88},
 };
 
-//\XAEFF\SHOP.XA;1 | 17 | I-I want that…
-const u8 partdata_25[] = {73, 45, 73, 32, 119, 97, 110, 116, 32, 116, 104, 97, 116, 63};
+//\XAEFF\SHOP.XA;1 | 17 | I-I want that...
+const u8 partdata_25[] = {73, 45, 73, 32, 119, 97, 110, 116, 32, 116, 104, 97, 116, 46, 46, 46};
 
 AudioSubtitlePart sub25_parts[] = {
-	{(const char*)partdata_25, 14, 3, 32, -42, 88},
+	{(const char*)partdata_25, 16, 3, 32, -42, 88},
 };
 
 //\XAEFF\SHOP.XA;1 | 18 | I'll take good care of it.

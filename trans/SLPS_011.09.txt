@@ -1898,7 +1898,7 @@ Mahtas Village
 // Ptr: 00004024
 #WRITE(PTR, $0008C7E8)
 //‰BŽÒ‚Ì—¢
-Hermit Island
+Hermit's Island
 <$00>
 
 

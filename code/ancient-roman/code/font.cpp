@@ -561,6 +561,8 @@ void GetArrowPlacementForDialogue(u8* string, u32 unk1, u32 unk2)
 	u16* textBoxInfo = (u16*)NumWindowLinesPos;
 	if (textBoxInfo[1] == 0x10) // Smaller box
 		cursorPosition = 212;
+	else if (textBoxInfo[1] == 0x11) // a bit smaller box
+		cursorPosition = 222;
 	else if (textBoxInfo[1] == 0x13)
 		cursorPosition = 254;
 		

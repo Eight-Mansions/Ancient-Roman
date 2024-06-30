@@ -1602,13 +1602,6 @@ Mermaid Statue L
 <$00>
 
 
-// Ptr: 00002805
-#WRITE(PTR, $00082E14)
-//É‚ñ‚¬‚å‚Ì‚¼‚¤‚k
-Meremaid Statue L
-<$00>
-
-
 // Ptr: 00002818
 #WRITE(PTR, $000816C4)
 //‚¢‚ñ‚ª‚Ì‚Â‚¦
@@ -1898,7 +1891,7 @@ Mahtas Village
 // Ptr: 00004024
 #WRITE(PTR, $0008C930)
 //‰BŽÒ‚Ì—¢
-Hermit Island
+Hermit's Island
 <$00>
 
 
