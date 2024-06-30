@@ -28,7 +28,7 @@ namespace ancient_roman_script_insert
                 }
                 else
                 {
-                    cur_len += 20;
+                    cur_len += 15;
                 }
             }
 
@@ -36,9 +36,14 @@ namespace ancient_roman_script_insert
         }
         static string Format(string line, int max_len, Dictionary<string, int> widths)
         {
+            if (line.Contains("Don't you "))
+            {
+                int boopme = 0;
+            }
+
             string outme = "";
             int cur_len = 0;
-            int maxHardLen = 0x2D;
+            int maxHardLen = 0x2C;
 
             string[] splitRs = line.Split(new string[] { "\\n" }, StringSplitOptions.RemoveEmptyEntries);
             for (int r = 0; r < splitRs.Length; r++)
@@ -48,7 +53,7 @@ namespace ancient_roman_script_insert
                 int line_cnt = 1;
                 for (int k = 0; k < pieces.Length; k++)
                 {
-                    if (GetCurWidth(formatted + pieces[k].Replace("カイ", "WWWWW") + " ", widths) < max_len && (formatted.Replace("カイ:", "WWWWW:") + pieces[k] + " ").Length < maxHardLen)
+                    if (GetCurWidth(formatted.Replace("カイ", "○○○○○") + pieces[k].Replace("カイ", "○○○○○") + " ", widths) < max_len && (formatted.Replace("カイ:", "○○○○○:") + pieces[k] + " ").Length < maxHardLen)
                     {
                         formatted += pieces[k] + " ";
                     }
