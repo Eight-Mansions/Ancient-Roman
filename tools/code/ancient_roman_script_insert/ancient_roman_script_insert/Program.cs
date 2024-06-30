@@ -28,7 +28,7 @@ namespace ancient_roman_script_insert
                 }
                 else
                 {
-                    cur_len += 20;
+                    cur_len += 15;
                 }
             }
 
@@ -36,6 +36,11 @@ namespace ancient_roman_script_insert
         }
         static string Format(string line, int max_len, Dictionary<string, int> widths)
         {
+            if (line.Contains("Don't you "))
+            {
+                int boopme = 0;
+            }
+
             string outme = "";
             int cur_len = 0;
             int maxHardLen = 0x2C;
