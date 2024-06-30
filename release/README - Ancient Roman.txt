@@ -46,7 +46,7 @@ it off disc, into RAM, play it, then boot it out every time. No we will not
 fix this.
 
 - Will you translate the drama CD?
-I'll think about it.
+https://youtu.be/o35N0M41fGc - Turn on captions.
 
 - Why People Becoming Monsters Disease?
 I could have gone for something like Monsterfication Disease, but that would

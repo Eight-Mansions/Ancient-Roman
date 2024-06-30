@@ -1,0 +1,2233 @@
+﻿1
+00:01:17,790 --> 00:01:25,660
+Our story begins in a land far away, in a time known to none, in a place known to none.
+
+2
+00:01:27,600 --> 00:01:34,060
+There once was a young king who ruled the kingdom of Heinrogue.
+
+3
+00:01:44,750 --> 00:01:46,030
+Who goes there!?
+
+4
+00:01:48,150 --> 00:01:50,380
+It's me.
+
+5
+00:01:50,380 --> 00:01:52,330
+Forgive my rudeness, your highness.
+
+6
+00:01:53,070 --> 00:01:54,670
+You're the knight captain?
+
+7
+00:01:54,660 --> 00:01:57,900
+Yes, Captain Jenatos, sir.
+
+8
+00:01:57,900 --> 00:01:59,900
+Did you think me an enemy?
+
+9
+00:01:59,900 --> 00:02:04,640
+Only the spirits of the night visit the ramparts at this hour,
+
+10
+00:02:04,640 --> 00:02:06,880
+let alone the king himself.
+
+11
+00:02:08,570 --> 00:02:10,490
+I apologize for startling you then.
+
+12
+00:02:10,490 --> 00:02:12,330
+You did nothing wrong.
+
+13
+00:02:12,330 --> 00:02:16,970
+Jenatos, please tell me something.
+
+14
+00:02:16,970 --> 00:02:20,650
+Why is spring so late to come this year?
+
+15
+00:02:20,650 --> 00:02:26,210
+It is strange... It's been far more cold than normal.
+
+16
+00:02:26,210 --> 00:02:29,100
+May is supposed to begin tomorrow.
+
+17
+00:02:29,100 --> 00:02:32,940
+Right, I suppose it is the end of April.
+
+18
+00:02:32,940 --> 00:02:38,640
+The fields are still white with frost, keeping the plants from budding.
+
+19
+00:02:38,640 --> 00:02:46,600
+The world should be bathed in the color of vibrant flowers, but not one is to be seen...
+
+20
+00:02:46,600 --> 00:02:52,200
+Sometimes that's just how nature is...
+
+21
+00:02:52,200 --> 00:02:58,510
+Nothing good has happened since my father died and I took the throne.
+
+22
+00:02:58,510 --> 00:03:03,040
+That's... You're worrying too much, your highness.
+
+23
+00:03:04,500 --> 00:03:11,840
+Famine. Plague. War. Am I just too weak?
+
+24
+00:03:11,840 --> 00:03:18,190
+Is the kingdom doomed to suffer at the hands of a novice king in their twenties?
+
+25
+00:03:18,190 --> 00:03:20,970
+What are you saying, your highness!?
+
+26
+00:03:20,970 --> 00:03:25,680
+The country needs its king the most when times are tough.
+
+27
+00:03:27,070 --> 00:03:29,980
+What could I even do?
+
+28
+00:03:29,980 --> 00:03:32,010
+I'm powerless to help the kingdom.
+
+29
+00:03:34,120 --> 00:03:37,210
+I wish I had strength.
+
+30
+00:03:37,210 --> 00:03:39,430
+I wish I had knowledge...
+
+31
+00:03:42,350 --> 00:03:49,380
+Ravens again... They've been increasing, haven't they?
+
+32
+00:03:50,830 --> 00:03:54,720
+Probably... since there's been more deaths lately...
+
+33
+00:03:55,630 --> 00:04:03,830
+Ten... Twenty... Where are they headed?
+
+34
+00:04:03,830 --> 00:04:06,070
+Probably to the barren mountains.
+
+35
+00:04:08,780 --> 00:04:12,830
+...you said you desired power, did you not?
+
+36
+00:04:12,830 --> 00:04:15,790
+Yeah. I suppose I did.
+
+37
+00:04:15,790 --> 00:04:26,750
+What must a monarch have to turn an ashen country into a prosperous one?
+
+38
+00:04:26,750 --> 00:04:29,970
+As I've said, the king's abilities affect the kingdom.
+
+39
+00:04:29,970 --> 00:04:32,940
+That is not all.
+
+40
+00:04:32,940 --> 00:04:34,580
+Go on...
+
+41
+00:04:35,690 --> 00:04:42,620
+Every man needs a source of power. A king is no exception.
+
+42
+00:04:42,620 --> 00:04:43,930
+You mean...
+
+43
+00:04:43,930 --> 00:04:51,950
+Powerful kings of yore had powerful benefactors.
+
+44
+00:04:51,950 --> 00:04:54,110
+Benefactors?
+
+45
+00:04:54,110 --> 00:05:00,220
+I'm sure you know of the stone ruins on top of that barren mountain.
+
+46
+00:05:00,220 --> 00:05:03,040
+Of course, the temple that once laid there.
+
+47
+00:05:03,040 --> 00:05:10,380
+When night comes again, head there.
+
+48
+00:05:10,380 --> 00:05:13,870
+Your wishes will surely be granted.
+
+49
+00:05:14,700 --> 00:05:16,400
+What do you mean, Jenatos!?
+
+50
+00:05:16,400 --> 00:05:23,520
+You'll have to find out on your own. Now if you'll excuse me, I need to patrol.
+
+51
+00:05:27,020 --> 00:05:29,910
+Allow me to read tomorrow's schedule, your highness.
+
+52
+00:05:29,910 --> 00:05:30,830
+Go ahead.
+
+53
+00:05:30,830 --> 00:05:36,570
+In the morning, an ambassador from our neighbor wishes to meet with you.
+
+54
+00:05:36,570 --> 00:05:41,240
+Would you like a private reception room? Or in the public hall?
+
+55
+00:05:41,240 --> 00:05:42,270
+Either.
+
+56
+00:05:42,270 --> 00:05:48,220
+Private room, it is. Next, the mayor of Rune Malna wishes to see you.
+
+57
+00:05:48,220 --> 00:05:49,200
+Ah.
+
+58
+00:05:49,200 --> 00:05:50,960
+Are you listening, your highness?
+
+59
+00:05:51,690 --> 00:05:54,740
+I'm listening. What does he want?
+
+60
+00:05:54,740 --> 00:05:58,170
+It seems to be about the worsening food supplies.
+
+61
+00:05:59,000 --> 00:06:01,770
+Not like my words will fix anything...
+
+62
+00:06:01,770 --> 00:06:02,880
+After lunch, you—
+
+63
+00:06:02,880 --> 00:06:03,980
+That's enough.
+
+64
+00:06:03,980 --> 00:06:05,530
+But, your highness—
+
+65
+00:06:05,530 --> 00:06:10,950
+Leave the schedule there. I'll make sure to read it.
+
+66
+00:06:10,950 --> 00:06:14,470
+Understood. Good night then, your highness.
+
+67
+00:06:15,190 --> 00:06:16,470
+You too.
+
+68
+00:06:31,570 --> 00:06:32,430
+Dear.
+
+69
+00:06:34,060 --> 00:06:35,350
+Marina...
+
+70
+00:06:35,350 --> 00:06:37,900
+You seem dreadfully tired...
+
+71
+00:06:37,900 --> 00:06:39,620
+It's nothing.
+
+72
+00:06:39,620 --> 00:06:42,120
+You should get to bed right away.
+
+73
+00:06:42,120 --> 00:06:45,500
+There's somewhere I have to go tonight.
+
+74
+00:06:45,500 --> 00:06:48,680
+At this hour? Where to?
+
+75
+00:06:48,680 --> 00:06:53,300
+I'll be back before you know it. Please don't wait up for me, okay?
+
+76
+00:06:54,480 --> 00:06:58,030
+It's an important time to take care of your body, so please rest.
+
+77
+00:06:58,030 --> 00:07:00,510
+If you insist...
+
+78
+00:07:02,990 --> 00:07:08,060
+Hello, my lady. Is the king not coming to bed yet?
+
+79
+00:07:08,060 --> 00:07:12,560
+N-no... Something seems to have come up.
+
+80
+00:07:12,560 --> 00:07:17,160
+In that case, let's lower your hair and get you ready for bed.
+
+81
+00:07:17,160 --> 00:07:19,160
+Thanks, Julia.
+
+82
+00:07:24,680 --> 00:07:30,960
+I'm so jealous of your beautiful long, blonde hair~
+
+83
+00:07:30,960 --> 00:07:33,930
+Your chestnut-brown hair is lovely too, Julia.
+
+84
+00:07:33,930 --> 00:07:36,230
+Thanks!
+
+85
+00:07:36,230 --> 00:07:39,120
+But wow, the king is really cool yet gentle, isn't he?
+
+86
+00:07:42,010 --> 00:07:44,920
+...I hope Lewis comes back soon.
+
+87
+00:07:56,940 --> 00:07:59,040
+What's this light?
+
+88
+00:07:59,040 --> 00:08:02,260
+Good evening! Where you off to at this hour?
+
+89
+00:08:02,900 --> 00:08:03,930
+And you are?
+
+90
+00:08:03,930 --> 00:08:07,370
+Fara! And you?
+
+91
+00:08:07,370 --> 00:08:08,670
+King Lewis.
+
+92
+00:08:08,670 --> 00:08:12,080
+Ahh! You're a human king!
+
+93
+00:08:12,080 --> 00:08:18,650
+Hmm, but wasn't the king, uh, Rudolph or something?
+
+94
+00:08:18,650 --> 00:08:20,910
+That was my great-grandfather.
+
+95
+00:08:20,910 --> 00:08:26,160
+Oh right, I forget that humans don't live all that long.
+
+96
+00:08:26,160 --> 00:08:28,380
+Are you a fairy?
+
+97
+00:08:28,380 --> 00:08:30,380
+Pixie.
+
+98
+00:08:30,380 --> 00:08:31,980
+Pixie?
+
+99
+00:08:31,980 --> 00:08:39,230
+Hey, Lewis, this might be rude of me, but you shouldn't go any further this way.
+
+100
+00:08:39,230 --> 00:08:40,470
+Why not?
+
+101
+00:08:40,470 --> 00:08:45,080
+It seems a bunch of monsters are gathering on the mountain.
+
+102
+00:08:45,080 --> 00:08:46,210
+What!?
+
+103
+00:08:46,210 --> 00:08:49,720
+Well then, I'm off! In a bit of a hurry myself.
+
+104
+00:08:49,720 --> 00:08:53,620
+What was I in a hurry for again...?
+
+105
+00:09:03,010 --> 00:09:09,750
+What the...? Why did Jenatos tell me to come to a gathering of ghouls and goblins...?
+
+106
+00:09:14,960 --> 00:09:16,040
+Ah!
+
+107
+00:09:20,760 --> 00:09:23,120
+You kept us waiting.
+
+108
+00:09:23,120 --> 00:09:32,260
+Our special guest has arrived, but he seems to be hiding! Hehehehe...
+
+109
+00:09:36,180 --> 00:09:41,570
+There! You must be Heinrogue's king, right?
+
+110
+00:09:41,570 --> 00:09:43,020
+Y-yes.
+
+111
+00:09:43,020 --> 00:09:50,270
+You're not the first I've seen. You wish for power, do you not?
+
+112
+00:09:50,270 --> 00:09:51,660
+Who are you?
+
+113
+00:09:51,660 --> 00:09:56,420
+I'm asking if you wish for power, riches, and wisdom!?
+
+114
+00:09:56,420 --> 00:09:57,660
+Yes...!
+
+115
+00:09:57,660 --> 00:09:59,880
+Good...
+
+116
+00:09:59,880 --> 00:10:09,870
+I shall make you the richest, wisest, and most powerful of kings. Now, stick out your hand.
+
+117
+00:10:09,870 --> 00:10:11,070
+Ah!
+
+118
+00:10:11,070 --> 00:10:18,360
+All you must do is accept this ring, and your wishes shall be granted.
+
+119
+00:10:18,360 --> 00:10:22,180
+-Um—
+-Now, put on the ring!
+
+120
+00:10:22,180 --> 00:10:24,720
+Or what, are you afraid?
+
+121
+00:10:24,720 --> 00:10:25,640
+No...
+
+122
+00:10:34,560 --> 00:10:41,710
+Perfect. Now, your dreams will now become your reality.
+
+123
+00:10:41,710 --> 00:10:52,440
+In return... Once the time is right, your most precious thing will become mine.
+
+124
+00:10:52,440 --> 00:10:53,770
+!!
+
+125
+00:10:53,770 --> 00:10:57,190
+Hahahahahaha...
+
+126
+00:10:57,190 --> 00:11:05,180
+You've just entered a blood pact with me, Gizafeal!
+
+127
+00:11:05,180 --> 00:11:08,540
+HAHAHAHAHA!
+
+128
+00:11:08,540 --> 00:11:10,180
+AHHHH!!!
+
+129
+00:11:31,710 --> 00:11:40,860
+A few months passed since then. As promised, King Lewis's luck turned around,
+
+130
+00:11:40,860 --> 00:11:46,010
+and the country seemed on the road to recovery.
+
+131
+00:11:47,880 --> 00:11:49,330
+However...
+
+132
+00:11:55,700 --> 00:11:57,330
+You called for me?
+
+133
+00:11:57,330 --> 00:12:02,380
+Ah, minister! I've been waiting. I seek your counsel about our current lands.
+
+134
+00:12:02,380 --> 00:12:03,720
+Alright...
+
+135
+00:12:03,720 --> 00:12:10,750
+Look at this map. If we wish to extend the highway to Nautilus, we'll have to cut through the Pixian Forest.
+
+136
+00:12:10,750 --> 00:12:15,930
+While we're there, why don't we just clear the whole forest and turn it into farmland?
+
+137
+00:12:15,930 --> 00:12:19,380
+But sir, that's there the pixies and elves live—
+
+138
+00:12:19,380 --> 00:12:25,680
+What can we do? A prosperous nation needs a powerful economy and military.
+
+139
+00:12:25,680 --> 00:12:28,650
+We can have all of that with this highway.
+
+140
+00:12:28,650 --> 00:12:29,500
+But—
+
+141
+00:12:29,500 --> 00:12:32,450
+How much manpower would this take, minister?
+
+142
+00:12:32,450 --> 00:12:36,350
+My liege, I'm sure you're very much aware,
+
+143
+00:12:36,350 --> 00:12:42,560
+but the people are exhausted from repeated war and hardships. Any more would be—
+
+144
+00:12:42,560 --> 00:12:47,680
+It's for the nation! If it falls, the people fall with it.
+
+145
+00:12:47,680 --> 00:12:48,890
+But...!
+
+146
+00:12:48,890 --> 00:12:58,170
+Haven't my policies led to our victory at war and the rapid growth of our economy?
+
+147
+00:12:58,170 --> 00:13:01,340
+Are you saying I'm wrong?
+
+148
+00:13:01,340 --> 00:13:04,700
+Your happiness does not equal the people's happiness!
+
+149
+00:13:04,700 --> 00:13:10,780
+Please think of those who lost loved ones to war, or those struggling under heavy taxes!
+
+150
+00:13:10,780 --> 00:13:14,580
+Aren't my people just that? MY people?
+
+151
+00:13:14,580 --> 00:13:20,020
+Your highness! Please refrain from speaking like that!!
+
+152
+00:13:20,020 --> 00:13:23,490
+-You'll turn the people against—
+-That's enough!
+
+153
+00:13:23,490 --> 00:13:27,470
+It was a waste of time talking to my foolish minister.
+
+154
+00:13:27,470 --> 00:13:30,080
+-Rethink this.
+-Stand down.
+
+155
+00:13:32,700 --> 00:13:36,030
+My lady, it's time to prepare for the banquet.
+
+156
+00:13:38,000 --> 00:13:45,440
+Another banquet... Luxurious banquets nearly every night can't possibly be a good thing.
+
+157
+00:13:45,440 --> 00:13:47,810
+Come on, don't say that.
+
+158
+00:13:47,810 --> 00:13:54,510
+These beautiful clothes and delicacies are being paid for by the people's taxes!
+
+159
+00:13:54,510 --> 00:13:58,410
+The king will be upset if you don't show up in your finest.
+
+160
+00:14:00,250 --> 00:14:08,780
+Lewis has really changed... This jewel he gave me was something plundered from our neighboring country!
+
+161
+00:14:08,780 --> 00:14:11,300
+I can feel the blood on it...
+
+162
+00:14:11,300 --> 00:14:15,780
+Please, try not to see only the bad in everything.
+
+163
+00:14:15,780 --> 00:14:20,170
+Let me open the window so we can relax with some fresh air.
+
+164
+00:14:22,700 --> 00:14:23,960
+What?
+
+165
+00:14:23,960 --> 00:14:25,900
+Are you the queen?
+
+166
+00:14:25,900 --> 00:14:28,920
+Huh? A pixie?
+
+167
+00:14:28,920 --> 00:14:31,170
+Yup, my name's Fara.
+
+168
+00:14:31,170 --> 00:14:32,660
+Why are you here?
+
+169
+00:14:32,660 --> 00:14:37,640
+The forest where we all live is being chopped down. Please, do something!
+
+170
+00:14:37,640 --> 00:14:40,940
+What? The Pixian Forest?
+
+171
+00:14:40,940 --> 00:14:44,810
+Yes! Another section was just leveled today!
+
+172
+00:14:44,810 --> 00:14:47,840
+...I had no idea...
+
+173
+00:14:47,840 --> 00:14:50,520
+The king's just said progress is going smoothly.
+
+174
+00:14:50,520 --> 00:14:53,700
+Destroying the forest is "progress"!?
+
+175
+00:14:53,700 --> 00:14:55,080
+That's not what—
+
+176
+00:14:55,080 --> 00:15:00,290
+I'll try talking with the king. Though, I don't know if he'll listen...
+
+177
+00:15:00,290 --> 00:15:03,230
+The lush forests don't belong to just one group!
+
+178
+00:15:03,230 --> 00:15:10,010
+Even humans will fall to ruin if they keep cutting down the trees! Make sure the king knows that!!
+
+179
+00:15:23,280 --> 00:15:25,090
+Jenatos.
+
+180
+00:15:26,270 --> 00:15:27,820
+Lord Gizafeal...
+
+181
+00:15:27,820 --> 00:15:31,680
+Rejoice, for the fruit has ripened.
+
+182
+00:15:31,680 --> 00:15:34,060
+W-what do you mean?
+
+183
+00:15:34,060 --> 00:15:40,670
+You must be tired of standing watch on these cold walls.
+
+184
+00:15:40,670 --> 00:15:41,890
+Right...
+
+185
+00:15:41,890 --> 00:15:46,450
+You're the knight captain, yet you're treated like dirt.
+
+186
+00:15:46,450 --> 00:15:53,470
+Meanwhile, the royal family sleeps warm and cozy in the luxury of the castle.
+
+187
+00:15:53,470 --> 00:15:54,730
+Yeah...
+
+188
+00:15:54,730 --> 00:16:01,050
+Was it not the soldiers who won the war?
+
+189
+00:16:01,050 --> 00:16:03,550
+Are you not frustrated?
+
+190
+00:16:03,550 --> 00:16:05,840
+A... a little...
+
+191
+00:16:05,840 --> 00:16:10,510
+They're currently indulging in the finest of liquor.
+
+192
+00:16:10,510 --> 00:16:13,800
+Don't worry, the people will rally behind you.
+
+193
+00:16:13,800 --> 00:16:16,320
+Kill King Lewis.
+
+194
+00:16:16,320 --> 00:16:19,080
+Then become the king yourself!
+
+195
+00:16:19,080 --> 00:16:20,880
+Ah...
+
+196
+00:16:24,990 --> 00:16:29,000
+Dear, I wish to ask you about the Pixian Forest.
+
+197
+00:16:29,000 --> 00:16:37,930
+Ahh, the forest we're building the highway through. With that road built, access to the harbor will be much easier.
+
+198
+00:16:37,930 --> 00:16:39,470
+Please, don't—
+
+199
+00:16:39,470 --> 00:16:46,100
+Not just the road either! With all that lumber, we can craft ships and use the cleared land for crops.
+
+200
+00:16:46,100 --> 00:16:50,910
+Oh, we should build a workshop there too to make weapons, and—
+
+201
+00:16:50,910 --> 00:16:54,880
+Please, reconsider this plan!
+
+202
+00:16:54,880 --> 00:16:58,400
+That's the home of the pixies and the elves!
+
+203
+00:16:58,400 --> 00:17:05,050
+That forest... No, all the forests, mountains, and rivers all belong to me!
+
+204
+00:17:05,050 --> 00:17:12,350
+Hmm, I wonder if the pixies or the elves could be put to work for the benefit of the country...
+
+205
+00:17:12,350 --> 00:17:13,650
+That's—
+
+206
+00:17:13,650 --> 00:17:16,910
+Just leave all the political matters to me, okay?
+
+207
+00:17:16,910 --> 00:17:24,090
+Just relax and enjoy being adorned in the finest clothes and gems the world has to offer!
+
+208
+00:17:24,090 --> 00:17:28,970
+I do not enjoy that at all...
+
+209
+00:17:28,970 --> 00:17:30,590
+Marina...
+
+210
+00:17:30,590 --> 00:17:34,670
+Your highness! The knight captain has urgent business to report.
+
+211
+00:17:34,670 --> 00:17:41,380
+What a boorish man, interrupting this gathering. Oh well, let him in.
+
+212
+00:17:43,490 --> 00:17:47,230
+What's the emergency, Jenatos?
+
+213
+00:17:47,230 --> 00:17:52,470
+Your highness. Your crown seems to have lost some of its luster.
+
+214
+00:17:52,470 --> 00:17:55,850
+...what are you talking about?
+
+215
+00:17:55,850 --> 00:18:04,280
+It must feel good gazing down upon the world from your lofty throne.
+
+216
+00:18:04,280 --> 00:18:06,480
+Jenatos?
+
+217
+00:18:06,480 --> 00:18:11,580
+Ash has sullied the shine from your crown.
+
+218
+00:18:11,580 --> 00:18:13,580
+Let me clean it by taking your life!!
+
+219
+00:18:17,720 --> 00:18:19,320
+What are you doing!?
+
+220
+00:18:24,350 --> 00:18:27,180
+Stop! Lower your sword at once, Jenatos!!
+
+221
+00:18:27,180 --> 00:18:30,150
+I'LL HACK AWAY THE ASH FROM THE CROWN!!!
+
+222
+00:18:30,150 --> 00:18:32,420
+GUARDS! GUARDS!!!
+
+223
+00:18:34,860 --> 00:18:36,600
+SEIZE HIM!
+
+224
+00:18:38,960 --> 00:18:42,440
+LET ME GO! I HAVE TO CLEAR THE ASH!!!
+
+225
+00:18:42,440 --> 00:18:45,160
+OVERWHELM HIM AND TAKE HIM AWAY!!!
+
+226
+00:18:45,640 --> 00:18:49,130
+UNHAND ME!!! I'M THE RIGHTFUL KING!!!
+
+227
+00:18:50,490 --> 00:18:57,990
+REMEMBER, YOU'RE IN THE PALM OF GIZAFEAL'S HAND! HE'LL BE COMING FOR YOU NEXT!!!
+
+228
+00:19:02,720 --> 00:19:04,590
+Are you hurt, your highness!?
+
+229
+00:19:04,590 --> 00:19:06,920
+I-I'm fine...
+
+230
+00:19:06,920 --> 00:19:09,330
+What happened to Jenatos!?
+
+231
+00:19:09,330 --> 00:19:16,620
+I don't know, but he won't see the light of day again after that.
+
+232
+00:19:16,620 --> 00:19:20,680
+How dreadful. His wife even has a child on the way...
+
+233
+00:19:20,680 --> 00:19:24,680
+They'll grow up knowing they had a worthless father.
+
+234
+00:19:24,680 --> 00:19:28,940
+Who is that Gizafeal that Jenatos mentioned?
+
+235
+00:19:28,940 --> 00:19:34,250
+It's nothing. Just the vile rubbish of a man lost in his own darkness.
+
+236
+00:19:46,250 --> 00:19:50,230
+What are you doing sulking in a place like this, dear?
+
+237
+00:19:50,230 --> 00:19:55,110
+Does what happened with Jenatos still bother you?
+
+238
+00:19:55,110 --> 00:20:03,920
+That's not it... Say, Marina. What would you say my most precious thing in the world is?
+
+239
+00:20:03,920 --> 00:20:07,950
+How could I possibly know that better than yourself?
+
+240
+00:20:07,950 --> 00:20:14,430
+Fair. In that case, what's the most important thing to you?
+
+241
+00:20:14,430 --> 00:20:20,830
+I have many things. You, my dear. My own life, perhaps.
+
+242
+00:20:20,830 --> 00:20:28,060
+Maybe it'll be our child when they're born. My parents are precious to me too.
+
+243
+00:20:28,060 --> 00:20:33,500
+I see. All things you can't purchase with wealth, huh.
+
+244
+00:20:33,500 --> 00:20:41,580
+Of course. You couldn't obtain any of those things with power alone, perhaps not even with wisdom.
+
+245
+00:20:43,800 --> 00:20:47,260
+What is it, dear?
+
+246
+00:20:47,260 --> 00:20:53,410
+Marina. I'm... thinking of traveling to Hermit's Island.
+
+247
+00:20:53,410 --> 00:20:58,900
+Hermit's Island? What for?
+
+248
+00:20:58,900 --> 00:21:04,120
+They say a skilled diviner lives there. I wish to seek his advice.
+
+249
+00:21:12,490 --> 00:21:16,890
+Well, he should live inside that cave over there, but—
+
+250
+00:21:16,890 --> 00:21:23,080
+Got it. I'll be heading there alone. You can return to the ship, minister.
+
+251
+00:21:23,080 --> 00:21:25,600
+Alright... Be careful.
+
+252
+00:21:37,490 --> 00:21:39,260
+Bats!?
+
+253
+00:21:39,260 --> 00:21:42,430
+I've been waiting for you.
+
+254
+00:21:42,430 --> 00:21:47,340
+You wished to hear of your future self, did you not?
+
+255
+00:21:47,340 --> 00:21:49,980
+You knew I was coming?
+
+256
+00:21:49,980 --> 00:21:56,760
+The holy mirror here always reflects what it needs to.
+
+257
+00:21:56,760 --> 00:22:00,510
+Is it true you can read the future?
+
+258
+00:22:00,510 --> 00:22:10,030
+Do you wish to find out? But please remember; the future may not hold the happiness you seek.
+
+259
+00:22:10,030 --> 00:22:14,920
+All people will die one day. That won't phase me.
+
+260
+00:22:14,920 --> 00:22:18,800
+I speak of the method of your death, not the death itself.
+
+261
+00:22:18,800 --> 00:22:22,010
+I fear nothing. Let me hear it.
+
+262
+00:22:22,010 --> 00:22:25,990
+Then, give me your hand. ...oh my.
+
+263
+00:22:25,990 --> 00:22:26,840
+What?
+
+264
+00:22:26,840 --> 00:22:35,070
+You bear a burdensome ring. It would best be parted with.
+
+265
+00:22:35,070 --> 00:22:44,160
+I... can't remove it. It's like it has become one with my flesh.
+
+266
+00:22:44,160 --> 00:22:45,340
+I see.
+
+267
+00:22:45,340 --> 00:22:48,630
+Do you know what this ring is?
+
+268
+00:22:48,630 --> 00:22:52,330
+No, I... I'm making too much of it.
+
+269
+00:22:52,330 --> 00:22:57,660
+Now, place your hands upon the mirror's pedestal.
+
+270
+00:22:57,660 --> 00:22:59,920
+-Like this?
+-Yes.
+
+271
+00:22:59,920 --> 00:23:05,150
+Now, the time spirits will bubble forth from the mirror's depths.
+
+272
+00:23:10,090 --> 00:23:11,940
+What do you see?
+
+273
+00:23:11,940 --> 00:23:17,210
+I see treasure. The king and the queen. And...
+
+274
+00:23:17,210 --> 00:23:18,470
+And?
+
+275
+00:23:18,470 --> 00:23:22,200
+A young child, just born.
+
+276
+00:23:22,200 --> 00:23:25,030
+Are they a boy? A girl?
+
+277
+00:23:25,030 --> 00:23:33,130
+I can't see yet. I see them crawling around. Ah, they're a healthy boy!
+
+278
+00:23:33,130 --> 00:23:36,490
+I see, a boy!
+
+279
+00:23:36,490 --> 00:23:44,190
+He grows up into a fine lad, no, a splendid man. ...oh no.
+
+280
+00:23:44,190 --> 00:23:46,380
+W-what?
+
+281
+00:23:46,380 --> 00:23:48,380
+He...
+
+282
+00:23:51,020 --> 00:23:55,940
+That's it. The mirror has clouded over.
+
+283
+00:23:55,940 --> 00:24:01,420
+What happened? What happens to me in the end!?
+
+284
+00:24:01,420 --> 00:24:05,680
+...you would be better off not knowing.
+
+285
+00:24:05,680 --> 00:24:08,750
+Do I die of disease? In battle?
+
+286
+00:24:08,750 --> 00:24:10,330
+Much worse...
+
+287
+00:24:10,330 --> 00:24:14,200
+I grow tired of this! Just tell me already!!
+
+288
+00:24:14,200 --> 00:24:19,780
+You fall to the ground... at the hands of your own son.
+
+289
+00:24:19,780 --> 00:24:24,800
+My son... kills me? Are you sure?
+
+290
+00:24:24,800 --> 00:24:26,110
+I'm afraid so.
+
+291
+00:24:26,110 --> 00:24:29,120
+This mirror must be spitting lies!
+
+292
+00:24:29,120 --> 00:24:34,360
+It is possible, I suppose. Though it has never lied before now.
+
+293
+00:24:34,360 --> 00:24:38,100
+Is there no changing it? My destiny?
+
+294
+00:24:38,100 --> 00:24:44,010
+I... do not know of such a way.
+
+295
+00:24:44,010 --> 00:24:46,090
+How could this be...?
+
+296
+00:24:54,860 --> 00:25:00,890
+With a heavy heart, the king returned to Heinrogue.
+
+297
+00:25:03,080 --> 00:25:11,960
+The terrible prophecy from the diviner repeated in his head over and over.
+
+298
+00:25:16,830 --> 00:25:21,560
+You fall to the ground... at the hands of your own son.
+
+299
+00:25:22,040 --> 00:25:24,600
+What troubles you, my lord?
+
+300
+00:25:24,600 --> 00:25:26,730
+It's nothing.
+
+301
+00:25:26,730 --> 00:25:29,090
+Did you learn anything from the diviner?
+
+302
+00:25:29,090 --> 00:25:30,580
+Nothing important.
+
+303
+00:25:30,580 --> 00:25:33,800
+Whatever you heard, don't let it bother you.
+
+304
+00:25:33,800 --> 00:25:35,800
+I know...
+
+305
+00:25:42,140 --> 00:25:45,580
+Do you think he'll be back tonight, Julia?
+
+306
+00:25:45,580 --> 00:25:53,160
+I'm sure he will be. We received early word from a messenger about his imminent arrival.
+
+307
+00:25:53,160 --> 00:25:56,030
+Thank goodness... Oh!
+
+308
+00:25:56,030 --> 00:25:57,580
+What's wrong?
+
+309
+00:25:57,580 --> 00:26:00,010
+The baby kicked!
+
+310
+00:26:00,010 --> 00:26:05,930
+Let me see... Oh, there it is! It really won't be much longer now!
+
+311
+00:26:05,930 --> 00:26:11,050
+Oh, I'm so excited! Will it be a boy? Or a girl?
+
+312
+00:26:11,050 --> 00:26:14,370
+I can't wait! I'm sure the king will be excited as well!
+
+313
+00:26:14,370 --> 00:26:17,800
+Definitely! Ahh, I don't want to wait any longer!
+
+314
+00:26:18,400 --> 00:26:22,560
+The king has arrived!
+
+315
+00:26:22,560 --> 00:26:24,890
+See, he's here!
+
+316
+00:26:27,740 --> 00:26:34,540
+Julia, what do you make of those two stars near the horizon?
+
+317
+00:26:34,540 --> 00:26:38,910
+Hmm... I can't say I've seen those stars before.
+
+318
+00:26:38,910 --> 00:26:42,730
+It's like they're twins nestling close to each other.
+
+319
+00:26:42,730 --> 00:26:45,210
+They are twin stars, after all, my lady.
+
+320
+00:26:48,840 --> 00:26:50,330
+Marina!
+
+321
+00:26:50,330 --> 00:26:52,020
+Dear!
+
+322
+00:26:52,020 --> 00:26:53,150
+I'm home.
+
+323
+00:26:53,150 --> 00:26:54,850
+Welcome home, your highness.
+
+324
+00:26:54,850 --> 00:26:57,440
+Thanks and good work, Julia.
+
+325
+00:26:57,440 --> 00:27:00,140
+How were your travels?
+
+326
+00:27:00,140 --> 00:27:03,440
+Peaceful and uneventful, couldn't have been better.
+
+327
+00:27:03,440 --> 00:27:09,290
+That's wonderful! So your task at Hermit's Island is finished?
+
+328
+00:27:09,290 --> 00:27:11,400
+Hmm? A-ahh...
+
+329
+00:27:11,400 --> 00:27:14,180
+I'll have to hear all about it later.
+
+330
+00:27:14,180 --> 00:27:22,350
+No, it really wasn't worth talking about. It was a waste of effort, going that far.
+
+331
+00:27:22,350 --> 00:27:24,400
+That's too bad...
+
+332
+00:27:24,400 --> 00:27:27,310
+How are you feeling, Marina?
+
+333
+00:27:27,310 --> 00:27:29,840
+Oh, very well!
+
+334
+00:27:29,840 --> 00:27:34,150
+Your highness, the child inside of her kicked just a minute ago!
+
+335
+00:27:34,150 --> 00:27:35,790
+I-I see.
+
+336
+00:27:35,790 --> 00:27:40,460
+They're a very lively child. If it's a boy, he'll become a strong—
+
+337
+00:27:40,460 --> 00:27:45,390
+Sorry, I wish to sleep early tonight. Has the bed been prepared?
+
+338
+00:27:45,390 --> 00:27:47,820
+Yes...
+
+339
+00:27:47,820 --> 00:27:49,170
+Dear...
+
+340
+00:27:53,860 --> 00:28:02,460
+Not long after, the queen gave birth to a healthy boy.
+
+341
+00:28:07,360 --> 00:28:12,000
+Announcing the crown prince!!
+
+342
+00:28:18,990 --> 00:28:29,880
+Mysteriously, another child was born at the same hour in a house close to the castle.
+
+343
+00:28:39,820 --> 00:28:43,960
+I've brought dinner, my lady.
+
+344
+00:28:43,960 --> 00:28:46,250
+I don't have an appetite.
+
+345
+00:28:46,250 --> 00:28:55,600
+You need to eat something! We'll get you back to health soon to match the lively child you made.
+
+346
+00:28:55,600 --> 00:29:03,500
+Mhmm. At this rate, however, I'll have to miss out on the naming ceremony.
+
+347
+00:29:03,500 --> 00:29:08,830
+I see. Oh, I heard an interesting rumor recently.
+
+348
+00:29:08,830 --> 00:29:15,880
+Another child was born at the same time as the crown prince. Any guesses as to whom?
+
+349
+00:29:15,880 --> 00:29:18,350
+Who could it be...?
+
+350
+00:29:18,350 --> 00:29:19,770
+It was Jenatos' child.
+
+351
+00:29:22,680 --> 00:29:25,040
+Jenatos'?
+
+352
+00:29:25,040 --> 00:29:29,430
+It's a girl they named Sarina.
+
+353
+00:29:29,430 --> 00:29:38,190
+Sarina... It must be hard on the mother raising her alone after what her father did...
+
+354
+00:29:38,190 --> 00:29:43,920
+Yes. It sounds like they're worried about how to raise Sarina alone.
+
+355
+00:29:43,920 --> 00:29:46,300
+I'd imagine...
+
+356
+00:29:46,300 --> 00:29:51,570
+Do you think the king might be convinced to pardon him?
+
+357
+00:29:51,570 --> 00:29:57,410
+Not likely. Insurrection is a terrible crime.
+
+358
+00:29:57,410 --> 00:29:59,310
+I suppose it is...
+
+359
+00:30:01,770 --> 00:30:07,470
+Julia, would you mind opening the window? I'd love some fresh air.
+
+360
+00:30:07,470 --> 00:30:08,250
+Of course.
+
+361
+00:30:14,320 --> 00:30:21,180
+Ah, fall has clearly arrived. Another week, and the leaves will start falling.
+
+362
+00:30:21,180 --> 00:30:27,840
+Mhmm. Oh, those twin stars seem to have disappeared.
+
+363
+00:30:27,840 --> 00:30:41,370
+They were so bright even. It's almost as if the two stars themselves fell down and became your child and Sarina.
+
+364
+00:30:41,370 --> 00:30:46,700
+It seems like that... It really does...
+
+365
+00:30:51,780 --> 00:30:57,370
+This child is meant to kill me?
+
+366
+00:30:57,370 --> 00:30:59,370
+That's just...
+
+367
+00:31:01,060 --> 00:31:07,200
+If I just twist his neck... he'd die right here.
+
+368
+00:31:09,260 --> 00:31:13,610
+If I simply drop him from this window...
+
+369
+00:31:13,610 --> 00:31:17,600
+...would my fate change?
+
+370
+00:31:19,390 --> 00:31:24,590
+There, there. Forgive me. This will all be over soon.
+
+371
+00:31:29,760 --> 00:31:34,010
+What are you doing, king!? Stop it! Stop it!!
+
+372
+00:31:34,010 --> 00:31:35,690
+When did a pixie get here!?
+
+373
+00:31:35,690 --> 00:31:38,350
+My name's Fara, remember it this time!
+
+374
+00:31:38,350 --> 00:31:40,160
+Don't get in my way!
+
+375
+00:31:40,160 --> 00:31:45,850
+What were you doing with the child? You weren't going to throw him out the window, were you!?
+
+376
+00:31:45,850 --> 00:31:47,850
+N-no...
+
+377
+00:31:47,850 --> 00:31:55,050
+I don't know what's going on, but it's never okay to raise your hand against a defenseless child!
+
+378
+00:31:56,880 --> 00:32:04,540
+And isn't this your kid? You're not having an affair with your wife, are you?
+
+379
+00:32:04,540 --> 00:32:06,760
+Quiet you. How could you say that!?
+
+380
+00:32:06,760 --> 00:32:12,280
+Haha, sorry, sorry~ Let's just take a step back, okay?
+
+381
+00:32:12,280 --> 00:32:14,280
+This child will one day—
+
+382
+00:32:14,280 --> 00:32:19,270
+What a healthy boy! He'll be quite the rascal when he's older.
+
+383
+00:32:19,270 --> 00:32:27,740
+What did I come here for again... Oh right! I came here to say goodbye.
+
+384
+00:32:27,740 --> 00:32:29,560
+Goodbye?
+
+385
+00:32:29,560 --> 00:32:38,560
+The forest we live in is gone now. The pixies and the elves have all left you.
+
+386
+00:32:38,560 --> 00:32:46,410
+Many went to neighboring countries, others underground. I'm about to leave myself.
+
+387
+00:32:46,410 --> 00:32:49,350
+You won't be back?
+
+388
+00:32:49,350 --> 00:32:59,440
+Who knows? But king, try not to make any more mistakes, okay? For both the country and yourself.
+
+389
+00:32:59,440 --> 00:33:02,890
+And also, try to remember.
+
+390
+00:33:02,890 --> 00:33:04,640
+Remember what?
+
+391
+00:33:04,640 --> 00:33:11,960
+Drawing water with a clean bucket leaves the well clean, but a filthy bucket will poison the well forever. Bye now!
+
+392
+00:33:13,050 --> 00:33:13,960
+Ah...
+
+393
+00:33:16,990 --> 00:33:18,240
+Your highness?
+
+394
+00:33:18,240 --> 00:33:20,110
+Ah, Julia.
+
+395
+00:33:20,110 --> 00:33:23,990
+The minister wishes to go over tomorrow's naming ceremony with you.
+
+396
+00:33:23,990 --> 00:33:25,820
+Ah, got it...
+
+397
+00:33:25,820 --> 00:33:32,240
+Aww, aren't you glad your father held you up, you little prince~
+
+398
+00:33:32,240 --> 00:33:36,790
+He's in quite the good mood, isn't he?
+
+399
+00:33:36,790 --> 00:33:39,110
+He must love his father.
+
+400
+00:33:41,710 --> 00:33:44,030
+Your highness, I'll—
+
+401
+00:33:46,730 --> 00:33:57,850
+He really does look more and more like you by the day~ Maybe he'll grow larger and gaze down upon you!
+
+402
+00:33:57,850 --> 00:33:59,240
+A-ah...
+
+403
+00:33:59,240 --> 00:34:02,770
+I'm looking forward to the ceremony tomorrow, your highness.
+
+404
+00:34:02,770 --> 00:34:07,460
+What kind of a name do you think the Six Gods will bestow upon him?
+
+405
+00:34:07,460 --> 00:34:09,390
+Who knows.
+
+406
+00:34:09,390 --> 00:34:16,120
+He was born under the dragon, so I'm sure the Dragon God's disciple will give him a fine name.
+
+407
+00:34:16,770 --> 00:34:20,510
+Your highness! There you are!
+
+408
+00:34:20,510 --> 00:34:21,360
+Minister?
+
+409
+00:34:21,360 --> 00:34:23,820
+I'm being dragged around left and right!
+
+410
+00:34:23,820 --> 00:34:29,660
+I'm being asked about seating for tomorrow, and now the guests are starting to quarrel with each other! I can't keep up!
+
+411
+00:34:29,660 --> 00:34:31,990
+I got it, I'll be there shortly.
+
+412
+00:34:33,520 --> 00:34:38,460
+Well then, how does this sound for the seating of the visiting countries?
+
+413
+00:34:38,460 --> 00:34:40,460
+Good, no problems here.
+
+414
+00:34:40,460 --> 00:34:49,740
+Next for the non-humans guests. I'm not sure why, but there's been no response from the elves or the pixies.
+
+415
+00:34:49,740 --> 00:34:51,960
+They refused the invitation?
+
+416
+00:34:51,960 --> 00:34:56,680
+No... They seem to have disappeared.
+
+417
+00:34:56,680 --> 00:35:00,560
+Pay it no mind. It's no great loss.
+
+418
+00:35:00,560 --> 00:35:07,440
+But the ceremony where the elves and pixies of the kingdom come here has meaning and—
+
+419
+00:35:07,440 --> 00:35:11,180
+How can we invite who is not there?
+
+420
+00:35:11,180 --> 00:35:18,960
+On another note, there are rumors of goblins and hobgoblins growing in numbers throughout the kingdom.
+
+421
+00:35:18,960 --> 00:35:22,480
+We'll pick that topic up another time. Continue.
+
+422
+00:35:22,480 --> 00:35:26,430
+The disciples of the Six Gods have accepted the invites.
+
+423
+00:35:26,430 --> 00:35:34,250
+That is to say, the Ocean God, the Mountain God, the Hero God, the Fertility Goddess, the Spirit God, and the Dragon God.
+
+424
+00:35:34,250 --> 00:35:35,160
+I see.
+
+425
+00:35:35,160 --> 00:35:39,950
+With them here, I'm sure the naming ceremony will go smoothly.
+
+426
+00:35:39,950 --> 00:35:42,930
+Then there's no problem, right?
+
+427
+00:35:42,930 --> 00:35:51,840
+One more thing: as the royal family, you may decide if you wish to extend an invite to the Seventh God.
+
+428
+00:35:51,840 --> 00:35:53,730
+Seventh God?
+
+429
+00:35:53,730 --> 00:35:58,530
+The one who rules the Underworld, Gizafeal.
+
+430
+00:36:00,070 --> 00:36:01,970
+What's wrong, your highness?
+
+431
+00:36:01,970 --> 00:36:06,040
+Gizafeal is the one who rules over death?
+
+432
+00:36:06,040 --> 00:36:08,150
+That is correct.
+
+433
+00:36:08,150 --> 00:36:13,100
+He's... There's no need to invite someone like that to the naming ceremony.
+
+434
+00:36:13,100 --> 00:36:15,030
+Understood.
+
+435
+00:36:15,030 --> 00:36:17,920
+Have any of my ancestors ever invited him in the past?
+
+436
+00:36:17,920 --> 00:36:22,170
+Nothing I've seen in our records going back several hundred years, but in older times—
+
+437
+00:36:22,170 --> 00:36:23,260
+Why!?
+
+438
+00:36:23,260 --> 00:36:30,250
+Gizafeal, while ruling over the dead, also rules over pleasure and fortune.
+
+439
+00:36:30,250 --> 00:36:35,120
+I don't understand! How can he rule such opposites!?
+
+440
+00:36:35,120 --> 00:36:44,350
+I've been told that those blessed by him with fortune and pleasure must pay the price while they're still of this world.
+
+441
+00:36:44,350 --> 00:36:45,800
+What...!?
+
+442
+00:36:58,160 --> 00:37:00,280
+Are you the leader of the goblins?
+
+443
+00:37:00,280 --> 00:37:02,130
+What's it to you?
+
+444
+00:37:02,130 --> 00:37:03,790
+I'm King Lewis.
+
+445
+00:37:03,790 --> 00:37:11,170
+I beg for your forgiveness, your highness! What brings you to this place where the sun doesn't shine?
+
+446
+00:37:11,170 --> 00:37:12,700
+I request a favor.
+
+447
+00:37:12,700 --> 00:37:18,860
+We'd do anything for a king! Just, there's always—
+
+448
+00:37:18,860 --> 00:37:22,190
+A price, I know. Here.
+
+449
+00:37:23,770 --> 00:37:25,770
+If that's not enough, I'll bring more.
+
+450
+00:37:25,770 --> 00:37:31,660
+You must have something mighty important you need done! Hahaha!
+
+451
+00:37:31,660 --> 00:37:37,640
+I need to you kidnap a baby... and kill them.
+
+452
+00:37:37,640 --> 00:37:40,590
+Before it's too late.
+
+453
+00:37:57,210 --> 00:38:01,200
+Ambassador of the Hero God!
+
+454
+00:38:01,200 --> 00:38:05,270
+Ambassador of the Spirit God!
+
+455
+00:38:05,270 --> 00:38:08,670
+Ambassador of the Dragon God!
+
+456
+00:38:08,670 --> 00:38:11,320
+Ambassador of the Ocean God!
+
+457
+00:38:11,320 --> 00:38:15,240
+All the God's disciples seem to be arriving now.
+
+458
+00:38:15,920 --> 00:38:21,850
+You could be seeing the ceremony in person, you know...
+
+459
+00:38:21,850 --> 00:38:26,740
+There's no need to worry about me...
+
+460
+00:38:26,740 --> 00:38:28,900
+Are you okay, my lady!?
+
+461
+00:38:31,850 --> 00:38:42,540
+I'm sorry. Julia... Do you think I'll be able to see my child's first birthday...?
+
+462
+00:38:42,540 --> 00:38:52,560
+What are you saying? Of course you will! You'll see him grow into a fine adult and even more beyond that.
+
+463
+00:38:52,560 --> 00:38:55,740
+I... would love that...
+
+464
+00:38:59,340 --> 00:39:04,560
+Right about now, the ambassadors should be presenting their gifts.
+
+465
+00:39:09,130 --> 00:39:15,130
+May the prince grow into a man beautiful in both body and heart.
+
+466
+00:39:15,130 --> 00:39:22,110
+May the prince grow into a valiant hero who won't give up in the face of any hardship.
+
+467
+00:39:22,110 --> 00:39:28,710
+May the prince grow into a wise man with both deep knowledge and insight.
+
+468
+00:39:32,810 --> 00:39:34,430
+What's going on!?
+
+469
+00:39:39,270 --> 00:39:43,740
+What, did you forget to invite me?
+
+470
+00:39:43,740 --> 00:39:44,920
+Ahh!
+
+471
+00:39:44,920 --> 00:39:52,810
+Not only did you fail to invite me, but you thought you could receive my kindness without paying the price.
+
+472
+00:39:59,040 --> 00:40:00,690
+Halt!
+
+473
+00:40:00,690 --> 00:40:02,860
+You won't lay a finger on him!
+
+474
+00:40:02,860 --> 00:40:10,730
+Hmm. I'm not here for the child. I'm here to collect on the king's debt.
+
+475
+00:40:10,730 --> 00:40:12,370
+W-what do you mean—
+
+476
+00:40:12,370 --> 00:40:19,750
+Don't play me for a fool! What was mine still resides on your finger.
+
+477
+00:40:19,750 --> 00:40:22,160
+Is this true, your highness!?
+
+478
+00:40:23,370 --> 00:40:31,650
+You underestimated me, boy. You made a promise, so now I'm here.
+
+479
+00:40:34,220 --> 00:40:43,190
+For the sin of trying to dishonor Gizafeal, this country will once again fall into misfortune!
+
+480
+00:40:43,190 --> 00:40:44,140
+Oh no!
+
+481
+00:40:44,140 --> 00:40:45,940
+AHH! AHHH!!!
+
+482
+00:40:45,940 --> 00:40:54,040
+And now, I will claim your most precious possession.
+
+483
+00:40:54,040 --> 00:40:59,310
+I've watched you closely to the very end, but I've decided.
+
+484
+00:40:59,310 --> 00:41:04,280
+I'll be taking "you" yourself!
+
+485
+00:41:09,600 --> 00:41:10,960
+HELP ME!!!
+
+486
+00:41:10,960 --> 00:41:12,730
+YOUR HIGHNESS!!!
+
+487
+00:41:12,730 --> 00:41:15,450
+HELP ME!!! AHHH!!!!!
+
+488
+00:41:15,450 --> 00:41:17,950
+HAHAHAHA!!!
+
+489
+00:41:17,950 --> 00:41:23,070
+You shall be mine for all eternity!!
+
+490
+00:41:24,460 --> 00:41:29,390
+-ABOVE! ABOVE! PROTECT HIS HIGHNESS AT ALL COSTS!!!
+-YES, SIR!
+
+491
+00:41:30,940 --> 00:41:32,460
+Minister, please!
+
+492
+00:41:32,460 --> 00:41:33,740
+What!?
+
+493
+00:41:33,740 --> 00:41:42,670
+What has fallen into Gizafeal's hands is forever lost. But, we still have the gift from my protector, the Dragon God.
+
+494
+00:41:42,670 --> 00:41:44,480
+Which is?
+
+495
+00:41:44,480 --> 00:41:48,400
+It'll weaken Gizafeal's curse, if just a bit.
+
+496
+00:41:50,960 --> 00:41:58,010
+The prince will grow up and become the dawn upon this kingdom fallen to twilight.
+
+497
+00:41:58,010 --> 00:42:04,420
+Here and now, the Dragon God bestows upon the prince the name "Kai."
+
+498
+00:42:25,800 --> 00:42:27,020
+The king...!
+
+499
+00:42:27,020 --> 00:42:29,900
+They're searching the castle for him now!
+
+500
+00:42:29,900 --> 00:42:31,460
+How could this be...?
+
+501
+00:42:31,460 --> 00:42:36,960
+But, at least the prince is safe and was given the name Kai.
+
+502
+00:42:36,960 --> 00:42:38,450
+Kai...
+
+503
+00:42:38,450 --> 00:42:45,330
+Look, he's even got a pendant from the Dragon God as proof of the naming ceremony.
+
+504
+00:42:46,940 --> 00:42:49,230
+What was that sound?
+
+505
+00:42:49,230 --> 00:42:50,250
+I'm not sure...
+
+506
+00:42:53,060 --> 00:42:56,030
+There, that's the child! Take him away!
+
+507
+00:42:56,030 --> 00:42:57,440
+Stop it!
+
+508
+00:42:57,440 --> 00:42:59,440
+OUTTA THE WAY!
+
+509
+00:42:59,440 --> 00:43:01,280
+Julia!
+
+510
+00:43:01,280 --> 00:43:02,520
+HURRY IT UP!
+
+511
+00:43:02,520 --> 00:43:05,010
+Please stop! What are you doing with him!?
+
+512
+00:43:05,010 --> 00:43:07,850
+Kill him, of course! Hahaha!
+
+513
+00:43:07,850 --> 00:43:14,000
+Please, stop! Give Kai back to me! KAI!!!
+
+514
+00:43:20,700 --> 00:43:33,420
+Before long, the queen fell into despair after losing both her husband and child, and soon took her last breath.
+
+515
+00:43:33,420 --> 00:43:40,080
+Both the king and the prince have not been seen since.
+
+516
+00:43:40,080 --> 00:43:56,350
+Due to Gizafeal's curse, the country fell to waste. One by one, the people abandoned the castle as it fell to ruin.
+
+517
+00:44:02,280 --> 00:44:09,190
+Then, 17 years came and went.
+
+518
+00:44:12,190 --> 00:44:14,770
+Alright, I'm off, mom!
+
+519
+00:44:14,770 --> 00:44:17,760
+Are you really going off on a journey, Sarina?
+
+520
+00:44:17,760 --> 00:44:21,190
+Yeah. I'm off to find my own happiness.
+
+521
+00:44:21,190 --> 00:44:26,860
+Remember, don't tell anyone about your father. Especially any noblemen!
+
+522
+00:44:26,860 --> 00:44:33,210
+I know, I know. I hate those stuffy people, so I don't plan on talking to any either way.
+
+523
+00:44:33,210 --> 00:44:37,970
+Oh look, those two twin stars are back on the dawn's horizon again!
+
+524
+00:44:37,970 --> 00:44:39,650
+Back again?
+
+525
+00:44:39,650 --> 00:44:43,100
+They appeared once before on the day you were born.
+
+526
+00:44:43,100 --> 00:44:49,900
+Hmm. It must be a good sign then. Well, I'm off, mom!
+
+527
+00:44:49,900 --> 00:44:52,360
+Stay safe, Sarina.
+
+528
+00:44:52,360 --> 00:44:56,000
+I'll come back for sure, then we can live an easier life.
+
+529
+00:45:07,830 --> 00:45:18,490
+Hmm~ Should I take a slow journey this year, or laze around the forest some more? I can't decide~
+
+530
+00:45:18,490 --> 00:45:30,370
+Oh, I should see how the Pixian Forest is doing! Maybe not, I'm sure it's still in terrible shape... No, I should see it anyway!
+
+531
+00:45:46,270 --> 00:45:54,160
+Hey, Kai? Are we going to be stuck here mining until the day we die?
+
+532
+00:45:54,160 --> 00:46:00,220
+Don't lose hope, Michelia! I'm sure one day, we'll have our freedom.
+
+533
+00:46:00,220 --> 00:46:02,600
+How far away will that day be...?
+
+534
+00:46:02,600 --> 00:46:11,270
+I've actually been thinking of how to get away. I'll make sure we all escape from this slave camp, Michelia.
+
+535
+00:46:11,270 --> 00:46:12,030
+Really!?
+
+536
+00:46:12,030 --> 00:46:19,410
+Of course. And, I really want to know about my parents and homeland.
+
+537
+00:46:19,410 --> 00:46:22,730
+Kai, look! Something's glowing!
+
+538
+00:46:22,730 --> 00:46:25,480
+Woah, what is that?
+
+539
+00:46:31,420 --> 00:46:35,960
+I've never seen anything like this...
+
+540
+00:46:35,960 --> 00:46:39,520
+It gives me the creeps... We should throw it away.
+
+541
+00:46:39,520 --> 00:46:46,390
+Let's not. This feels like it could be the harbinger for what's to come.
+
+542
+00:46:52,970 --> 00:47:02,280
+The curtain falls on one story, just as it rises on a new tale.
+
+543
+00:47:02,280 --> 00:47:08,110
+A tale of young warriors on a boundless adventure.
+
+544
+00:47:08,110 --> 00:47:17,160
+A new page now turns in the story of Ancient Roman.
+
+545
+00:47:56,470 --> 00:47:59,430
+Drama cast:
+
+546
+00:47:59,430 --> 00:48:06,050
+Lewis Orpheus and Kai Orpheus: Naozumi Takahashi (高橋 直純)
+
+547
+00:48:06,050 --> 00:48:12,540
+Marina Orpheus and Michelia Almayer: Manami Nakayama (中山 真奈美)
+
+548
+00:48:12,540 --> 00:48:19,140
+Maid Julia, Sarina Jenatos: Saki Nakajima (中島 沙樹)
+
+549
+00:48:19,140 --> 00:48:23,740
+Fara: Mariko Morimoto (森本 まり子)
+
+550
+00:48:23,740 --> 00:48:28,260
+Minister: Tetsuo Sakaguchi (坂口 哲夫)
+
+551
+00:48:28,260 --> 00:48:37,160
+Blore Jenatos, Guards, and Hero God Ambassador: Tomohisa Asō (松丸 卓也)
+
+552
+00:48:37,160 --> 00:48:42,270
+Gizafeal: Ryūzaburō Ōtomo (大友 龍三郎)
+
+553
+00:48:42,270 --> 00:48:48,770
+Hermit, Goblin, and Dragon God Ambassador: Shōgo Sakamoto (not that one)
+
+554
+00:48:48,770 --> 00:48:53,870
+Spirit God Ambassador: Tomoko Fujino (藤野 とも子)
+
+555
+00:48:53,870 --> 00:48:58,520
+Goddess Ambassador: Kanako Okada (岡田 加奈子)
+
+556
+00:48:58,520 --> 00:49:04,250
+Narration and Sarina's Mother: Ikuko Tatsu (達 依久子)
+
+557
+00:49:04,250 --> 00:49:13,680
+Thank you for listening!
+(TL Note: Never ask me for anything ever again.)
