@@ -231,11 +231,11 @@ AudioSubtitlePart sub32_parts[] = {
 	{(const char*)partdata_32, 9, 0, 25, -42, 88},
 };
 
-//\XAEFF\SHOP.XA;1 | 24 | Won't you buy this… for me~?
-const u8 partdata_33[] = {87, 111, 110, 39, 116, 32, 121, 111, 117, 32, 98, 117, 121, 32, 116, 104, 105, 115, 63, 32, 102, 111, 114, 32, 109, 101, 126, 63};
+//\XAEFF\SHOP.XA;1 | 24 | Won't you buy this... for me~?
+const u8 partdata_33[] = {87, 111, 110, 39, 116, 32, 121, 111, 117, 32, 98, 117, 121, 32, 116, 104, 105, 115, 46, 46, 46, 32, 102, 111, 114, 32, 109, 101, 126, 63};
 
 AudioSubtitlePart sub33_parts[] = {
-	{(const char*)partdata_33, 28, 2, 39, -42, 88},
+	{(const char*)partdata_33, 30, 2, 39, -42, 88},
 };
 
 //\XAEFF\SHOP.XA;1 | 25 | I would just LOVE this, you know~
@@ -273,11 +273,11 @@ AudioSubtitlePart sub38_parts[] = {
 	{(const char*)partdata_38, 36, 3, 34, -42, 88},
 };
 
-//\XAEFF\SHOP.XA;1 | 3 | Stingy…
-const u8 partdata_39[] = {83, 116, 105, 110, 103, 121, 63};
+//\XAEFF\SHOP.XA;1 | 3 | Stingy...
+const u8 partdata_39[] = {83, 116, 105, 110, 103, 121, 46, 46, 46};
 
 AudioSubtitlePart sub39_parts[] = {
-	{(const char*)partdata_39, 7, 2, 10, -42, 88},
+	{(const char*)partdata_39, 9, 2, 10, -42, 88},
 };
 
 //\XAEFF\SHOP.XA;1 | 30 | Haha, lucky day!
@@ -315,11 +315,11 @@ AudioSubtitlePart sub44_parts[] = {
 	{(const char*)partdata_44, 17, 4, 20, -42, 88},
 };
 
-//\XAEFF\SHOP.XA;1 | 7 | Urgh, miser…
-const u8 partdata_45[] = {85, 114, 103, 104, 44, 32, 109, 105, 115, 101, 114, 63};
+//\XAEFF\SHOP.XA;1 | 7 | Urgh, miser...
+const u8 partdata_45[] = {85, 114, 103, 104, 44, 32, 109, 105, 115, 101, 114, 46, 46, 46};
 
 AudioSubtitlePart sub45_parts[] = {
-	{(const char*)partdata_45, 12, 3, 26, -42, 88},
+	{(const char*)partdata_45, 14, 3, 26, -42, 88},
 };
 
 //\XAEFF\SHOP.XA;1 | 8 | Come on, buy this for me.

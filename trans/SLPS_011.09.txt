@@ -1602,13 +1602,6 @@ Mermaid Statue L
 <$00>
 
 
-// Ptr: 00002805
-#WRITE(PTR, $00082CCC)
-//É‚ñ‚¬‚å‚Ì‚¼‚¤‚k
-Meremaid Statue L
-<$00>
-
-
 // Ptr: 00002818
 #WRITE(PTR, $0008157C)
 //‚¢‚ñ‚ª‚Ì‚Â‚¦
