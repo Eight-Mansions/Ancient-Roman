@@ -278,6 +278,12 @@ msgid ""
 "サリナ：ふーん、おもしろそうじゃないの。"
 msgstr "Sarina: Hmm, sounds like its worth a look-see."
 
+#: 001E00E8
+msgctxt "00000096"
+msgid ""
+"カイ、いってみようよ。"
+msgstr "Kai, let's check it out."
+
 #: 001E011B
 msgctxt "00000044"
 msgid ""
