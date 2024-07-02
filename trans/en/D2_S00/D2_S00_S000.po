@@ -1,4 +1,20 @@
-﻿#: 00000209
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 13:33-0400\n"
+"PO-Revision-Date: 2024-07-02 17:33+0000\n"
+"Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
+"d2_s00_s000/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#: 00000209
 msgctxt "00000000"
 msgid ""
 "カイ：ワァ！"
@@ -1322,13 +1338,15 @@ msgstr "If we can harness the darkness within it, then we are one step closer"
 msgctxt "00000221"
 msgid ""
 "また一歩ちかづくというもの。"
-msgstr "to the day we demons rule over this land!"
+msgstr "to the day the Demon Lord rules over this land!"
 
 #: 002F1A73
 msgctxt "00000222"
 msgid ""
 "これで、魔王様のロミアス様に対する信頼も、あの女以上に・・・"
-msgstr "With that, Demon Lord Romias, I have fulfilled my duty. As for that girl..."
+msgstr ""
+"With that, Lord Romias, right hand of the Demon Lord, I have fulfilled my "
+"duty. A better job than that girl would have, I might add..."
 
 #: 002F1AB3
 msgctxt "00000223"
@@ -1340,7 +1358,9 @@ msgstr "Romias: Don't stick your nose where it doesn't belong."
 msgctxt "00000224"
 msgid ""
 "私にこびているヒマがあるのなら、早くその玉をほり出すことだ。"
-msgstr "If you've time to waste currying my favor, then you've time to spend digging up the gem."
+msgstr ""
+"If you've time to waste currying my favor, then you've time to spend digging "
+"out that gem."
 
 #: 002F1B19
 msgctxt "00000225"
@@ -1557,4 +1577,3 @@ msgctxt "00000260"
 msgid ""
 "からっぽだった。"
 msgstr "It's empty."
-
