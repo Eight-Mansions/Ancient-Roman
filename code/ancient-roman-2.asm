@@ -848,7 +848,8 @@ audioSubitlesGraphicsList:
 .org 0x8009D858
 	.db 0x08
 
-
+.org 0x8009d840
+	.db 0x10 	; Enemy names in battle
 
 
 .org 0x8009D60C ; Item cost x position
