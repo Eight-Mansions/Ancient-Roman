@@ -267,6 +267,41 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic, const u8 letterW
 			u32 idx = letter - 0x8148;
 			width = letterWidths[idx];
 		}
+		else if (letter == 0x817B) // +
+		{
+			if (defaultWidth == 15)
+				width = 10;
+			else
+				width = 8;
+		}
+		else if (letter == 0x817C) // -
+		{
+			if (defaultWidth == 15)
+				width = 9;
+			else
+				width = 8;
+		}
+		else if (letter == 0x817E) // Å~
+		{
+			if (defaultWidth == 15)
+				width = 12;
+			else
+				width = 8;
+		}
+		else if (letter == 0x8180) // ÅÄ
+		{
+			if (defaultWidth == 15)
+				width = 11;
+			else
+				width = 8;
+		}
+		else if (letter == 0x8181) // =
+		{
+			if (defaultWidth == 15)
+				width = 10;
+			else
+				width = 8;
+		}
 		else
 		{			
 			width = defaultWidth;
