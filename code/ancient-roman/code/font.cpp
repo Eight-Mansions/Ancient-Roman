@@ -302,6 +302,10 @@ u16 GetSentenceWidth(const char* text, u32 curIdx, u8* graphic, const u8 letterW
 			else
 				width = 8;
 		}
+		else if (letter == 0x8145)
+		{
+			width = 3;
+		}
 		else
 		{			
 			width = defaultWidth;
