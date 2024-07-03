@@ -457,6 +457,9 @@ audioSubitlesGraphicsList:
 .org 0x8003dd94		; Update letter dest width
 	addiu v1, s2, 0x0F
 	
+.org 0x8003df24
+	addiu v1, s1, 0x0F	; Update letter dest width for map
+	
 .org 0x8003e200		; Update letter source width
 	ori a3, v1, 0x0F
 	
