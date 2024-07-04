@@ -2247,7 +2247,7 @@ Magic
 // Ptr: 00004728
 #WRITE(PTR, $0008DC44)
 //‚f‚o
-gahme
+Gahme
 <$00>
 
 
@@ -2261,7 +2261,7 @@ Next
 // Ptr: 0000473C
 #WRITE(PTR, $0008DC14)
 //‚d‚w‚o
-EXP
+Exp
 <$00>
 
 

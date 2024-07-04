@@ -1280,7 +1280,7 @@ msgstr "Magic"
 
 msgctxt "00000498"
 msgid "ＧＰ"
-msgstr "gahme"
+msgstr "Gahme"
 
 msgctxt "00000499"
 msgid "ＮＥＸＴ"
@@ -1288,7 +1288,7 @@ msgstr "Next"
 
 msgctxt "00000500"
 msgid "ＥＸＰ"
-msgstr "EXP"
+msgstr "Exp"
 
 msgctxt "00000501"
 msgid "ＬＥＶＥＬ"

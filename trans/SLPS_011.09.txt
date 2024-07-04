@@ -2247,7 +2247,7 @@ Magic
 // Ptr: 00004728
 #WRITE(PTR, $0008DAFC)
 //‚f‚o
-gahme
+Gahme
 <$00>
 
 
@@ -2261,7 +2261,7 @@ Next
 // Ptr: 0000473C
 #WRITE(PTR, $0008DACC)
 //‚d‚w‚o
-EXP
+Exp
 <$00>
 
 
@@ -3009,3 +3009,9 @@ gahme
 //ƒAƒ“ƒVƒƒƒ“ƒgƒƒ}ƒ“
 Ancient Roman
 <$00><$00>
+
+//P: 0000279E
+#JMP($0000279E)
+//EXP
+Exp
+<$00>

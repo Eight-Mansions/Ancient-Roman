@@ -923,6 +923,17 @@ audioSubitlesGraphicsList:
 .org 0x8009d83c
 	.db 0x10
 	
+.org 0x8009D3F4 ; Level stats x
+	.db 0x1a
+.org 0x8009D40C	; EXP stats x
+	.db 0x20
+.org 0x8009D424 ; Next stats x
+	.db 0x1B
+.org 0x8009D43C ; gahme stats x
+	.db 0x16
+.org 0x8009D440 ; gahme stats
+	.db 0x05
+	
 	
 .org 0x8009d6e4 ; Removed character when selling/buying
 	.db 0x00
