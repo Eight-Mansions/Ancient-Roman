@@ -1740,17 +1740,35 @@ msgid ""
 "けいび兵についてはそこの宿屋前の看板を読むといいよ。"
 msgstr "You can read all about it on the notice board in front of the inn."
 
+#: 001E0409
+msgctxt "000002866"
+msgid ""
+"サナトリの村からこのために出てきたんだ。"
+msgstr "I came all the way from Sanitas Village to become a knight."
+
 #: 001E045E
 msgctxt "00000287"
 msgid ""
 "１・２、１・２、がんばらないと"
 msgstr "One-two! One-two! Time to live my life anew!"
 
+#: 001E048C
+msgctxt "000002877"
+msgid ""
+"彼女に答えるためにもがんばらないと"
+msgstr "Three-four! Three-four! Cause there's a girl I'm training for!"
+
 #: 001E04C5
 msgctxt "00000288"
 msgid ""
 "男：今、けいび兵のテストに向けて、くんれん中なんだ。"
 msgstr "Man: Right now they're training for the guard soldier exam."
+
+#: 001E0506
+msgctxt "000002888"
+msgid ""
+"男：サナトリの村からこのために出てきたんだ。"
+msgstr "Man: I came all the way from Sanitas Village to become a knight."
 
 #: 001E055E
 msgctxt "00000289"
@@ -1765,6 +1783,12 @@ msgid ""
 msgstr ""
 "Man: You said you want to take the test too? It's not something to take on a "
 "whim!"
+
+#: 001E05F7
+msgctxt "000002900"
+msgid ""
+"男：サナトリの村からこのために出てきたんだ。"
+msgstr "Man: I came all the way from Sanitas Village to become a knight."
 
 #: 001E0627
 msgctxt "00000291"
