@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-19 00:46-0400\n"
-"PO-Revision-Date: 2024-05-27 21:30+0000\n"
+"PO-Revision-Date: 2024-07-07 00:45+0000\n"
 "Last-Translator: SnowyAria <ArcaneAria@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/ancient-roman/"
 "d1_s00_s001/en/>\n"
@@ -1846,13 +1846,13 @@ msgstr "I'm working here as a soldier these days."
 msgctxt "00000334"
 msgid ""
 "どうにかやって行けるだけのめどがたったら"
-msgstr "(line S001, 334)"
+msgstr "Only when I've trained hard enough to finally clear the trails"
 
 #: 003BFA59
 msgctxt "00000302"
 msgid ""
 "彼女を迎えにいくんだ。"
-msgstr "This way, I can see my girlfriend."
+msgstr "will I let myself see my girlfriend again."
 
 #: 003BFA8E
 msgctxt "00000303"
@@ -1888,13 +1888,13 @@ msgstr "Man: I'm working here as a soldier these days."
 msgctxt "00000335"
 msgid ""
 "どうにかやって行けるだけのめどがたったら"
-msgstr "(line S001, 335)"
+msgstr "Only when I've trained hard enough to finally clear the trails"
 
 #: 003BFBD6
 msgctxt "00000308"
 msgid ""
 "彼女を迎えにいくんだ。"
-msgstr "Although, I'm also here to be closer to my girlfriend."
+msgstr "will I let myself see my girlfriend again."
 
 #: 003BFC03
 msgctxt "00000309"
