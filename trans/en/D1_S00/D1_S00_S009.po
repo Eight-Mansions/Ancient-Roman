@@ -443,7 +443,7 @@ msgstr "But, yes, I may have said too much."
 msgctxt "00000070"
 msgid ""
 "バーク：分かりゃいいんだよ。分かりゃ。"
-msgstr "Burke: As long as you understand, let's let bygones by bygones."
+msgstr "Burke: As long as you understand, let's let bygones be bygones."
 
 #: 00224656
 msgctxt "00000071"

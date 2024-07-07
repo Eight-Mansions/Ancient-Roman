@@ -58,7 +58,7 @@ msgstr "Kai: We want to get into the Goddess Shrine. Do you know how to enter?"
 msgctxt "00000007"
 msgid ""
 "何だ？女神の力でも手に入れようってのか？"
-msgstr "Huh? Are you're trying to claim the Goddess's divine power?"
+msgstr "Huh? Are you're trying to claim the Goddess' divine power?"
 
 #: 00156A26
 msgctxt "00000008"
@@ -168,7 +168,7 @@ msgstr "Kai: We want to get into the Goddess Shrine. Do you know how to enter?"
 msgctxt "00000025"
 msgid ""
 "何だ？女神の力でも手に入れようってのか？"
-msgstr "Huh? Are you're trying to claim the Goddess's divine power?"
+msgstr "Huh? Are you're trying to claim the Goddess' divine power?"
 
 #: 00156E56
 msgctxt "00000026"

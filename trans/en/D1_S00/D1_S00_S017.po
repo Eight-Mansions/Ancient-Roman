@@ -755,7 +755,7 @@ msgstr "But, the door to the temple is sealed."
 msgctxt "00000122"
 msgid ""
 "その封印の解き方は女神様の神殿の番人が知っている。"
-msgstr "The watchman of the Goddess's Temple knows how to get inside."
+msgstr "The watchman of the Goddess' Temple knows how to get inside."
 
 #: 00224A6F
 msgctxt "00000123"
@@ -924,7 +924,7 @@ msgstr "Something about using a rod from the Geass Tower"
 msgctxt "00000150"
 msgid ""
 "女神とともにピカの浅瀬に行けばあえるそうだぜ。"
-msgstr "and the Goddess's power at Pika Shoal."
+msgstr "and the Goddess' power at Pika Shoal."
 
 #: 00225083
 msgctxt "00000151"

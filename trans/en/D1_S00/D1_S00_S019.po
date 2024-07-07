@@ -445,7 +445,7 @@ msgctxt "00000070"
 msgid ""
 "バーク：そうか。ミシリアちゃんが女神の力か・・・。ぴったりだな。"
 msgstr ""
-"Burke: Wait, Michelia gets the Goddess's divine power? Talk about fitting!"
+"Burke: Wait, Michelia gets the Goddess' divine power? Talk about fitting!"
 
 #: 003BF3C4
 msgctxt "00000071"
@@ -500,7 +500,7 @@ msgctxt "00000079"
 msgid ""
 "バロア：女神の力も手に入ったし、次の神様の所にでも行きますか。"
 msgstr ""
-"Baroa: Now that we've got the Goddess's divine power, let's move onto the "
+"Baroa: Now that we've got the Goddess' divine power, let's move onto the "
 "next god!"
 
 #: 003BF694
@@ -513,4 +513,4 @@ msgstr "Kai: Right. Let's get going."
 msgctxt "00000081"
 msgid ""
 "女神の力を手に入れた"
-msgstr "You got the Goddess's divine power!"
+msgstr "You got the Goddess' divine power!"

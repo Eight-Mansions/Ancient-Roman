@@ -228,7 +228,7 @@ msgstr "My name's Sarina."
 msgctxt "00000035"
 msgid ""
 "ここの親玉をぶっとばしてやるって、ここまで来たんだけど"
-msgstr "I came here to kick this boss's ass."
+msgstr "I came here to kick this boss' ass."
 
 #: 00157242
 msgctxt "00000036"
