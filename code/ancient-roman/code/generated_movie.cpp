@@ -251,11 +251,11 @@ const u8 partdata_57[] = {22, 33, 63, 48, 33, 40, 76, 26, 43, 30, 76, 50, 40, 46
 //\ZA0\MEETPIXY.STR;1 | I'm the one asking the questions here!
 const u8 partdata_58[] = {8, 62, 38, 76, 45, 33, 30, 76, 40, 39, 30, 76, 26, 44, 36, 34, 39, 32, 76, 45, 33, 30, 76, 42, 46, 30, 44, 45, 34, 40, 39, 44, 76, 33, 30, 43, 30, 54};
 
-//\ZA0\MEETPIXY.STR;1 | Well, we're on a journey to find this
-const u8 partdata_59[] = {22, 30, 37, 37, 53, 76, 48, 30, 62, 43, 30, 76, 40, 39, 76, 26, 76, 35, 40, 46, 43, 39, 30, 50, 76, 45, 40, 76, 31, 34, 39, 29, 76, 45, 33, 34, 44};
+//\ZA0\MEETPIXY.STR;1 | Well, we've been on a journey to find
+const u8 partdata_59[] = {22, 30, 37, 37, 53, 76, 48, 30, 62, 47, 30, 76, 27, 30, 30, 39, 76, 40, 39, 76, 26, 76, 35, 40, 46, 43, 39, 30, 50, 76, 45, 40, 76, 31, 34, 39, 29};
 
-//\ZA0\MEETPIXY.STR;1 | girl's birthplace.
-const u8 partdata_60[] = {32, 34, 43, 37, 62, 44, 76, 27, 34, 43, 45, 33, 41, 37, 26, 28, 30, 52};
+//\ZA0\MEETPIXY.STR;1 | this girl's birthplace.
+const u8 partdata_60[] = {45, 33, 34, 44, 76, 32, 34, 43, 37, 62, 44, 76, 27, 34, 43, 45, 33, 41, 37, 26, 28, 30, 52};
 
 //\ZA0\MEETPIXY.STR;1 | That sounds fun! Let me come too!!
 const u8 partdata_61[] = {19, 33, 26, 45, 76, 44, 40, 46, 39, 29, 44, 76, 31, 46, 39, 54, 76, 11, 30, 45, 76, 38, 30, 76, 28, 40, 38, 30, 76, 45, 40, 40, 54, 54};
@@ -283,7 +283,7 @@ MovieSubtitlePart sub7_parts[] = {
 	{(const char*)partdata_57, 15, 255, 134, 169, 96, 190, 96, 190},
 	{(const char*)partdata_58, 38, 255, 204, 241, 8, 190, 8, 190},
 	{(const char*)partdata_59, 37, 255, 312, 382, 8, 190, 8, 190},
-	{(const char*)partdata_60, 18, 255, 312, 382, 88, 206, 88, 206},
+	{(const char*)partdata_60, 23, 255, 312, 382, 64, 206, 64, 206},
 	{(const char*)partdata_61, 34, 255, 386, 426, 24, 190, 24, 190},
 	{(const char*)partdata_62, 7, 255, 426, 445, 128, 190, 128, 190},
 	{(const char*)partdata_63, 26, 255, 449, 475, 56, 190, 56, 190},

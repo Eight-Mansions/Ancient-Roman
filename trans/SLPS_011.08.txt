@@ -2852,7 +2852,7 @@ No usable spells available.
 #WLB(PTR, $0003E6E8)
 #WHB(PTR, $0003E6E9)
 //ÇæÇÍÇ…Ç¬Ç©Ç¢Ç‹Ç∑Ç©ÅH
-Cast on who?
+Cast on whom?
 <$00>
 
 //P: 000042B8
@@ -2881,7 +2881,7 @@ No usable items available.
 #WLB(PTR, $0003EA78)
 #WHB(PTR, $0003EA79)
 //ÇæÇÍÇ…Ç¬Ç©Ç¢Ç‹Ç∑Ç©ÅH
-Use on who?
+Use on whom?
 <$00>
 
 //P: 00004320
