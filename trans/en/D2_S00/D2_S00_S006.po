@@ -696,7 +696,7 @@ msgstr "Michelia: Kai..."
 msgctxt "00000113"
 msgid ""
 "・・・大丈夫よ、きっと。"
-msgstr "...it'll be fine, I'm sure of it."
+msgstr "...she'll be fine, I'm sure of it."
 
 #: 0019C1FD
 msgctxt "00000114"
