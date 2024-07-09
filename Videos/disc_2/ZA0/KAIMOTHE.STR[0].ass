@@ -10,11 +10,13 @@ PlayResX: 320
 PlayResY: 240
 
 [Aegisub Project Garbage]
-Audio File: C:/Users/yagen/OneDrive/Games/Translations/Ancient Roman/Videos/disc_2/ZA0/KAIMOTHE.STR[0].avi
-Video File: C:/Users/yagen/OneDrive/Games/Translations/Ancient Roman/Videos/disc_2/ZA0/KAIMOTHE.STR[0].avi
+Audio File: KAIMOTHE.STR[0].avi
+Video File: KAIMOTHE.STR[0].avi
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Position: 35
+Video Zoom Percent: 2.000000
+Active Line: 5
+Video Position: 1098
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,10 +24,10 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.30,0:00:04.37,Default,,0,0,0,,This is the Underworld, 
+Dialogue: 0,0:00:02.30,0:00:04.37,Default,,0,0,0,,This is the Underworld,
 Dialogue: 0,0:00:04.37,0:00:07.37,Default,,0,0,0,,where the living may receive guidance from the dead.
 Dialogue: 0,0:00:07.37,0:00:10.37,Default,,0,0,0,,M-mother!
 Dialogue: 0,0:00:12.77,0:00:15.31,Default,,0,0,0,,My son... is that really you!?
-Dialogue: 0,0:01:06.03,0:01:13.24,Default,,0,0,0,,The souls of those you loved here are trapped in the darkness.
-Dialogue: 0,0:01:13.24,0:01:17.51,Default,,0,0,0,,Please, free them so they can rest once again.
+Dialogue: 0,0:01:06.03,0:01:13.24,Default,,0,0,0,,The soul of your dear father is trapped in the darkness.
+Dialogue: 0,0:01:13.24,0:01:17.51,Default,,0,0,0,,Please, free him so he can rest once again.
 Dialogue: 0,0:01:19.11,0:01:24.11,Default,,0,0,0,,You really called me mother... Thank you...
