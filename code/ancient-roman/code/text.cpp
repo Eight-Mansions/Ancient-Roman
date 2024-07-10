@@ -35,6 +35,12 @@ void LoadText(char* dest, char* src)
 		textBoxInfo[2] = 2;
 	}
 
+	if (lineCnt == 4)
+	{
+		if (textBoxInfo[0] == 0xA8 && textBoxInfo[1] == 0x13) // Regular dialogue
+			textBoxInfo[0] = 0x90;
+	}
+
 	CopyString(dest, src);
 }
 
