@@ -17,7 +17,7 @@ music, laggy sound, and nonsense plot) step at a time!
 ### Windows ###
 1. Select any number of .bin files you wish to patch.
 2. Drag and drop them on the file called "Drag and drop BIN(s) on me.bat"
-3. If a valid disc image is found, patched .bin/.cue files will be created
+3. If a valid disc image is found, patched .bin/.cue file(s) will be created
    in this folder.
 
 ### Other OS ###
@@ -26,13 +26,25 @@ OS-specific .xdelta patcher should work okay. We've switched from xdelta3
 to xdelta to help with compatability. The .xdelta files are located in the
 "patch_data" folder. Apply the appropriate patch to each disc.
 
-## Guide and Item/Spell Tables ##
-PLAYTESTERS! I will be including finished guides here and on gamefaqs, but
-for now, I'd like to have them editable on my wiki for any contributions
-or fixes you find along the way.
+## Drama CD ##
+The drama CD has been translated and uploaded to YouTube. It's a prequel
+that tells of the fall of Heinrogue under Kai's father. You can listen to it
+either before or after playing the game. If you want to have any idea
+who the villain is, then give it a listen. If you want to experience
+Ancient Roman completely blind, then listen to it afterwards.
 
-Walkthrough  - https://snowy.coffee/doku/doku.php?id=guides:ancient_roman
-Items/Spells - https://snowy.coffee/doku/doku.php?id=tl:roman:items_translated
+https://youtu.be/o35N0M41fGc
+
+Make sure to turn on captions!
+
+## Guide and Item/Spell Tables ##
+I wrote up a walkthrough with as many of the optional events that I could find.
+There's also a list of tables for items, spells, and equipment since the game
+doesn't tell you what a lot of things do.
+
+You can either:
+    - View the included PDF files.
+    - View the guides on GameFAQs (once they're approved, might be a little bit).
 
 ## FAQ ##
 - The music sounds broken, is my emulator—
@@ -44,9 +56,6 @@ what it would sound like to live in a claw machine.
 Every sound effect is normalized to 10 full seconds, meaning it has to transfer
 it off disc, into RAM, play it, then boot it out every time. No we will not
 fix this.
-
-- Will you translate the drama CD?
-https://youtu.be/o35N0M41fGc - Turn on captions.
 
 - Why People Becoming Monsters Disease?
 I could have gone for something like Monsterfication Disease, but that would
@@ -60,15 +69,15 @@ accurate to their really wordy name. Also it's funny.
   going to bed so you don't miss the *mushroom scene*.
 - The famous speedrun trick in this game is using the "Sleep Axe," an incredibly
   broken weapon for Burke that, on hit, will put the enemy to sleep 100% of the
-  time, even bosses. It's so broken, any boss that's a singular enemy can never
+  time, even bosses. It's so broken that any boss that's a singular enemy can never
   wake up. I only recommend using it if you're stuck or just want to see the
   story, as it makes the game trivial and you miss out on a lot of the spells
   and challenges.
 - Don't abuse this, but you can actually just, like, not encounter enemies if
   you hold O. Yeah. Don't get too underleveled because of it!
 - Speed Cocca raises your ability to act first, meaning you can Sleep Axe faster.
-- Talk to the chickens in Heinrogue.
-- Many side content triggers are really confusing, involving random backtracking
+- Talk to the chickens in New Heinrogue.
+- A lot of side content triggers are really confusing, involving random backtracking
   or only coming back to places at certain times. For instance, you can only
   access the door in the back of the digging camp while McLeod is with you,
   since only he can figure out that door. I tried to outline as many as I could
