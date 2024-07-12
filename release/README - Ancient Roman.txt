@@ -82,6 +82,7 @@ accurate to their really wordy name. Also it's funny.
   access the door in the back of the digging camp while McLeod is with you,
   since only he can figure out that door. I tried to outline as many as I could
   find in the guide.
+- You can rotate the camera in battle using the shoulder buttons.
 
 ## Credits ##
 SnowyAria - Translation
@@ -89,6 +90,7 @@ EsperKnight - Hacking
 Cargodin - Editing
 
 ## Special Thanks ##
+Mr. Nobody - Opening video rendering
 Hilltop - Hacking support and jolly friend
 TurnipTheBeet, blueskyrunner, Yuvi, Telephone_Ghost, Shentok - The IKUZE Test Squad
 YoshistarBaxter - Transparentified the logo~
