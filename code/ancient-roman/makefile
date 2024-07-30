@@ -76,6 +76,7 @@ ALL_OBJ = $(ALL_SRC)
 # subtitle objects                   #
 #====================================#
 $(RELMODE)/%.obj: code/%.cpp
+	if not exist "DEBUG" mkdir "DEBUG"
 	$(CC) $(CCOPTIONS) $< -o $@
 
 all: inform $(RELMODE)/${OUTFILE}.cpe
